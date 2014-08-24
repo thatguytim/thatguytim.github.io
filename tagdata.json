@@ -6977,20 +6977,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Pale Communion", 
-        "rating": 7.75, 
-        "genres": [
-            "Rock", 
-            "Progressive", 
-            "Prog"
-        ], 
-        "stddev": 1.8349897819878997, 
-        "artist": "Opeth", 
-        "codec": "mp3", 
-        "nsongs": 8.0, 
-        "nrated": 8.0
-    }, 
-    {
         "album": "Japanese Hospitality", 
         "rating": 8.2, 
         "genres": [
@@ -13214,6 +13200,19 @@
         "nrated": 8.0
     }, 
     {
+        "album": "Rise, Vulcan Spectre", 
+        "rating": 8.375, 
+        "genres": [
+            "Metal", 
+            "Thrash"
+        ], 
+        "stddev": 1.1030851621701745, 
+        "artist": "Nekromantheon", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
         "album": "...And So It Begins", 
         "rating": 8.166666666666666, 
         "genres": [
@@ -19350,6 +19349,47 @@
         "codec": "flac", 
         "nsongs": 11.0, 
         "nrated": 11.0
+    }, 
+    {
+        "album": "Maximum Overload", 
+        "rating": 8.6, 
+        "genres": [
+            "Metal", 
+            "Power", 
+            "Shred"
+        ], 
+        "stddev": 1.0972693379476162, 
+        "artist": "DragonForce", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Something Wicked Comes", 
+        "rating": 8.1, 
+        "genres": [
+            "Rock", 
+            "Hair"
+        ], 
+        "stddev": 0.9214119599831554, 
+        "artist": "Billionaires Boys Club", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Pale Communion", 
+        "rating": 7.75, 
+        "genres": [
+            "Rock", 
+            "Progressive", 
+            "Prog"
+        ], 
+        "stddev": 1.8006075363609917, 
+        "artist": "Opeth", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
     }, 
     {
         "album": "Frozen Ghost", 
