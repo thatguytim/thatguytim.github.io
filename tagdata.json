@@ -5311,19 +5311,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Remotecontrolled Scythe", 
-        "rating": 8.333333333333334, 
-        "genres": [
-            "Metal", 
-            "Melodeath"
-        ], 
-        "stddev": 1.0482201257840669, 
-        "artist": "Enter My Silence", 
-        "codec": "mp3", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
         "album": "These Dreams: Heart's Greatest Hits", 
         "rating": 8.857142857142858, 
         "genres": [
@@ -6258,31 +6245,6 @@
         "codec": "flac", 
         "nsongs": 13.0, 
         "nrated": 13.0
-    }, 
-    {
-        "album": "Moments in Dreams", 
-        "rating": 8.272727272727273, 
-        "genres": [
-            "Electronic"
-        ], 
-        "stddev": 1.154158196261889, 
-        "artist": "Nikos Diamantopoulos", 
-        "codec": "mp3", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
-        "album": "Blue", 
-        "rating": 7.909090909090909, 
-        "genres": [
-            "Electronic", 
-            "House"
-        ], 
-        "stddev": 1.0905646839262664, 
-        "artist": "Nikos Diamantopoulos", 
-        "codec": "mp3", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
     }, 
     {
         "album": "Licht", 
@@ -7270,6 +7232,32 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
+    }, 
+    {
+        "album": "You Are What You Become", 
+        "rating": 7.846153846153846, 
+        "genres": [
+            "Electronic", 
+            "Electro"
+        ], 
+        "stddev": 1.165815629085308, 
+        "artist": "101", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "Shelter", 
+        "rating": 8.125, 
+        "genres": [
+            "Electronic", 
+            "House"
+        ], 
+        "stddev": 1.052341140030171, 
+        "artist": "Moir\u00e9", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
     }, 
     {
         "album": "Outside", 
@@ -9448,19 +9436,6 @@
         ], 
         "stddev": 1.0751744044572487, 
         "artist": "Holy Ghost!", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
-        "album": "The Devil You Know", 
-        "rating": 6.8, 
-        "genres": [
-            "Metal", 
-            "Traditional"
-        ], 
-        "stddev": 1.120714058089752, 
-        "artist": "Heaven & Hell", 
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
@@ -12189,20 +12164,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Dominion Of Darkness", 
-        "rating": 8.444444444444445, 
-        "genres": [
-            "Metal", 
-            "Thrash", 
-            "Satanic"
-        ], 
-        "stddev": 1.101190277579149, 
-        "artist": "Hellbringer", 
-        "codec": "mp3", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
         "album": "Weird Drift", 
         "rating": 7.75, 
         "genres": [
@@ -13211,6 +13172,60 @@
         "codec": "flac", 
         "nsongs": 8.0, 
         "nrated": 8.0
+    }, 
+    {
+        "album": "Hurry Up, We're Dreaming", 
+        "rating": 6.875, 
+        "genres": [
+            "Indie", 
+            "Rock", 
+            "Chillwave"
+        ], 
+        "stddev": 1.8913350939217513, 
+        "artist": "M83", 
+        "codec": "flac", 
+        "nsongs": 16.0, 
+        "nrated": 16.0
+    }, 
+    {
+        "album": "War And Pain", 
+        "rating": 8.0, 
+        "genres": [
+            "Thrash", 
+            "Metal"
+        ], 
+        "stddev": 1.0540925533894598, 
+        "artist": "Voivod", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "RRR\u00d6\u00d6\u00d6AAARRR", 
+        "rating": 7.777777777777778, 
+        "genres": [
+            "Metal", 
+            "Thrash"
+        ], 
+        "stddev": 1.1306916683313888, 
+        "artist": "Voivod", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Reload", 
+        "rating": 8.421052631578947, 
+        "genres": [
+            "Electronic", 
+            "Dub", 
+            "Techno"
+        ], 
+        "stddev": 1.037565308757626, 
+        "artist": "Decoside", 
+        "codec": "flac", 
+        "nsongs": 19.0, 
+        "nrated": 19.0
     }, 
     {
         "album": "...And So It Begins", 
@@ -14684,30 +14699,6 @@
         "nrated": 9.0
     }, 
     {
-        "album": "Shades Of A Blue Orphanage", 
-        "rating": 5.222222222222222, 
-        "genres": [
-            "Rock"
-        ], 
-        "stddev": 1.288867603059653, 
-        "artist": "Thin Lizzy", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
-        "album": "Thin Lizzy", 
-        "rating": 5.357142857142857, 
-        "genres": [
-            "Rock"
-        ], 
-        "stddev": 1.3116710904653963, 
-        "artist": "Thin Lizzy", 
-        "codec": "flac", 
-        "nsongs": 14.0, 
-        "nrated": 14.0
-    }, 
-    {
         "album": "Chinatown (2012 Deluxe Edition) (Disc 1)", 
         "rating": 8.444444444444445, 
         "genres": [
@@ -16062,19 +16053,6 @@
         "nrated": 9.0
     }, 
     {
-        "album": "Senior", 
-        "rating": 6.555555555555555, 
-        "genres": [
-            "Electronic", 
-            "Downtempo"
-        ], 
-        "stddev": 1.2920565587046229, 
-        "artist": "R\u00f6yksopp", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
         "album": "Long Way From Love", 
         "rating": 8.181818181818182, 
         "genres": [
@@ -16605,34 +16583,6 @@
         "codec": "flac", 
         "nsongs": 11.0, 
         "nrated": 11.0
-    }, 
-    {
-        "album": "Hurry Up, We're Dreaming (Disc Two)", 
-        "rating": 6.5, 
-        "genres": [
-            "Indie", 
-            "Chillwave", 
-            "Rock"
-        ], 
-        "stddev": 2.143303524935281, 
-        "artist": "M83", 
-        "codec": "flac", 
-        "nsongs": 8.0, 
-        "nrated": 8.0
-    }, 
-    {
-        "album": "Hurry Up, We're Dreaming (Disc One)", 
-        "rating": 7.25, 
-        "genres": [
-            "Indie", 
-            "Rock", 
-            "Chillwave"
-        ], 
-        "stddev": 1.7116329922036442, 
-        "artist": "M83", 
-        "codec": "flac", 
-        "nsongs": 8.0, 
-        "nrated": 8.0
     }, 
     {
         "album": "On Divine Winds", 
@@ -18711,35 +18661,6 @@
         "nrated": 5.0
     }, 
     {
-        "album": "Prisoner With A Key", 
-        "rating": 8.0, 
-        "genres": [
-            "Electronic", 
-            "House", 
-            "Deep", 
-            "Tech-House"
-        ], 
-        "stddev": 1.118033988749895, 
-        "artist": "Lukas Greenberg", 
-        "codec": "mp3", 
-        "nsongs": 8.0, 
-        "nrated": 8.0
-    }, 
-    {
-        "album": "Prisoner With A Key", 
-        "rating": 6.25, 
-        "genres": [
-            "Electronic", 
-            "House", 
-            "Soul"
-        ], 
-        "stddev": 1.709349291397168, 
-        "artist": "Lukas Greenberg", 
-        "codec": "mp3", 
-        "nsongs": 4.0, 
-        "nrated": 4.0
-    }, 
-    {
         "album": "Quiet Moments", 
         "rating": 8.0, 
         "genres": [
@@ -19119,20 +19040,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Portfolio", 
-        "rating": 8.083333333333334, 
-        "genres": [
-            "Electronic", 
-            "Drum & Bass", 
-            "Liquid"
-        ], 
-        "stddev": 1.1870735101578664, 
-        "artist": "Utah Jazz", 
-        "codec": "mp3", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
         "album": "Inside The Electric Circus", 
         "rating": 8.545454545454545, 
         "genres": [
@@ -19390,6 +19297,194 @@
         "codec": "flac", 
         "nsongs": 8.0, 
         "nrated": 8.0
+    }, 
+    {
+        "album": "At War With Satan (Castle Remaster)", 
+        "rating": 9.166666666666666, 
+        "genres": [
+            "Metal", 
+            "Speed", 
+            "Black"
+        ], 
+        "stddev": 1.5350835421831222, 
+        "artist": "Venom", 
+        "codec": "flac", 
+        "nsongs": 6.0, 
+        "nrated": 6.0
+    }, 
+    {
+        "album": "Graveyard", 
+        "rating": 8.0, 
+        "genres": [
+            "Stoner, Rock", 
+            "Hard", 
+            "Stoner Doom"
+        ], 
+        "stddev": 1.0540925533894598, 
+        "artist": "Graveyard", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Remotecontrolled Scythe", 
+        "rating": 8.333333333333334, 
+        "genres": [
+            "Metal", 
+            "Melodeath"
+        ], 
+        "stddev": 1.0482201257840669, 
+        "artist": "Enter My Silence", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Wounded Land", 
+        "rating": 7.888888888888889, 
+        "genres": [
+            "Rock", 
+            "Progressive"
+        ], 
+        "stddev": 1.1104936555974034, 
+        "artist": "Threshold", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Burst Into The Quiet", 
+        "rating": 8.125, 
+        "genres": [
+            "Metal", 
+            "Thrash"
+        ], 
+        "stddev": 1.052341140030171, 
+        "artist": "Game Over", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Cosmic Port", 
+        "rating": 7.375, 
+        "genres": [
+            "Electronic", 
+            "Downtempo"
+        ], 
+        "stddev": 1.7564056870495495, 
+        "artist": "Jens Buchert", 
+        "codec": "flac", 
+        "nsongs": 16.0, 
+        "nrated": 16.0
+    }, 
+    {
+        "album": "April", 
+        "rating": 7.083333333333333, 
+        "genres": [
+            "Alternative", 
+            "Rock", 
+            "Acoustic"
+        ], 
+        "stddev": 1.478824295275235, 
+        "artist": "VAST", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Fortschritt", 
+        "rating": 6.9, 
+        "genres": [
+            "Electronic", 
+            "Synthpop"
+        ], 
+        "stddev": 1.785777141750896, 
+        "artist": "Melotron", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Automatic", 
+        "rating": 8.222222222222221, 
+        "genres": [
+            "Electronic", 
+            "Futurepop"
+        ], 
+        "stddev": 1.5458249447932748, 
+        "artist": "VNV Nation", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "War Master", 
+        "rating": 9.2, 
+        "genres": [
+            "Metal", 
+            "Death"
+        ], 
+        "stddev": 1.1207140580897519, 
+        "artist": "Bolt Thrower", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Jazzmasters 7", 
+        "rating": 8.5, 
+        "genres": [
+            "Jazz", 
+            "Smooth"
+        ], 
+        "stddev": 1.1086778913041726, 
+        "artist": "Paul Hardcastle", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Prisoner With A Key", 
+        "rating": 8.0, 
+        "genres": [
+            "Electronic", 
+            "House", 
+            "Tech-House", 
+            "Deep"
+        ], 
+        "stddev": 1.224744871391589, 
+        "artist": "Lukas Greenberg", 
+        "codec": "mp3", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Prisoner With A Key", 
+        "rating": 6.25, 
+        "genres": [
+            "Electronic", 
+            "House", 
+            "Soul"
+        ], 
+        "stddev": 2.1028254801575903, 
+        "artist": "Lukas Greenberg", 
+        "codec": "mp3", 
+        "nsongs": 4.0, 
+        "nrated": 4.0
+    }, 
+    {
+        "album": "Senior", 
+        "rating": 6.555555555555555, 
+        "genres": [
+            "Electronic", 
+            "Downtempo"
+        ], 
+        "stddev": 1.2920565587046229, 
+        "artist": "R\u00f6yksopp", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
     }, 
     {
         "album": "Frozen Ghost", 
@@ -24692,6 +24787,19 @@
         "nrated": 10.0
     }, 
     {
+        "album": "In Though The Out Door", 
+        "rating": 7.428571428571429, 
+        "genres": [
+            "Rock", 
+            "Pop"
+        ], 
+        "stddev": 1.70062584946936, 
+        "artist": "Led Zeppelin", 
+        "codec": "flac", 
+        "nsongs": 7.0, 
+        "nrated": 7.0
+    }, 
+    {
         "album": "World Peace Is None Of Your Business", 
         "rating": 6.833333333333333, 
         "genres": [
@@ -24891,20 +24999,6 @@
         "codec": "flac", 
         "nsongs": 13.0, 
         "nrated": 13.0
-    }, 
-    {
-        "album": "When The Empire Falls", 
-        "rating": 8.6, 
-        "genres": [
-            "Metal", 
-            "Thrash", 
-            "Power"
-        ], 
-        "stddev": 1.201665510863984, 
-        "artist": "When The Empire Falls", 
-        "codec": "mp3", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
     }, 
     {
         "album": "Fight To Survive", 
@@ -25221,6 +25315,232 @@
         ], 
         "stddev": 1.887855926706273, 
         "artist": "Empire Of The Sun", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Portfolio", 
+        "rating": 8.083333333333334, 
+        "genres": [
+            "Electronic", 
+            "Drum & Bass", 
+            "Liquid"
+        ], 
+        "stddev": 1.1084168723738208, 
+        "artist": "Utah Jazz", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "76", 
+        "rating": 7.909090909090909, 
+        "genres": [
+            "Electronic", 
+            "Trance"
+        ], 
+        "stddev": 1.003749544462669, 
+        "artist": "Armin van Buuren", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Jesu", 
+        "rating": 8.25, 
+        "genres": [
+            "Post", 
+            "Metal"
+        ], 
+        "stddev": 1.4763764763772145, 
+        "artist": "Jesu", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Cereal Killer Soundtrack", 
+        "rating": 8.454545454545455, 
+        "genres": [
+            "Rock", 
+            "Metal", 
+            "Hard", 
+            "Comedy"
+        ], 
+        "stddev": 1.0193470310188197, 
+        "artist": "Green Jell\u00f6", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Drift Away", 
+        "rating": 7.625, 
+        "genres": [
+            "Electronic", 
+            "Drum & Bass"
+        ], 
+        "stddev": 1.2739885694149693, 
+        "artist": "Actraiser", 
+        "codec": "mp3", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Blue", 
+        "rating": 7.909090909090909, 
+        "genres": [
+            "Electronic", 
+            "House"
+        ], 
+        "stddev": 1.1638816890154877, 
+        "artist": "Nikos Diamantopoulos", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Moments in Dreams", 
+        "rating": 8.272727272727273, 
+        "genres": [
+            "Electronic"
+        ], 
+        "stddev": 1.0252265147084847, 
+        "artist": "Nikos Diamantopoulos", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "7", 
+        "rating": 7.818181818181818, 
+        "genres": [
+            "AOR", 
+            "Rock"
+        ], 
+        "stddev": 1.5841058787250524, 
+        "artist": "Seven", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Sea and Sky", 
+        "rating": 8.272727272727273, 
+        "genres": [
+            "Electronic", 
+            "Techno"
+        ], 
+        "stddev": 0.9585708119396442, 
+        "artist": "John Daly", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Visual Audio Sensory Theater", 
+        "rating": 8.0, 
+        "genres": [
+            "Alternative", 
+            "Rock"
+        ], 
+        "stddev": 1.9148542155126762, 
+        "artist": "Vast", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Kidd Glove", 
+        "rating": 8.157894736842104, 
+        "genres": [
+            "Rock", 
+            "AOR"
+        ], 
+        "stddev": 1.0805845291436396, 
+        "artist": "Kidd Glove", 
+        "codec": "flac", 
+        "nsongs": 19.0, 
+        "nrated": 19.0
+    }, 
+    {
+        "album": "Dominion Of Darkness", 
+        "rating": 8.444444444444445, 
+        "genres": [
+            "Metal", 
+            "Thrash", 
+            "Satanic"
+        ], 
+        "stddev": 1.05539309990926, 
+        "artist": "Hellbringer", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Advance And Follow (V2)", 
+        "rating": 7.0, 
+        "genres": [
+            "Electronic", 
+            "Futurepop"
+        ], 
+        "stddev": 1.7928429140015905, 
+        "artist": "VNV Nation", 
+        "codec": "flac", 
+        "nsongs": 14.0, 
+        "nrated": 14.0
+    }, 
+    {
+        "album": "When The Night", 
+        "rating": 8.818181818181818, 
+        "genres": [
+            "Indie", 
+            "Electropop", 
+            "Pop"
+        ], 
+        "stddev": 1.3004651540235328, 
+        "artist": "St. Lucia", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Rock The Rebel / Metal The Dev", 
+        "rating": 8.909090909090908, 
+        "genres": [
+            "Metal", 
+            "Metalbilly"
+        ], 
+        "stddev": 1.2691804178811548, 
+        "artist": "Volbeat", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Back To The Front", 
+        "rating": 8.0, 
+        "genres": [
+            "Metal", 
+            "Death"
+        ], 
+        "stddev": 1.0, 
+        "artist": "Entombed", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "When The Empire Falls", 
+        "rating": 8.6, 
+        "genres": [
+            "Metal", 
+            "Power", 
+            "Thrash"
+        ], 
+        "stddev": 1.1849050594878898, 
+        "artist": "When The Empire Falls", 
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
