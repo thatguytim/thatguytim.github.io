@@ -351,14 +351,14 @@
     }, 
     {
         "album": "Emblematic Soul", 
-        "rating": 8.333333333333334, 
+        "rating": 8.416666666666666, 
         "genres": [
             "Electronic", 
             "House", 
             "Deep", 
             "Tech-House"
         ], 
-        "stddev": 1.04969131264951, 
+        "stddev": 1.139312251934213, 
         "artist": "Addex", 
         "codec": "mp3", 
         "nsongs": 12.0, 
@@ -3549,20 +3549,6 @@
         "nrated": 12.0
     }, 
     {
-        "album": "Pala", 
-        "rating": 8.818181818181818, 
-        "genres": [
-            "Electronic", 
-            "Indie", 
-            "Electropop"
-        ], 
-        "stddev": 1.241953818082999, 
-        "artist": "Friendly Fires", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
         "album": "Brendon Small's Galaktikon", 
         "rating": 8.777777777777779, 
         "genres": [
@@ -4527,18 +4513,6 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "Fallen Angels", 
-        "rating": 7.533333333333333, 
-        "genres": [
-            "Metal"
-        ], 
-        "stddev": 1.0126605954027645, 
-        "artist": "Venom", 
-        "codec": "flac", 
-        "nsongs": 15.0, 
-        "nrated": 15.0
     }, 
     {
         "album": "Black Metal", 
@@ -5516,20 +5490,6 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "Kill for Love", 
-        "rating": 7.3125, 
-        "genres": [
-            "Indie", 
-            "Minimal", 
-            "Indietronic"
-        ], 
-        "stddev": 1.5605456527686077, 
-        "artist": "Chromatics", 
-        "codec": "flac", 
-        "nsongs": 16.0, 
-        "nrated": 16.0
     }, 
     {
         "album": "Abominog", 
@@ -7258,6 +7218,85 @@
         "codec": "flac", 
         "nsongs": 8.0, 
         "nrated": 8.0
+    }, 
+    {
+        "album": "Chase The Dragon [Japan Edition 2006]", 
+        "rating": 8.222222222222221, 
+        "genres": [
+            "Rock", 
+            "Hard"
+        ], 
+        "stddev": 1.412272293699083, 
+        "artist": "Magnum", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Future Of The Past", 
+        "rating": 8.090909090909092, 
+        "genres": [
+            "Metal", 
+            "Death"
+        ], 
+        "stddev": 0.9954819046015757, 
+        "artist": "Vader", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Black To The Blind", 
+        "rating": 8.3, 
+        "genres": [
+            "Metal", 
+            "Death"
+        ], 
+        "stddev": 1.030048542545447, 
+        "artist": "Vader", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "De Profundis", 
+        "rating": 8.666666666666666, 
+        "genres": [
+            "Metal", 
+            "Death"
+        ], 
+        "stddev": 1.09994388184574, 
+        "artist": "Vader", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Blade Runner", 
+        "rating": 8.416666666666666, 
+        "genres": [
+            "Soundtrack", 
+            "New Age", 
+            "Electronic"
+        ], 
+        "stddev": 1.7695665403540892, 
+        "artist": "Vangelis", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Near Dark", 
+        "rating": 8.5, 
+        "genres": [
+            "Electronic", 
+            "Synthwave"
+        ], 
+        "stddev": 1.5890248582070703, 
+        "artist": "Dance With The Dead", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
     }, 
     {
         "album": "Outside", 
@@ -10327,19 +10366,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Empire", 
-        "rating": 6.7272727272727275, 
-        "genres": [
-            "Rock", 
-            "Alternative"
-        ], 
-        "stddev": 1.5271153008199798, 
-        "artist": "Kasabian", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
         "album": "The Theory of Everything", 
         "rating": 7.619047619047619, 
         "genres": [
@@ -10717,21 +10743,6 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "Free Your Mind", 
-        "rating": 8.0, 
-        "genres": [
-            "Indie", 
-            "Electropop", 
-            "Electronic", 
-            "Dance"
-        ], 
-        "stddev": 1.3333333333333333, 
-        "artist": "Cut Copy", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
     }, 
     {
         "album": "Zonoscope", 
@@ -12042,20 +12053,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Citiscapes", 
-        "rating": 8.1, 
-        "genres": [
-            "Indie", 
-            "Electropop", 
-            "Rock"
-        ], 
-        "stddev": 1.1353413583587977, 
-        "artist": "The Conquistadors", 
-        "codec": "mp3", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "We Are Complex", 
         "rating": 7.857142857142857, 
         "genres": [
@@ -12840,20 +12837,6 @@
         "nrated": 9.0
     }, 
     {
-        "album": "48:13", 
-        "rating": 7.3, 
-        "genres": [
-            "Indie", 
-            "Pop", 
-            "Rock"
-        ], 
-        "stddev": 1.77792013318934, 
-        "artist": "Kasabian", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Sounds Of The Deep LP", 
         "rating": 8.142857142857142, 
         "genres": [
@@ -13226,6 +13209,47 @@
         "codec": "flac", 
         "nsongs": 19.0, 
         "nrated": 19.0
+    }, 
+    {
+        "album": "Brand New Morning", 
+        "rating": 7.555555555555555, 
+        "genres": [
+            "Rock", 
+            "AOR"
+        ], 
+        "stddev": 1.1978490095404615, 
+        "artist": "Magnum", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Free Your Mind", 
+        "rating": 8.0, 
+        "genres": [
+            "Indie", 
+            "Electropop", 
+            "Electronic", 
+            "Dance"
+        ], 
+        "stddev": 1.3333333333333333, 
+        "artist": "Cut Copy", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Empires", 
+        "rating": 8.444444444444445, 
+        "genres": [
+            "Electronic", 
+            "Futurepop"
+        ], 
+        "stddev": 1.819721258746407, 
+        "artist": "VNV Nation", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
     }, 
     {
         "album": "...And So It Begins", 
@@ -18126,14 +18150,14 @@
     }, 
     {
         "album": "Kindred Spirits", 
-        "rating": 7.909090909090909, 
+        "rating": 7.818181818181818, 
         "genres": [
             "Electronic", 
             "Gothic", 
             "Darkwave", 
             "Synthpop"
         ], 
-        "stddev": 1.7294462184147796, 
+        "stddev": 1.6950008255595725, 
         "artist": "Clan Of Xymox", 
         "codec": "mp3", 
         "nsongs": 11.0, 
@@ -19485,6 +19509,19 @@
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
+    }, 
+    {
+        "album": "Church Of Acid (EU Edition)", 
+        "rating": 7.166666666666667, 
+        "genres": [
+            "Industrial", 
+            "Electronic"
+        ], 
+        "stddev": 1.2683833396478748, 
+        "artist": "Velvet Acid Christ", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
     }, 
     {
         "album": "Frozen Ghost", 
@@ -25439,19 +25476,6 @@
         "nrated": 11.0
     }, 
     {
-        "album": "Visual Audio Sensory Theater", 
-        "rating": 8.0, 
-        "genres": [
-            "Alternative", 
-            "Rock"
-        ], 
-        "stddev": 1.9148542155126762, 
-        "artist": "Vast", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
         "album": "Kidd Glove", 
         "rating": 8.157894736842104, 
         "genres": [
@@ -25544,5 +25568,680 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
+    }, 
+    {
+        "album": "Back to Basics Chapter Two", 
+        "rating": 8.25, 
+        "genres": [
+            "Electronic", 
+            "Drum & Bass"
+        ], 
+        "stddev": 1.231107225224513, 
+        "artist": "S.P.Y", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Wisdom", 
+        "rating": 7.571428571428571, 
+        "genres": [
+            "Metal", 
+            "Stoner Doom", 
+            "Occult"
+        ], 
+        "stddev": 1.8774401032011307, 
+        "artist": "The Order Of Israfel", 
+        "codec": "flac", 
+        "nsongs": 7.0, 
+        "nrated": 7.0
+    }, 
+    {
+        "album": "Out Of My Tree", 
+        "rating": 8.0, 
+        "genres": [
+            "Rock", 
+            "Hair", 
+            "Hard"
+        ], 
+        "stddev": 1.1832159566199232, 
+        "artist": "John Sykes", 
+        "codec": "mp3", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Pala", 
+        "rating": 8.727272727272727, 
+        "genres": [
+            "Electronic", 
+            "Indie", 
+            "Electropop"
+        ], 
+        "stddev": 1.1928915428099856, 
+        "artist": "Friendly Fires", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Diamonds And Death", 
+        "rating": 8.555555555555555, 
+        "genres": [
+            "Indie", 
+            "Electronic", 
+            "Dance", 
+            "Indietronic"
+        ], 
+        "stddev": 1.049527949281834, 
+        "artist": "VHS Or Beta", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Bring On The Comets", 
+        "rating": 7.6, 
+        "genres": [
+            "Indie", 
+            "Rock"
+        ], 
+        "stddev": 1.2263767773404712, 
+        "artist": "VHS Or Beta", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Change In The Neon Light", 
+        "rating": 8.333333333333334, 
+        "genres": [
+            "Indie", 
+            "Rock", 
+            "Post-Punk"
+        ], 
+        "stddev": 1.2120791238484125, 
+        "artist": "Veil Veil Vanish", 
+        "codec": "mp3", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Possessed (Castle Remaster)", 
+        "rating": 8.153846153846153, 
+        "genres": [
+            "Metal", 
+            "Traditional", 
+            "Speed"
+        ], 
+        "stddev": 1.3001873048776988, 
+        "artist": "Venom", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "Cast In Stone [CD1]", 
+        "rating": 7.785714285714286, 
+        "genres": [
+            "Metal", 
+            "Traditional", 
+            "Satanic", 
+            "Groove"
+        ], 
+        "stddev": 1.0260811691078187, 
+        "artist": "Venom", 
+        "codec": "flac", 
+        "nsongs": 14.0, 
+        "nrated": 14.0
+    }, 
+    {
+        "album": "Calm Before The Storm", 
+        "rating": 7.909090909090909, 
+        "genres": [
+            "Metal", 
+            "Traditional", 
+            "Speed"
+        ], 
+        "stddev": 1.6760566937222021, 
+        "artist": "Venom", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Chocolate Chords", 
+        "rating": 8.333333333333334, 
+        "genres": [
+            "Electronic", 
+            "House", 
+            "Deep", 
+            "Tech-House"
+        ], 
+        "stddev": 1.02288625775122, 
+        "artist": "Terry Lee Brown Junior", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Diver Down (Remastered)", 
+        "rating": 8.11111111111111, 
+        "genres": [
+            "Rock", 
+            "Hard"
+        ], 
+        "stddev": 0.9679358774349616, 
+        "artist": "Van Halen", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Balance", 
+        "rating": 7.636363636363637, 
+        "genres": [
+            "Rock", 
+            "Hard"
+        ], 
+        "stddev": 1.4274332699096932, 
+        "artist": "Van Halen", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Fair Warning (Remastered)", 
+        "rating": 8.875, 
+        "genres": [
+            "Rock", 
+            "Hard"
+        ], 
+        "stddev": 1.2303137303143454, 
+        "artist": "Van Halen", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "For Unlawful Carnal Knowledge", 
+        "rating": 8.7, 
+        "genres": [
+            "Rock", 
+            "Hard"
+        ], 
+        "stddev": 1.3270267518026906, 
+        "artist": "Van Halen", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Still", 
+        "rating": 8.0, 
+        "genres": [
+            "Metal", 
+            "Neue Deutsche Haerte"
+        ], 
+        "stddev": 0.9258200997725514, 
+        "artist": "[die!]", 
+        "codec": "flac", 
+        "nsongs": 14.0, 
+        "nrated": 14.0
+    }, 
+    {
+        "album": "Aldo Nova", 
+        "rating": 8.2, 
+        "genres": [
+            "Rock"
+        ], 
+        "stddev": 1.247397290361014, 
+        "artist": "Aldo Nova", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Subject", 
+        "rating": 8.222222222222221, 
+        "genres": [
+            "Rock"
+        ], 
+        "stddev": 1.245017504738638, 
+        "artist": "Aldo Nova", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Evolution", 
+        "rating": 7.866666666666666, 
+        "genres": [
+            "Electronic", 
+            "EDM"
+        ], 
+        "stddev": 1.2032055949436502, 
+        "artist": "Paul van Dyk", 
+        "codec": "flac", 
+        "nsongs": 15.0, 
+        "nrated": 15.0
+    }, 
+    {
+        "album": "Pages", 
+        "rating": 7.375, 
+        "genres": [
+            "Pop", 
+            "Soft", 
+            "Jazz"
+        ], 
+        "stddev": 1.4783595215643588, 
+        "artist": "Pages", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Future Street", 
+        "rating": 8.25, 
+        "genres": [
+            "Pop", 
+            "Soft", 
+            "Jazz", 
+            "Smooth"
+        ], 
+        "stddev": 1.195695404356812, 
+        "artist": "Pages", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Black Future", 
+        "rating": 8.555555555555555, 
+        "genres": [
+            "Metal", 
+            "Thrash", 
+            "Progressive"
+        ], 
+        "stddev": 1.1505351531117831, 
+        "artist": "Vektor", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Crimson", 
+        "rating": 7.583333333333333, 
+        "genres": [
+            "Rock", 
+            "Alternative"
+        ], 
+        "stddev": 1.6602306287804536, 
+        "artist": "VAST", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Visual Audio Sensory Theater", 
+        "rating": 8.0, 
+        "genres": [
+            "Alternative", 
+            "Rock"
+        ], 
+        "stddev": 1.9148542155126762, 
+        "artist": "VAST", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Music for People", 
+        "rating": 8.25, 
+        "genres": [
+            "Alternative", 
+            "Rock"
+        ], 
+        "stddev": 1.087332362558324, 
+        "artist": "Vast", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Between The Eyes Vol. 1", 
+        "rating": 8.153846153846153, 
+        "genres": [
+            "Electronic", 
+            "Industrial", 
+            "Spoken Word"
+        ], 
+        "stddev": 1.4135697136885195, 
+        "artist": "Velvet Acid Christ", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "Fun With Knives", 
+        "rating": 8.0, 
+        "genres": [
+            "Electronic", 
+            "Industrial", 
+            "Spoken Word"
+        ], 
+        "stddev": 1.2060453783110545, 
+        "artist": "Velvet Acid Christ", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Calling Ov The Dead", 
+        "rating": 8.181818181818182, 
+        "genres": [
+            "Electronic", 
+            "Industrial", 
+            "Spoken Word"
+        ], 
+        "stddev": 1.2047988194474, 
+        "artist": "Velvet Acid Christ", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Rapid Fire Rondo", 
+        "rating": 8.7, 
+        "genres": [
+            "Rock", 
+            "Shred", 
+            "Metal"
+        ], 
+        "stddev": 1.077497099764078, 
+        "artist": "Joe Stump", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Citiscapes", 
+        "rating": 8.1, 
+        "genres": [
+            "Indie", 
+            "Rock", 
+            "Electropop"
+        ], 
+        "stddev": 1.1441153787970861, 
+        "artist": "The Conquistadors", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "dc13/dc14/dc16 [remastered]", 
+        "rating": 7.8, 
+        "genres": [
+            "Electronic", 
+            "Techno", 
+            "Dub"
+        ], 
+        "stddev": 0.997997995989972, 
+        "artist": "DeepChord", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Never Say Surrender", 
+        "rating": 8.4, 
+        "genres": [
+            "Rock", 
+            "Hair"
+        ], 
+        "stddev": 1.1063453348751464, 
+        "artist": "Red Dawn", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Futureperfect", 
+        "rating": 7.2, 
+        "genres": [
+            "Electronic", 
+            "Futurepop"
+        ], 
+        "stddev": 1.391402170474087, 
+        "artist": "VNV Nation", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Silent Nation", 
+        "rating": 7.6, 
+        "genres": [
+            "Rock"
+        ], 
+        "stddev": 1.4226735395022991, 
+        "artist": "Asia", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Rock The Nations", 
+        "rating": 8.0, 
+        "genres": [
+            "Rock", 
+            "Hard", 
+            "Hair"
+        ], 
+        "stddev": 1.1832159566199232, 
+        "artist": "Saxon", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Notes From The Shadows", 
+        "rating": 8.2, 
+        "genres": [
+            "Metal", 
+            "Traditional"
+        ], 
+        "stddev": 0.9777525249264251, 
+        "artist": "Astral Doors", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Movin & Groovin", 
+        "rating": 8.454545454545455, 
+        "genres": [
+            "Jazz", 
+            "Smooth", 
+            "Dance"
+        ], 
+        "stddev": 1.2587783423229952, 
+        "artist": "Paul Hardcastle", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Minus Tide", 
+        "rating": 7.9, 
+        "genres": [
+            "Indie", 
+            "Electronic", 
+            "Electropop"
+        ], 
+        "stddev": 1.1353413583587977, 
+        "artist": "Lemonade", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Wilderness", 
+        "rating": 7.857142857142857, 
+        "genres": [
+            "Electronic", 
+            "IDM"
+        ], 
+        "stddev": 1.2277168361383701, 
+        "artist": "SubtractiveLAD", 
+        "codec": "flac", 
+        "nsongs": 7.0, 
+        "nrated": 7.0
+    }, 
+    {
+        "album": "Songs of Innocence", 
+        "rating": 7.454545454545454, 
+        "genres": [
+            "Rock", 
+            "Soft"
+        ], 
+        "stddev": 1.063003979557919, 
+        "artist": "U2", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "For What It's Worth", 
+        "rating": 8.125, 
+        "genres": [
+            "Trip-Hop"
+        ], 
+        "stddev": 0.9264979425233496, 
+        "artist": "Vanilla", 
+        "codec": "flac", 
+        "nsongs": 16.0, 
+        "nrated": 16.0
+    }, 
+    {
+        "album": "Melody A.M.", 
+        "rating": 8.2, 
+        "genres": [
+            "Downtempo", 
+            "Electronic"
+        ], 
+        "stddev": 1.3549907748763454, 
+        "artist": "R\u00f6yksopp", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Tough Guys Don't Dance", 
+        "rating": 8.384615384615385, 
+        "genres": [
+            "Electronic", 
+            "Drum & Bass", 
+            "Liquid"
+        ], 
+        "stddev": 1.268827262379297, 
+        "artist": "High Contrast", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "Beyond Hell / Above Heaven", 
+        "rating": 8.692307692307692, 
+        "genres": [
+            "Metal", 
+            "Metalbilly"
+        ], 
+        "stddev": 1.0256163705123393, 
+        "artist": "Volbeat", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "Guitar Gangsters & Cadillac Blood", 
+        "rating": 8.615384615384615, 
+        "genres": [
+            "Metal", 
+            "Metalbilly"
+        ], 
+        "stddev": 1.1489046058548877, 
+        "artist": "Volbeat", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "Siren Charms", 
+        "rating": 7.583333333333333, 
+        "genres": [
+            "Metal", 
+            "Modern", 
+            "Alternative Metal", 
+            "Rock"
+        ], 
+        "stddev": 1.2497684970810778, 
+        "artist": "In Flames", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Javelin", 
+        "rating": 8.0, 
+        "genres": [
+            "Electronic", 
+            "Synthpop"
+        ], 
+        "stddev": 1.0954451150103321, 
+        "artist": "Moskwa TV", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Damned", 
+        "rating": 8.416666666666666, 
+        "genres": [
+            "Crust Punk", 
+            "Metal", 
+            "Speed"
+        ], 
+        "stddev": 0.9461789627917278, 
+        "artist": "Wolfbrigade", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "A History of Distance", 
+        "rating": 7.75, 
+        "genres": [
+            "Electronic", 
+            "Ambient"
+        ], 
+        "stddev": 1.4737282653189494, 
+        "artist": "bvdub", 
+        "codec": "flac", 
+        "nsongs": 4.0, 
+        "nrated": 4.0
+    }, 
+    {
+        "album": "Taking Over", 
+        "rating": 8.88888888888889, 
+        "genres": [
+            "Metal", 
+            "Thrash"
+        ], 
+        "stddev": 1.4093553770696625, 
+        "artist": "Overkill", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
     }
 ]
