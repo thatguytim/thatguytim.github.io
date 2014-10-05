@@ -1963,20 +1963,6 @@
         "nrated": 13.0
     }, 
     {
-        "album": "Intense", 
-        "rating": 7.375, 
-        "genres": [
-            "Electronic", 
-            "Trance", 
-            "Pop"
-        ], 
-        "stddev": 1.6099058590489073, 
-        "artist": "Armin van Buuren", 
-        "codec": "flac", 
-        "nsongs": 15.0, 
-        "nrated": 8.0
-    }, 
-    {
         "album": "Zipless", 
         "rating": 7.9, 
         "genres": [
@@ -3244,12 +3230,12 @@
     }, 
     {
         "album": "Ascendence", 
-        "rating": 8.7, 
+        "rating": 8.5, 
         "genres": [
             "Metal", 
             "Power"
         ], 
-        "stddev": 1.3270267518026906, 
+        "stddev": 1.2747548783981961, 
         "artist": "Lord", 
         "codec": "flac", 
         "nsongs": 10.0, 
@@ -8733,12 +8719,12 @@
     }, 
     {
         "album": "The Scattering", 
-        "rating": 6.666666666666667, 
+        "rating": 6.75, 
         "genres": [
             "Pop", 
             "Rock"
         ], 
-        "stddev": 1.800205749557739, 
+        "stddev": 1.9189298232782424, 
         "artist": "Cutting Crew", 
         "codec": "flac", 
         "nsongs": 12.0, 
@@ -11569,17 +11555,16 @@
     }, 
     {
         "album": "ISDN", 
-        "rating": 7.166666666666667, 
+        "rating": 7.466666666666667, 
         "genres": [
             "Electronic", 
-            "Experimental", 
-            "Trip-Hop"
+            "Experimental"
         ], 
-        "stddev": 1.5350835421831224, 
+        "stddev": 1.078544973220523, 
         "artist": "Future Sound Of London", 
         "codec": "flac", 
         "nsongs": 15.0, 
-        "nrated": 6.0
+        "nrated": 15.0
     }, 
     {
         "album": "Colorseries", 
@@ -12703,19 +12688,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Only Love", 
-        "rating": 7.142857142857143, 
-        "genres": [
-            "Electronic", 
-            "Techno"
-        ], 
-        "stddev": 1.6954750273929486, 
-        "artist": "Way Out West", 
-        "codec": "mp3", 
-        "nsongs": 7.0, 
-        "nrated": 7.0
-    }, 
-    {
         "album": "Solid", 
         "rating": 8.0, 
         "genres": [
@@ -13488,19 +13460,6 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "Lethal Injection", 
-        "rating": 8.454545454545455, 
-        "genres": [
-            "Rap", 
-            "Gangsta"
-        ], 
-        "stddev": 2.007686207263716, 
-        "artist": "Ice Cube", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
     }, 
     {
         "album": "Mood Swings", 
@@ -16904,12 +16863,12 @@
     }, 
     {
         "album": "The Best of the Style Council (The Millenium Collection)", 
-        "rating": 8.2, 
+        "rating": 8.3, 
         "genres": [
             "Pop", 
             "Sophisti-Pop"
         ], 
-        "stddev": 1.398570698963767, 
+        "stddev": 1.4145670715805594, 
         "artist": "The Style Council", 
         "codec": "flac", 
         "nsongs": 10.0, 
@@ -19133,18 +19092,6 @@
         "nrated": 11.0
     }, 
     {
-        "album": "The Gift (Remixes)", 
-        "rating": 7.6, 
-        "genres": [
-            "Electronic"
-        ], 
-        "stddev": 1.3145341380123987, 
-        "artist": "Way Out West", 
-        "codec": "mp3", 
-        "nsongs": 5.0, 
-        "nrated": 5.0
-    }, 
-    {
         "album": "Lenny Wolf", 
         "rating": 8.0, 
         "genres": [
@@ -19522,6 +19469,129 @@
         "codec": "flac", 
         "nsongs": 12.0, 
         "nrated": 12.0
+    }, 
+    {
+        "album": "Welcome To Zanarkand", 
+        "rating": 7.6, 
+        "genres": [
+            "Electronic", 
+            "House", 
+            "Deep"
+        ], 
+        "stddev": 1.3505554412907306, 
+        "artist": "Vincenzo", 
+        "codec": "mp3", 
+        "nsongs": 12.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Temples of Ice", 
+        "rating": 8.3, 
+        "genres": [
+            "Metal", 
+            "Speed", 
+            "Thrash"
+        ], 
+        "stddev": 1.0959014554237982, 
+        "artist": "Venom", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Continent", 
+        "rating": 8.0, 
+        "genres": [
+            "Electronic", 
+            "Downtempo"
+        ], 
+        "stddev": 1.2060453783110545, 
+        "artist": "CFCF", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Soli Deo Gloria", 
+        "rating": 7.777777777777778, 
+        "genres": [
+            "Electronic", 
+            "Darkwave", 
+            "Futurepop"
+        ], 
+        "stddev": 1.152322161933633, 
+        "artist": "Apoptygma Berzerk", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "In Between", 
+        "rating": 8.0, 
+        "genres": [
+            "Electronic", 
+            "EDM", 
+            "Trance"
+        ], 
+        "stddev": 1.118033988749895, 
+        "artist": "Paul van Dyk", 
+        "codec": "flac", 
+        "nsongs": 16.0, 
+        "nrated": 16.0
+    }, 
+    {
+        "album": "There's A Beat In All Machines", 
+        "rating": 6.909090909090909, 
+        "genres": [
+            "Indie", 
+            "Rock"
+        ], 
+        "stddev": 1.405153122178984, 
+        "artist": "Veto", 
+        "codec": "Mp3", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Hex Angel", 
+        "rating": 7.7272727272727275, 
+        "genres": [
+            "Electronic", 
+            "Industrial", 
+            "Spoken Word"
+        ], 
+        "stddev": 1.1103637189135318, 
+        "artist": "Velvet Acid Christ", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "3", 
+        "rating": 7.583333333333333, 
+        "genres": [
+            "Electronic", 
+            "House"
+        ], 
+        "stddev": 1.277249286842917, 
+        "artist": "I:Cube", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "The Alternative", 
+        "rating": 7.909090909090909, 
+        "genres": [
+            "Electronic", 
+            "Indie", 
+            "Indietronic"
+        ], 
+        "stddev": 1.2395316727876406, 
+        "artist": "IAMX", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
     }, 
     {
         "album": "Frozen Ghost", 
@@ -20130,6 +20200,32 @@
         "nrated": 10.0
     }, 
     {
+        "album": "Impressions in Blood", 
+        "rating": 8.7, 
+        "genres": [
+            "Metal", 
+            "Death"
+        ], 
+        "stddev": 1.0492854711659738, 
+        "artist": "Vader", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Slipstream", 
+        "rating": 8.125, 
+        "genres": [
+            "Electronic", 
+            "Synthwave"
+        ], 
+        "stddev": 1.2678414234437996, 
+        "artist": "Jordan F", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
         "album": "Release", 
         "rating": 6.9, 
         "genres": [
@@ -20273,7 +20369,6 @@
         "rating": 7.444444444444445, 
         "genres": [
             "Metal", 
-            "Death", 
             "Melodeath"
         ], 
         "stddev": 1.9411789157598014, 
@@ -20626,12 +20721,12 @@
     }, 
     {
         "album": "Breakfast Club", 
-        "rating": 8.666666666666666, 
+        "rating": 8.444444444444445, 
         "genres": [
             "Pop", 
             "Dance"
         ], 
-        "stddev": 2.0608041101101566, 
+        "stddev": 2.2061144610126564, 
         "artist": "Breakfast Club", 
         "codec": "flac", 
         "nsongs": 9.0, 
@@ -23985,6 +24080,19 @@
         "nrated": 11.0
     }, 
     {
+        "album": "Intense", 
+        "rating": 7.785714285714286, 
+        "genres": [
+            "Electronic", 
+            "EDM"
+        ], 
+        "stddev": 1.3709023225024333, 
+        "artist": "Armin van Buuren", 
+        "codec": "flac", 
+        "nsongs": 14.0, 
+        "nrated": 14.0
+    }, 
+    {
         "album": "Home", 
         "rating": 7.8, 
         "genres": [
@@ -24290,21 +24398,6 @@
         "codec": "flac", 
         "nsongs": 11.0, 
         "nrated": 11.0
-    }, 
-    {
-        "album": "Looking At The Stars", 
-        "rating": 7.857142857142857, 
-        "genres": [
-            "Electronic", 
-            "Drum & Bass", 
-            "Liquid", 
-            "Soul"
-        ], 
-        "stddev": 1.544764505060009, 
-        "artist": "Lenzman", 
-        "codec": "flac", 
-        "nsongs": 15.0, 
-        "nrated": 14.0
     }, 
     {
         "album": "Reality Testing", 
@@ -26243,5 +26336,223 @@
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
+    }, 
+    {
+        "album": "Gatecrashing", 
+        "rating": 8.0, 
+        "genres": [
+            "Pop", 
+            "Sophisti-Pop"
+        ], 
+        "stddev": 1.4832396974191326, 
+        "artist": "Living in A Box", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Syro", 
+        "rating": 7.7272727272727275, 
+        "genres": [
+            "Electronic", 
+            "IDM"
+        ], 
+        "stddev": 1.4350449014826068, 
+        "artist": "Aphex Twin", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Imagine", 
+        "rating": 8.636363636363637, 
+        "genres": [
+            "Electronic", 
+            "EDM", 
+            "Trance"
+        ], 
+        "stddev": 1.018609709380918, 
+        "artist": "Armin van Buuren", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Imagine (The Remixes)", 
+        "rating": 7.764705882352941, 
+        "genres": [
+            "Electronic", 
+            "Trance"
+        ], 
+        "stddev": 0.8045261743123556, 
+        "artist": "Armin van Buuren", 
+        "codec": "flac", 
+        "nsongs": 17.0, 
+        "nrated": 17.0
+    }, 
+    {
+        "album": "The 7th Seal", 
+        "rating": 9.0, 
+        "genres": [
+            "Electronic", 
+            "Drum & Bass", 
+            "Atmospheric"
+        ], 
+        "stddev": 1.1338934190276817, 
+        "artist": "View to the Future", 
+        "codec": "mp3", 
+        "nsongs": 7.0, 
+        "nrated": 7.0
+    }, 
+    {
+        "album": "Hymns For The Broken", 
+        "rating": 8.181818181818182, 
+        "genres": [
+            "Metal", 
+            "Progressive"
+        ], 
+        "stddev": 1.1120540284914204, 
+        "artist": "Evergrey", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Welcome To Hell (Castle Remaster)", 
+        "rating": 9.615384615384615, 
+        "genres": [
+            "Black", 
+            "Metal", 
+            "Speed", 
+            "NWOBHM", 
+            "Satanic"
+        ], 
+        "stddev": 0.9486113272354009, 
+        "artist": "Venom", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "For The Journey", 
+        "rating": 7.888888888888889, 
+        "genres": [
+            "Rock", 
+            "Progressive", 
+            "Metal"
+        ], 
+        "stddev": 1.1961300194040843, 
+        "artist": "Threshold", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Looking at the Stars", 
+        "rating": 8.2, 
+        "genres": [
+            "Electronic", 
+            "Drum & Bass", 
+            "Liquid"
+        ], 
+        "stddev": 1.325644497342079, 
+        "artist": "Lenzman", 
+        "codec": "flac", 
+        "nsongs": 15.0, 
+        "nrated": 15.0
+    }, 
+    {
+        "album": "Vetelgyus", 
+        "rating": 8.0, 
+        "genres": [
+            "Metal", 
+            "Power", 
+            "Shred"
+        ], 
+        "stddev": 0.9534625892455924, 
+        "artist": "Galneryus", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Glory On The Battlefield", 
+        "rating": 8.428571428571429, 
+        "genres": [
+            "Metal", 
+            "Melodeath", 
+            "Power"
+        ], 
+        "stddev": 1.2181810270141544, 
+        "artist": "Crimson Shadows", 
+        "codec": "flac", 
+        "nsongs": 7.0, 
+        "nrated": 7.0
+    }, 
+    {
+        "album": "Kings Among Men", 
+        "rating": 8.75, 
+        "genres": [
+            "Metal", 
+            "Melodeath", 
+            "Power"
+        ], 
+        "stddev": 1.0569709078304852, 
+        "artist": "Crimson Shadows", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "The Piper at the Gates of Doom", 
+        "rating": 8.0, 
+        "genres": [
+            "Metal", 
+            "Doom"
+        ], 
+        "stddev": 1.1832159566199232, 
+        "artist": "Doomshine", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Into The Abyss", 
+        "rating": 7.7, 
+        "genres": [
+            "Metal", 
+            "Death"
+        ], 
+        "stddev": 1.2413702106946178, 
+        "artist": "Hypocrisy", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "If You're Into It, I'm Out of It", 
+        "rating": 8.818181818181818, 
+        "genres": [
+            "Drum & Bass", 
+            "Electronic"
+        ], 
+        "stddev": 1.2285729262079925, 
+        "artist": "Christoph de Babalon", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "The Re-Arrival", 
+        "rating": 8.238095238095237, 
+        "genres": [
+            "Metal", 
+            "Melodeath"
+        ], 
+        "stddev": 1.1710893080241729, 
+        "artist": "Deadlock", 
+        "codec": "flac", 
+        "nsongs": 21.0, 
+        "nrated": 21.0
     }
 ]
