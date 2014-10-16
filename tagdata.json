@@ -7285,6 +7285,20 @@
         "nrated": 10.0
     }, 
     {
+        "album": "Night On Fire", 
+        "rating": 8.1, 
+        "genres": [
+            "Rock", 
+            "Indie", 
+            "Dance-Punk"
+        ], 
+        "stddev": 1.0339245620450266, 
+        "artist": "VHS or Beta", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
         "album": "Outside", 
         "rating": 7.9, 
         "genres": [
@@ -8228,20 +8242,6 @@
         "nrated": 11.0
     }, 
     {
-        "album": "A Bit Of Devil", 
-        "rating": 7.875, 
-        "genres": [
-            "Rock", 
-            "Blues", 
-            "Stoner"
-        ], 
-        "stddev": 1.0816292687422988, 
-        "artist": "Zodiac", 
-        "codec": "flac", 
-        "nsongs": 8.0, 
-        "nrated": 8.0
-    }, 
-    {
         "album": "Democracy", 
         "rating": 8.4, 
         "genres": [
@@ -8931,32 +8931,6 @@
         ], 
         "stddev": 1.1021970858344021, 
         "artist": "Van She", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
-    }, 
-    {
-        "album": "What I Do", 
-        "rating": 7.0, 
-        "genres": [
-            "Electronic", 
-            "House"
-        ], 
-        "stddev": 2.3145502494313788, 
-        "artist": "Ian Pooley", 
-        "codec": "flac", 
-        "nsongs": 14.0, 
-        "nrated": 14.0
-    }, 
-    {
-        "album": "The Times CD", 
-        "rating": 7.076923076923077, 
-        "genres": [
-            "Electronic", 
-            "House"
-        ], 
-        "stddev": 2.0768134969996663, 
-        "artist": "Ian Pooley", 
         "codec": "flac", 
         "nsongs": 13.0, 
         "nrated": 13.0
@@ -12714,19 +12688,6 @@
         "nrated": 5.0
     }, 
     {
-        "album": "A Hiding Place", 
-        "rating": 8.11111111111111, 
-        "genres": [
-            "Rock", 
-            "Hard"
-        ], 
-        "stddev": 1.0880319127087688, 
-        "artist": "Zodiac", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
         "album": "Volle Kraft Voraus", 
         "rating": 8.076923076923077, 
         "genres": [
@@ -13222,6 +13183,46 @@
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
+    }, 
+    {
+        "album": "Live To Die", 
+        "rating": 7.875, 
+        "genres": [
+            "Metal", 
+            "Thrash"
+        ], 
+        "stddev": 1.1784192271853002, 
+        "artist": "Intruder", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Litany", 
+        "rating": 8.272727272727273, 
+        "genres": [
+            "Metal", 
+            "Death"
+        ], 
+        "stddev": 0.9585708119396442, 
+        "artist": "Vader", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Selection One", 
+        "rating": 8.333333333333334, 
+        "genres": [
+            "Electronic", 
+            "Synth", 
+            "Synthwave"
+        ], 
+        "stddev": 0.9622504486493759, 
+        "artist": "Mitch Murder", 
+        "codec": "flac", 
+        "nsongs": 15.0, 
+        "nrated": 15.0
     }, 
     {
         "album": "...And So It Begins", 
@@ -23195,20 +23196,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Selection One", 
-        "rating": 8.3125, 
-        "genres": [
-            "Electronic", 
-            "Synth", 
-            "Synthwave"
-        ], 
-        "stddev": 0.9130937708554363, 
-        "artist": "Mitch Murder", 
-        "codec": "mp3", 
-        "nsongs": 16.0, 
-        "nrated": 16.0
-    }, 
-    {
         "album": "Head Down", 
         "rating": 8.88888888888889, 
         "genres": [
@@ -26554,5 +26541,355 @@
         "codec": "flac", 
         "nsongs": 21.0, 
         "nrated": 21.0
+    }, 
+    {
+        "album": "A World Lit Only by Fire", 
+        "rating": 7.4, 
+        "genres": [
+            "Metal", 
+            "Post", 
+            "Sludge"
+        ], 
+        "stddev": 1.1849050594878898, 
+        "artist": "Godflesh", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Prime Evil", 
+        "rating": 8.272727272727273, 
+        "genres": [
+            "Metal", 
+            "Traditional", 
+            "Speed"
+        ], 
+        "stddev": 1.132472677435969, 
+        "artist": "Venom", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Resurrection", 
+        "rating": 8.5, 
+        "genres": [
+            "Metal", 
+            "Traditional"
+        ], 
+        "stddev": 0.9354143466934853, 
+        "artist": "Venom", 
+        "codec": "flac", 
+        "nsongs": 14.0, 
+        "nrated": 14.0
+    }, 
+    {
+        "album": "Climax", 
+        "rating": 8.4, 
+        "genres": [
+            "Rock", 
+            "Post-Punk", 
+            "Indie"
+        ], 
+        "stddev": 1.1419281938896158, 
+        "artist": "Beastmilk", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Ardor", 
+        "rating": 7.909090909090909, 
+        "genres": [
+            "Etherial", 
+            "Dream"
+        ], 
+        "stddev": 1.0829600196717155, 
+        "artist": "Love Spirals Downwards", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Symbiosis LP", 
+        "rating": 8.5, 
+        "genres": [
+            "Electronic", 
+            "Drum & Bass", 
+            "Techstep"
+        ], 
+        "stddev": 1.070436048222094, 
+        "artist": "Enjoy / Eschaton", 
+        "codec": "mp3", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Van Halen II [2000 Remaster]", 
+        "rating": 8.1, 
+        "genres": [
+            "Rock", 
+            "Hard"
+        ], 
+        "stddev": 1.1353413583587977, 
+        "artist": "Van Halen", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Reflections", 
+        "rating": 7.461538461538462, 
+        "genres": [
+            "Electronic", 
+            "Trance"
+        ], 
+        "stddev": 1.7746251695751862, 
+        "artist": "Paul Van Dyk", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "Out There And Back", 
+        "rating": 8.4375, 
+        "genres": [
+            "Electronic", 
+            "Trance"
+        ], 
+        "stddev": 0.8568143669284497, 
+        "artist": "Paul van Dyk", 
+        "codec": "flac", 
+        "nsongs": 16.0, 
+        "nrated": 16.0
+    }, 
+    {
+        "album": "Seven Ways", 
+        "rating": 8.25, 
+        "genres": [
+            "Electronic", 
+            "Trance", 
+            "Techno"
+        ], 
+        "stddev": 0.8856494791959176, 
+        "artist": "Paul Van Dyk", 
+        "codec": "flac", 
+        "nsongs": 20.0, 
+        "nrated": 20.0
+    }, 
+    {
+        "album": "Fight The System", 
+        "rating": 8.272727272727273, 
+        "genres": [
+            "Rock", 
+            "Hard", 
+            "Metal", 
+            "Traditional"
+        ], 
+        "stddev": 1.0491311563960013, 
+        "artist": "Jaded Heart", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Nude", 
+        "rating": 8.166666666666666, 
+        "genres": [
+            "Alternative", 
+            "Rock"
+        ], 
+        "stddev": 1.2792865488521614, 
+        "artist": "Vast", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Trick", 
+        "rating": 7.9, 
+        "genres": [
+            "Electronic", 
+            "Dance", 
+            "House"
+        ], 
+        "stddev": 0.963846460801719, 
+        "artist": "Kele", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Maldire", 
+        "rating": 7.7272727272727275, 
+        "genres": [
+            "Electronic", 
+            "Industrial"
+        ], 
+        "stddev": 1.4176625453230118, 
+        "artist": "Velvet Acid Christ", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Lust For Blood", 
+        "rating": 7.6923076923076925, 
+        "genres": [
+            "Electronic", 
+            "Industrial", 
+            "Darkwave"
+        ], 
+        "stddev": 1.0845041698824813, 
+        "artist": "Velvet Acid Christ", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "The Endless Bummer", 
+        "rating": 7.5, 
+        "genres": [
+            "Electronic", 
+            "Trip-Hop"
+        ], 
+        "stddev": 1.1086778913041726, 
+        "artist": "Visit Venus", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Judgement", 
+        "rating": 7.444444444444445, 
+        "genres": [
+            "Electronic", 
+            "Futurepop"
+        ], 
+        "stddev": 1.5917310331069852, 
+        "artist": "VNV Nation", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Praise the Fallen", 
+        "rating": 7.2727272727272725, 
+        "genres": [
+            "Electronic", 
+            "Futurepop"
+        ], 
+        "stddev": 1.569812901895374, 
+        "artist": "VNV Nation", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Of Faith, Power and Glory", 
+        "rating": 7.777777777777778, 
+        "genres": [
+            "Electronic", 
+            "Futurepop"
+        ], 
+        "stddev": 1.5458249447932744, 
+        "artist": "VNV Nation", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Our Time Will Come", 
+        "rating": 7.8, 
+        "genres": [
+            "Electronic", 
+            "Industrial", 
+            "Metal"
+        ], 
+        "stddev": 1.0751744044572493, 
+        "artist": "KMFDM", 
+        "codec": "mp3", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Dubnobasswithmyheadman (2014 Remaster)", 
+        "rating": 7.777777777777778, 
+        "genres": [
+            "Electronic", 
+            "Techno"
+        ], 
+        "stddev": 1.472193104766799, 
+        "artist": "Underworld", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "The Year The Sun Died (Limited Edition)", 
+        "rating": 7.636363636363637, 
+        "genres": [
+            "Metal", 
+            "Progressive", 
+            "Groove"
+        ], 
+        "stddev": 1.0622969598724123, 
+        "artist": "Sanctuary", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Defiance", 
+        "rating": 8.3, 
+        "genres": [
+            "Rock", 
+            "AOR"
+        ], 
+        "stddev": 1.0959014554237982, 
+        "artist": "AdrianGale", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "The Singularity (Phase I - Neohumanity)", 
+        "rating": 8.666666666666666, 
+        "genres": [
+            "Metal", 
+            "Melodeath"
+        ], 
+        "stddev": 1.305260013830081, 
+        "artist": "Scar Symmetry", 
+        "codec": "flac", 
+        "nsongs": 6.0, 
+        "nrated": 6.0
+    }, 
+    {
+        "album": "Framework", 
+        "rating": 8.583333333333334, 
+        "genres": [
+            "Rock", 
+            "AOR"
+        ], 
+        "stddev": 1.0571077768382238, 
+        "artist": "Work Of Art", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "The Strength / The Sound / The Songs", 
+        "rating": 8.0, 
+        "genres": [
+            "Metal", 
+            "Metalbilly", 
+            "Groove"
+        ], 
+        "stddev": 1.0, 
+        "artist": "Volbeat", 
+        "codec": "flac", 
+        "nsongs": 14.0, 
+        "nrated": 14.0
     }
 ]
