@@ -7354,6 +7354,19 @@
         "nrated": 7.0
     }, 
     {
+        "album": "Still", 
+        "rating": 8.0, 
+        "genres": [
+            "Metal", 
+            "Neue Deutsche Haerte"
+        ], 
+        "stddev": 1.0, 
+        "artist": "DIE!", 
+        "codec": "flac", 
+        "nsongs": 14.0, 
+        "nrated": 14.0
+    }, 
+    {
         "album": "Outside", 
         "rating": 7.9, 
         "genres": [
@@ -26014,19 +26027,6 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "Still", 
-        "rating": 8.0, 
-        "genres": [
-            "Metal", 
-            "Neue Deutsche Haerte"
-        ], 
-        "stddev": 0.9258200997725514, 
-        "artist": "[die!]", 
-        "codec": "flac", 
-        "nsongs": 14.0, 
-        "nrated": 14.0
     }, 
     {
         "album": "Aldo Nova", 
