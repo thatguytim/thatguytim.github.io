@@ -7299,6 +7299,61 @@
         "nrated": 10.0
     }, 
     {
+        "album": "The House Of Atreus Act II", 
+        "rating": 7.111111111111111, 
+        "genres": [
+            "Metal", 
+            "Traditional", 
+            "Progressive"
+        ], 
+        "stddev": 1.7583818474769215, 
+        "artist": "Virgin Steele", 
+        "codec": "flac", 
+        "nsongs": 18.0, 
+        "nrated": 18.0
+    }, 
+    {
+        "album": "Human Zoo", 
+        "rating": 7.833333333333333, 
+        "genres": [
+            "Rock", 
+            "Indie", 
+            "Alternative"
+        ], 
+        "stddev": 1.153697758738622, 
+        "artist": "Electric Six", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Revelations", 
+        "rating": 8.7, 
+        "genres": [
+            "Metal", 
+            "Death"
+        ], 
+        "stddev": 1.1406138698087094, 
+        "artist": "Vader", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Stasis", 
+        "rating": 8.0, 
+        "genres": [
+            "Electronic", 
+            "Ambient", 
+            "Downtempo"
+        ], 
+        "stddev": 1.0690449676496976, 
+        "artist": "Zero Degree", 
+        "codec": "flac", 
+        "nsongs": 7.0, 
+        "nrated": 7.0
+    }, 
+    {
         "album": "Outside", 
         "rating": 7.9, 
         "genres": [
@@ -7657,18 +7712,6 @@
         "codec": "flac", 
         "nsongs": 12.0, 
         "nrated": 12.0
-    }, 
-    {
-        "album": "A Different Kind Of Truth", 
-        "rating": 6.769230769230769, 
-        "genres": [
-            "Rock"
-        ], 
-        "stddev": 1.1673762932768028, 
-        "artist": "Van Halen ", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
     }, 
     {
         "album": "OU812", 
@@ -13223,6 +13266,96 @@
         "codec": "flac", 
         "nsongs": 15.0, 
         "nrated": 15.0
+    }, 
+    {
+        "album": "Turquoise", 
+        "rating": 8.1, 
+        "genres": [
+            "Rock", 
+            "Alternative"
+        ], 
+        "stddev": 1.2284136111261548, 
+        "artist": "VAST", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Neuralblastoma", 
+        "rating": 7.333333333333333, 
+        "genres": [
+            "Electronic", 
+            "Industrial"
+        ], 
+        "stddev": 1.319371343004213, 
+        "artist": "Velvet Acid Christ", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Twisted Thought Generator", 
+        "rating": 7.666666666666667, 
+        "genres": [
+            "Industrial", 
+            "Electronic", 
+            "Spoken Word"
+        ], 
+        "stddev": 1.3833221775543036, 
+        "artist": "Velvet Acid Christ", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Magic Fly Variations", 
+        "rating": 7.75, 
+        "genres": [
+            "Downtempo"
+        ], 
+        "stddev": 2.161452058223823, 
+        "artist": "Visit Venus", 
+        "codec": "mp3", 
+        "nsongs": 4.0, 
+        "nrated": 4.0
+    }, 
+    {
+        "album": "Direct Memory access v2.0", 
+        "rating": 7.8, 
+        "genres": [
+            "Electronic", 
+            "Industrial"
+        ], 
+        "stddev": 1.776513439296196, 
+        "artist": "Inform\u00e4tik", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Burnt Offerings", 
+        "rating": 8.0, 
+        "genres": [
+            "Metal", 
+            "Power"
+        ], 
+        "stddev": 1.3093073414159542, 
+        "artist": "Iced Earth", 
+        "codec": "flac", 
+        "nsongs": 7.0, 
+        "nrated": 7.0
+    }, 
+    {
+        "album": "A Different Kind Of Truth", 
+        "rating": 6.769230769230769, 
+        "genres": [
+            "Rock"
+        ], 
+        "stddev": 1.1673762932768028, 
+        "artist": "Van Halen", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
     }, 
     {
         "album": "...And So It Begins", 
@@ -19593,6 +19726,32 @@
         "codec": "flac", 
         "nsongs": 11.0, 
         "nrated": 11.0
+    }, 
+    {
+        "album": "The Waste Lands", 
+        "rating": 8.4, 
+        "genres": [
+            "Metal", 
+            "Traditional"
+        ], 
+        "stddev": 1.0119288512538813, 
+        "artist": "Venom", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Singles 1980-1986 Re-Recorded (Cast In Stone - Bonus CD)", 
+        "rating": 8.666666666666666, 
+        "genres": [
+            "Metal", 
+            "Traditional"
+        ], 
+        "stddev": 1.0304020550550779, 
+        "artist": "Venom", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
     }, 
     {
         "album": "Frozen Ghost", 
@@ -26799,20 +26958,6 @@
         "nrated": 9.0
     }, 
     {
-        "album": "Our Time Will Come", 
-        "rating": 7.8, 
-        "genres": [
-            "Electronic", 
-            "Industrial", 
-            "Metal"
-        ], 
-        "stddev": 1.0751744044572493, 
-        "artist": "KMFDM", 
-        "codec": "mp3", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Dubnobasswithmyheadman (2014 Remaster)", 
         "rating": 7.777777777777778, 
         "genres": [
@@ -26824,20 +26969,6 @@
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
-    }, 
-    {
-        "album": "The Year The Sun Died (Limited Edition)", 
-        "rating": 7.636363636363637, 
-        "genres": [
-            "Metal", 
-            "Progressive", 
-            "Groove"
-        ], 
-        "stddev": 1.0622969598724123, 
-        "artist": "Sanctuary", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
     }, 
     {
         "album": "Defiance", 
@@ -26891,5 +27022,203 @@
         "codec": "flac", 
         "nsongs": 14.0, 
         "nrated": 14.0
+    }, 
+    {
+        "album": "Shivers", 
+        "rating": 8.444444444444445, 
+        "genres": [
+            "Electronic", 
+            "Trance"
+        ], 
+        "stddev": 1.1978490095404617, 
+        "artist": "Armin Van Buuren", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "The Ultimate Incantation", 
+        "rating": 8.181818181818182, 
+        "genres": [
+            "Metal", 
+            "Death"
+        ], 
+        "stddev": 1.0108353620773989, 
+        "artist": "Vader", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "XXV", 
+        "rating": 8.428571428571429, 
+        "genres": [
+            "Metal", 
+            "Death"
+        ], 
+        "stddev": 0.7239146898178759, 
+        "artist": "Vader", 
+        "codec": "flac", 
+        "nsongs": 28.0, 
+        "nrated": 28.0
+    }, 
+    {
+        "album": "Welcome To The Morbid Reich", 
+        "rating": 8.5, 
+        "genres": [
+            "Metal", 
+            "Death"
+        ], 
+        "stddev": 1.070436048222094, 
+        "artist": "Vader", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "The Beast", 
+        "rating": 8.11111111111111, 
+        "genres": [
+            "Metal", 
+            "Death"
+        ], 
+        "stddev": 0.9931176057623643, 
+        "artist": "Vader", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Love Is The Devil", 
+        "rating": 7.764705882352941, 
+        "genres": [
+            "Electronic", 
+            "Drum & Bass"
+        ], 
+        "stddev": 1.2012951827168568, 
+        "artist": "Blu Mar Ten", 
+        "codec": "flac", 
+        "nsongs": 17.0, 
+        "nrated": 17.0
+    }, 
+    {
+        "album": "Women And Children First [2000 Remaster]", 
+        "rating": 7.5, 
+        "genres": [
+            "Rock", 
+            "Hard"
+        ], 
+        "stddev": 1.403121520040228, 
+        "artist": "Van Halen", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "The Endless Bummer Remix Appendix", 
+        "rating": 7.545454545454546, 
+        "genres": [
+            "Electronic"
+        ], 
+        "stddev": 1.2255114389520212, 
+        "artist": "Visit Venus", 
+        "codec": "mp3", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "British Steel (2001 Remastered)", 
+        "rating": 9.444444444444445, 
+        "genres": [
+            "Metal", 
+            "Traditional"
+        ], 
+        "stddev": 1.2433637282662608, 
+        "artist": "Judas Priest", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Matter and Form", 
+        "rating": 7.5, 
+        "genres": [
+            "Electronic", 
+            "Futurepop"
+        ], 
+        "stddev": 2.219234102117215, 
+        "artist": "VNV Nation", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Our Time Will Come", 
+        "rating": 7.8, 
+        "genres": [
+            "Electronic", 
+            "Industrial", 
+            "Metal"
+        ], 
+        "stddev": 1.075174404457249, 
+        "artist": "KMFDM", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Power And The Glory", 
+        "rating": 8.0, 
+        "genres": [
+            "NWOBHM", 
+            "Metal", 
+            "Traditional"
+        ], 
+        "stddev": 1.118033988749895, 
+        "artist": "Saxon", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Weichen und Zunder", 
+        "rating": 7.75, 
+        "genres": [
+            "Metal", 
+            "Neue Deutsche Haerte"
+        ], 
+        "stddev": 1.087332362558324, 
+        "artist": "V\u00f6lkerball", 
+        "codec": "mp3", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "The Great Divide", 
+        "rating": 8.272727272727273, 
+        "genres": [
+            "Metal", 
+            "Traditional"
+        ], 
+        "stddev": 1.154158196261889, 
+        "artist": "Allen - Lande", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Worldchanger", 
+        "rating": 8.444444444444445, 
+        "genres": [
+            "Rock", 
+            "Hard", 
+            "Metal", 
+            "Traditional"
+        ], 
+        "stddev": 1.1558878914316473, 
+        "artist": "Jorn", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
     }
 ]
