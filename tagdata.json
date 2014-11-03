@@ -7367,6 +7367,48 @@
         "nrated": 14.0
     }, 
     {
+        "album": "Until Tomorrow", 
+        "rating": 7.555555555555555, 
+        "genres": [
+            "Electronic", 
+            "Ambient", 
+            "IDM"
+        ], 
+        "stddev": 1.1451573950918748, 
+        "artist": "Manual", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Drowned In Light", 
+        "rating": 7.363636363636363, 
+        "genres": [
+            "Electronic", 
+            "Ambient", 
+            "Post"
+        ], 
+        "stddev": 1.2581813404671143, 
+        "artist": "Manual", 
+        "codec": "mp3", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Thrill Of The Night", 
+        "rating": 8.6, 
+        "genres": [
+            "Hard", 
+            "Rock", 
+            "Hair"
+        ], 
+        "stddev": 1.0019980039900278, 
+        "artist": "Grand Design", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
         "album": "Outside", 
         "rating": 7.9, 
         "genres": [
@@ -13371,6 +13413,19 @@
         "nrated": 13.0
     }, 
     {
+        "album": "Absolute Dissent", 
+        "rating": 8.416666666666666, 
+        "genres": [
+            "Rock", 
+            "Alternative"
+        ], 
+        "stddev": 1.0304956556416414, 
+        "artist": "Killing Joke", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
         "album": "...And So It Begins", 
         "rating": 8.166666666666666, 
         "genres": [
@@ -16397,12 +16452,12 @@
     }, 
     {
         "album": "The Alchemist: The Best Of 1992-2012", 
-        "rating": 7.722222222222222, 
+        "rating": 7.666666666666667, 
         "genres": [
             "Electronic", 
             "Drum & Bass"
         ], 
-        "stddev": 1.8787399828561806, 
+        "stddev": 1.824050573264667, 
         "artist": "Goldie", 
         "codec": "flac", 
         "nsongs": 18.0, 
@@ -19762,6 +19817,20 @@
         ], 
         "stddev": 1.0304020550550779, 
         "artist": "Venom", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "A Love Moderne", 
+        "rating": 8.11111111111111, 
+        "genres": [
+            "Electronic", 
+            "House", 
+            "Tech-House"
+        ], 
+        "stddev": 1.1961300194040843, 
+        "artist": "Unai", 
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
@@ -26338,19 +26407,6 @@
         "nrated": 7.0
     }, 
     {
-        "album": "Songs of Innocence", 
-        "rating": 7.454545454545454, 
-        "genres": [
-            "Rock", 
-            "Soft"
-        ], 
-        "stddev": 1.063003979557919, 
-        "artist": "U2", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
         "album": "For What It's Worth", 
         "rating": 8.125, 
         "genres": [
@@ -27220,5 +27276,83 @@
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
+    }, 
+    {
+        "album": "Virus Of The Mind", 
+        "rating": 8.4, 
+        "genres": [
+            "Metal", 
+            "Melodeath"
+        ], 
+        "stddev": 1.0119288512538813, 
+        "artist": "Starkill", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Radiant (Deluxe Edition)", 
+        "rating": 8.125, 
+        "genres": [
+            "Synthpop", 
+            "Electronic"
+        ], 
+        "stddev": 1.262051281644292, 
+        "artist": "Iris", 
+        "codec": "flac", 
+        "nsongs": 16.0, 
+        "nrated": 16.0
+    }, 
+    {
+        "album": "The End Is Written", 
+        "rating": 8.125, 
+        "genres": [
+            "Metal", 
+            "Doom"
+        ], 
+        "stddev": 1.1784192271853002, 
+        "artist": "Doomocracy", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Seeking the Lost Mind", 
+        "rating": 8.0, 
+        "genres": [
+            "Electronic", 
+            "IDM"
+        ], 
+        "stddev": 1.044465935734187, 
+        "artist": "Tonikom", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "A Hundred Days Off", 
+        "rating": 8.2, 
+        "genres": [
+            "Electronic", 
+            "Techno"
+        ], 
+        "stddev": 1.5218409903797439, 
+        "artist": "Underworld", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "After We Go", 
+        "rating": 7.833333333333333, 
+        "genres": [
+            "Rock", 
+            "Post-Grunge"
+        ], 
+        "stddev": 1.4035338996288644, 
+        "artist": "Tantric", 
+        "codec": "mp3", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
     }
 ]
