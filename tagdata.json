@@ -3820,18 +3820,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Move Like This", 
-        "rating": 6.7, 
-        "genres": [
-            "Rock"
-        ], 
-        "stddev": 1.3787675656179326, 
-        "artist": "The Cars", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Hair, Denim, Sex, Metal", 
         "rating": 8.363636363636363, 
         "genres": [
@@ -13426,6 +13414,33 @@
         "nrated": 12.0
     }, 
     {
+        "album": "Psar Dymog", 
+        "rating": 6.777777777777778, 
+        "genres": [
+            "Electronic", 
+            "IDM", 
+            "Ambient"
+        ], 
+        "stddev": 1.3078847098525612, 
+        "artist": "Funckarma", 
+        "codec": "flac", 
+        "nsongs": 16.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Beaucoup Fish", 
+        "rating": 7.181818181818182, 
+        "genres": [
+            "Electronic", 
+            "Techno"
+        ], 
+        "stddev": 1.7454459366178885, 
+        "artist": "Underworld", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
         "album": "...And So It Begins", 
         "rating": 8.166666666666666, 
         "genres": [
@@ -15961,19 +15976,6 @@
         "codec": "flac", 
         "nsongs": 11.0, 
         "nrated": 11.0
-    }, 
-    {
-        "album": "Zooropa (2011 Release)", 
-        "rating": 7.1, 
-        "genres": [
-            "Alternative", 
-            "Rock"
-        ], 
-        "stddev": 1.9567830743339947, 
-        "artist": "U2", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
     }, 
     {
         "album": "October (2008 Remaster)", 
@@ -19834,6 +19836,20 @@
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
+    }, 
+    {
+        "album": "Children of Chaos", 
+        "rating": 7.8, 
+        "genres": [
+            "Electronic", 
+            "Rave", 
+            "Techno"
+        ], 
+        "stddev": 1.6480291259562132, 
+        "artist": "T99", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
     }, 
     {
         "album": "Frozen Ghost", 
@@ -27354,5 +27370,33 @@
         "codec": "mp3", 
         "nsongs": 12.0, 
         "nrated": 12.0
+    }, 
+    {
+        "album": "Barking", 
+        "rating": 7.0, 
+        "genres": [
+            "Electronic", 
+            "Techno"
+        ], 
+        "stddev": 2.0275875100994063, 
+        "artist": "Underworld", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Blood Lust", 
+        "rating": 8.25, 
+        "genres": [
+            "Rock", 
+            "Psychedelic", 
+            "Stoner", 
+            "Stoner Doom"
+        ], 
+        "stddev": 1.1692679333668567, 
+        "artist": "Uncle Acid and The Deadbeats", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
     }
 ]
