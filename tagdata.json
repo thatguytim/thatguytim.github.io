@@ -1908,19 +1908,6 @@
         "nrated": 12.0
     }, 
     {
-        "album": "Miracle", 
-        "rating": 8.555555555555555, 
-        "genres": [
-            "Pop", 
-            "Sophisti-Pop"
-        ], 
-        "stddev": 1.4195383627212446, 
-        "artist": "Kane Gang", 
-        "codec": "mp3", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
         "album": "Wild Beyond Belief", 
         "rating": 8.25, 
         "genres": [
@@ -1961,6 +1948,19 @@
         "codec": "mp3", 
         "nsongs": 13.0, 
         "nrated": 13.0
+    }, 
+    {
+        "album": "Miracle", 
+        "rating": 8.555555555555555, 
+        "genres": [
+            "Pop", 
+            "Sophisti-Pop"
+        ], 
+        "stddev": 1.4539101056585573, 
+        "artist": "Kane Gang", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
     }, 
     {
         "album": "Zipless", 
@@ -7397,17 +7397,17 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Outside", 
-        "rating": 7.9, 
+        "album": "Lichter Der Stadt", 
+        "rating": 7.333333333333333, 
         "genres": [
-            "Electronic", 
-            "Chillwave"
+            "Rock", 
+            "Pop"
         ], 
-        "stddev": 1.1353413583587977, 
-        "artist": "CFCF", 
+        "stddev": 1.2881223774390613, 
+        "artist": "Unheilig", 
         "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
+        "nsongs": 15.0, 
+        "nrated": 15.0
     }, 
     {
         "album": "Cloudcuckooland", 
@@ -12056,20 +12056,6 @@
         "nrated": 13.0
     }, 
     {
-        "album": "Music For Objects", 
-        "rating": 6.25, 
-        "genres": [
-            "Electronic", 
-            "Techno", 
-            "Experimental"
-        ], 
-        "stddev": 0.9642030387838445, 
-        "artist": "CFCF", 
-        "codec": "flac", 
-        "nsongs": 8.0, 
-        "nrated": 8.0
-    }, 
-    {
         "album": "Daydream Forever", 
         "rating": 8.5, 
         "genres": [
@@ -13176,20 +13162,6 @@
         "nrated": 8.0
     }, 
     {
-        "album": "Hurry Up, We're Dreaming", 
-        "rating": 6.875, 
-        "genres": [
-            "Indie", 
-            "Rock", 
-            "Chillwave"
-        ], 
-        "stddev": 1.8913350939217513, 
-        "artist": "M83", 
-        "codec": "flac", 
-        "nsongs": 16.0, 
-        "nrated": 16.0
-    }, 
-    {
         "album": "War And Pain", 
         "rating": 8.0, 
         "genres": [
@@ -13415,17 +13387,17 @@
     }, 
     {
         "album": "Psar Dymog", 
-        "rating": 6.777777777777778, 
+        "rating": 6.6875, 
         "genres": [
             "Electronic", 
             "IDM", 
             "Ambient"
         ], 
-        "stddev": 1.3078847098525612, 
+        "stddev": 1.1616218121122726, 
         "artist": "Funckarma", 
         "codec": "flac", 
         "nsongs": 16.0, 
-        "nrated": 9.0
+        "nrated": 16.0
     }, 
     {
         "album": "Beaucoup Fish", 
@@ -13439,6 +13411,33 @@
         "codec": "flac", 
         "nsongs": 11.0, 
         "nrated": 11.0
+    }, 
+    {
+        "album": "It's A Jazz Thing", 
+        "rating": 7.9, 
+        "genres": [
+            "Electronic", 
+            "Drum & Bass", 
+            "Liquid"
+        ], 
+        "stddev": 1.2996153277027784, 
+        "artist": "Utah Jazz", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Martian Arts", 
+        "rating": 7.0, 
+        "genres": [
+            "Jazz", 
+            "Electronic"
+        ], 
+        "stddev": 1.70293863659264, 
+        "artist": "Jimpster", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
     }, 
     {
         "album": "...And So It Begins", 
@@ -19703,19 +19702,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Continent", 
-        "rating": 8.0, 
-        "genres": [
-            "Electronic", 
-            "Downtempo"
-        ], 
-        "stddev": 1.2060453783110545, 
-        "artist": "CFCF", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
         "album": "Soli Deo Gloria", 
         "rating": 7.777777777777778, 
         "genres": [
@@ -19850,6 +19836,73 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
+    }, 
+    {
+        "album": "Brilliant", 
+        "rating": 7.333333333333333, 
+        "genres": [
+            "Electronic", 
+            "Pop", 
+            "Synthpop"
+        ], 
+        "stddev": 1.4969103983674976, 
+        "artist": "Ultravox", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Boy (2008 Remaster) Bonus CD", 
+        "rating": 8.25, 
+        "genres": [
+            "Rock", 
+            "Alternative", 
+            "Post-Punk"
+        ], 
+        "stddev": 1.6345871038277526, 
+        "artist": "U2", 
+        "codec": "flac", 
+        "nsongs": 4.0, 
+        "nrated": 4.0
+    }, 
+    {
+        "album": "Doom Castle", 
+        "rating": 8.625, 
+        "genres": [
+            "Metal", 
+            "Symphonic", 
+            "Video Game"
+        ], 
+        "stddev": 1.1981430945425509, 
+        "artist": "Ultranomicon", 
+        "codec": "mp3", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Greatest Hits Sound Of Money", 
+        "rating": 9.083333333333334, 
+        "genres": [
+            "Rock"
+        ], 
+        "stddev": 1.2273409227841874, 
+        "artist": "Eddie Money", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Death On The Installment Plan", 
+        "rating": 7.090909090909091, 
+        "genres": [
+            "Electronic", 
+            "Industrial"
+        ], 
+        "stddev": 2.2978773728674664, 
+        "artist": "Numb", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
     }, 
     {
         "album": "Frozen Ghost", 
@@ -22260,19 +22313,6 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "Life, Love & Hope", 
-        "rating": 7.818181818181818, 
-        "genres": [
-            "Rock", 
-            "AOR"
-        ], 
-        "stddev": 1.027056950935933, 
-        "artist": "Boston", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
     }, 
     {
         "album": "Cold Shoulder", 
@@ -27398,5 +27438,382 @@
         "codec": "flac", 
         "nsongs": 8.0, 
         "nrated": 8.0
+    }, 
+    {
+        "album": "Das 2. Gebot (+ Maschine)", 
+        "rating": 8.333333333333334, 
+        "genres": [
+            "Electronic", 
+            "Darkwave"
+        ], 
+        "stddev": 1.1979921473804345, 
+        "artist": "Unheilig", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Change the Weather", 
+        "rating": 8.4, 
+        "genres": [
+            "Pop"
+        ], 
+        "stddev": 1.0507140429250956, 
+        "artist": "Underworld", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Zombieland", 
+        "rating": 7.916666666666667, 
+        "genres": [
+            "Metal", 
+            "Neue Deutsche Haerte"
+        ], 
+        "stddev": 1.0372127000693663, 
+        "artist": "Megaherz", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Time To Dream", 
+        "rating": 8.1, 
+        "genres": [
+            "Electronic", 
+            "Drum & Bass", 
+            "Liquid"
+        ], 
+        "stddev": 1.2996153277027784, 
+        "artist": "Payback & Soul Connection", 
+        "codec": "mp3", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Februus", 
+        "rating": 7.7272727272727275, 
+        "genres": [
+            "Metal", 
+            "Math", 
+            "Djent"
+        ], 
+        "stddev": 1.1324726774359692, 
+        "artist": "Uneven Structure", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Grosse Freiheit", 
+        "rating": 8.0625, 
+        "genres": [
+            "Darkwave", 
+            "Synthpop", 
+            "Rock"
+        ], 
+        "stddev": 1.1472410859862892, 
+        "artist": "Unheilig", 
+        "codec": "flac", 
+        "nsongs": 16.0, 
+        "nrated": 16.0
+    }, 
+    {
+        "album": "Zelluloid", 
+        "rating": 7.933333333333334, 
+        "genres": [
+            "Electronic", 
+            "Darkwave"
+        ], 
+        "stddev": 1.0623523862601303, 
+        "artist": "Unheilig", 
+        "codec": "flac", 
+        "nsongs": 15.0, 
+        "nrated": 15.0
+    }, 
+    {
+        "album": "Creatures Of The Night", 
+        "rating": 8.88888888888889, 
+        "genres": [
+            "Rock", 
+            "Hard", 
+            "Hair"
+        ], 
+        "stddev": 1.3281793390400818, 
+        "artist": "Kiss", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Indefinite Soul-Extension", 
+        "rating": 8.25, 
+        "genres": [
+            "Metal", 
+            "Death", 
+            "Progressive", 
+            "Melodeath"
+        ], 
+        "stddev": 1.195695404356812, 
+        "artist": "Unmoored", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Guiding Lights", 
+        "rating": 8.2, 
+        "genres": [
+            "Progressive", 
+            "Rock", 
+            "Alternative Metal"
+        ], 
+        "stddev": 1.0936178491593849, 
+        "artist": "Skyharbor", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Countdown to Extinction", 
+        "rating": 8.0, 
+        "genres": [
+            "Metal", 
+            "Traditional"
+        ], 
+        "stddev": 1.1281521496355325, 
+        "artist": "Megadeth", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "First Of The Five Elements", 
+        "rating": 8.166666666666666, 
+        "genres": [
+            "Metal", 
+            "Power"
+        ], 
+        "stddev": 1.1415956993352507, 
+        "artist": "Warmen", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "The Very Best Of", 
+        "rating": 8.266666666666667, 
+        "genres": [
+            "Rock", 
+            "Hard"
+        ], 
+        "stddev": 1.2874321269416424, 
+        "artist": "Uriah Heep", 
+        "codec": "flac", 
+        "nsongs": 15.0, 
+        "nrated": 15.0
+    }, 
+    {
+        "album": "Unified", 
+        "rating": 7.555555555555555, 
+        "genres": [
+            "Electronic", 
+            "Trance"
+        ], 
+        "stddev": 1.1558878914316473, 
+        "artist": "Super8 & Tab", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Ingenuity", 
+        "rating": 7.9, 
+        "genres": [
+            "Pop", 
+            "Synthpop"
+        ], 
+        "stddev": 1.212023102090055, 
+        "artist": "Ultravox", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Lost Science LP", 
+        "rating": 9.0, 
+        "genres": [
+            "Electronic", 
+            "Drum & Bass", 
+            "Darkstep"
+        ], 
+        "stddev": 1.2535663410560174, 
+        "artist": "Asymmetric", 
+        "codec": "mp3", 
+        "nsongs": 7.0, 
+        "nrated": 7.0
+    }, 
+    {
+        "album": "Lost Science LP", 
+        "rating": 8.8, 
+        "genres": [
+            "Electronic", 
+            "Drum & Bass", 
+            "Atmospheric"
+        ], 
+        "stddev": 1.2774975538137046, 
+        "artist": "Limit", 
+        "codec": "mp3", 
+        "nsongs": 5.0, 
+        "nrated": 5.0
+    }, 
+    {
+        "album": "Superstition", 
+        "rating": 8.444444444444445, 
+        "genres": [
+            "Mall", 
+            "Gothic", 
+            "Synth Rock"
+        ], 
+        "stddev": 1.1558878914316473, 
+        "artist": "The Birthday Massacre", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Horizons 01", 
+        "rating": 8.090909090909092, 
+        "genres": [
+            "Electronic", 
+            "Trance"
+        ], 
+        "stddev": 1.0829600196717155, 
+        "artist": "Darren Tate", 
+        "codec": "mp3", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Twenty First Century Skin", 
+        "rating": 7.916666666666667, 
+        "genres": [
+            "Electronic", 
+            "Techno", 
+            "Dance"
+        ], 
+        "stddev": 1.2608326907540404, 
+        "artist": "Praga Khan", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Grand Morbid Funeral (Limited Edition)", 
+        "rating": 8.363636363636363, 
+        "genres": [
+            "Metal", 
+            "Death"
+        ], 
+        "stddev": 1.0622969598724123, 
+        "artist": "Bloodbath", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Elemental", 
+        "rating": 7.4, 
+        "genres": [
+            "Alternative", 
+            "Pop"
+        ], 
+        "stddev": 1.5760710643876437, 
+        "artist": "Tears for Fears", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Lemon", 
+        "rating": 9.166666666666666, 
+        "genres": [
+            "Electronic", 
+            "Dance", 
+            "Alternative", 
+            "Rock"
+        ], 
+        "stddev": 1.9208890688467188, 
+        "artist": "U2", 
+        "codec": "flac", 
+        "nsongs": 6.0, 
+        "nrated": 6.0
+    }, 
+    {
+        "album": "Colours", 
+        "rating": 9.0, 
+        "genres": [
+            "Jazz", 
+            "Electronic", 
+            "Drum & Bass"
+        ], 
+        "stddev": 1.51657508881031, 
+        "artist": "Adam F", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Neon At Night", 
+        "rating": 7.769230769230769, 
+        "genres": [
+            "Jazz", 
+            "Smooth"
+        ], 
+        "stddev": 1.294749735493431, 
+        "artist": "Blue Knights", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "Temperamental", 
+        "rating": 9.1, 
+        "genres": [
+            "Electronic"
+        ], 
+        "stddev": 1.3449907062875939, 
+        "artist": "Everything But the Girl", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Goldene Zeit 1989-1993", 
+        "rating": 7.785714285714286, 
+        "genres": [
+            "Electronic", 
+            "EBM", 
+            "New Beat"
+        ], 
+        "stddev": 1.5191920900314067, 
+        "artist": "U-Tek", 
+        "codec": "flac", 
+        "nsongs": 14.0, 
+        "nrated": 14.0
+    }, 
+    {
+        "album": "Retribution", 
+        "rating": 8.2, 
+        "genres": [
+            "Metal", 
+            "Progressive"
+        ], 
+        "stddev": 1.0751744044572487, 
+        "artist": "Nightingale", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
     }
 ]
