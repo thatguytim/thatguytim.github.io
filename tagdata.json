@@ -52,12 +52,12 @@
     }, 
     {
         "album": "Trapped In Perdition", 
-        "rating": 8.0, 
+        "rating": 7.9, 
         "genres": [
             "Metal", 
             "Thrash"
         ], 
-        "stddev": 1.0954451150103321, 
+        "stddev": 1.0435516278555652, 
         "artist": "Fueled By Fire", 
         "codec": "flac", 
         "nsongs": 10.0, 
@@ -1167,31 +1167,6 @@
         ], 
         "stddev": 1.1446803102929444, 
         "artist": "Suicidal Tendencies", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
-        "album": "Beatitude", 
-        "rating": 6.7, 
-        "genres": [
-            "Rock", 
-            "Pop"
-        ], 
-        "stddev": 1.4969969939849581, 
-        "artist": "Ric Ocasek", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
-        "album": "This Side Of Paradise", 
-        "rating": 8.0, 
-        "genres": [
-            "Pop"
-        ], 
-        "stddev": 1.651445647689541, 
-        "artist": "Ric Ocasek", 
         "codec": "flac", 
         "nsongs": 11.0, 
         "nrated": 11.0
@@ -3576,13 +3551,13 @@
     }, 
     {
         "album": "The Crystal Eye", 
-        "rating": 8.5, 
+        "rating": 8.375, 
         "genres": [
             "Metal", 
             "Traditional", 
             "Doom"
         ], 
-        "stddev": 1.159202311936963, 
+        "stddev": 1.1447911927508876, 
         "artist": "Sinister Realm", 
         "codec": "flac", 
         "nsongs": 8.0, 
@@ -3808,20 +3783,6 @@
         "codec": "flac", 
         "nsongs": 23.0, 
         "nrated": 23.0
-    }, 
-    {
-        "album": "Fahrenheit Fair Enough", 
-        "rating": 7.875, 
-        "genres": [
-            "Electronic", 
-            "Glitch", 
-            "Downtempo"
-        ], 
-        "stddev": 1.6996093301108934, 
-        "artist": "Telefon Tel Aviv", 
-        "codec": "flac", 
-        "nsongs": 8.0, 
-        "nrated": 8.0
     }, 
     {
         "album": "Street Talk", 
@@ -6197,18 +6158,6 @@
         "nrated": 13.0
     }, 
     {
-        "album": "Fish Eat Duck", 
-        "rating": 7.166666666666667, 
-        "genres": [
-            "Electronic"
-        ], 
-        "stddev": 1.235096337523095, 
-        "artist": "Electrosoul System", 
-        "codec": "mp3", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
         "album": "Snow Globe", 
         "rating": 7.923076923076923, 
         "genres": [
@@ -7304,6 +7253,19 @@
         "nrated": 15.0
     }, 
     {
+        "album": "Animal Instinct", 
+        "rating": 7.636363636363637, 
+        "genres": [
+            "Rock", 
+            "Hard"
+        ], 
+        "stddev": 1.1446803102929444, 
+        "artist": "Tygers Of Pan Tang", 
+        "codec": "mp3", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
         "album": "Cloudcuckooland", 
         "rating": 7.916666666666667, 
         "genres": [
@@ -7895,21 +7857,6 @@
         "codec": "flac", 
         "nsongs": 19.0, 
         "nrated": 19.0
-    }, 
-    {
-        "album": "Vengeance Falls", 
-        "rating": 7.833333333333333, 
-        "genres": [
-            "Metal", 
-            "NWOAHM", 
-            "Modern", 
-            "Metalcore"
-        ], 
-        "stddev": 1.2123973801552888, 
-        "artist": "Trivium", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 12.0
     }, 
     {
         "album": "Fuck the Universe", 
@@ -12764,21 +12711,6 @@
         "nrated": 12.0
     }, 
     {
-        "album": "Es Cub", 
-        "rating": 7.7, 
-        "genres": [
-            "Electronic", 
-            "Techno", 
-            "House", 
-            "Tech-House"
-        ], 
-        "stddev": 1.030048542545447, 
-        "artist": "Manuel Tur", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Revelation", 
         "rating": 7.5, 
         "genres": [
@@ -13372,6 +13304,32 @@
         "codec": "flac", 
         "nsongs": 11.0, 
         "nrated": 11.0
+    }, 
+    {
+        "album": "Don't Come Easy", 
+        "rating": 7.9, 
+        "genres": [
+            "Rock", 
+            "Hair"
+        ], 
+        "stddev": 1.4384018909887464, 
+        "artist": "Tyketto", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Dead Again", 
+        "rating": 8.2, 
+        "genres": [
+            "Metal", 
+            "Gothic"
+        ], 
+        "stddev": 1.198332174315619, 
+        "artist": "Type O Negative", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
     }, 
     {
         "album": "...And So It Begins", 
@@ -14196,22 +14154,6 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "The Chill Lounge  Volume 2", 
-        "rating": 7.769230769230769, 
-        "genres": [
-            "Electronic", 
-            "Downtempo", 
-            "Chill", 
-            "Jazz", 
-            "Smooth"
-        ], 
-        "stddev": 1.5255374303912725, 
-        "artist": "Paul Hardcastle", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
     }, 
     {
         "album": "Hardcastle VII", 
@@ -19930,6 +19872,32 @@
         "nrated": 18.0
     }, 
     {
+        "album": "Lost Science LP", 
+        "rating": 9.0, 
+        "genres": [
+            "Electronic", 
+            "Drum & Bass", 
+            "Darkstep"
+        ], 
+        "stddev": 1.2535663410560174, 
+        "artist": "Asymmetric", 
+        "codec": "flac", 
+        "nsongs": 7.0, 
+        "nrated": 7.0
+    }, 
+    {
+        "album": "Cocktails", 
+        "rating": 7.75, 
+        "genres": [
+            "Rap"
+        ], 
+        "stddev": 1.7365554986812255, 
+        "artist": "Too $hort", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
         "album": "Frozen Ghost", 
         "rating": 8.3, 
         "genres": [
@@ -20563,6 +20531,31 @@
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
+    }, 
+    {
+        "album": "Toto", 
+        "rating": 8.4, 
+        "genres": [
+            "Rock"
+        ], 
+        "stddev": 1.4913081505845798, 
+        "artist": "Toto", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Ten.One.Point.One.", 
+        "rating": 7.6, 
+        "genres": [
+            "Electronic", 
+            "IDM"
+        ], 
+        "stddev": 1.1419281938896158, 
+        "artist": "Autoclav1.1", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
     }, 
     {
         "album": "Release", 
@@ -26367,13 +26360,13 @@
     }, 
     {
         "album": "Minus Tide", 
-        "rating": 7.9, 
+        "rating": 8.0, 
         "genres": [
             "Indie", 
             "Electronic", 
             "Electropop"
         ], 
-        "stddev": 1.1353413583587977, 
+        "stddev": 1.1832159566199232, 
         "artist": "Lemonade", 
         "codec": "flac", 
         "nsongs": 10.0, 
@@ -26577,20 +26570,6 @@
         "codec": "flac", 
         "nsongs": 17.0, 
         "nrated": 17.0
-    }, 
-    {
-        "album": "The 7th Seal", 
-        "rating": 9.0, 
-        "genres": [
-            "Electronic", 
-            "Drum & Bass", 
-            "Atmospheric"
-        ], 
-        "stddev": 1.1338934190276817, 
-        "artist": "View to the Future", 
-        "codec": "mp3", 
-        "nsongs": 7.0, 
-        "nrated": 7.0
     }, 
     {
         "album": "Hymns For The Broken", 
@@ -27545,34 +27524,6 @@
         "nrated": 9.0
     }, 
     {
-        "album": "Lost Science LP", 
-        "rating": 9.0, 
-        "genres": [
-            "Electronic", 
-            "Drum & Bass", 
-            "Darkstep"
-        ], 
-        "stddev": 1.2535663410560174, 
-        "artist": "Asymmetric", 
-        "codec": "mp3", 
-        "nsongs": 7.0, 
-        "nrated": 7.0
-    }, 
-    {
-        "album": "Lost Science LP", 
-        "rating": 8.8, 
-        "genres": [
-            "Electronic", 
-            "Drum & Bass", 
-            "Atmospheric"
-        ], 
-        "stddev": 1.2774975538137046, 
-        "artist": "Limit", 
-        "codec": "mp3", 
-        "nsongs": 5.0, 
-        "nrated": 5.0
-    }, 
-    {
         "album": "Superstition", 
         "rating": 8.444444444444445, 
         "genres": [
@@ -27806,19 +27757,6 @@
         "codec": "flac", 
         "nsongs": 15.0, 
         "nrated": 15.0
-    }, 
-    {
-        "album": "Ambush", 
-        "rating": 7.285714285714286, 
-        "genres": [
-            "Rock", 
-            "Hard"
-        ], 
-        "stddev": 1.2489062270036113, 
-        "artist": "Tygers Of Pan Tang", 
-        "codec": "flac", 
-        "nsongs": 7.0, 
-        "nrated": 7.0
     }, 
     {
         "album": "Crazy Lixx", 
@@ -28100,5 +28038,207 @@
         "codec": "flac", 
         "nsongs": 4.0, 
         "nrated": 4.0
+    }, 
+    {
+        "album": "Come Out And Play", 
+        "rating": 8.0, 
+        "genres": [
+            "Rock", 
+            "Hair"
+        ], 
+        "stddev": 1.2792042981336627, 
+        "artist": "Twisted Sister", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Honour & Blood", 
+        "rating": 8.428571428571429, 
+        "genres": [
+            "Metal", 
+            "Traditional", 
+            "NWOBHM"
+        ], 
+        "stddev": 1.1668401925651273, 
+        "artist": "Tank", 
+        "codec": "mp3", 
+        "nsongs": 7.0, 
+        "nrated": 7.0
+    }, 
+    {
+        "album": "The 7th Seal", 
+        "rating": 9.0, 
+        "genres": [
+            "Electronic", 
+            "Drum & Bass", 
+            "Atmospheric"
+        ], 
+        "stddev": 1.1338934190276817, 
+        "artist": "View to the Future", 
+        "codec": "flac", 
+        "nsongs": 7.0, 
+        "nrated": 7.0
+    }, 
+    {
+        "album": "Avenue", 
+        "rating": 8.1, 
+        "genres": [
+            "Electronic", 
+            "Downtempo"
+        ], 
+        "stddev": 1.220245876862528, 
+        "artist": "Ten Madison", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Diary Of A Lonely Sailor", 
+        "rating": 9.0, 
+        "genres": [
+            "Electronic", 
+            "House", 
+            "Deep"
+        ], 
+        "stddev": 1.3627702877384937, 
+        "artist": "The Timewriter", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 7.0
+    }, 
+    {
+        "album": "Ambush", 
+        "rating": 7.545454545454546, 
+        "genres": [
+            "Rock", 
+            "Hard"
+        ], 
+        "stddev": 1.1123917821904736, 
+        "artist": "Tygers Of Pan Tang", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Bloody Kisses [CD1]", 
+        "rating": 8.3, 
+        "genres": [
+            "Metal", 
+            "Gothic"
+        ], 
+        "stddev": 1.3931977605494488, 
+        "artist": "Type O Negative", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Bloody Kisses [CD2]", 
+        "rating": 8.4, 
+        "genres": [
+            "Metal", 
+            "Gothic"
+        ], 
+        "stddev": 1.5388307249337076, 
+        "artist": "Type O Negative", 
+        "codec": "flac", 
+        "nsongs": 5.0, 
+        "nrated": 5.0
+    }, 
+    {
+        "album": "Lost Science LP", 
+        "rating": 8.8, 
+        "genres": [
+            "Electronic", 
+            "Drum & Bass", 
+            "Atmospheric"
+        ], 
+        "stddev": 1.3971399357258383, 
+        "artist": "Limit", 
+        "codec": "flac", 
+        "nsongs": 5.0, 
+        "nrated": 5.0
+    }, 
+    {
+        "album": "Backstreet Symphony", 
+        "rating": 8.181818181818182, 
+        "genres": [
+            "Rock", 
+            "Hair"
+        ], 
+        "stddev": 1.027056950935933, 
+        "artist": "Thunder", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Imaginations From The Other Side", 
+        "rating": 9.222222222222221, 
+        "genres": [
+            "Metal", 
+            "Power"
+        ], 
+        "stddev": 1.1995655363482702, 
+        "artist": "Blind Guardian", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "High Society", 
+        "rating": 8.333333333333334, 
+        "genres": [
+            "Electronic", 
+            "Drum & Bass", 
+            "Liquid"
+        ], 
+        "stddev": 2.1744873100867697, 
+        "artist": "High Contrast", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Satan's Boundaries Unchained", 
+        "rating": 8.125, 
+        "genres": [
+            "Metal", 
+            "Black", 
+            "Thrash", 
+            "Satanic"
+        ], 
+        "stddev": 1.165084492644203, 
+        "artist": "Ketzer", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Low", 
+        "rating": 7.7272727272727275, 
+        "genres": [
+            "Metal", 
+            "Groove"
+        ], 
+        "stddev": 1.4176625453230118, 
+        "artist": "Testament", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Dark Roots of Earth [Deluxe Edition]", 
+        "rating": 8.384615384615385, 
+        "genres": [
+            "Metal", 
+            "Thrash"
+        ], 
+        "stddev": 1.2066799359858384, 
+        "artist": "Testament", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
     }
 ]
