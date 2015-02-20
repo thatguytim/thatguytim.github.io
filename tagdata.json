@@ -1885,6 +1885,126 @@
         "nrated": 9.0
     }, 
     {
+        "album": "Anamantium", 
+        "rating": 8.090909090909092, 
+        "genres": [
+            "Metal", 
+            "Metalcore", 
+            "Melodeath"
+        ], 
+        "stddev": 0.9954819046015757, 
+        "artist": "O.M.T", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Even Angels Cast Shadows", 
+        "rating": 9.0, 
+        "genres": [
+            "Electronic", 
+            "Drum & Bass"
+        ], 
+        "stddev": 1.2909944487358056, 
+        "artist": "Omni Trio", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Artic Noise", 
+        "rating": 7.75, 
+        "genres": [
+            "Electronic", 
+            "Industrial"
+        ], 
+        "stddev": 1.5189771777965153, 
+        "artist": "Run Level Zero", 
+        "codec": "mp3", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "All That Glitters", 
+        "rating": 8.0, 
+        "genres": [
+            "Electronic", 
+            "Techno", 
+            "Tech-House"
+        ], 
+        "stddev": 1.2649110640673518, 
+        "artist": "MRI", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "The Joshua Tree (2008 Remaster)", 
+        "rating": 7.7272727272727275, 
+        "genres": [
+            "Rock"
+        ], 
+        "stddev": 2.0793789166932948, 
+        "artist": "U2", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "When The Night", 
+        "rating": 8.818181818181818, 
+        "genres": [
+            "Indie", 
+            "Electropop", 
+            "Pop"
+        ], 
+        "stddev": 1.2876924188601027, 
+        "artist": "St. Lucia", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Night Cafe", 
+        "rating": 7.5, 
+        "genres": [
+            "Electronic", 
+            "Pop", 
+            "Synthpop"
+        ], 
+        "stddev": 0.9617692030835673, 
+        "artist": "Orchestral Manoeuvres In The Dark", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Amongst The Catacombs Of Nephren-Ka", 
+        "rating": 8.3, 
+        "genres": [
+            "Metal", 
+            "Death"
+        ], 
+        "stddev": 1.0959014554237982, 
+        "artist": "Nile", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Alive Again: The Breathing Shadow pt.4", 
+        "rating": 8.444444444444445, 
+        "genres": [
+            "Progressive", 
+            "Rock"
+        ], 
+        "stddev": 1.1978490095404617, 
+        "artist": "Nightingale", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
         "album": "Zipless", 
         "rating": 7.9, 
         "genres": [
@@ -6633,19 +6753,6 @@
         "codec": "flac", 
         "nsongs": 12.0, 
         "nrated": 12.0
-    }, 
-    {
-        "album": "Bled White", 
-        "rating": 8.3, 
-        "genres": [
-            "Metal", 
-            "Doom"
-        ], 
-        "stddev": 1.030048542545447, 
-        "artist": "Novembers Doom", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
     }, 
     {
         "album": "Japanese Hospitality", 
@@ -11822,19 +11929,6 @@
         "nrated": 11.0
     }, 
     {
-        "album": "Act III", 
-        "rating": 7.8, 
-        "genres": [
-            "Metal", 
-            "Thrash"
-        ], 
-        "stddev": 0.9777525249264256, 
-        "artist": "Death Angel", 
-        "codec": "mp3", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Prisma", 
         "rating": 8.0, 
         "genres": [
@@ -16022,18 +16116,6 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "The Joshua Tree (2008 Remaster)", 
-        "rating": 7.818181818181818, 
-        "genres": [
-            "Rock"
-        ], 
-        "stddev": 1.923401694820759, 
-        "artist": "U2", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
     }, 
     {
         "album": "October (2008 Remaster)", 
@@ -21589,20 +21671,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Night Cafe", 
-        "rating": 7.5, 
-        "genres": [
-            "Electronic", 
-            "Pop", 
-            "Synthpop"
-        ], 
-        "stddev": 0.9617692030835673, 
-        "artist": "Orchestral Manoeuvres In The Dark", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Breakfast Club", 
         "rating": 8.444444444444445, 
         "genres": [
@@ -26201,20 +26269,6 @@
         "nrated": 14.0
     }, 
     {
-        "album": "When The Night", 
-        "rating": 8.818181818181818, 
-        "genres": [
-            "Indie", 
-            "Electropop", 
-            "Pop"
-        ], 
-        "stddev": 1.3004651540235328, 
-        "artist": "St. Lucia", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
         "album": "Rock The Rebel / Metal The Dev", 
         "rating": 8.909090909090908, 
         "genres": [
@@ -29468,6 +29522,46 @@
         ], 
         "stddev": 1.220245876862528, 
         "artist": "Testament", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "All The Wrong Places", 
+        "rating": 8.222222222222221, 
+        "genres": [
+            "Electronic", 
+            "IDM"
+        ], 
+        "stddev": 1.1523221619336332, 
+        "artist": "Recue", 
+        "codec": "mp3", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Lounge", 
+        "rating": 8.125, 
+        "genres": [
+            "Electronic", 
+            "Drum & Bass", 
+            "Darkstep"
+        ], 
+        "stddev": 1.1784192271853002, 
+        "artist": "Quoit", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Act III", 
+        "rating": 7.8, 
+        "genres": [
+            "Metal", 
+            "Thrash"
+        ], 
+        "stddev": 0.9777525249264257, 
+        "artist": "Death Angel", 
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
