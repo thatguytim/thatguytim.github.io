@@ -1010,19 +1010,6 @@
         "nrated": 8.0
     }, 
     {
-        "album": "Wonky", 
-        "rating": 7.333333333333333, 
-        "genres": [
-            "Electronic", 
-            "Techno"
-        ], 
-        "stddev": 2.484519974999766, 
-        "artist": "Orbital", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
         "album": "Death Or Glory", 
         "rating": 8.333333333333334, 
         "genres": [
@@ -2422,20 +2409,6 @@
         "codec": "flac", 
         "nsongs": 11.0, 
         "nrated": 11.0
-    }, 
-    {
-        "album": "Poets and Madmen (2011 Remaster)", 
-        "rating": 7.538461538461538, 
-        "genres": [
-            "Progressive", 
-            "Prog", 
-            "Metal"
-        ], 
-        "stddev": 1.2715148893314359, 
-        "artist": "Savatage", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
     }, 
     {
         "album": "The New Sound Of The True Best", 
@@ -6744,20 +6717,6 @@
         "nrated": 14.0
     }, 
     {
-        "album": "Phobia", 
-        "rating": 7.461538461538462, 
-        "genres": [
-            "Electronic", 
-            "Dance", 
-            "Electropop"
-        ], 
-        "stddev": 1.172239976922676, 
-        "artist": "Viva City", 
-        "codec": "mp3", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
-    }, 
-    {
         "album": "Under The Influence", 
         "rating": 8.0, 
         "genres": [
@@ -8891,32 +8850,6 @@
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
-    }, 
-    {
-        "album": "The Scattering", 
-        "rating": 6.75, 
-        "genres": [
-            "Pop", 
-            "Rock"
-        ], 
-        "stddev": 1.9189298232782424, 
-        "artist": "Cutting Crew", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
-        "album": "Broadcast", 
-        "rating": 8.0, 
-        "genres": [
-            "Pop", 
-            "Rock"
-        ], 
-        "stddev": 1.61245154965971, 
-        "artist": "Cutting Crew", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
     }, 
     {
         "album": "City Rain", 
@@ -13863,19 +13796,6 @@
         "nrated": 12.0
     }, 
     {
-        "album": "Bent Out Of Shape", 
-        "rating": 8.0, 
-        "genres": [
-            "Rock", 
-            "AOR"
-        ], 
-        "stddev": 1.0954451150103321, 
-        "artist": "Rainbow", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Black Hand Inn", 
         "rating": 8.5, 
         "genres": [
@@ -14015,20 +13935,6 @@
         "nrated": 8.0
     }, 
     {
-        "album": "Dead Winter Dead (2011 Remaster)", 
-        "rating": 7.666666666666667, 
-        "genres": [
-            "Metal", 
-            "Progressive", 
-            "Rock"
-        ], 
-        "stddev": 1.3298565781762024, 
-        "artist": "Savatage", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 12.0
-    }, 
-    {
         "album": "Dance In The Fire", 
         "rating": 8.333333333333334, 
         "genres": [
@@ -14053,6 +13959,59 @@
         "codec": "flac", 
         "nsongs": 12.0, 
         "nrated": 12.0
+    }, 
+    {
+        "album": "20th Century", 
+        "rating": 8.4, 
+        "genres": [
+            "Rock", 
+            "Hard"
+        ], 
+        "stddev": 1.1419281938896158, 
+        "artist": "John Sykes", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Different But The Same", 
+        "rating": 7.6, 
+        "genres": [
+            "Metal", 
+            "Alternative Metal", 
+            "Thrash"
+        ], 
+        "stddev": 1.33566462856512, 
+        "artist": "Perzonal War", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Dirty Nails And Vapour Trails", 
+        "rating": 8.555555555555555, 
+        "genres": [
+            "Electronic", 
+            "Trance"
+        ], 
+        "stddev": 1.3663604996812384, 
+        "artist": "Quivver", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Destroy Erase Improve", 
+        "rating": 7.9, 
+        "genres": [
+            "Metal", 
+            "Djent"
+        ], 
+        "stddev": 1.1353413583587977, 
+        "artist": "Meshuggah", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
     }, 
     {
         "album": "...And So It Begins", 
@@ -15093,20 +15052,6 @@
         "nrated": 9.0
     }, 
     {
-        "album": "Silent Harbour", 
-        "rating": 7.5, 
-        "genres": [
-            "Electronic", 
-            "Techno", 
-            "Ambient"
-        ], 
-        "stddev": 1.1937336386313322, 
-        "artist": "Silent Harbour", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "A Collection Of Short Stories", 
         "rating": 7.454545454545454, 
         "genres": [
@@ -15508,20 +15453,6 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "Aura", 
-        "rating": 7.538461538461538, 
-        "genres": [
-            "Rock", 
-            "Alternative", 
-            "Gothic"
-        ], 
-        "stddev": 1.0412520036443191, 
-        "artist": "The Mission", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
     }, 
     {
         "album": "Zig Zag", 
@@ -16048,19 +15979,6 @@
         "codec": "flac", 
         "nsongs": 12.0, 
         "nrated": 12.0
-    }, 
-    {
-        "album": "Volatile Times", 
-        "rating": 7.363636363636363, 
-        "genres": [
-            "Electronic", 
-            "Indie"
-        ], 
-        "stddev": 1.9274988172391447, 
-        "artist": "IAMX", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
     }, 
     {
         "album": "Parallels (2010 Remaster)", 
@@ -18401,20 +18319,6 @@
         "nrated": 11.0
     }, 
     {
-        "album": "The Unified Field", 
-        "rating": 7.25, 
-        "genres": [
-            "Electronic", 
-            "Indie", 
-            "Rock"
-        ], 
-        "stddev": 1.9297560294849019, 
-        "artist": "IAMX", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
         "album": "Start Receiving", 
         "rating": 9.3, 
         "genres": [
@@ -20655,6 +20559,71 @@
         "nrated": 9.0
     }, 
     {
+        "album": "Dreams Of Endless War", 
+        "rating": 8.375, 
+        "genres": [
+            "Metal", 
+            "Melodeath"
+        ], 
+        "stddev": 1.1447911927508876, 
+        "artist": "Norther", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Pole Navigations", 
+        "rating": 8.454545454545455, 
+        "genres": [
+            "Electronic", 
+            "Downtempo"
+        ], 
+        "stddev": 1.066884212726897, 
+        "artist": "Blackfish", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Electrify", 
+        "rating": 7.777777777777778, 
+        "genres": [
+            "Metal, Thrash"
+        ], 
+        "stddev": 1.2047004420215255, 
+        "artist": "Paradox", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "On Lonely Towers (Ltd. Ed.)", 
+        "rating": 7.625, 
+        "genres": [
+            "Metal", 
+            "Progressive", 
+            "Doom", 
+            "Death"
+        ], 
+        "stddev": 1.2492185057066678, 
+        "artist": "Barren Earth", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Earth A.D.", 
+        "rating": 8.416666666666666, 
+        "genres": [
+            "Punk"
+        ], 
+        "stddev": 1.1812089695010066, 
+        "artist": "The Misfits", 
+        "codec": "mp3", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
         "album": "Frozen Ghost", 
         "rating": 8.4, 
         "genres": [
@@ -21013,19 +20982,6 @@
         ], 
         "stddev": 1.1493422703098441, 
         "artist": "Kaito", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
-        "album": "Blue Planet", 
-        "rating": 6.777777777777778, 
-        "genres": [
-            "Synthpop", 
-            "Electronic"
-        ], 
-        "stddev": 1.8276192283667152, 
-        "artist": "Moskwa TV", 
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
@@ -21502,6 +21458,34 @@
         "codec": "flac", 
         "nsongs": 11.0, 
         "nrated": 11.0
+    }, 
+    {
+        "album": "Dreamland", 
+        "rating": 8.3, 
+        "genres": [
+            "Electronic", 
+            "Synthpop"
+        ], 
+        "stddev": 1.1229425630903833, 
+        "artist": "The Nine", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Kiss + Swallow", 
+        "rating": 8.333333333333334, 
+        "genres": [
+            "Trip-Hop", 
+            "Indie", 
+            "Electronic", 
+            "Synthpop"
+        ], 
+        "stddev": 1.1262852740396272, 
+        "artist": "IAMX", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
     }, 
     {
         "album": "Release", 
@@ -22582,20 +22566,6 @@
         "codec": "flac", 
         "nsongs": 12.0, 
         "nrated": 12.0
-    }, 
-    {
-        "album": "The Campfire Headphase", 
-        "rating": 7.615384615384615, 
-        "genres": [
-            "Electronic", 
-            "IDM", 
-            "Pastoral"
-        ], 
-        "stddev": 0.9610057696042011, 
-        "artist": "Boards of Canada", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
     }, 
     {
         "album": "Magnum II (1987)", 
@@ -23858,21 +23828,6 @@
         "nrated": 12.0
     }, 
     {
-        "album": "Kiss + Swallow", 
-        "rating": 8.333333333333334, 
-        "genres": [
-            "Indie", 
-            "Synthpop", 
-            "Electronic", 
-            "Trip-Hop"
-        ], 
-        "stddev": 1.1262852740396272, 
-        "artist": "I Am X", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
         "album": "Serenity Is The Devil", 
         "rating": 8.3, 
         "genres": [
@@ -24783,19 +24738,6 @@
         "codec": "flac", 
         "nsongs": 13.0, 
         "nrated": 13.0
-    }, 
-    {
-        "album": "History Pt.2", 
-        "rating": 8.181818181818182, 
-        "genres": [
-            "Electronic", 
-            "Techno"
-        ], 
-        "stddev": 1.027056950935933, 
-        "artist": "SCSI-9", 
-        "codec": "mp3", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
     }, 
     {
         "album": "Identity", 
@@ -26198,18 +26140,6 @@
         "nrated": 8.0
     }, 
     {
-        "album": "Difficult To Cure", 
-        "rating": 7.888888888888889, 
-        "genres": [
-            "Rock"
-        ], 
-        "stddev": 1.1857637476727496, 
-        "artist": "Rainbow", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
         "album": "These Branching Moments", 
         "rating": 8.428571428571429, 
         "genres": [
@@ -27123,19 +27053,6 @@
         "codec": "flac", 
         "nsongs": 12.0, 
         "nrated": 12.0
-    }, 
-    {
-        "album": "Javelin", 
-        "rating": 8.0, 
-        "genres": [
-            "Electronic", 
-            "Synthpop"
-        ], 
-        "stddev": 1.0954451150103321, 
-        "artist": "Moskwa TV", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
     }, 
     {
         "album": "Damned", 
@@ -29021,19 +28938,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "20th Century", 
-        "rating": 8.4, 
-        "genres": [
-            "Rock", 
-            "Hard"
-        ], 
-        "stddev": 0.9715966241192894, 
-        "artist": "John Sykes", 
-        "codec": "mp3", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Out Of My Tree", 
         "rating": 8.0, 
         "genres": [
@@ -30051,20 +29955,6 @@
         "nrated": 13.0
     }, 
     {
-        "album": "Carved In Sand", 
-        "rating": 7.2, 
-        "genres": [
-            "Rock", 
-            "Gothic", 
-            "Alternative"
-        ], 
-        "stddev": 2.0238577025077626, 
-        "artist": "The Mission", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "By Invitation Only ", 
         "rating": 8.307692307692308, 
         "genres": [
@@ -30293,20 +30183,6 @@
         "nrated": 14.0
     }, 
     {
-        "album": "Children", 
-        "rating": 8.0, 
-        "genres": [
-            "Rock", 
-            "Gothic", 
-            "Alternative"
-        ], 
-        "stddev": 1.2060453783110545, 
-        "artist": "The Mission", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
         "album": "Cynic Paradise", 
         "rating": 8.307692307692308, 
         "genres": [
@@ -30346,19 +30222,6 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "Desideratum", 
-        "rating": 7.571428571428571, 
-        "genres": [
-            "Electronic", 
-            "Ambient"
-        ], 
-        "stddev": 1.043513911166897, 
-        "artist": "Synaesthesia", 
-        "codec": "flac", 
-        "nsongs": 14.0, 
-        "nrated": 14.0
     }, 
     {
         "album": "Collision Course", 
@@ -30437,5 +30300,179 @@
         "codec": "flac", 
         "nsongs": 12.0, 
         "nrated": 12.0
+    }, 
+    {
+        "album": "Diamond Days", 
+        "rating": 7.8, 
+        "genres": [
+            "Rock", 
+            "Pop"
+        ], 
+        "stddev": 1.3099618315050254, 
+        "artist": "The Outfield", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Share My Thunder", 
+        "rating": 7.818181818181818, 
+        "genres": [
+            "Pop", 
+            "Electropop", 
+            "Indietronic"
+        ], 
+        "stddev": 1.5147657911219867, 
+        "artist": "Turboweekend", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "A Sign Of Life", 
+        "rating": 7.6, 
+        "genres": [
+            "Electronic", 
+            "Futurepop"
+        ], 
+        "stddev": 1.621521918856891, 
+        "artist": "Neuroticfish", 
+        "codec": "flac", 
+        "nsongs": 15.0, 
+        "nrated": 15.0
+    }, 
+    {
+        "album": "The Campfire Headphase", 
+        "rating": 7.615384615384615, 
+        "genres": [
+            "Electronic", 
+            "IDM", 
+            "Pastoral"
+        ], 
+        "stddev": 1.4717797523775153, 
+        "artist": "Boards Of Canada", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "Dyn", 
+        "rating": 7.909090909090909, 
+        "genres": [
+            "Electronic", 
+            "IDM"
+        ], 
+        "stddev": 1.0119496398679384, 
+        "artist": "Quench", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Drifting Into View", 
+        "rating": 8.375, 
+        "genres": [
+            "Electronic", 
+            "House", 
+            "Deep", 
+            "Downtempo"
+        ], 
+        "stddev": 1.2111138984422563, 
+        "artist": "Morgan Page", 
+        "codec": "mp3", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Doggystyle", 
+        "rating": 8.692307692307692, 
+        "genres": [
+            "Rap", 
+            "Gangster"
+        ], 
+        "stddev": 1.2302143719699286, 
+        "artist": "Snoop Doggy Dogg", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "The Best Of Naked Eyes", 
+        "rating": 8.166666666666666, 
+        "genres": [
+            "Pop", 
+            "New Wave"
+        ], 
+        "stddev": 1.3625276076034132, 
+        "artist": "Naked Eyes", 
+        "codec": "flac", 
+        "nsongs": 6.0, 
+        "nrated": 6.0
+    }, 
+    {
+        "album": "Everything And More", 
+        "rating": 7.0, 
+        "genres": [
+            "Pop", 
+            "New Wave", 
+            "Synthpop"
+        ], 
+        "stddev": 1.3228756555322954, 
+        "artist": "Neon", 
+        "codec": "flac", 
+        "nsongs": 4.0, 
+        "nrated": 4.0
+    }, 
+    {
+        "album": "Duality", 
+        "rating": 8.23076923076923, 
+        "genres": [
+            "Rock", 
+            "Modern"
+        ], 
+        "stddev": 1.3218860747886227, 
+        "artist": "Ra", 
+        "codec": "flac", 
+        "nsongs": 14.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "Down", 
+        "rating": 8.2, 
+        "genres": [
+            "Metal", 
+            "Gothic"
+        ], 
+        "stddev": 1.0936178491593849, 
+        "artist": "Sentenced", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Ecliptica (Remastered) [Japan]", 
+        "rating": 8.166666666666666, 
+        "genres": [
+            "Metal", 
+            "Power", 
+            "Neoclassical"
+        ], 
+        "stddev": 1.3531513287576222, 
+        "artist": "Sonata Arctica", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "I Wear the Face", 
+        "rating": 8.1, 
+        "genres": [
+            "Pop"
+        ], 
+        "stddev": 1.0339245620450266, 
+        "artist": "Mr. Mister", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
     }
 ]
