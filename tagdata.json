@@ -2398,19 +2398,6 @@
         "nrated": 14.0
     }, 
     {
-        "album": "Tension & Desire", 
-        "rating": 7.818181818181818, 
-        "genres": [
-            "Rock", 
-            "Hair"
-        ], 
-        "stddev": 1.2650298517902099, 
-        "artist": "Wild Ride", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
         "album": "The New Sound Of The True Best", 
         "rating": 8.846153846153847, 
         "genres": [
@@ -6391,20 +6378,6 @@
         "nrated": 13.0
     }, 
     {
-        "album": "Old Haunts", 
-        "rating": 7.7, 
-        "genres": [
-            "Electronic", 
-            "IDM", 
-            "Pastoral"
-        ], 
-        "stddev": 1.158015543937127, 
-        "artist": "Fieldtriqp", 
-        "codec": "mp3", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Implode", 
         "rating": 8.2, 
         "genres": [
@@ -9463,20 +9436,6 @@
         "nrated": 14.0
     }, 
     {
-        "album": "China Sky", 
-        "rating": 7.6, 
-        "genres": [
-            "Rock", 
-            "AOR", 
-            "Hair"
-        ], 
-        "stddev": 1.2099586769803339, 
-        "artist": "China Sky", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "The Art Of Breaking Apart", 
         "rating": 6.909090909090909, 
         "genres": [
@@ -9831,19 +9790,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Forevermore", 
-        "rating": 7.6923076923076925, 
-        "genres": [
-            "Rock", 
-            "Hair"
-        ], 
-        "stddev": 1.3384819423052017, 
-        "artist": "Whitesnake", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
-    }, 
-    {
         "album": "Slide It In", 
         "rating": 8.5, 
         "genres": [
@@ -9968,21 +9914,6 @@
         "nrated": 12.0
     }, 
     {
-        "album": "Metamatic (2007 Deluxe Edition)", 
-        "rating": 7.5, 
-        "genres": [
-            "Electronic", 
-            "New Wave", 
-            "Synthpop", 
-            "Alternative"
-        ], 
-        "stddev": 1.5247950681976907, 
-        "artist": "John Foxx", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Get Your Hands Dirty", 
         "rating": 8.636363636363637, 
         "genres": [
@@ -10089,21 +10020,6 @@
         "codec": "flac", 
         "nsongs": 8.0, 
         "nrated": 8.0
-    }, 
-    {
-        "album": "Epoch", 
-        "rating": 7.785714285714286, 
-        "genres": [
-            "Electronic", 
-            "IDM", 
-            "Spoken Word", 
-            "Breaks"
-        ], 
-        "stddev": 1.0110540641823802, 
-        "artist": "Tonikom", 
-        "codec": "flac", 
-        "nsongs": 14.0, 
-        "nrated": 14.0
     }, 
     {
         "album": "Young Wisdom", 
@@ -10512,45 +10428,6 @@
         "codec": "flac", 
         "nsongs": 8.0, 
         "nrated": 8.0
-    }, 
-    {
-        "album": "Britny Fox", 
-        "rating": 7.090909090909091, 
-        "genres": [
-            "Rock", 
-            "Hair"
-        ], 
-        "stddev": 1.539853730600858, 
-        "artist": "Britny Fox", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
-        "album": "Boys In Heat", 
-        "rating": 7.615384615384615, 
-        "genres": [
-            "Rock", 
-            "Hair"
-        ], 
-        "stddev": 0.89732318255258, 
-        "artist": "Britny Fox", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
-    }, 
-    {
-        "album": "Bite Down Hard", 
-        "rating": 8.1, 
-        "genres": [
-            "Rock", 
-            "Hair"
-        ], 
-        "stddev": 1.0435516278555652, 
-        "artist": "Britny Fox", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
     }, 
     {
         "album": "Philip Oakey & Giorgio Moroder - Remastered", 
@@ -11882,20 +11759,6 @@
         ], 
         "stddev": 1.0936178491593849, 
         "artist": "Hell", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
-        "album": "2 Pie Island", 
-        "rating": 7.6, 
-        "genres": [
-            "Electronic", 
-            "Breaks", 
-            "Dance"
-        ], 
-        "stddev": 1.2425779653607252, 
-        "artist": "2 Bit Pie", 
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
@@ -14423,18 +14286,6 @@
         "nrated": 17.0
     }, 
     {
-        "album": "Feargal Sharkey", 
-        "rating": 7.6, 
-        "genres": [
-            "Pop"
-        ], 
-        "stddev": 1.3798550648528272, 
-        "artist": "Feargal Sharkey", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Jess And The Ancient Ones", 
         "rating": 8.571428571428571, 
         "genres": [
@@ -15367,18 +15218,6 @@
         "nrated": 8.0
     }, 
     {
-        "album": "Vagabonds of the Western World", 
-        "rating": 6.833333333333333, 
-        "genres": [
-            "Rock"
-        ], 
-        "stddev": 1.597886335363295, 
-        "artist": "Thin Lizzy", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
         "album": "Bad Reputation (2011 Remaster)", 
         "rating": 8.444444444444445, 
         "genres": [
@@ -16092,19 +15931,6 @@
         "nrated": 9.0
     }, 
     {
-        "album": "Hidden Shore", 
-        "rating": 7.333333333333333, 
-        "genres": [
-            "Electronic", 
-            "Downtempo"
-        ], 
-        "stddev": 2.2402050170728836, 
-        "artist": "Blackfish ", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
         "album": "The Very Best of Foreigner", 
         "rating": 9.25, 
         "genres": [
@@ -16279,32 +16105,6 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "Viva Hate", 
-        "rating": 7.25, 
-        "genres": [
-            "Alternative", 
-            "Rock"
-        ], 
-        "stddev": 1.7721808598447282, 
-        "artist": "Morrissey", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
-        "album": "Bona Drag", 
-        "rating": 8.214285714285714, 
-        "genres": [
-            "Rock", 
-            "Alternative"
-        ], 
-        "stddev": 1.3930533613751068, 
-        "artist": "Morrissey", 
-        "codec": "flac", 
-        "nsongs": 14.0, 
-        "nrated": 14.0
     }, 
     {
         "album": "Tough It Out (2012 Remaster)", 
@@ -16622,19 +16422,6 @@
         "codec": "flac", 
         "nsongs": 8.0, 
         "nrated": 8.0
-    }, 
-    {
-        "album": "13", 
-        "rating": 7.2727272727272725, 
-        "genres": [
-            "Metal", 
-            "Traditional"
-        ], 
-        "stddev": 1.0048716795749197, 
-        "artist": "Black Sabbath", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
     }, 
     {
         "album": "It's Better To Travel", 
@@ -18210,19 +17997,6 @@
         "codec": "flac", 
         "nsongs": 11.0, 
         "nrated": 11.0
-    }, 
-    {
-        "album": "I", 
-        "rating": 7.75, 
-        "genres": [
-            "Rock", 
-            "Hard"
-        ], 
-        "stddev": 1.087332362558324, 
-        "artist": "Giant X", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
     }, 
     {
         "album": "So Red The Rose (Disc 1)", 
@@ -20839,18 +20613,6 @@
         "nrated": 11.0
     }, 
     {
-        "album": "Quarterflash", 
-        "rating": 7.555555555555555, 
-        "genres": [
-            "Rock"
-        ], 
-        "stddev": 2.108835680812853, 
-        "artist": "Quarterflash", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
         "album": "Victims Of The Modern Age", 
         "rating": 7.875, 
         "genres": [
@@ -20918,19 +20680,6 @@
         "codec": "flac", 
         "nsongs": 16.0, 
         "nrated": 16.0
-    }, 
-    {
-        "album": "To Die For", 
-        "rating": 7.416666666666667, 
-        "genres": [
-            "Electronic", 
-            "Synthpop"
-        ], 
-        "stddev": 1.8836221509122808, 
-        "artist": "Infam", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
     }, 
     {
         "album": "Enveloped", 
@@ -21403,32 +21152,6 @@
         "codec": "flac", 
         "nsongs": 12.0, 
         "nrated": 12.0
-    }, 
-    {
-        "album": "The Sniper's Veil", 
-        "rating": 7.846153846153846, 
-        "genres": [
-            "Electronic", 
-            "IDM"
-        ], 
-        "stddev": 1.1658156290853077, 
-        "artist": "Tonikom", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
-    }, 
-    {
-        "album": "Found And Lost", 
-        "rating": 7.384615384615385, 
-        "genres": [
-            "Electronic", 
-            "IDM"
-        ], 
-        "stddev": 1.1333485054362993, 
-        "artist": "Tonikom", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
     }, 
     {
         "album": "One", 
@@ -22224,45 +21947,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Hands Of Time", 
-        "rating": 7.545454545454546, 
-        "genres": [
-            "Rock", 
-            "Hair"
-        ], 
-        "stddev": 1.525884847553704, 
-        "artist": "Kingdom Come", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
-        "album": "Bad Image", 
-        "rating": 7.181818181818182, 
-        "genres": [
-            "Rock", 
-            "Hair"
-        ], 
-        "stddev": 1.3131136539040027, 
-        "artist": "Kingdom Come", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
-        "album": "Twilight Cruiser", 
-        "rating": 6.166666666666667, 
-        "genres": [
-            "Rock", 
-            "Hair"
-        ], 
-        "stddev": 1.6322842435837739, 
-        "artist": "Kingdom Come", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
         "album": "She's So Unusual", 
         "rating": 8.0, 
         "genres": [
@@ -22325,33 +22009,6 @@
         "codec": "flac", 
         "nsongs": 12.0, 
         "nrated": 12.0
-    }, 
-    {
-        "album": "Bad English", 
-        "rating": 7.6923076923076925, 
-        "genres": [
-            "Rock", 
-            "Hair", 
-            "Pop"
-        ], 
-        "stddev": 1.8948220174793313, 
-        "artist": "Bad English", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
-    }, 
-    {
-        "album": "Backlash", 
-        "rating": 7.5, 
-        "genres": [
-            "Rock", 
-            "Pop"
-        ], 
-        "stddev": 1.620185174601965, 
-        "artist": "Bad English", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
     }, 
     {
         "album": "I Touch Roses--The Best Of Book Of Love", 
@@ -22725,19 +22382,6 @@
         ], 
         "stddev": 1.3397469443891261, 
         "artist": "End Of Green", 
-        "codec": "flac", 
-        "nsongs": 8.0, 
-        "nrated": 8.0
-    }, 
-    {
-        "album": "Tales Of Ephidrina", 
-        "rating": 7.625, 
-        "genres": [
-            "Electronic", 
-            "Techno"
-        ], 
-        "stddev": 1.2739885694149693, 
-        "artist": "Amorphous Androgynous", 
         "codec": "flac", 
         "nsongs": 8.0, 
         "nrated": 8.0
@@ -24847,9 +24491,9 @@
     }, 
     {
         "album": "The Very Best Of", 
-        "rating": 8.208333333333334, 
+        "rating": 8.25, 
         "genres": [], 
-        "stddev": 1.1606678613019574, 
+        "stddev": 1.206536019630855, 
         "artist": "The S.O.S. Band", 
         "codec": "flac", 
         "nsongs": 24.0, 
@@ -24893,18 +24537,6 @@
         ], 
         "stddev": 1.1264990013311151, 
         "artist": "S.P.Y.", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
-        "album": "Nightlife", 
-        "rating": 5.8, 
-        "genres": [
-            "Rock"
-        ], 
-        "stddev": 1.5218409903797439, 
-        "artist": "Thin Lizzy", 
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
@@ -25819,19 +25451,6 @@
         "nrated": 7.0
     }, 
     {
-        "album": "World Peace Is None Of Your Business", 
-        "rating": 6.833333333333333, 
-        "genres": [
-            "Rock", 
-            "Alternative"
-        ], 
-        "stddev": 1.48058421902627, 
-        "artist": "Morrissey", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
         "album": "Ace Of Spades (2007 Remaster)", 
         "rating": 8.583333333333334, 
         "genres": [
@@ -26003,20 +25622,6 @@
         "codec": "flac", 
         "nsongs": 12.0, 
         "nrated": 12.0
-    }, 
-    {
-        "album": "Good to Be Bad", 
-        "rating": 7.5, 
-        "genres": [
-            "Rock", 
-            "Hard", 
-            "Blues"
-        ], 
-        "stddev": 1.3919410907075054, 
-        "artist": "Whitesnake", 
-        "codec": "flac", 
-        "nsongs": 4.0, 
-        "nrated": 4.0
     }, 
     {
         "album": "Pull", 
@@ -26498,20 +26103,6 @@
         "nrated": 12.0
     }, 
     {
-        "album": "Wisdom", 
-        "rating": 7.571428571428571, 
-        "genres": [
-            "Metal", 
-            "Stoner Doom", 
-            "Occult"
-        ], 
-        "stddev": 1.8774401032011307, 
-        "artist": "The Order Of Israfel", 
-        "codec": "flac", 
-        "nsongs": 7.0, 
-        "nrated": 7.0
-    }, 
-    {
         "album": "Pala", 
         "rating": 8.727272727272727, 
         "genres": [
@@ -26780,19 +26371,6 @@
         ], 
         "stddev": 1.9148542155126762, 
         "artist": "VAST", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
-        "album": "Music for People", 
-        "rating": 8.25, 
-        "genres": [
-            "Alternative", 
-            "Rock"
-        ], 
-        "stddev": 1.087332362558324, 
-        "artist": "Vast", 
         "codec": "flac", 
         "nsongs": 12.0, 
         "nrated": 12.0
@@ -27435,19 +27013,6 @@
         "nrated": 11.0
     }, 
     {
-        "album": "Nude", 
-        "rating": 8.166666666666666, 
-        "genres": [
-            "Alternative", 
-            "Rock"
-        ], 
-        "stddev": 1.2792865488521614, 
-        "artist": "Vast", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
         "album": "Trick", 
         "rating": 7.9, 
         "genres": [
@@ -27829,19 +27394,6 @@
         "codec": "flac", 
         "nsongs": 8.0, 
         "nrated": 8.0
-    }, 
-    {
-        "album": "Seeking the Lost Mind", 
-        "rating": 8.0, 
-        "genres": [
-            "Electronic", 
-            "IDM"
-        ], 
-        "stddev": 1.044465935734187, 
-        "artist": "Tonikom", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
     }, 
     {
         "album": "A Hundred Days Off", 
@@ -28748,20 +28300,6 @@
         "codec": "flac", 
         "nsongs": 11.0, 
         "nrated": 11.0
-    }, 
-    {
-        "album": "aMOTION (Remixed) CD", 
-        "rating": 8.0, 
-        "genres": [
-            "Alternative", 
-            "Rock", 
-            "Electronic"
-        ], 
-        "stddev": 1.8708286933869707, 
-        "artist": "A Perfect Circle", 
-        "codec": "flac", 
-        "nsongs": 8.0, 
-        "nrated": 8.0
     }, 
     {
         "album": "Beyond The Permafrost", 
@@ -30471,6 +30009,126 @@
         ], 
         "stddev": 1.0339245620450266, 
         "artist": "Mr. Mister", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Empetus", 
+        "rating": 8.11111111111111, 
+        "genres": [
+            "Electronic", 
+            "Synth", 
+            "Ambient"
+        ], 
+        "stddev": 1.1104936555974034, 
+        "artist": "Steve Roach", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Exposure", 
+        "rating": 8.4, 
+        "genres": [
+            "Pop", 
+            "Dance", 
+            "Freestyle"
+        ], 
+        "stddev": 2.0059910268991734, 
+        "artist": "Expose", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Emotional Fire", 
+        "rating": 7.909090909090909, 
+        "genres": [
+            "Rock, AOR"
+        ], 
+        "stddev": 1.3108230047042615, 
+        "artist": "Sunstorm", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Nude", 
+        "rating": 8.166666666666666, 
+        "genres": [
+            "Alternative", 
+            "Rock"
+        ], 
+        "stddev": 1.2792865488521614, 
+        "artist": "VAST", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Music for People", 
+        "rating": 8.25, 
+        "genres": [
+            "Alternative", 
+            "Rock"
+        ], 
+        "stddev": 1.087332362558324, 
+        "artist": "VAST", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Empire", 
+        "rating": 7.636363636363637, 
+        "genres": [
+            "Electronic", 
+            "Trance"
+        ], 
+        "stddev": 1.4040833442377059, 
+        "artist": "Super8 & Tab", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Hidden Shore", 
+        "rating": 7.333333333333333, 
+        "genres": [
+            "Electronic", 
+            "Downtempo"
+        ], 
+        "stddev": 2.2402050170728836, 
+        "artist": "Blackfish", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Elegies", 
+        "rating": 8.0, 
+        "genres": [
+            "Metal", 
+            "Power", 
+            "Traditional"
+        ], 
+        "stddev": 1.1832159566199232, 
+        "artist": "Machine Men", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Emerald Forest and the Blackbird", 
+        "rating": 8.1, 
+        "genres": [
+            "Metal", 
+            "Doom", 
+            "Gothic"
+        ], 
+        "stddev": 0.9322016949137134, 
+        "artist": "Swallow the Sun", 
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
