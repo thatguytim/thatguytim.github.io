@@ -14071,20 +14071,6 @@
         "nrated": 12.0
     }, 
     {
-        "album": "Epic", 
-        "rating": 7.928571428571429, 
-        "genres": [
-            "Post", 
-            "Downtempo", 
-            "Rock"
-        ], 
-        "stddev": 0.8833163722082136, 
-        "artist": "Ulrich Schnauss", 
-        "codec": "mp3", 
-        "nsongs": 14.0, 
-        "nrated": 14.0
-    }, 
-    {
         "album": "Far Away Trains Passing By", 
         "rating": 8.25, 
         "genres": [
@@ -14112,6 +14098,20 @@
         "codec": "flac", 
         "nsongs": 13.0, 
         "nrated": 13.0
+    }, 
+    {
+        "album": "Honour & Blood", 
+        "rating": 8.375, 
+        "genres": [
+            "Metal", 
+            "Traditional", 
+            "NWOBHM"
+        ], 
+        "stddev": 1.1447911927508876, 
+        "artist": "Tank", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
     }, 
     {
         "album": "...And So It Begins", 
@@ -20606,6 +20606,19 @@
         "stddev": 1.1812089695010066, 
         "artist": "The Misfits", 
         "codec": "mp3", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Fair Warning", 
+        "rating": 8.166666666666666, 
+        "genres": [
+            "Rock", 
+            "Hair"
+        ], 
+        "stddev": 1.1293639639031177, 
+        "artist": "Fair Warning", 
+        "codec": "flac", 
         "nsongs": 12.0, 
         "nrated": 12.0
     }, 
@@ -28298,20 +28311,6 @@
         "nrated": 11.0
     }, 
     {
-        "album": "Honour & Blood", 
-        "rating": 8.428571428571429, 
-        "genres": [
-            "Metal", 
-            "Traditional", 
-            "NWOBHM"
-        ], 
-        "stddev": 1.1668401925651273, 
-        "artist": "Tank", 
-        "codec": "mp3", 
-        "nsongs": 7.0, 
-        "nrated": 7.0
-    }, 
-    {
         "album": "The 7th Seal", 
         "rating": 9.0, 
         "genres": [
@@ -30370,5 +30369,22 @@
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
+    }, 
+    {
+        "album": "Ulrich Schnauss & Jonas Munk", 
+        "rating": 7.909090909090909, 
+        "genres": [
+            "Rock", 
+            "Post", 
+            "Downtempo"
+        ], 
+        "stddev": 0.9086775919933504, 
+        "artist": [
+            "Ulrich Schnauss", 
+            "Jonas Munk"
+        ], 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
     }
 ]
