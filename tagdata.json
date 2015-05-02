@@ -10134,19 +10134,6 @@
         "nrated": 13.0
     }, 
     {
-        "album": "Before It Finds You", 
-        "rating": 7.0, 
-        "genres": [
-            "Electronic", 
-            "Ambient"
-        ], 
-        "stddev": 0.8366600265340756, 
-        "artist": "Proem", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Thunder In The Distance (Japanese Edition)", 
         "rating": 8.0, 
         "genres": [
@@ -13837,20 +13824,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Different But The Same", 
-        "rating": 7.6, 
-        "genres": [
-            "Metal", 
-            "Alternative Metal", 
-            "Thrash"
-        ], 
-        "stddev": 1.33566462856512, 
-        "artist": "Perzonal War", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Dirty Nails And Vapour Trails", 
         "rating": 8.555555555555555, 
         "genres": [
@@ -13875,6 +13848,270 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
+    }, 
+    {
+        "album": "Wilderness", 
+        "rating": 8.05, 
+        "genres": [
+            "Electronic", 
+            "Synthwave"
+        ], 
+        "stddev": 1.203068992202858, 
+        "artist": "Makeup and Vanity Set", 
+        "codec": "flac", 
+        "nsongs": 20.0, 
+        "nrated": 20.0
+    }, 
+    {
+        "album": "Far Beyond The Rising Sun", 
+        "rating": 8.222222222222221, 
+        "genres": [
+            "Metal", 
+            "Traditional", 
+            "Rock", 
+            "Hard"
+        ], 
+        "stddev": 1.120944144475671, 
+        "artist": "Yngwie Malmsteen", 
+        "codec": "flac", 
+        "nsongs": 18.0, 
+        "nrated": 18.0
+    }, 
+    {
+        "album": "Facing the Animal", 
+        "rating": 8.153846153846153, 
+        "genres": [
+            "Metal", 
+            "Traditional", 
+            "Rock", 
+            "Hard", 
+            "Shred"
+        ], 
+        "stddev": 0.9474110087396652, 
+        "artist": "Yngwie Malmsteen", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "Experience", 
+        "rating": 8.1, 
+        "genres": [
+            "Electronic", 
+            "Jungle", 
+            "Rave"
+        ], 
+        "stddev": 1.6997058569058356, 
+        "artist": "The Prodigy", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Error in Evolution", 
+        "rating": 8.2, 
+        "genres": [
+            "Metal", 
+            "Melodeath"
+        ], 
+        "stddev": 1.1815244390193542, 
+        "artist": "One Man Army and the Undead Quartet", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Sublimina", 
+        "rating": 7.909090909090909, 
+        "genres": [
+            "Electronic", 
+            "Techno", 
+            "House", 
+            "Tech-House"
+        ], 
+        "stddev": 1.0829600196717155, 
+        "artist": "Vince Watson", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Biologique", 
+        "rating": 8.166666666666666, 
+        "genres": [
+            "Electronic", 
+            "Techno", 
+            "House", 
+            "Tech-House"
+        ], 
+        "stddev": 1.079051366641946, 
+        "artist": "Vince Watson", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Echoes From The Future: View To The Past", 
+        "rating": 9.23076923076923, 
+        "genres": [
+            "Electronic", 
+            "Techno", 
+            "House", 
+            "Tech-House"
+        ], 
+        "stddev": 1.1520696383139373, 
+        "artist": "Vince Watson", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "Dol-goy Assist", 
+        "rating": 7.833333333333333, 
+        "genres": [
+            "Electronic", 
+            "IDM"
+        ], 
+        "stddev": 1.0790513666419466, 
+        "artist": "Quinoline Yellow", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Drifting Into View", 
+        "rating": 8.375, 
+        "genres": [
+            "Electronic", 
+            "Downtempo", 
+            "House", 
+            "Deep", 
+            "Deep House, Tech House"
+        ], 
+        "stddev": 1.2492185057066678, 
+        "artist": "Morgan Page", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "All Possible Futures", 
+        "rating": 7.769230769230769, 
+        "genres": [
+            "Electronic", 
+            "Indietronic"
+        ], 
+        "stddev": 1.1699079322186006, 
+        "artist": "Miami Horror", 
+        "codec": "flac", 
+        "nsongs": 14.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "The Church of Rock and Roll", 
+        "rating": 8.090909090909092, 
+        "genres": [
+            "Rock"
+        ], 
+        "stddev": 1.6760566937222023, 
+        "artist": "Foxy Shazam", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Fallout: The Soundtrack", 
+        "rating": 8.0, 
+        "genres": [
+            "Ambient"
+        ], 
+        "stddev": 0.7071067811865476, 
+        "artist": "Mark Morgan", 
+        "codec": "flac", 
+        "nsongs": 16.0, 
+        "nrated": 16.0
+    }, 
+    {
+        "album": "Eternalism", 
+        "rating": 8.5, 
+        "genres": [
+            "Rock", 
+            "Indie"
+        ], 
+        "stddev": 1.0307764064044151, 
+        "artist": "The Panic Division", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Figure Number Five", 
+        "rating": 8.090909090909092, 
+        "genres": [
+            "Metal", 
+            "Melodeath", 
+            "Modern"
+        ], 
+        "stddev": 1.0905646839262664, 
+        "artist": "Soilwork", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Tango In The Night", 
+        "rating": 8.416666666666666, 
+        "genres": [
+            "Pop"
+        ], 
+        "stddev": 2.129352840305833, 
+        "artist": "Fleetwood Mac", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Epic", 
+        "rating": 7.928571428571429, 
+        "genres": [
+            "Post", 
+            "Downtempo", 
+            "Rock"
+        ], 
+        "stddev": 0.8833163722082136, 
+        "artist": "Ulrich Schnauss", 
+        "codec": "mp3", 
+        "nsongs": 14.0, 
+        "nrated": 14.0
+    }, 
+    {
+        "album": "Far Away Trains Passing By", 
+        "rating": 8.25, 
+        "genres": [
+            "Pastoral", 
+            "Post", 
+            "Downtempo", 
+            "Electronic"
+        ], 
+        "stddev": 0.9437293044088437, 
+        "artist": "Ulrich Schnauss", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Fette Beute", 
+        "rating": 7.923076923076923, 
+        "genres": [
+            "Industrial", 
+            "Rock", 
+            "Electronic"
+        ], 
+        "stddev": 1.0712020481436735, 
+        "artist": "Stendal Blast", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
     }, 
     {
         "album": "...And So It Begins", 
@@ -16215,18 +16452,6 @@
         "nrated": 12.0
     }, 
     {
-        "album": "Tango In The Night", 
-        "rating": 8.416666666666666, 
-        "genres": [
-            "Pop"
-        ], 
-        "stddev": 2.129352840305833, 
-        "artist": "Fleetwood Mac", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
         "album": "Flux", 
         "rating": 7.846153846153846, 
         "genres": [
@@ -17779,19 +18004,6 @@
         ], 
         "stddev": 1.2909944487358056, 
         "artist": "Just Jack", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
-        "album": "Portents Call", 
-        "rating": 7.583333333333333, 
-        "genres": [
-            "Electronic", 
-            "IDM"
-        ], 
-        "stddev": 1.0304956556416411, 
-        "artist": "Autoclav1.1", 
         "codec": "flac", 
         "nsongs": 12.0, 
         "nrated": 12.0
@@ -21007,19 +21219,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Ten.One.Point.One.", 
-        "rating": 7.6, 
-        "genres": [
-            "Electronic", 
-            "IDM"
-        ], 
-        "stddev": 1.1419281938896158, 
-        "artist": "Autoclav1.1", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "R.I.S.E", 
         "rating": 8.0, 
         "genres": [
@@ -22726,19 +22925,6 @@
         "codec": "mp3", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "If It Were You, We'd Never Leave", 
-        "rating": 8.125, 
-        "genres": [
-            "Electronic", 
-            "IDM"
-        ], 
-        "stddev": 1.1655035124357198, 
-        "artist": "Andrew Bayer", 
-        "codec": "mp3", 
-        "nsongs": 16.0, 
-        "nrated": 16.0
     }, 
     {
         "album": "The Satanist (Japanese edition)", 
@@ -29439,20 +29625,6 @@
         "nrated": 11.0
     }, 
     {
-        "album": "Bloodline", 
-        "rating": 8.272727272727273, 
-        "genres": [
-            "Metal", 
-            "Melodeath", 
-            "Modern"
-        ], 
-        "stddev": 1.072503128284629, 
-        "artist": "Perzonal War", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
         "album": "Stereoform", 
         "rating": 7.666666666666667, 
         "genres": [
@@ -29907,21 +30079,6 @@
         "nrated": 11.0
     }, 
     {
-        "album": "Drifting Into View", 
-        "rating": 8.375, 
-        "genres": [
-            "Electronic", 
-            "House", 
-            "Deep", 
-            "Downtempo"
-        ], 
-        "stddev": 1.2111138984422563, 
-        "artist": "Morgan Page", 
-        "codec": "mp3", 
-        "nsongs": 8.0, 
-        "nrated": 8.0
-    }, 
-    {
         "album": "Doggystyle", 
         "rating": 8.692307692307692, 
         "genres": [
@@ -30132,5 +30289,86 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
+    }, 
+    {
+        "album": "Fireangel", 
+        "rating": 8.181818181818182, 
+        "genres": [
+            "Metal", 
+            "Power"
+        ], 
+        "stddev": 0.9343595660384892, 
+        "artist": "Mystic Prophecy", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "How Do You Feel Now?", 
+        "rating": 8.181818181818182, 
+        "genres": [
+            "Electronic", 
+            "Indietronic", 
+            "Indie", 
+            "Pop"
+        ], 
+        "stddev": 1.1910005642745007, 
+        "artist": "Joywave", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Excess All Areas", 
+        "rating": 8.23076923076923, 
+        "genres": [
+            "Rock", 
+            "AOR"
+        ], 
+        "stddev": 1.1339507631205206, 
+        "artist": "Shy", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "Venom", 
+        "rating": 7.7, 
+        "genres": [
+            "Metal", 
+            "Traditional"
+        ], 
+        "stddev": 1.94961534667739, 
+        "artist": "Impellitteri", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Fly to the Rainbow", 
+        "rating": 8.142857142857142, 
+        "genres": [
+            "Rock"
+        ], 
+        "stddev": 1.2605242095250826, 
+        "artist": "Scorpions", 
+        "codec": "flac", 
+        "nsongs": 7.0, 
+        "nrated": 7.0
+    }, 
+    {
+        "album": "Exorcise The Demons", 
+        "rating": 8.222222222222221, 
+        "genres": [
+            "Electronic", 
+            "Drum & Bass", 
+            "Techstep", 
+            "Darkstep"
+        ], 
+        "stddev": 1.2250248450771282, 
+        "artist": "Source Direct", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
     }
 ]
