@@ -161,19 +161,6 @@
         "nrated": 6.0
     }, 
     {
-        "album": "Odyssee", 
-        "rating": 7.846153846153846, 
-        "genres": [
-            "Electronic", 
-            "Techno"
-        ], 
-        "stddev": 1.1556199383734764, 
-        "artist": "Index ID", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
-    }, 
-    {
         "album": "New Gold Dream (81, 82, 83, 84)", 
         "rating": 8.555555555555555, 
         "genres": [
@@ -6461,6 +6448,163 @@
         "nrated": 8.0
     }, 
     {
+        "album": "Believe", 
+        "rating": 7.9, 
+        "genres": [
+            "Electronic", 
+            "Progressive House", 
+            "EDM"
+        ], 
+        "stddev": 1.1353413583587977, 
+        "artist": "Morgan Page", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Die Evil", 
+        "rating": 8.444444444444445, 
+        "genres": [
+            "Metal", 
+            "Black", 
+            "Speed", 
+            "Thrash", 
+            "Satanic"
+        ], 
+        "stddev": 1.1558878914316473, 
+        "artist": "Satan's Wrath", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "From The Essence Of Minimalistic Sound", 
+        "rating": 8.25, 
+        "genres": [
+            "Electronic", 
+            "Techno"
+        ], 
+        "stddev": 1.3597640726733933, 
+        "artist": "Pascal F.E.O.S.", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Form & Function", 
+        "rating": 8.083333333333334, 
+        "genres": [
+            "Electronic", 
+            "Drum & Bass"
+        ], 
+        "stddev": 1.2553127838053688, 
+        "artist": "Photek", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Form & Function Vol. 2", 
+        "rating": 7.0, 
+        "genres": [
+            "Electronic", 
+            "Drum & Bass"
+        ], 
+        "stddev": 1.860521018838127, 
+        "artist": "Photek", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "Ghost Reveries", 
+        "rating": 7.875, 
+        "genres": [
+            "Progressive", 
+            "Rock", 
+            "Prog", 
+            "Folk", 
+            "Metal", 
+            "Death"
+        ], 
+        "stddev": 1.1784192271853002, 
+        "artist": "Opeth", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Haven", 
+        "rating": 7.818181818181818, 
+        "genres": [
+            "Power", 
+            "Symphonic", 
+            "Metal"
+        ], 
+        "stddev": 1.5364345428402597, 
+        "artist": "Kamelot", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Good Morning To The Night", 
+        "rating": 8.0, 
+        "genres": [
+            "Pop", 
+            "Dance"
+        ], 
+        "stddev": 1.4142135623730951, 
+        "artist": [
+            "Elton John", 
+            "Pnau"
+        ], 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Out To Die", 
+        "rating": 9.25, 
+        "genres": [
+            "Metal", 
+            "Black", 
+            "Thrash", 
+            "Satanic"
+        ], 
+        "stddev": 1.2716868718359877, 
+        "artist": "Aura Noir", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Goetterdaemmerung", 
+        "rating": 7.636363636363637, 
+        "genres": [
+            "Metal", 
+            "Neue Deutsche Haerte"
+        ], 
+        "stddev": 0.9729628200172851, 
+        "artist": "Megaherz", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Those Once Loyal", 
+        "rating": 8.444444444444445, 
+        "genres": [
+            "Metal", 
+            "Death"
+        ], 
+        "stddev": 1.1558878914316473, 
+        "artist": "Bolt Thrower", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
         "album": "Broken Crown Halo", 
         "rating": 7.909090909090909, 
         "genres": [
@@ -8577,20 +8721,6 @@
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
-    }, 
-    {
-        "album": "Pen Fifteen", 
-        "rating": 7.409090909090909, 
-        "genres": [
-            "Electronic", 
-            "IDM", 
-            "Post"
-        ], 
-        "stddev": 1.2818811894718882, 
-        "artist": "Keef Baker", 
-        "codec": "flac", 
-        "nsongs": 22.0, 
-        "nrated": 22.0
     }, 
     {
         "album": "The Head On The Door", 
@@ -11927,6 +12057,163 @@
         "nrated": 11.0
     }, 
     {
+        "album": "God Is An Automaton", 
+        "rating": 7.8, 
+        "genres": [
+            "Metal", 
+            "Cyber", 
+            "Modern"
+        ], 
+        "stddev": 0.997997995989972, 
+        "artist": "Sybreed", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "From A to H and Back Again", 
+        "rating": 7.5, 
+        "genres": [
+            "Electronic", 
+            "Industrial", 
+            "Techno"
+        ], 
+        "stddev": 2.5248762345905194, 
+        "artist": "Sheep On Drugs", 
+        "codec": "flac", 
+        "nsongs": 6.0, 
+        "nrated": 6.0
+    }, 
+    {
+        "album": "From One", 
+        "rating": 7.833333333333333, 
+        "genres": [
+            "Rock", 
+            "Modern"
+        ], 
+        "stddev": 1.3428479961413136, 
+        "artist": "Ra", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Goodbye", 
+        "rating": 7.8, 
+        "genres": [
+            "Electronic", 
+            "Downtempo", 
+            "Pastoral"
+        ], 
+        "stddev": 0.9777525249264256, 
+        "artist": "Ulrich Schnauss", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Frozen", 
+        "rating": 8.0, 
+        "genres": [
+            "Metal", 
+            "Gothic"
+        ], 
+        "stddev": 0.9534625892455924, 
+        "artist": "Sentenced", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Greatest Hits", 
+        "rating": 8.88888888888889, 
+        "genres": [
+            "Rock"
+        ], 
+        "stddev": 1.0270684906564476, 
+        "artist": "Queen", 
+        "codec": "flac", 
+        "nsongs": 18.0, 
+        "nrated": 18.0
+    }, 
+    {
+        "album": "Grace Under Pressure", 
+        "rating": 8.25, 
+        "genres": [
+            "Rock", 
+            "Progressive"
+        ], 
+        "stddev": 1.4763764763772145, 
+        "artist": "Rush", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Gory Days", 
+        "rating": 8.142857142857142, 
+        "genres": [
+            "Rap"
+        ], 
+        "stddev": 0.9027008389631217, 
+        "artist": "Necro", 
+        "codec": "flac", 
+        "nsongs": 14.0, 
+        "nrated": 14.0
+    }, 
+    {
+        "album": "Fragile", 
+        "rating": 7.75, 
+        "genres": [
+            "Electronic", 
+            "Synthpop"
+        ], 
+        "stddev": 1.3891319231808044, 
+        "artist": "Mesh", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "War Eternal", 
+        "rating": 8.5, 
+        "genres": [
+            "Metal", 
+            "Melodeath"
+        ], 
+        "stddev": 1.14564392373896, 
+        "artist": "Arch Enemy", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Rock The Rebel / Metal The Dev", 
+        "rating": 8.909090909090908, 
+        "genres": [
+            "Metal", 
+            "Metalbilly"
+        ], 
+        "stddev": 1.2691804178811548, 
+        "artist": "Volbeat", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "From The Underground And Below", 
+        "rating": 7.4, 
+        "genres": [
+            "Metal", 
+            "Groove"
+        ], 
+        "stddev": 1.0019980039900278, 
+        "artist": "OverKill", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
         "album": "Prisma", 
         "rating": 8.0, 
         "genres": [
@@ -12346,20 +12633,6 @@
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
-    }, 
-    {
-        "album": "For Generations To Come", 
-        "rating": 8.25, 
-        "genres": [
-            "Electronic", 
-            "Industrial", 
-            "EBM"
-        ], 
-        "stddev": 1.0282468899377555, 
-        "artist": "Spetsnaz", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
     }, 
     {
         "album": "Herzblut-Engelskrieger-Deluxe Edition", 
@@ -14235,21 +14508,6 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "Out To Die", 
-        "rating": 9.125, 
-        "genres": [
-            "Metal", 
-            "Black", 
-            "Thrash", 
-            "Satanic"
-        ], 
-        "stddev": 1.2175474836736349, 
-        "artist": "Aura Noir", 
-        "codec": "flac", 
-        "nsongs": 8.0, 
-        "nrated": 8.0
     }, 
     {
         "album": "Fade To Grey", 
@@ -18804,6 +19062,130 @@
         "nrated": 12.0
     }, 
     {
+        "album": "Forever Abomination", 
+        "rating": 8.181818181818182, 
+        "genres": [
+            "Metal", 
+            "Black", 
+            "Thrash"
+        ], 
+        "stddev": 1.027056950935933, 
+        "artist": "Skeletonwitch", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Garage Inc.", 
+        "rating": 8.518518518518519, 
+        "genres": [
+            "Metal"
+        ], 
+        "stddev": 1.7477168099138196, 
+        "artist": "Metallica", 
+        "codec": "flac", 
+        "nsongs": 27.0, 
+        "nrated": 27.0
+    }, 
+    {
+        "album": "Full Moon", 
+        "rating": 8.307692307692308, 
+        "genres": [
+            "Electronic", 
+            "House", 
+            "Tech-House", 
+            "Deep"
+        ], 
+        "stddev": 1.0845041698824813, 
+        "artist": "Soda Inc.", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "Gods Of War", 
+        "rating": 6.769230769230769, 
+        "genres": [
+            "Metal", 
+            "Traditional", 
+            "True"
+        ], 
+        "stddev": 1.6359635929813074, 
+        "artist": "Manowar", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "For Aeons Past", 
+        "rating": 8.3, 
+        "genres": [
+            "Metal", 
+            "Melodeath"
+        ], 
+        "stddev": 1.1229425630903833, 
+        "artist": "Solution .45", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Omega Point", 
+        "rating": 8.384615384615385, 
+        "genres": [
+            "Electronic", 
+            "Drum & Bass", 
+            "Atmospheric"
+        ], 
+        "stddev": 1.328069567305529, 
+        "artist": "Eschaton", 
+        "codec": "mp3", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "Future Street", 
+        "rating": 8.25, 
+        "genres": [
+            "Pop", 
+            "Soft", 
+            "Jazz", 
+            "Smooth"
+        ], 
+        "stddev": 1.221551267855754, 
+        "artist": "Pages", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Futile", 
+        "rating": 8.25, 
+        "genres": [
+            "Metal", 
+            "Doom", 
+            "Gothic"
+        ], 
+        "stddev": 1.114534656257938, 
+        "artist": "Rapture", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Gothic", 
+        "rating": 8.0, 
+        "genres": [
+            "Metal", 
+            "Gothic"
+        ], 
+        "stddev": 1.1547005383792515, 
+        "artist": "Paradise Lost", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
         "album": "Mount Egonaut", 
         "rating": 8.3, 
         "genres": [
@@ -20203,19 +20585,6 @@
         "nrated": 9.0
     }, 
     {
-        "album": "Barren", 
-        "rating": 7.5, 
-        "genres": [
-            "Electronic", 
-            "IDM"
-        ], 
-        "stddev": 1.399404635312222, 
-        "artist": "Keef Baker", 
-        "codec": "flac", 
-        "nsongs": 18.0, 
-        "nrated": 18.0
-    }, 
-    {
         "album": "Lost Science LP", 
         "rating": 9.0, 
         "genres": [
@@ -20529,20 +20898,6 @@
         "codec": "flac", 
         "nsongs": 13.0, 
         "nrated": 13.0
-    }, 
-    {
-        "album": "Cinemascope", 
-        "rating": 7.444444444444445, 
-        "genres": [
-            "Electronic", 
-            "Techno", 
-            "IDM"
-        ], 
-        "stddev": 1.2433637282662608, 
-        "artist": "Monolake", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
     }, 
     {
         "album": "Dreams Of Endless War", 
@@ -23457,19 +23812,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Triumph And Power", 
-        "rating": 7.555555555555555, 
-        "genres": [
-            "Metal", 
-            "Traditional"
-        ], 
-        "stddev": 1.296825288889748, 
-        "artist": "Grand Magus", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
         "album": "Lights Out", 
         "rating": 8.11111111111111, 
         "genres": [
@@ -23712,20 +24054,6 @@
         "codec": "mp3", 
         "nsongs": 7.0, 
         "nrated": 7.0
-    }, 
-    {
-        "album": "Expedition", 
-        "rating": 7.538461538461538, 
-        "genres": [
-            "Electronic", 
-            "Techno", 
-            "Downtempo"
-        ], 
-        "stddev": 1.3872427406491776, 
-        "artist": "Index ID", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
     }, 
     {
         "album": "Clayman", 
@@ -24380,33 +24708,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Departed 2 Return, Vol. 1", 
-        "rating": 7.545454545454546, 
-        "genres": [
-            "Electronic", 
-            "Tech-House", 
-            "House"
-        ], 
-        "stddev": 1.148938686433733, 
-        "artist": "Pascal F.E.O.S.", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
-        "album": "Departed 2 Return, Vol. 2", 
-        "rating": 7.181818181818182, 
-        "genres": [
-            "Electronic", 
-            "House"
-        ], 
-        "stddev": 1.1008500233248146, 
-        "artist": "Pascal F.E.O.S.", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
         "album": "The Fiction Maze (Japanese Edition)", 
         "rating": 8.272727272727273, 
         "genres": [
@@ -24939,6 +25240,46 @@
         "nrated": 9.0
     }, 
     {
+        "album": "Gelb", 
+        "rating": 8.545454545454545, 
+        "genres": [
+            "Electronic", 
+            "Synthpop", 
+            "Futurepop"
+        ], 
+        "stddev": 1.145336475614985, 
+        "artist": "Neuroticfish", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Stormcrow", 
+        "rating": 7.7272727272727275, 
+        "genres": [
+            "Metal", 
+            "Power"
+        ], 
+        "stddev": 1.6938923297078612, 
+        "artist": "Cain's Offering", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Armageddon, Mon Amour", 
+        "rating": 8.444444444444445, 
+        "genres": [
+            "Metal", 
+            "Melodeath"
+        ], 
+        "stddev": 1.2483184849150164, 
+        "artist": "Hearse", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
         "album": "Just Me", 
         "rating": 7.9, 
         "genres": [
@@ -25057,19 +25398,6 @@
         "codec": "flac", 
         "nsongs": 6.0, 
         "nrated": 6.0
-    }, 
-    {
-        "album": "War Eternal", 
-        "rating": 8.416666666666666, 
-        "genres": [
-            "Metal", 
-            "Melodeath"
-        ], 
-        "stddev": 1.139312251934213, 
-        "artist": "Arch Enemy", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
     }, 
     {
         "album": "White Women", 
@@ -26249,19 +26577,6 @@
         "nrated": 14.0
     }, 
     {
-        "album": "Rock The Rebel / Metal The Dev", 
-        "rating": 8.909090909090908, 
-        "genres": [
-            "Metal", 
-            "Metalbilly"
-        ], 
-        "stddev": 1.2691804178811548, 
-        "artist": "Volbeat", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
         "album": "Back To The Front", 
         "rating": 8.0, 
         "genres": [
@@ -26517,21 +26832,6 @@
         "artist": "Pages", 
         "codec": "flac", 
         "nsongs": 9.0, 
-        "nrated": 8.0
-    }, 
-    {
-        "album": "Future Street", 
-        "rating": 8.25, 
-        "genres": [
-            "Pop", 
-            "Soft", 
-            "Jazz", 
-            "Smooth"
-        ], 
-        "stddev": 1.195695404356812, 
-        "artist": "Pages", 
-        "codec": "flac", 
-        "nsongs": 8.0, 
         "nrated": 8.0
     }, 
     {
@@ -27754,21 +28054,6 @@
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
-    }, 
-    {
-        "album": "Indefinite Soul-Extension", 
-        "rating": 8.25, 
-        "genres": [
-            "Metal", 
-            "Death", 
-            "Progressive", 
-            "Melodeath"
-        ], 
-        "stddev": 1.195695404356812, 
-        "artist": "Unmoored", 
-        "codec": "flac", 
-        "nsongs": 8.0, 
-        "nrated": 8.0
     }, 
     {
         "album": "Guiding Lights", 
@@ -29794,34 +30079,6 @@
         "nrated": 12.0
     }, 
     {
-        "album": "Day Into Night", 
-        "rating": 8.444444444444445, 
-        "genres": [
-            "Metal", 
-            "Melodeath", 
-            "Progressive"
-        ], 
-        "stddev": 1.101190277579149, 
-        "artist": "Quo Vadis", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
-        "album": "Defiant Imagination", 
-        "rating": 7.571428571428571, 
-        "genres": [
-            "Metal", 
-            "Death", 
-            "Melodeath"
-        ], 
-        "stddev": 1.3302929377740622, 
-        "artist": "Quo Vadis", 
-        "codec": "flac", 
-        "nsongs": 8.0, 
-        "nrated": 7.0
-    }, 
-    {
         "album": "Moments In Timeless Strings", 
         "rating": 8.833333333333334, 
         "genres": [
@@ -30276,20 +30533,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Emerald Forest and the Blackbird", 
-        "rating": 8.1, 
-        "genres": [
-            "Metal", 
-            "Doom", 
-            "Gothic"
-        ], 
-        "stddev": 0.9322016949137134, 
-        "artist": "Swallow the Sun", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Fireangel", 
         "rating": 8.181818181818182, 
         "genres": [
@@ -30386,5 +30629,50 @@
         "codec": "flac", 
         "nsongs": 11.0, 
         "nrated": 11.0
+    }, 
+    {
+        "album": "Golden Sun", 
+        "rating": 8.11111111111111, 
+        "genres": [
+            "Electronic", 
+            "Trip-Hop", 
+            "Downtempo"
+        ], 
+        "stddev": 1.0993201540485797, 
+        "artist": [
+            "Manual", 
+            "Syntaks"
+        ], 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Gates To Purgatory", 
+        "rating": 7.5, 
+        "genres": [
+            "Metal", 
+            "Traditional", 
+            "Satanic"
+        ], 
+        "stddev": 1.103970108290981, 
+        "artist": "Running Wild", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Ginger", 
+        "rating": 8.166666666666666, 
+        "genres": [
+            "Electronic", 
+            "Techno", 
+            "Minimal"
+        ], 
+        "stddev": 1.2237994873283715, 
+        "artist": "Speedy J", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
     }
 ]
