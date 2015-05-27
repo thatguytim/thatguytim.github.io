@@ -526,19 +526,6 @@
         "nrated": 11.0
     }, 
     {
-        "album": "This Too Shall Pass", 
-        "rating": 8.125, 
-        "genres": [
-            "Electronic", 
-            "Drum & Bass"
-        ], 
-        "stddev": 1.1721874583444407, 
-        "artist": "Breakage", 
-        "codec": "flac", 
-        "nsongs": 16.0, 
-        "nrated": 16.0
-    }, 
-    {
         "album": "Temporal - Disc 2", 
         "rating": 8.125, 
         "genres": [
@@ -1176,13 +1163,13 @@
     }, 
     {
         "album": "Burden Of Truth", 
-        "rating": 8.25, 
+        "rating": 8.166666666666666, 
         "genres": [
             "Metal", 
             "Power", 
             "Progressive"
         ], 
-        "stddev": 1.1063265039459795, 
+        "stddev": 1.079051366641946, 
         "artist": "Circle II Circle", 
         "codec": "flac", 
         "nsongs": 12.0, 
@@ -6579,19 +6566,6 @@
         "nrated": 8.0
     }, 
     {
-        "album": "Goetterdaemmerung", 
-        "rating": 7.636363636363637, 
-        "genres": [
-            "Metal", 
-            "Neue Deutsche Haerte"
-        ], 
-        "stddev": 0.9729628200172851, 
-        "artist": "Megaherz", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
         "album": "Those Once Loyal", 
         "rating": 8.444444444444445, 
         "genres": [
@@ -6603,6 +6577,66 @@
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
+    }, 
+    {
+        "album": "Layering Errors LP", 
+        "rating": 8.6, 
+        "genres": [
+            "Electronic", 
+            "Drum & Bass", 
+            "Techstep", 
+            "Drumfunk", 
+            "Darkstep"
+        ], 
+        "stddev": 1.4993331851193048, 
+        "artist": "The Blunt Needles", 
+        "codec": "flac", 
+        "nsongs": 5.0, 
+        "nrated": 5.0
+    }, 
+    {
+        "album": "Layering Errors LP", 
+        "rating": 8.428571428571429, 
+        "genres": [
+            "Electronic", 
+            "Drum & Bass", 
+            "Techstep", 
+            "Drumfunk"
+        ], 
+        "stddev": 1.2834447088596022, 
+        "artist": "Enjoy", 
+        "codec": "flac", 
+        "nsongs": 7.0, 
+        "nrated": 7.0
+    }, 
+    {
+        "album": "The Space Between", 
+        "rating": 7.5, 
+        "genres": [
+            "Electronic", 
+            "Drum & Bass", 
+            "Liquid"
+        ], 
+        "stddev": 1.8945410299821206, 
+        "artist": "Bachelors Of Science", 
+        "codec": "flac", 
+        "nsongs": 14.0, 
+        "nrated": 14.0
+    }, 
+    {
+        "album": "The First Day", 
+        "rating": 8.0, 
+        "genres": [
+            "Electronic", 
+            "Etherial", 
+            "Ambient", 
+            "Dub"
+        ], 
+        "stddev": 1.5811388300841898, 
+        "artist": "Bvdub", 
+        "codec": "flac", 
+        "nsongs": 4.0, 
+        "nrated": 4.0
     }, 
     {
         "album": "Broken Crown Halo", 
@@ -11894,19 +11928,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Move To This", 
-        "rating": 8.0, 
-        "genres": [
-            "Dance", 
-            "Pop"
-        ], 
-        "stddev": 1.6733200530681511, 
-        "artist": "Cathy Dennis", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Plagues Of Babylon (Limited Deluxe Edition)", 
         "rating": 8.25, 
         "genres": [
@@ -12137,19 +12158,6 @@
         "nrated": 18.0
     }, 
     {
-        "album": "Grace Under Pressure", 
-        "rating": 8.25, 
-        "genres": [
-            "Rock", 
-            "Progressive"
-        ], 
-        "stddev": 1.4763764763772145, 
-        "artist": "Rush", 
-        "codec": "flac", 
-        "nsongs": 8.0, 
-        "nrated": 8.0
-    }, 
-    {
         "album": "Gory Days", 
         "rating": 8.142857142857142, 
         "genres": [
@@ -12212,6 +12220,33 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
+    }, 
+    {
+        "album": "Dethalbum", 
+        "rating": 9.266666666666667, 
+        "genres": [
+            "Metal", 
+            "Death", 
+            "Comedy"
+        ], 
+        "stddev": 1.1074160782516977, 
+        "artist": "Dethklok", 
+        "codec": "flac", 
+        "nsongs": 15.0, 
+        "nrated": 15.0
+    }, 
+    {
+        "album": "Wintermetal", 
+        "rating": 7.888888888888889, 
+        "genres": [
+            "Metal", 
+            "Melodeath"
+        ], 
+        "stddev": 1.0054719970739425, 
+        "artist": "Immortal Souls", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 9.0
     }, 
     {
         "album": "Prisma", 
@@ -12706,12 +12741,12 @@
     }, 
     {
         "album": "Souls Of Black", 
-        "rating": 8.444444444444445, 
+        "rating": 8.333333333333334, 
         "genres": [
             "Metal", 
             "Thrash"
         ], 
-        "stddev": 1.5564371399593109, 
+        "stddev": 1.5355861067872503, 
         "artist": "Testament", 
         "codec": "flac", 
         "nsongs": 9.0, 
@@ -17946,32 +17981,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Moving Pictures", 
-        "rating": 8.714285714285714, 
-        "genres": [
-            "Rock", 
-            "Progressive"
-        ], 
-        "stddev": 1.5546413158639694, 
-        "artist": "Rush", 
-        "codec": "flac", 
-        "nsongs": 7.0, 
-        "nrated": 7.0
-    }, 
-    {
-        "album": "Roll The Bones", 
-        "rating": 8.1, 
-        "genres": [
-            "Rock", 
-            "Progressive"
-        ], 
-        "stddev": 1.0339245620450266, 
-        "artist": "Rush", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Double Eclipse", 
         "rating": 8.416666666666666, 
         "genres": [
@@ -18345,33 +18354,6 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "ReEvolution", 
-        "rating": 8.0, 
-        "genres": [
-            "Progressive", 
-            "Rock"
-        ], 
-        "stddev": 1.1952286093343936, 
-        "artist": "Cynthesis", 
-        "codec": "flac", 
-        "nsongs": 7.0, 
-        "nrated": 7.0
-    }, 
-    {
-        "album": "DeEvolution", 
-        "rating": 8.125, 
-        "genres": [
-            "Rock", 
-            "Prog", 
-            "Progressive"
-        ], 
-        "stddev": 1.165084492644203, 
-        "artist": "Cynthesis", 
-        "codec": "flac", 
-        "nsongs": 8.0, 
-        "nrated": 8.0
     }, 
     {
         "album": "Outlaw Gentlemen & Shady Ladies", 
@@ -19227,37 +19209,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Layering Errors LP", 
-        "rating": 8.428571428571429, 
-        "genres": [
-            "Electronic", 
-            "Drum & Bass", 
-            "Techstep", 
-            "Drumfunk"
-        ], 
-        "stddev": 1.1131338892485423, 
-        "artist": "Enjoy", 
-        "codec": "mp3", 
-        "nsongs": 7.0, 
-        "nrated": 7.0
-    }, 
-    {
-        "album": "Layering Errors LP", 
-        "rating": 8.6, 
-        "genres": [
-            "Electronic", 
-            "Drum & Bass", 
-            "Techstep", 
-            "Drumfunk", 
-            "Darkstep"
-        ], 
-        "stddev": 1.5517731793016658, 
-        "artist": "The Blunt Needles", 
-        "codec": "mp3", 
-        "nsongs": 5.0, 
-        "nrated": 5.0
-    }, 
-    {
         "album": "Raging Death", 
         "rating": 8.4, 
         "genres": [
@@ -19961,20 +19912,6 @@
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
-    }, 
-    {
-        "album": "Lucky Guess", 
-        "rating": 8.75, 
-        "genres": [
-            "Electronic", 
-            "Drum & Bass", 
-            "Liquid"
-        ], 
-        "stddev": 1.2808688457449497, 
-        "artist": "Random Movement", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
     }, 
     {
         "album": "Origins", 
@@ -21784,7 +21721,7 @@
             "Pop", 
             "Adult Contemporary"
         ], 
-        "stddev": 1.5520953578952552, 
+        "stddev": 1.552095357895255, 
         "artist": "Pet Shop Boys", 
         "codec": "flac", 
         "nsongs": 10.0, 
@@ -21877,13 +21814,13 @@
     }, 
     {
         "album": "Nightlife", 
-        "rating": 8.0, 
+        "rating": 8.083333333333334, 
         "genres": [
             "Electronic", 
             "Pop", 
             "Dance"
         ], 
-        "stddev": 1.35400640077266, 
+        "stddev": 1.3716288640666396, 
         "artist": "Pet Shop Boys", 
         "codec": "flac", 
         "nsongs": 12.0, 
@@ -22994,14 +22931,14 @@
     }, 
     {
         "album": "Escape To Nowhere", 
-        "rating": 8.0, 
+        "rating": 7.888888888888889, 
         "genres": [
-            "Metal", 
-            "Traditional", 
             "Rock", 
-            "Hard"
+            "Hard", 
+            "Metal", 
+            "Traditional"
         ], 
-        "stddev": 1.0540925533894598, 
+        "stddev": 0.9931176057623643, 
         "artist": "Omen", 
         "codec": "flac", 
         "nsongs": 9.0, 
@@ -25275,6 +25212,282 @@
         ], 
         "stddev": 1.2483184849150164, 
         "artist": "Hearse", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "The Desired Effect", 
+        "rating": 8.4, 
+        "genres": [
+            "Pop"
+        ], 
+        "stddev": 1.1063453348751464, 
+        "artist": "Brandon Flowers", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Hands On My Life", 
+        "rating": 7.916666666666667, 
+        "genres": [
+            "Electronic", 
+            "House", 
+            "Deep"
+        ], 
+        "stddev": 1.0372127000693663, 
+        "artist": "Babak Shayan", 
+        "codec": "mp3", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "GSpot", 
+        "rating": 8.6, 
+        "genres": [
+            "Electronic", 
+            "IDM"
+        ], 
+        "stddev": 1.2345039489608771, 
+        "artist": "Speedy J", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "The Art Of Balance", 
+        "rating": 7.916666666666667, 
+        "genres": [
+            "Rock", 
+            "AOR"
+        ], 
+        "stddev": 1.1146644570685171, 
+        "artist": "Newman", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Heaven Knows", 
+        "rating": 7.583333333333333, 
+        "genres": [
+            "Rock", 
+            "AOR"
+        ], 
+        "stddev": 0.9821909560131746, 
+        "artist": "Newman", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Hell Awaits (Remastered)", 
+        "rating": 8.142857142857142, 
+        "genres": [
+            "Metal", 
+            "Thrash"
+        ], 
+        "stddev": 1.1235616006939433, 
+        "artist": "Slayer", 
+        "codec": "flac", 
+        "nsongs": 7.0, 
+        "nrated": 7.0
+    }, 
+    {
+        "album": "Grim Tales", 
+        "rating": 7.8, 
+        "genres": [
+            "Metal", 
+            "Melodeath"
+        ], 
+        "stddev": 1.1644741302407713, 
+        "artist": "One Man Army And The Undead Quartet", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "The Faex Has Decimated", 
+        "rating": 8.0, 
+        "genres": [
+            "Electronic", 
+            "IDM"
+        ], 
+        "stddev": 0.9607689228305228, 
+        "artist": "Legiac", 
+        "codec": "mp3", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "Hidden Treasures", 
+        "rating": 9.125, 
+        "genres": [
+            "Metal", 
+            "Traditional"
+        ], 
+        "stddev": 1.3042897971693255, 
+        "artist": "Megadeth", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Hail To England", 
+        "rating": 8.571428571428571, 
+        "genres": [
+            "Metal", 
+            "Traditional", 
+            "True"
+        ], 
+        "stddev": 1.2265289143932019, 
+        "artist": "Manowar", 
+        "codec": "flac", 
+        "nsongs": 7.0, 
+        "nrated": 7.0
+    }, 
+    {
+        "album": "Heritage ", 
+        "rating": 7.222222222222222, 
+        "genres": [
+            "Rock", 
+            "Prog", 
+            "Progressive"
+        ], 
+        "stddev": 1.2695656667409343, 
+        "artist": "Opeth", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Habitat", 
+        "rating": 7.6, 
+        "genres": [
+            "Electronic", 
+            "Drum & Bass"
+        ], 
+        "stddev": 1.0119288512538813, 
+        "artist": "Naibu", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Naibu", 
+        "rating": 8.25, 
+        "genres": [
+            "Electronic", 
+            "Drum & Bass", 
+            "Liquid"
+        ], 
+        "stddev": 1.0077822185373186, 
+        "artist": "Naibu", 
+        "codec": "mp3", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "III", 
+        "rating": 7.909090909090909, 
+        "genres": [
+            "Indie", 
+            "Pop"
+        ], 
+        "stddev": 1.6209095775992002, 
+        "artist": "Shiny Toy Guns", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Chigliak", 
+        "rating": 8.066666666666666, 
+        "genres": [
+            "Electronic", 
+            "IDM"
+        ], 
+        "stddev": 0.9976268136228396, 
+        "artist": "Adam Johnson", 
+        "codec": "flac", 
+        "nsongs": 15.0, 
+        "nrated": 15.0
+    }, 
+    {
+        "album": "HanDover", 
+        "rating": 6.818181818181818, 
+        "genres": [
+            "Electronic", 
+            "Industrial"
+        ], 
+        "stddev": 1.3806106076252282, 
+        "artist": "Skinny Puppy", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Heresy", 
+        "rating": 8.0, 
+        "genres": [
+            "Metal, Thrash"
+        ], 
+        "stddev": 1.224744871391589, 
+        "artist": "Paradox", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Harvest", 
+        "rating": 8.0, 
+        "genres": [
+            "Gothic", 
+            "Rock", 
+            "Melancholy", 
+            "Metal"
+        ], 
+        "stddev": 1.0954451150103321, 
+        "artist": "The Man-Eating Tree", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "futuresoul", 
+        "rating": 7.6, 
+        "genres": [
+            "Jazz", 
+            "Smooth"
+        ], 
+        "stddev": 1.4913081505845798, 
+        "artist": "Boney James", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Horrorscope", 
+        "rating": 8.090909090909092, 
+        "genres": [
+            "Metal", 
+            "Thrash"
+        ], 
+        "stddev": 1.0753015756463522, 
+        "artist": "Overkill", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Immortal Changes", 
+        "rating": 8.0, 
+        "genres": [
+            "Electronic"
+        ], 
+        "stddev": 1.3333333333333333, 
+        "artist": "Robert Babicz", 
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
@@ -27974,19 +28187,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Zombieland", 
-        "rating": 7.916666666666667, 
-        "genres": [
-            "Metal", 
-            "Neue Deutsche Haerte"
-        ], 
-        "stddev": 1.0372127000693663, 
-        "artist": "Megaherz", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
         "album": "Time To Dream", 
         "rating": 8.1, 
         "genres": [
@@ -29214,19 +29414,6 @@
         "codec": "flac", 
         "nsongs": 8.0, 
         "nrated": 8.0
-    }, 
-    {
-        "album": "5", 
-        "rating": 7.3076923076923075, 
-        "genres": [
-            "Metal", 
-            "Neue Deutsche Haerte"
-        ], 
-        "stddev": 1.2912294741243788, 
-        "artist": "Megaherz", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
     }, 
     {
         "album": "The Chill Lounge Volume 1", 
@@ -30674,5 +30861,97 @@
         "codec": "flac", 
         "nsongs": 12.0, 
         "nrated": 12.0
+    }, 
+    {
+        "album": "Rarites & B-Sides", 
+        "rating": 7.083333333333333, 
+        "genres": [
+            "Electronic"
+        ], 
+        "stddev": 2.164929859440323, 
+        "artist": "Delerium", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Alpha-Omega", 
+        "rating": 8.625, 
+        "genres": [
+            "Thrash", 
+            "Metal", 
+            "Crossover"
+        ], 
+        "stddev": 1.0888282118865216, 
+        "artist": "Cro-mags", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Hazardous Mutation", 
+        "rating": 8.2, 
+        "genres": [
+            "Metal", 
+            "Thrash"
+        ], 
+        "stddev": 0.9077444574328171, 
+        "artist": "Municipal Waste", 
+        "codec": "flac", 
+        "nsongs": 15.0, 
+        "nrated": 15.0
+    }, 
+    {
+        "album": "The Furthest Reaches", 
+        "rating": 8.0, 
+        "genres": [
+            "Metal", 
+            "Progressive"
+        ], 
+        "stddev": 1.118033988749895, 
+        "artist": "Artizan", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Here & Now [Disc 1]", 
+        "rating": 8.333333333333334, 
+        "genres": [
+            "Electronic", 
+            "House"
+        ], 
+        "stddev": 1.3298565781762024, 
+        "artist": "Miguel Migs", 
+        "codec": "mp3", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Greatest Hits II", 
+        "rating": 8.3125, 
+        "genres": [
+            "Pop", 
+            "Rock"
+        ], 
+        "stddev": 1.0815164050420132, 
+        "artist": "Queen", 
+        "codec": "flac", 
+        "nsongs": 16.0, 
+        "nrated": 16.0
+    }, 
+    {
+        "album": "Ghosts", 
+        "rating": 8.0, 
+        "genres": [
+            "Electronic", 
+            "Synthpop", 
+            "Pop"
+        ], 
+        "stddev": 1.3333333333333333, 
+        "artist": "Soviet", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
     }
 ]
