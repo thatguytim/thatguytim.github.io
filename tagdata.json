@@ -39,18 +39,6 @@
         "nrated": 15.0
     }, 
     {
-        "album": "Mike + the Mechanics", 
-        "rating": 7.888888888888889, 
-        "genres": [
-            "Pop"
-        ], 
-        "stddev": 1.791229968791666, 
-        "artist": "Mike & The Mechanics", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
         "album": "Trapped In Perdition", 
         "rating": 7.9, 
         "genres": [
@@ -6491,19 +6479,6 @@
         "nrated": 12.0
     }, 
     {
-        "album": "Form & Function Vol. 2", 
-        "rating": 7.0, 
-        "genres": [
-            "Electronic", 
-            "Drum & Bass"
-        ], 
-        "stddev": 1.860521018838127, 
-        "artist": "Photek", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
-    }, 
-    {
         "album": "Ghost Reveries", 
         "rating": 7.875, 
         "genres": [
@@ -9369,7 +9344,7 @@
     }, 
     {
         "album": "Rage In Eden (2008 Definitive Edition)", 
-        "rating": 8.555555555555555, 
+        "rating": 8.444444444444445, 
         "genres": [
             "Pop", 
             "New Wave", 
@@ -9377,7 +9352,7 @@
             "Rock", 
             "New Romantic"
         ], 
-        "stddev": 1.667489508813397, 
+        "stddev": 1.5956043872991126, 
         "artist": "Ultravox", 
         "codec": "flac", 
         "nsongs": 9.0, 
@@ -12247,6 +12222,32 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 9.0
+    }, 
+    {
+        "album": "Iconoclast - Bonus CD", 
+        "rating": 7.6, 
+        "genres": [
+            "Metal", 
+            "Progressive"
+        ], 
+        "stddev": 1.2521980673998823, 
+        "artist": "Symphony X", 
+        "codec": "flac", 
+        "nsongs": 5.0, 
+        "nrated": 5.0
+    }, 
+    {
+        "album": "Iconoclast", 
+        "rating": 8.0, 
+        "genres": [
+            "Metal", 
+            "Progressive"
+        ], 
+        "stddev": 1.1952286093343936, 
+        "artist": "Symphony X", 
+        "codec": "flac", 
+        "nsongs": 7.0, 
+        "nrated": 7.0
     }, 
     {
         "album": "Prisma", 
@@ -19168,6 +19169,19 @@
         "nrated": 9.0
     }, 
     {
+        "album": "Unfinished business", 
+        "rating": 8.2, 
+        "genres": [
+            "Rock", 
+            "AOR"
+        ], 
+        "stddev": 1.2790621564255582, 
+        "artist": "Shy", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
         "album": "Mount Egonaut", 
         "rating": 8.3, 
         "genres": [
@@ -21619,19 +21633,6 @@
         "nrated": 11.0
     }, 
     {
-        "album": "A Day on Our Planet", 
-        "rating": 8.25, 
-        "genres": [
-            "Electronic", 
-            "Trance"
-        ], 
-        "stddev": 1.6723860200324565, 
-        "artist": "Spicelab", 
-        "codec": "flac", 
-        "nsongs": 4.0, 
-        "nrated": 4.0
-    }, 
-    {
         "album": " Next Stop", 
         "rating": 7.818181818181818, 
         "genres": [
@@ -21746,7 +21747,8 @@
         "rating": 6.818181818181818, 
         "genres": [
             "Electronic", 
-            "Pop"
+            "Pop", 
+            "Synthpop"
         ], 
         "stddev": 2.0782946832398843, 
         "artist": "Pet Shop Boys", 
@@ -23163,19 +23165,6 @@
         "codec": "flac", 
         "nsongs": 15.0, 
         "nrated": 15.0
-    }, 
-    {
-        "album": "Time Heals All", 
-        "rating": 8.0, 
-        "genres": [
-            "Electronic", 
-            "Ambient"
-        ], 
-        "stddev": 0.6666666666666666, 
-        "artist": "ASC", 
-        "codec": "flac", 
-        "nsongs": 18.0, 
-        "nrated": 18.0
     }, 
     {
         "album": "Gravitas", 
@@ -25308,19 +25297,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "The Faex Has Decimated", 
-        "rating": 8.0, 
-        "genres": [
-            "Electronic", 
-            "IDM"
-        ], 
-        "stddev": 0.9607689228305228, 
-        "artist": "Legiac", 
-        "codec": "mp3", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
-    }, 
-    {
         "album": "Hidden Treasures", 
         "rating": 9.125, 
         "genres": [
@@ -25491,6 +25467,245 @@
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
+    }, 
+    {
+        "album": "Kingdom Of Madness (1987)", 
+        "rating": 8.11111111111111, 
+        "genres": [
+            "Rock", 
+            "Prog"
+        ], 
+        "stddev": 0.9931176057623643, 
+        "artist": "Magnum", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Into The Valley Of The Moonking", 
+        "rating": 7.545454545454546, 
+        "genres": [
+            "Rock", 
+            "AOR"
+        ], 
+        "stddev": 1.0668842127268965, 
+        "artist": "Magnum", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Lights... Camera... Revolution!", 
+        "rating": 8.2, 
+        "genres": [
+            "Metal", 
+            "Thrash"
+        ], 
+        "stddev": 1.1644741302407706, 
+        "artist": "Suicidal Tendencies", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "In @ The Deep End", 
+        "rating": 8.555555555555555, 
+        "genres": [
+            "Electronic", 
+            "Drum & Bass"
+        ], 
+        "stddev": 1.292056558704623, 
+        "artist": "Nookie", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "The Faex Has Decimated", 
+        "rating": 8.0, 
+        "genres": [
+            "Electronic", 
+            "IDM"
+        ], 
+        "stddev": 0.9607689228305228, 
+        "artist": "Legiac", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "Into Glory Ride", 
+        "rating": 8.0, 
+        "genres": [
+            "Metal", 
+            "Traditional", 
+            "True"
+        ], 
+        "stddev": 1.1952286093343936, 
+        "artist": "Manowar", 
+        "codec": "flac", 
+        "nsongs": 7.0, 
+        "nrated": 7.0
+    }, 
+    {
+        "album": "Low-life CD 1", 
+        "rating": 8.125, 
+        "genres": [
+            "Pop", 
+            "New Wave", 
+            "Alternative"
+        ], 
+        "stddev": 1.5353898120672809, 
+        "artist": "New Order", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Inhumanity", 
+        "rating": 8.0, 
+        "genres": [
+            "Metal", 
+            "Melodeath"
+        ], 
+        "stddev": 0.9428090415820634, 
+        "artist": "Mors Principium Est", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Valley Of The Snake", 
+        "rating": 8.166666666666666, 
+        "genres": [
+            "Rock", 
+            "Metal", 
+            "Stoner"
+        ], 
+        "stddev": 1.3419858143534622, 
+        "artist": "Ruby The Hatchet", 
+        "codec": "flac", 
+        "nsongs": 6.0, 
+        "nrated": 6.0
+    }, 
+    {
+        "album": "Koloss", 
+        "rating": 7.4, 
+        "genres": [
+            "Metal", 
+            "Djent"
+        ], 
+        "stddev": 1.0972693379476162, 
+        "artist": "Meshuggah", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Illumination", 
+        "rating": 7.818181818181818, 
+        "genres": [
+            "Electronic", 
+            "Dance", 
+            "Electropop"
+        ], 
+        "stddev": 1.126819423653882, 
+        "artist": "Miami Horror", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Solaris", 
+        "rating": 8.2, 
+        "genres": [
+            "Electronic"
+        ], 
+        "stddev": 1.3251415018781956, 
+        "artist": "Photek", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "I Need Drugs", 
+        "rating": 8.23076923076923, 
+        "genres": [
+            "Rap"
+        ], 
+        "stddev": 1.00680434249619, 
+        "artist": "Necro", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "In This Place Forever", 
+        "rating": 8.4, 
+        "genres": [
+            "Electronic", 
+            "Synthpop", 
+            "Pop"
+        ], 
+        "stddev": 0.9715966241192894, 
+        "artist": "Mesh", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Kairos", 
+        "rating": 8.307692307692308, 
+        "genres": [
+            "Metal", 
+            "Modern", 
+            "Groove"
+        ], 
+        "stddev": 0.9874035965803584, 
+        "artist": "Sepultura", 
+        "codec": "flac", 
+        "nsongs": 15.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "Killbox 13", 
+        "rating": 8.1, 
+        "genres": [
+            "Metal", 
+            "Thrash", 
+            "Groove"
+        ], 
+        "stddev": 0.9428679653058534, 
+        "artist": "Overkill", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Immortalis", 
+        "rating": 7.6, 
+        "genres": [
+            "Metal", 
+            "Thrash"
+        ], 
+        "stddev": 1.1933147112141038, 
+        "artist": "Overkill", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Ironbound", 
+        "rating": 8.0, 
+        "genres": [
+            "Metal", 
+            "Thrash"
+        ], 
+        "stddev": 0.8944271909999159, 
+        "artist": "Overkill", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
     }, 
     {
         "album": "Just Me", 
@@ -26011,19 +26226,6 @@
         "stddev": 1.2018504251546631, 
         "artist": "Anth M & mSdoS", 
         "codec": "mp3", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
-        "album": "Truth Be Told", 
-        "rating": 7.888888888888889, 
-        "genres": [
-            "Electronic", 
-            "Ambient"
-        ], 
-        "stddev": 0.9931176057623643, 
-        "artist": "ASC", 
-        "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
     }, 
@@ -30321,21 +30523,6 @@
         "nrated": 8.0
     }, 
     {
-        "album": "Colorful You", 
-        "rating": 7.357142857142857, 
-        "genres": [
-            "Electronic", 
-            "Downtempo", 
-            "R&B", 
-            "House"
-        ], 
-        "stddev": 2.2578822090558326, 
-        "artist": "Miguel Migs", 
-        "codec": "flac", 
-        "nsongs": 14.0, 
-        "nrated": 14.0
-    }, 
-    {
         "album": "Cynic Paradise", 
         "rating": 8.307692307692308, 
         "genres": [
@@ -30915,19 +31102,6 @@
         "nrated": 8.0
     }, 
     {
-        "album": "Here & Now [Disc 1]", 
-        "rating": 8.333333333333334, 
-        "genres": [
-            "Electronic", 
-            "House"
-        ], 
-        "stddev": 1.3298565781762024, 
-        "artist": "Miguel Migs", 
-        "codec": "mp3", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
         "album": "Greatest Hits II", 
         "rating": 8.3125, 
         "genres": [
@@ -30953,5 +31127,676 @@
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
+    }, 
+    {
+        "album": "Long Live Rock 'N' Roll (1999 Remastered)", 
+        "rating": 8.25, 
+        "genres": [
+            "Rock", 
+            "Hard", 
+            "Traditional", 
+            "Metal"
+        ], 
+        "stddev": 1.4973935688388673, 
+        "artist": "Rainbow", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Lost Days, Open Skies And Streaming Tides (CD 1)", 
+        "rating": 7.545454545454546, 
+        "genres": [
+            "Electronic", 
+            "IDM", 
+            "Ambient", 
+            "Pastoral"
+        ], 
+        "stddev": 1.1417228996408177, 
+        "artist": "Manual", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Lost Days, Open Skies And Streaming Tides (CD 2)", 
+        "rating": 6.714285714285714, 
+        "genres": [
+            "Electronic", 
+            "Ambient"
+        ], 
+        "stddev": 1.0919797731976935, 
+        "artist": "Manual", 
+        "codec": "flac", 
+        "nsongs": 7.0, 
+        "nrated": 7.0
+    }, 
+    {
+        "album": "Leftover Love (extended edition)", 
+        "rating": 8.058823529411764, 
+        "genres": [
+            "Electronic", 
+            "IDM"
+        ], 
+        "stddev": 1.5157091782551886, 
+        "artist": "Recue", 
+        "codec": "flac", 
+        "nsongs": 17.0, 
+        "nrated": 17.0
+    }, 
+    {
+        "album": "In Sides", 
+        "rating": 8.125, 
+        "genres": [
+            "Electronic", 
+            "Techno"
+        ], 
+        "stddev": 1.2678414234437996, 
+        "artist": "Orbital", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Latest Version Of The Truth", 
+        "rating": 8.1, 
+        "genres": [
+            "Rock", 
+            "Hard"
+        ], 
+        "stddev": 1.0530906893520613, 
+        "artist": "Mustasch", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Into The Future (EP) / Suspended Sentence ", 
+        "rating": 8.181818181818182, 
+        "genres": [
+            "Metal", 
+            "Traditional"
+        ], 
+        "stddev": 1.027056950935933, 
+        "artist": "Satan", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "In Silico", 
+        "rating": 8.2, 
+        "genres": [
+            "Electronic", 
+            "Popstep", 
+            "Drum & Bass"
+        ], 
+        "stddev": 1.0564090116995406, 
+        "artist": "Pendulum", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Kombologi", 
+        "rating": 7.846153846153846, 
+        "genres": [
+            "Electronic", 
+            "Downtempo"
+        ], 
+        "stddev": 1.0253944476772165, 
+        "artist": "Nor Elle", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "Magnum Opus", 
+        "rating": 8.454545454545455, 
+        "genres": [
+            "Rock", 
+            "Hard", 
+            "Metal", 
+            "Shred"
+        ], 
+        "stddev": 0.9779691925350761, 
+        "artist": "Yngwie Malmsteen", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Keine Lust MCD", 
+        "rating": 7.625, 
+        "genres": [
+            "Neue Deutsche Haerte"
+        ], 
+        "stddev": 1.4888911561964495, 
+        "artist": "Rammstein", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Les Chansons Neurotiques", 
+        "rating": 8.0, 
+        "genres": [
+            "Electronic", 
+            "Synthpop", 
+            "Futurepop"
+        ], 
+        "stddev": 1.044465935734187, 
+        "artist": "Neuroticfish", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Loveland", 
+        "rating": 7.222222222222222, 
+        "genres": [
+            "Rock", 
+            "Ballad"
+        ], 
+        "stddev": 1.0573409202681627, 
+        "artist": "John Sykes", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Skeleton Keys", 
+        "rating": 8.25, 
+        "genres": [
+            "Electronic", 
+            "Synth"
+        ], 
+        "stddev": 1.086134199811423, 
+        "artist": "Steve Roach", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Live Undead + Haunting The Chapel EP", 
+        "rating": 8.75, 
+        "genres": [
+            "Thrash", 
+            "Metal"
+        ], 
+        "stddev": 1.595893166850463, 
+        "artist": "Slayer", 
+        "codec": "flac", 
+        "nsongs": 4.0, 
+        "nrated": 4.0
+    }, 
+    {
+        "album": "Killing Is My Business... (Original)", 
+        "rating": 8.375, 
+        "genres": [
+            "Metal", 
+            "Thrash"
+        ], 
+        "stddev": 1.1030851621701745, 
+        "artist": "Megadeth", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "House Of Dreams", 
+        "rating": 7.818181818181818, 
+        "genres": [
+            "Rock", 
+            "AOR"
+        ], 
+        "stddev": 1.525638637814698, 
+        "artist": "Sunstorm", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Liberation = Termination", 
+        "rating": 8.333333333333334, 
+        "genres": [
+            "Metal", 
+            "Melodeath"
+        ], 
+        "stddev": 1.0482201257840669, 
+        "artist": "Mors Principum Est", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Love Catastrophe", 
+        "rating": 8.4, 
+        "genres": [
+            "Rock", 
+            "Hair", 
+            "Hard"
+        ], 
+        "stddev": 0.9715966241192894, 
+        "artist": "Outloud", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Little Bit of Heaven", 
+        "rating": 9.0, 
+        "genres": [
+            "R&B", 
+            "Dance", 
+            "House", 
+            "Electronic"
+        ], 
+        "stddev": 1.5, 
+        "artist": "Lisa Stansfield", 
+        "codec": "mp3", 
+        "nsongs": 4.0, 
+        "nrated": 4.0
+    }, 
+    {
+        "album": "End vs Beginning", 
+        "rating": 8.142857142857142, 
+        "genres": [
+            "Metal", 
+            "Melodeath"
+        ], 
+        "stddev": 0.9139348816682892, 
+        "artist": "Rise To Fall", 
+        "codec": "flac", 
+        "nsongs": 14.0, 
+        "nrated": 14.0
+    }, 
+    {
+        "album": "Out Of The Blue", 
+        "rating": 7.875, 
+        "genres": [
+            "Electronic"
+        ], 
+        "stddev": 1.2678414234437996, 
+        "artist": "Polar", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Insidious", 
+        "rating": 8.333333333333334, 
+        "genres": [
+            "Metal", 
+            "Melodeath", 
+            "Metalcore"
+        ], 
+        "stddev": 1.04969131264951, 
+        "artist": "Nightrage", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "The Puritan", 
+        "rating": 8.3, 
+        "genres": [
+            "Melodeath", 
+            "Metal"
+        ], 
+        "stddev": 1.0959014554237982, 
+        "artist": "Nightrage", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Infatuator", 
+        "rating": 8.272727272727273, 
+        "genres": [
+            "Metal", 
+            "Power", 
+            "Traditional"
+        ], 
+        "stddev": 1.0491311563960013, 
+        "artist": "Silent Force", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Kreuzfeuer CD", 
+        "rating": 7.583333333333333, 
+        "genres": [
+            "Metal", 
+            "Folk", 
+            "Neue Deutsche Haerte"
+        ], 
+        "stddev": 1.0636567776969883, 
+        "artist": "Subway to Sally", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Livemd", 
+        "rating": 7.545454545454546, 
+        "genres": [
+            "Electronic", 
+            "IDM"
+        ], 
+        "stddev": 0.9694817254223379, 
+        "artist": "Proem", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "In Trance", 
+        "rating": 8.5, 
+        "genres": [
+            "Rock", 
+            "Hard"
+        ], 
+        "stddev": 1.1510864433221337, 
+        "artist": "Scorpions", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Lovedrive", 
+        "rating": 8.0, 
+        "genres": [
+            "Rock", 
+            "Hard"
+        ], 
+        "stddev": 1.224744871391589, 
+        "artist": "Scorpions", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Into The Silence", 
+        "rating": 8.166666666666666, 
+        "genres": [
+            "Metal", 
+            "Gothic", 
+            "Suomi"
+        ], 
+        "stddev": 0.9848387722908795, 
+        "artist": "Sethian", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Jump The Gun", 
+        "rating": 8.555555555555555, 
+        "genres": [
+            "Rock", 
+            "Hard", 
+            "AOR"
+        ], 
+        "stddev": 1.106781688702514, 
+        "artist": "Pretty Maids", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Human Elements", 
+        "rating": 8.272727272727273, 
+        "genres": [
+            "Jazz"
+        ], 
+        "stddev": 1.0491311563960013, 
+        "artist": "Makoto", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Host", 
+        "rating": 7.923076923076923, 
+        "genres": [
+            "Gothic", 
+            "Pop", 
+            "Synthpop"
+        ], 
+        "stddev": 1.2063026716539713, 
+        "artist": "Paradise Lost", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "Lost Paradise", 
+        "rating": 7.625, 
+        "genres": [
+            "Metal", 
+            "Doom", 
+            "Death"
+        ], 
+        "stddev": 1.1447911927508876, 
+        "artist": "Paradise Lost", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Icon", 
+        "rating": 7.583333333333333, 
+        "genres": [
+            "Metal", 
+            "Gothic"
+        ], 
+        "stddev": 0.9821909560131745, 
+        "artist": "Paradise Lost", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "The Plague Within", 
+        "rating": 8.2, 
+        "genres": [
+            "Metal", 
+            "Gothic"
+        ], 
+        "stddev": 0.9570788891204318, 
+        "artist": "Paradise Lost", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "In Requiem", 
+        "rating": 8.384615384615385, 
+        "genres": [
+            "Metal", 
+            "Gothic"
+        ], 
+        "stddev": 0.997265263795108, 
+        "artist": "Paradise Lost", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "Hourglass", 
+        "rating": 8.363636363636363, 
+        "genres": [
+            "Rock", 
+            "Hard"
+        ], 
+        "stddev": 1.0853854650831076, 
+        "artist": "Millenium", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Holographic Universe", 
+        "rating": 8.083333333333334, 
+        "genres": [
+            "Metal", 
+            "Modern", 
+            "Melodeath"
+        ], 
+        "stddev": 0.8535736423783029, 
+        "artist": "Scar Symmetry", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Last of Our Kind", 
+        "rating": 8.0, 
+        "genres": [
+            "Rock", 
+            "Hair", 
+            "Hard"
+        ], 
+        "stddev": 1.0954451150103321, 
+        "artist": "The Darkness", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Indestructible", 
+        "rating": 7.909090909090909, 
+        "genres": [
+            "Rock", 
+            "Hard"
+        ], 
+        "stddev": 1.0119496398679384, 
+        "artist": "House of Lords", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Cold Inferno", 
+        "rating": 8.363636363636363, 
+        "genres": [
+            "Metal", 
+            "Melodeath"
+        ], 
+        "stddev": 1.1446803102929444, 
+        "artist": "Disarmonia Mundi", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Ithyphallic", 
+        "rating": 8.222222222222221, 
+        "genres": [
+            "Metal", 
+            "Death", 
+            "Egyptian"
+        ], 
+        "stddev": 1.0277360685564156, 
+        "artist": "Nile", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "In Their Darkened Shrines", 
+        "rating": 7.833333333333333, 
+        "genres": [
+            "Metal", 
+            "Death", 
+            "Egyptian"
+        ], 
+        "stddev": 0.8962369891612048, 
+        "artist": "Nile", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Win Hands Down", 
+        "rating": 8.0, 
+        "genres": [
+            "Metal", 
+            "Traditional"
+        ], 
+        "stddev": 1.118033988749895, 
+        "artist": "Armored Saint", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "M.S.G.", 
+        "rating": 8.090909090909092, 
+        "genres": [
+            "Rock", 
+            "Hair", 
+            "Hard"
+        ], 
+        "stddev": 0.9871450231700233, 
+        "artist": "McAuley Schenker Group", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Loud & Clear", 
+        "rating": 8.3, 
+        "genres": [
+            "Rock", 
+            "AOR"
+        ], 
+        "stddev": 1.183638458314024, 
+        "artist": "Signal", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "I Hear Black", 
+        "rating": 7.363636363636363, 
+        "genres": [
+            "Metal", 
+            "Groove"
+        ], 
+        "stddev": 1.2581813404671143, 
+        "artist": "Overkill", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "I", 
+        "rating": 8.3, 
+        "genres": [
+            "Rock", 
+            "Progressive", 
+            "Prog"
+        ], 
+        "stddev": 1.342013412749664, 
+        "artist": "Nightingale", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Invisible", 
+        "rating": 8.3, 
+        "genres": [
+            "Rock", 
+            "Progressive"
+        ], 
+        "stddev": 1.030048542545447, 
+        "artist": "Nightingale", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
     }
 ]
