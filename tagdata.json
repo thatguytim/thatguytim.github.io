@@ -1137,19 +1137,6 @@
         "nrated": 16.0
     }, 
     {
-        "album": "Samdhya", 
-        "rating": 7.666666666666667, 
-        "genres": [
-            "Electronic", 
-            "IDM"
-        ], 
-        "stddev": 1.0122703976826997, 
-        "artist": "Diaphane", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
         "album": "Burden Of Truth", 
         "rating": 8.166666666666666, 
         "genres": [
@@ -1994,20 +1981,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Bastard CD", 
-        "rating": 7.083333333333333, 
-        "genres": [
-            "Folk", 
-            "Metal", 
-            "Neue Deutsche Haerte"
-        ], 
-        "stddev": 1.4016772360547465, 
-        "artist": "Subway to Sally", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
         "album": "Antares", 
         "rating": 8.3, 
         "genres": [
@@ -2020,19 +1993,6 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "Unified", 
-        "rating": 7.555555555555555, 
-        "genres": [
-            "Electronic", 
-            "Trance"
-        ], 
-        "stddev": 1.1558878914316473, 
-        "artist": "Super8 & Tab", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
     }, 
     {
         "album": "Inferno", 
@@ -2167,19 +2127,6 @@
         "codec": "mp3", 
         "nsongs": 12.0, 
         "nrated": 12.0
-    }, 
-    {
-        "album": "Chaosphere", 
-        "rating": 7.375, 
-        "genres": [
-            "Metal", 
-            "Djent"
-        ], 
-        "stddev": 1.0888282118865216, 
-        "artist": "Meshuggah", 
-        "codec": "flac", 
-        "nsongs": 8.0, 
-        "nrated": 8.0
     }, 
     {
         "album": "Zipless", 
@@ -3225,11 +3172,11 @@
             "Pop", 
             "Rock"
         ], 
-        "stddev": 2.215646837627989, 
+        "stddev": 2.32379000772445, 
         "artist": "The Police", 
         "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
+        "nsongs": 10.0, 
+        "nrated": 10.0
     }, 
     {
         "album": "E-Mail from Eternity", 
@@ -3918,19 +3865,6 @@
         "codec": "flac", 
         "nsongs": 8.0, 
         "nrated": 8.0
-    }, 
-    {
-        "album": "Cold Silence", 
-        "rating": 7.666666666666667, 
-        "genres": [
-            "Rock", 
-            "AOR"
-        ], 
-        "stddev": 1.0496913126495102, 
-        "artist": "SnowFall", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
     }, 
     {
         "album": "Bathory (2003 Remaster)", 
@@ -6383,18 +6317,6 @@
         "nrated": 13.0
     }, 
     {
-        "album": "Aces And Kings: The Best Of Go West", 
-        "rating": 7.705882352941177, 
-        "genres": [
-            "Pop"
-        ], 
-        "stddev": 2.161738224539449, 
-        "artist": "Go West", 
-        "codec": "flac", 
-        "nsongs": 17.0, 
-        "nrated": 17.0
-    }, 
-    {
         "album": "Imperial State Electric", 
         "rating": 8.0, 
         "genres": [
@@ -6421,20 +6343,6 @@
         "codec": "flac", 
         "nsongs": 8.0, 
         "nrated": 8.0
-    }, 
-    {
-        "album": "Believe", 
-        "rating": 7.9, 
-        "genres": [
-            "Electronic", 
-            "Progressive House", 
-            "EDM"
-        ], 
-        "stddev": 1.1353413583587977, 
-        "artist": "Morgan Page", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
     }, 
     {
         "album": "Die Evil", 
@@ -6614,6 +6522,20 @@
         "nrated": 4.0
     }, 
     {
+        "album": "Kreuzfeuer CD", 
+        "rating": 7.583333333333333, 
+        "genres": [
+            "Metal", 
+            "Folk", 
+            "Neue Deutsche Haerte"
+        ], 
+        "stddev": 1.1084168723738206, 
+        "artist": "Subway To Sally", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
         "album": "Broken Crown Halo", 
         "rating": 7.909090909090909, 
         "genres": [
@@ -6690,19 +6612,6 @@
         "codec": "flac", 
         "nsongs": 11.0, 
         "nrated": 11.0
-    }, 
-    {
-        "album": "2nd Home", 
-        "rating": 7.5, 
-        "genres": [
-            "Electronic", 
-            "Downtempo"
-        ], 
-        "stddev": 1.75, 
-        "artist": "Nor Elle", 
-        "codec": "mp3", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
     }, 
     {
         "album": "Toxin", 
@@ -6828,19 +6737,6 @@
         "codec": "mp3", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "Maverick", 
-        "rating": 7.5, 
-        "genres": [
-            "Electronic", 
-            "Downtempo"
-        ], 
-        "stddev": 2.207940216581962, 
-        "artist": "Sven van Hees", 
-        "codec": "mp3", 
-        "nsongs": 14.0, 
-        "nrated": 14.0
     }, 
     {
         "album": "Under The Influence", 
@@ -7443,47 +7339,6 @@
         "codec": "flac", 
         "nsongs": 7.0, 
         "nrated": 7.0
-    }, 
-    {
-        "album": "Still", 
-        "rating": 8.0, 
-        "genres": [
-            "Metal", 
-            "Neue Deutsche Haerte"
-        ], 
-        "stddev": 1.0, 
-        "artist": "DIE!", 
-        "codec": "flac", 
-        "nsongs": 14.0, 
-        "nrated": 14.0
-    }, 
-    {
-        "album": "Until Tomorrow", 
-        "rating": 7.555555555555555, 
-        "genres": [
-            "Electronic", 
-            "Ambient", 
-            "IDM"
-        ], 
-        "stddev": 1.1451573950918748, 
-        "artist": "Manual", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
-        "album": "Drowned In Light", 
-        "rating": 7.363636363636363, 
-        "genres": [
-            "Electronic", 
-            "Ambient", 
-            "Post"
-        ], 
-        "stddev": 1.2581813404671143, 
-        "artist": "Manual", 
-        "codec": "mp3", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
     }, 
     {
         "album": "Thrill Of The Night", 
@@ -8159,20 +8014,6 @@
         ], 
         "stddev": 1.300465154023533, 
         "artist": "Omni Trio", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
-        "album": "Manche Bluten Ewig", 
-        "rating": 6.818181818181818, 
-        "genres": [
-            "Metal", 
-            "Neue Deutsche Haerte", 
-            "Rock"
-        ], 
-        "stddev": 1.2876924188601027, 
-        "artist": "DIE!", 
         "codec": "flac", 
         "nsongs": 11.0, 
         "nrated": 11.0
@@ -12012,20 +11853,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "We Are Complex", 
-        "rating": 7.857142857142857, 
-        "genres": [
-            "Alternative", 
-            "Rock", 
-            "Trip-Hop"
-        ], 
-        "stddev": 1.23658987499916, 
-        "artist": "Curl", 
-        "codec": "mp3", 
-        "nsongs": 14.0, 
-        "nrated": 14.0
-    }, 
-    {
         "album": "Programist", 
         "rating": 8.3, 
         "genres": [
@@ -12182,19 +12009,6 @@
         "codec": "flac", 
         "nsongs": 11.0, 
         "nrated": 11.0
-    }, 
-    {
-        "album": "From The Underground And Below", 
-        "rating": 7.4, 
-        "genres": [
-            "Metal", 
-            "Groove"
-        ], 
-        "stddev": 1.0019980039900278, 
-        "artist": "OverKill", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
     }, 
     {
         "album": "Dethalbum", 
@@ -14146,19 +13960,6 @@
         "nrated": 9.0
     }, 
     {
-        "album": "Destroy Erase Improve", 
-        "rating": 7.9, 
-        "genres": [
-            "Metal", 
-            "Djent"
-        ], 
-        "stddev": 1.1353413583587977, 
-        "artist": "Meshuggah", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Wilderness", 
         "rating": 8.05, 
         "genres": [
@@ -14286,22 +14087,6 @@
         "codec": "flac", 
         "nsongs": 12.0, 
         "nrated": 12.0
-    }, 
-    {
-        "album": "Drifting Into View", 
-        "rating": 8.375, 
-        "genres": [
-            "Electronic", 
-            "Downtempo", 
-            "House", 
-            "Deep", 
-            "Deep House, Tech House"
-        ], 
-        "stddev": 1.2492185057066678, 
-        "artist": "Morgan Page", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 8.0
     }, 
     {
         "album": "All Possible Futures", 
@@ -14541,38 +14326,6 @@
         ], 
         "stddev": 1.547901805671148, 
         "artist": "Covenant", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
-        "album": "Fade To Grey", 
-        "rating": 7.818181818181818, 
-        "genres": [
-            "Electronic", 
-            "Synthpop", 
-            "New Wave", 
-            "Alternative", 
-            "New Romantic"
-        ], 
-        "stddev": 2.0198117161992024, 
-        "artist": "Visage", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
-        "album": "Hearts And Knives", 
-        "rating": 7.7, 
-        "genres": [
-            "Electronic", 
-            "Synthpop", 
-            "Pop", 
-            "New Wave", 
-            "Alternative"
-        ], 
-        "stddev": 1.0202940752547767, 
-        "artist": "Visage", 
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
@@ -15141,19 +14894,6 @@
         "nrated": 11.0
     }, 
     {
-        "album": "Steel Works", 
-        "rating": 7.2, 
-        "genres": [
-            "Electronic", 
-            "Industrial"
-        ], 
-        "stddev": 1.9120669444347391, 
-        "artist": "Bigod 20", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Appetite For Destruction", 
         "rating": 9.25, 
         "genres": [
@@ -15432,19 +15172,6 @@
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
-    }, 
-    {
-        "album": "A Collection Of Short Stories", 
-        "rating": 7.454545454545454, 
-        "genres": [
-            "Electronic", 
-            "IDM"
-        ], 
-        "stddev": 1.6076451458892997, 
-        "artist": "Reload", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
     }, 
     {
         "album": "X To The Power Of Ten", 
@@ -16256,20 +15983,6 @@
         "codec": "flac", 
         "nsongs": 8.0, 
         "nrated": 8.0
-    }, 
-    {
-        "album": "Tenebrae Vision", 
-        "rating": 7.5, 
-        "genres": [
-            "Electronic", 
-            "Industrial", 
-            "EBM"
-        ], 
-        "stddev": 2.103568396796263, 
-        "artist": "Cyberaktif", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
     }, 
     {
         "album": "Booze, Broads and Beelzebub", 
@@ -18277,20 +17990,6 @@
         "nrated": 12.0
     }, 
     {
-        "album": "Mnemesis", 
-        "rating": 7.7272727272727275, 
-        "genres": [
-            "Metal", 
-            "Metalcore", 
-            "Alternative Metal"
-        ], 
-        "stddev": 1.210087826133779, 
-        "artist": "Mnemic", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
         "album": "Instrumentalyst (Octagon Beats)", 
         "rating": 8.357142857142858, 
         "genres": [
@@ -20133,19 +19832,6 @@
         "nrated": 8.0
     }, 
     {
-        "album": "Cosmic Port", 
-        "rating": 7.375, 
-        "genres": [
-            "Electronic", 
-            "Downtempo"
-        ], 
-        "stddev": 1.7564056870495495, 
-        "artist": "Jens Buchert", 
-        "codec": "flac", 
-        "nsongs": 16.0, 
-        "nrated": 16.0
-    }, 
-    {
         "album": "April", 
         "rating": 7.083333333333333, 
         "genres": [
@@ -20197,19 +19883,6 @@
         "codec": "flac", 
         "nsongs": 12.0, 
         "nrated": 12.0
-    }, 
-    {
-        "album": "Senior", 
-        "rating": 6.555555555555555, 
-        "genres": [
-            "Electronic", 
-            "Downtempo"
-        ], 
-        "stddev": 1.2920565587046229, 
-        "artist": "R\u00f6yksopp", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
     }, 
     {
         "album": "Church Of Acid (EU Edition)", 
@@ -20838,19 +20511,6 @@
         "nrated": 8.0
     }, 
     {
-        "album": "Catch 33", 
-        "rating": 7.769230769230769, 
-        "genres": [
-            "Metal", 
-            "Djent"
-        ], 
-        "stddev": 1.5751541528913797, 
-        "artist": "Meshuggah", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
-    }, 
-    {
         "album": "Dreams Of Endless War", 
         "rating": 8.375, 
         "genres": [
@@ -20994,32 +20654,6 @@
         "codec": "flac", 
         "nsongs": 11.0, 
         "nrated": 11.0
-    }, 
-    {
-        "album": "Mindlook", 
-        "rating": 6.916666666666667, 
-        "genres": [
-            "Electronic", 
-            "Ambient"
-        ], 
-        "stddev": 1.0766352764601943, 
-        "artist": "Jonson", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
-        "album": "Chiplandschaften", 
-        "rating": 7.8, 
-        "genres": [
-            "Electronic", 
-            "Techno"
-        ], 
-        "stddev": 1.0443498775155131, 
-        "artist": "Jonson", 
-        "codec": "flac", 
-        "nsongs": 15.0, 
-        "nrated": 15.0
     }, 
     {
         "album": "Sleep No More [2006 remaster]", 
@@ -21363,20 +20997,6 @@
         "nrated": 11.0
     }, 
     {
-        "album": "2", 
-        "rating": 8.222222222222221, 
-        "genres": [
-            "Electronic", 
-            "House", 
-            "Tech-House"
-        ], 
-        "stddev": 1.331274130045291, 
-        "artist": "Jonsson/Alter", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
         "album": "Light to Dark", 
         "rating": 8.3, 
         "genres": [
@@ -21511,19 +21131,6 @@
         "codec": "mp3", 
         "nsongs": 4.0, 
         "nrated": 4.0
-    }, 
-    {
-        "album": "Braintickets", 
-        "rating": 6.888888888888889, 
-        "genres": [
-            "Electronic", 
-            "Techno"
-        ], 
-        "stddev": 2.099055898563668, 
-        "artist": "Jens Buchert", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
     }, 
     {
         "album": "Toto", 
@@ -24076,20 +23683,6 @@
         "nrated": 15.0
     }, 
     {
-        "album": "P_Composing", 
-        "rating": 7.857142857142857, 
-        "genres": [
-            "Electronic", 
-            "Downtempo", 
-            "Techno"
-        ], 
-        "stddev": 1.3009303690332108, 
-        "artist": "Jonson", 
-        "codec": "flac", 
-        "nsongs": 14.0, 
-        "nrated": 14.0
-    }, 
-    {
         "album": "Until The End Of Time", 
         "rating": 8.7, 
         "genres": [
@@ -24360,19 +23953,6 @@
         "codec": "flac", 
         "nsongs": 7.0, 
         "nrated": 7.0
-    }, 
-    {
-        "album": "Kill Your Friends", 
-        "rating": 7.916666666666667, 
-        "genres": [
-            "Electronic", 
-            "Synthpop"
-        ], 
-        "stddev": 1.249768497081078, 
-        "artist": "Douglas J. McCarthy", 
-        "codec": "mp3", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
     }, 
     {
         "album": "Thank God For Sending Demons", 
@@ -25589,19 +25169,6 @@
         "nrated": 6.0
     }, 
     {
-        "album": "Koloss", 
-        "rating": 7.4, 
-        "genres": [
-            "Metal", 
-            "Djent"
-        ], 
-        "stddev": 1.0972693379476162, 
-        "artist": "Meshuggah", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Illumination", 
         "rating": 7.818181818181818, 
         "genres": [
@@ -25702,6 +25269,34 @@
             "Thrash"
         ], 
         "stddev": 0.8944271909999159, 
+        "artist": "Overkill", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "One For The Money", 
+        "rating": 8.88888888888889, 
+        "genres": [
+            "Electronic", 
+            "Industrial", 
+            "Techno", 
+            "Rock"
+        ], 
+        "stddev": 1.6211902687584656, 
+        "artist": "Sheep On Drugs", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "From The Underground And Below", 
+        "rating": 7.4, 
+        "genres": [
+            "Metal", 
+            "Groove"
+        ], 
+        "stddev": 0.9612491872558332, 
         "artist": "Overkill", 
         "codec": "flac", 
         "nsongs": 10.0, 
@@ -27479,19 +27074,6 @@
         "nrated": 16.0
     }, 
     {
-        "album": "Melody A.M.", 
-        "rating": 8.2, 
-        "genres": [
-            "Downtempo", 
-            "Electronic"
-        ], 
-        "stddev": 1.3549907748763454, 
-        "artist": "R\u00f6yksopp", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Tough Guys Don't Dance", 
         "rating": 8.384615384615385, 
         "genres": [
@@ -28918,19 +28500,6 @@
         "nrated": 14.0
     }, 
     {
-        "album": "The Inevitable End", 
-        "rating": 7.6923076923076925, 
-        "genres": [
-            "Electronic", 
-            "Electropop"
-        ], 
-        "stddev": 1.894822017479331, 
-        "artist": "R\u00f6yksopp", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
-    }, 
-    {
         "album": "Mythmaker (2014 Remaster)", 
         "rating": 8.0, 
         "genres": [
@@ -29646,33 +29215,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Becoming RemiXed", 
-        "rating": 7.6, 
-        "genres": [
-            "Electronic", 
-            "Trip-Hop"
-        ], 
-        "stddev": 1.4913081505845798, 
-        "artist": "Sneaker Pimps", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
-        "album": "Splinter", 
-        "rating": 7.083333333333333, 
-        "genres": [
-            "Alternative", 
-            "Trip-Hop", 
-            "Rock"
-        ], 
-        "stddev": 1.966590158587155, 
-        "artist": "Sneaker Pimps", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
         "album": "Dark Matter Dimensions", 
         "rating": 8.583333333333334, 
         "genres": [
@@ -30046,21 +29588,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Ascend", 
-        "rating": 8.125, 
-        "genres": [
-            "Electronic", 
-            "IDM", 
-            "Ambient", 
-            "Pastoral"
-        ], 
-        "stddev": 1.2678414234437996, 
-        "artist": "Manual", 
-        "codec": "flac", 
-        "nsongs": 8.0, 
-        "nrated": 8.0
-    }, 
-    {
         "album": "Under The Blade", 
         "rating": 7.666666666666667, 
         "genres": [
@@ -30390,19 +29917,6 @@
         "nrated": 11.0
     }, 
     {
-        "album": "Confluence", 
-        "rating": 6.0, 
-        "genres": [
-            "Electronic", 
-            "Ambient"
-        ], 
-        "stddev": 0.8660254037844386, 
-        "artist": "Manual", 
-        "codec": "mp3", 
-        "nsongs": 8.0, 
-        "nrated": 8.0
-    }, 
-    {
         "album": "Strategy Of Violence", 
         "rating": 8.222222222222221, 
         "genres": [
@@ -30439,20 +29953,6 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "Contradictions Collapse & None (1998 Reissue)", 
-        "rating": 7.923076923076923, 
-        "genres": [
-            "Metal", 
-            "Technical", 
-            "Thrash"
-        ], 
-        "stddev": 0.9968087449962741, 
-        "artist": "Meshuggah", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
     }, 
     {
         "album": "Defying The Gods", 
@@ -30867,19 +30367,6 @@
         "nrated": 12.0
     }, 
     {
-        "album": "Empire", 
-        "rating": 7.636363636363637, 
-        "genres": [
-            "Electronic", 
-            "Trance"
-        ], 
-        "stddev": 1.4040833442377059, 
-        "artist": "Super8 & Tab", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
         "album": "Hidden Shore", 
         "rating": 7.333333333333333, 
         "genres": [
@@ -31005,23 +30492,6 @@
         "nrated": 11.0
     }, 
     {
-        "album": "Golden Sun", 
-        "rating": 8.11111111111111, 
-        "genres": [
-            "Electronic", 
-            "Trip-Hop", 
-            "Downtempo"
-        ], 
-        "stddev": 1.0993201540485797, 
-        "artist": [
-            "Manual", 
-            "Syntaks"
-        ], 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
         "album": "Gates To Purgatory", 
         "rating": 7.5, 
         "genres": [
@@ -31144,34 +30614,6 @@
         "nrated": 8.0
     }, 
     {
-        "album": "Lost Days, Open Skies And Streaming Tides (CD 1)", 
-        "rating": 7.545454545454546, 
-        "genres": [
-            "Electronic", 
-            "IDM", 
-            "Ambient", 
-            "Pastoral"
-        ], 
-        "stddev": 1.1417228996408177, 
-        "artist": "Manual", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
-        "album": "Lost Days, Open Skies And Streaming Tides (CD 2)", 
-        "rating": 6.714285714285714, 
-        "genres": [
-            "Electronic", 
-            "Ambient"
-        ], 
-        "stddev": 1.0919797731976935, 
-        "artist": "Manual", 
-        "codec": "flac", 
-        "nsongs": 7.0, 
-        "nrated": 7.0
-    }, 
-    {
         "album": "Leftover Love (extended edition)", 
         "rating": 8.058823529411764, 
         "genres": [
@@ -31236,19 +30678,6 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "Kombologi", 
-        "rating": 7.846153846153846, 
-        "genres": [
-            "Electronic", 
-            "Downtempo"
-        ], 
-        "stddev": 1.0253944476772165, 
-        "artist": "Nor Elle", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
     }, 
     {
         "album": "Magnum Opus", 
@@ -31463,20 +30892,6 @@
         "codec": "flac", 
         "nsongs": 11.0, 
         "nrated": 11.0
-    }, 
-    {
-        "album": "Kreuzfeuer CD", 
-        "rating": 7.583333333333333, 
-        "genres": [
-            "Metal", 
-            "Folk", 
-            "Neue Deutsche Haerte"
-        ], 
-        "stddev": 1.0636567776969883, 
-        "artist": "Subway to Sally", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
     }, 
     {
         "album": "Livemd", 
@@ -31798,5 +31213,258 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
+    }, 
+    {
+        "album": "Masquerade", 
+        "rating": 8.5, 
+        "genres": [
+            "Metal", 
+            "Pirate", 
+            "Traditional"
+        ], 
+        "stddev": 1.0124228365658292, 
+        "artist": "Running Wild", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Momentum", 
+        "rating": 8.11111111111111, 
+        "genres": [
+            "Electronic", 
+            "Techno", 
+            "IDM"
+        ], 
+        "stddev": 1.3783551159946956, 
+        "artist": "Monolake", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Metamorphosis", 
+        "rating": 7.777777777777778, 
+        "genres": [
+            "Metal", 
+            "Metalcore"
+        ], 
+        "stddev": 1.1306916683313888, 
+        "artist": "Mercenary", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Zenyatta Mondatta", 
+        "rating": 8.4, 
+        "genres": [
+            "Rock", 
+            "Alternative"
+        ], 
+        "stddev": 1.5646085772486356, 
+        "artist": "The Police", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 5.0
+    }, 
+    {
+        "album": "Message In A Box", 
+        "rating": 7.75, 
+        "genres": [
+            "Rock", 
+            "Alternative", 
+            "Punk"
+        ], 
+        "stddev": 1.4737282653189494, 
+        "artist": "The Police", 
+        "codec": "flac", 
+        "nsongs": 4.0, 
+        "nrated": 4.0
+    }, 
+    {
+        "album": "Outlandos d'Amour", 
+        "rating": 8.4, 
+        "genres": [
+            "Rock", 
+            "Alternative"
+        ], 
+        "stddev": 1.6074825037928095, 
+        "artist": "The Police", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Reggatta de Blanc", 
+        "rating": 8.181818181818182, 
+        "genres": [
+            "Rock", 
+            "Alternative"
+        ], 
+        "stddev": 1.424799140944457, 
+        "artist": "The Police", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Medical History", 
+        "rating": 8.307692307692308, 
+        "genres": [
+            "Drum & Bass"
+        ], 
+        "stddev": 1.0110900754365737, 
+        "artist": "Nu:Tone", 
+        "codec": "mp3", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "Massive Aggressive", 
+        "rating": 8.076923076923077, 
+        "genres": [
+            "Metal", 
+            "Thrash"
+        ], 
+        "stddev": 0.821036568541324, 
+        "artist": "Municipal Waste", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "Masterplan", 
+        "rating": 8.11111111111111, 
+        "genres": [
+            "Metal", 
+            "Power"
+        ], 
+        "stddev": 1.0993201540485797, 
+        "artist": "Masterplan", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Mk II", 
+        "rating": 8.181818181818182, 
+        "genres": [
+            "Metal", 
+            "Power", 
+            "Traditional"
+        ], 
+        "stddev": 0.969094165252775, 
+        "artist": "Masterplan", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Bastard CD", 
+        "rating": 7.083333333333333, 
+        "genres": [
+            "Folk", 
+            "Metal", 
+            "Neue Deutsche Haerte"
+        ], 
+        "stddev": 1.4016772360547465, 
+        "artist": "Subway To Sally", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Metro Area", 
+        "rating": 8.454545454545455, 
+        "genres": [
+            "Electronic", 
+            "House"
+        ], 
+        "stddev": 1.1489386864337334, 
+        "artist": "Metro Area", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Metal Church", 
+        "rating": 7.888888888888889, 
+        "genres": [
+            "Metal", 
+            "Traditional"
+        ], 
+        "stddev": 1.0054719970739423, 
+        "artist": "Metal Church", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "A Collection Of Short Stories", 
+        "rating": 8.363636363636363, 
+        "genres": [
+            "Electronic", 
+            "IDM"
+        ], 
+        "stddev": 1.2938042264611425, 
+        "artist": "Reload", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Mirror Of Madness", 
+        "rating": 8.0, 
+        "genres": [
+            "Metal", 
+            "Melodeath"
+        ], 
+        "stddev": 0.9428090415820634, 
+        "artist": "Norther", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Mindfeeled", 
+        "rating": 8.75, 
+        "genres": [
+            "Electronic", 
+            "House", 
+            "Deep"
+        ], 
+        "stddev": 1.1422291801560667, 
+        "artist": "Mindfeeled", 
+        "codec": "mp3", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Misfits", 
+        "rating": 8.45, 
+        "genres": [
+            "Punk", 
+            "Horror"
+        ], 
+        "stddev": 1.1123735883236352, 
+        "artist": "Misfits", 
+        "codec": "flac", 
+        "nsongs": 20.0, 
+        "nrated": 20.0
+    }, 
+    {
+        "album": "A Step In The Dark", 
+        "rating": 7.428571428571429, 
+        "genres": [
+            "Electronic", 
+            "Etherial", 
+            "Dub"
+        ], 
+        "stddev": 1.3379415022925523, 
+        "artist": "Bvdub", 
+        "codec": "flac", 
+        "nsongs": 7.0, 
+        "nrated": 7.0
     }
 ]
