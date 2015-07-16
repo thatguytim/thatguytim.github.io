@@ -192,19 +192,6 @@
         "nrated": 11.0
     }, 
     {
-        "album": "Killhammer", 
-        "rating": 8.272727272727273, 
-        "genres": [
-            "Metal", 
-            "Power"
-        ], 
-        "stddev": 1.154158196261889, 
-        "artist": "Mystic Prophecy", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
         "album": "Aruagint", 
         "rating": 8.0, 
         "genres": [
@@ -3798,20 +3785,6 @@
         "nrated": 9.0
     }, 
     {
-        "album": "Siren", 
-        "rating": 7.666666666666667, 
-        "genres": [
-            "Rock", 
-            "Hard", 
-            "AOR"
-        ], 
-        "stddev": 1.3298565781762026, 
-        "artist": "Newman", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
         "album": "Picture This", 
         "rating": 8.545454545454545, 
         "genres": [
@@ -6534,6 +6507,20 @@
         "codec": "flac", 
         "nsongs": 12.0, 
         "nrated": 12.0
+    }, 
+    {
+        "album": "On A Storytellers' Night (20th Annuversary Expanded Edition 2005)", 
+        "rating": 8.6, 
+        "genres": [
+            "Rock", 
+            "Progressive", 
+            "AOR"
+        ], 
+        "stddev": 1.0972693379476162, 
+        "artist": "Magnum", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
     }, 
     {
         "album": "Broken Crown Halo", 
@@ -9409,7 +9396,7 @@
             "Metal", 
             "Melodeath"
         ], 
-        "stddev": 0.9377489951167989, 
+        "stddev": 0.840180807973774, 
         "artist": "Amon Amarth", 
         "codec": "flac", 
         "nsongs": 14.0, 
@@ -13908,19 +13895,6 @@
         "nrated": 8.0
     }, 
     {
-        "album": "Dance In The Fire", 
-        "rating": 8.333333333333334, 
-        "genres": [
-            "Rock", 
-            "AOR"
-        ], 
-        "stddev": 1.1262852740396272, 
-        "artist": "Newman", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
         "album": "Descent Into Chaos", 
         "rating": 8.333333333333334, 
         "genres": [
@@ -15612,19 +15586,6 @@
         ], 
         "stddev": 1.6850834320114554, 
         "artist": "Boy George & Culture Club", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
-        "album": "Planetary Breathing", 
-        "rating": 8.222222222222221, 
-        "genres": [
-            "Metal", 
-            "Melodeath"
-        ], 
-        "stddev": 1.130691668331389, 
-        "artist": "MyGrain", 
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
@@ -17894,20 +17855,6 @@
         "nrated": 8.0
     }, 
     {
-        "album": "Icarus", 
-        "rating": 7.818181818181818, 
-        "genres": [
-            "Metal", 
-            "Melodeath", 
-            "Death"
-        ], 
-        "stddev": 1.2047988194473997, 
-        "artist": "Dew-Scented", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
         "album": "Ride With Death", 
         "rating": 8.166666666666666, 
         "genres": [
@@ -18879,6 +18826,21 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
+    }, 
+    {
+        "album": "Orchid", 
+        "rating": 7.5, 
+        "genres": [
+            "Metal", 
+            "Prog", 
+            "Progressive", 
+            "Folk"
+        ], 
+        "stddev": 1.695582495781317, 
+        "artist": "Opeth", 
+        "codec": "flac", 
+        "nsongs": 6.0, 
+        "nrated": 6.0
     }, 
     {
         "album": "Mount Egonaut", 
@@ -20981,6 +20943,35 @@
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
+    }, 
+    {
+        "album": "Odyssey", 
+        "rating": 8.333333333333334, 
+        "genres": [
+            "Electronic", 
+            "House", 
+            "Deep", 
+            "Tech-House"
+        ], 
+        "stddev": 1.04969131264951, 
+        "artist": "Soda Inc.", 
+        "codec": "mp3", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "My Arms, Your Hearse", 
+        "rating": 8.285714285714286, 
+        "genres": [
+            "Metal", 
+            "Progressive", 
+            "Death"
+        ], 
+        "stddev": 1.1196625897424655, 
+        "artist": "Opeth", 
+        "codec": "flac", 
+        "nsongs": 7.0, 
+        "nrated": 7.0
     }, 
     {
         "album": "Rise Of The Hero", 
@@ -24022,19 +24013,6 @@
         "nrated": 9.0
     }, 
     {
-        "album": "Double Night Time", 
-        "rating": 7.777777777777778, 
-        "genres": [
-            "Electronic", 
-            "Electropop"
-        ], 
-        "stddev": 1.1306916683313888, 
-        "artist": "Morgan Geist", 
-        "codec": "mp3", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
         "album": "...And Death Said Live", 
         "rating": 8.1, 
         "genres": [
@@ -24825,32 +24803,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "The Art Of Balance", 
-        "rating": 7.916666666666667, 
-        "genres": [
-            "Rock", 
-            "AOR"
-        ], 
-        "stddev": 1.1146644570685171, 
-        "artist": "Newman", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
-        "album": "Heaven Knows", 
-        "rating": 7.583333333333333, 
-        "genres": [
-            "Rock", 
-            "AOR"
-        ], 
-        "stddev": 0.9821909560131746, 
-        "artist": "Newman", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
         "album": "Hell Awaits (Remastered)", 
         "rating": 8.142857142857142, 
         "genres": [
@@ -25298,6 +25250,210 @@
         ], 
         "stddev": 0.9612491872558332, 
         "artist": "Overkill", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Pile Of Skulls (Remastered)", 
+        "rating": 8.1, 
+        "genres": [
+            "Metal", 
+            "Traditional"
+        ], 
+        "stddev": 1.0435516278555652, 
+        "artist": "Running Wild", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Use Your Time Wisely", 
+        "rating": 8.090909090909092, 
+        "genres": [
+            "Pop"
+        ], 
+        "stddev": 1.2395316727876404, 
+        "artist": "Strange Names", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Passing The Obstructions", 
+        "rating": 8.0, 
+        "genres": [
+            "Electronic", 
+            "Drum & Bass", 
+            "Liquid"
+        ], 
+        "stddev": 1.0954451150103321, 
+        "artist": "Nelver", 
+        "codec": "mp3", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Pimeys", 
+        "rating": 8.222222222222221, 
+        "genres": [
+            "Metal", 
+            "Melodeath"
+        ], 
+        "stddev": 1.0277360685564156, 
+        "artist": "Routasielu", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Mustasch", 
+        "rating": 7.818181818181818, 
+        "genres": [
+            "Rock", 
+            "Hard"
+        ], 
+        "stddev": 1.1120540284914204, 
+        "artist": "Mustasch", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "My Life", 
+        "rating": 8.3, 
+        "genres": [
+            "Electronic", 
+            "House", 
+            "Tech-House", 
+            "Deep"
+        ], 
+        "stddev": 1.2087183294713453, 
+        "artist": "Babak Shayan", 
+        "codec": "mp3", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Gemini", 
+        "rating": 8.272727272727273, 
+        "genres": [
+            "Electronic", 
+            "Indie", 
+            "Pop"
+        ], 
+        "stddev": 1.072503128284629, 
+        "artist": "The New Division", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Perpetual Flame", 
+        "rating": 8.25, 
+        "genres": [
+            "Rock", 
+            "Hard", 
+            "Metal", 
+            "Shred", 
+            "Neoclassical"
+        ], 
+        "stddev": 0.9213893494789992, 
+        "artist": "Yngwie Malmsteen's Rising Force", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Ghost Ship Octavius", 
+        "rating": 8.181818181818182, 
+        "genres": [
+            "Metal", 
+            "Progressive"
+        ], 
+        "stddev": 1.0430262852418846, 
+        "artist": "Ghost Ship Octavius", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Music for the Jilted Generation", 
+        "rating": 7.916666666666667, 
+        "genres": [
+            "Electronic", 
+            "Techno"
+        ], 
+        "stddev": 1.1146644570685171, 
+        "artist": "The Prodigy", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Mutter", 
+        "rating": 8.363636363636363, 
+        "genres": [
+            "Metal", 
+            "Neue Deutsche Haerte"
+        ], 
+        "stddev": 1.221520034461381, 
+        "artist": "Rammstein", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Zenyatta Mondatta", 
+        "rating": 7.636363636363637, 
+        "genres": [
+            "Rock", 
+            "Alternative"
+        ], 
+        "stddev": 1.4730231311842175, 
+        "artist": "The Police", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "No Instruments", 
+        "rating": 7.857142857142857, 
+        "genres": [
+            "Electronic", 
+            "Synthpop", 
+            "Futurepop"
+        ], 
+        "stddev": 1.0587687441761375, 
+        "artist": "Neuroticfish", 
+        "codec": "flac", 
+        "nsongs": 14.0, 
+        "nrated": 14.0
+    }, 
+    {
+        "album": "Nuclear Cowboy", 
+        "rating": 8.2, 
+        "genres": [
+            "Rock", 
+            "Modern", 
+            "Hard"
+        ], 
+        "stddev": 1.2633289357883004, 
+        "artist": "John Sykes", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Murder She Said", 
+        "rating": 8.4, 
+        "genres": [
+            "Electronic", 
+            "Synthpop", 
+            "EBM"
+        ], 
+        "stddev": 1.3505554412907306, 
+        "artist": "Second Voice", 
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
@@ -29256,18 +29412,6 @@
         "nrated": 11.0
     }, 
     {
-        "album": "Adventures Of The Imagination", 
-        "rating": 7.888888888888889, 
-        "genres": [
-            "Rock"
-        ], 
-        "stddev": 1.0993201540485797, 
-        "artist": "The Michael Schenker Group", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
         "album": "A Predator's Portrait", 
         "rating": 8.4, 
         "genres": [
@@ -30394,19 +30538,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Fireangel", 
-        "rating": 8.181818181818182, 
-        "genres": [
-            "Metal", 
-            "Power"
-        ], 
-        "stddev": 0.9343595660384892, 
-        "artist": "Mystic Prophecy", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
         "album": "How Do You Feel Now?", 
         "rating": 8.181818181818182, 
         "genres": [
@@ -31256,19 +31387,6 @@
         "nrated": 9.0
     }, 
     {
-        "album": "Zenyatta Mondatta", 
-        "rating": 8.4, 
-        "genres": [
-            "Rock", 
-            "Alternative"
-        ], 
-        "stddev": 1.5646085772486356, 
-        "artist": "The Police", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 5.0
-    }, 
-    {
         "album": "Message In A Box", 
         "rating": 7.75, 
         "genres": [
@@ -31466,5 +31584,623 @@
         "codec": "flac", 
         "nsongs": 7.0, 
         "nrated": 7.0
+    }, 
+    {
+        "album": "Orbital (The Yello Album)", 
+        "rating": 7.7, 
+        "genres": [
+            "Electronic", 
+            "Techno"
+        ], 
+        "stddev": 1.1229425630903835, 
+        "artist": "Orbital", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Dracula - Swing Of Death", 
+        "rating": 8.3, 
+        "genres": [
+            "Metal", 
+            "Progressive"
+        ], 
+        "stddev": 1.288797889507893, 
+        "artist": [
+            "J\u00f8rn Lande", 
+            "Trond Holter"
+        ], 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Organic Waveforms", 
+        "rating": 8.666666666666666, 
+        "genres": [
+            "Electronic", 
+            "Trance", 
+            "Progressive House"
+        ], 
+        "stddev": 1.1385500851066217, 
+        "artist": "Probspot", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "90 (Remastered)", 
+        "rating": 8.142857142857142, 
+        "genres": [
+            "Electronic", 
+            "Techno"
+        ], 
+        "stddev": 1.2605242095250826, 
+        "artist": "808 State", 
+        "codec": "flac", 
+        "nsongs": 7.0, 
+        "nrated": 7.0
+    }, 
+    {
+        "album": "No More Tears", 
+        "rating": 8.454545454545455, 
+        "genres": [
+            "Metal", 
+            "Traditional"
+        ], 
+        "stddev": 1.1489386864337334, 
+        "artist": "Ozzy Osbourne", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "No Rest For The Wicked (1995 Remaster)", 
+        "rating": 8.125, 
+        "genres": [
+            "Metal", 
+            "Traditional"
+        ], 
+        "stddev": 1.4408927354248129, 
+        "artist": "Ozzy Osbourne", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Paradise Lost", 
+        "rating": 8.0, 
+        "genres": [
+            "Metal", 
+            "Progressive", 
+            "Power"
+        ], 
+        "stddev": 1.0540925533894598, 
+        "artist": "Symphony X", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Youthanasia (2004 Remaster)", 
+        "rating": 8.333333333333334, 
+        "genres": [
+            "Metal", 
+            "Traditional"
+        ], 
+        "stddev": 1.04969131264951, 
+        "artist": "Megadeth", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Youthanasia", 
+        "rating": 8.333333333333334, 
+        "genres": [
+            "Metal", 
+            "Traditional"
+        ], 
+        "stddev": 1.04969131264951, 
+        "artist": "Megadeth", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Movement", 
+        "rating": 7.375, 
+        "genres": [
+            "Alternative", 
+            "Rock"
+        ], 
+        "stddev": 1.2239472517228838, 
+        "artist": "New Order", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Movement (Bonus)", 
+        "rating": 8.2, 
+        "genres": [
+            "Alternative", 
+            "Rock", 
+            "New Wave"
+        ], 
+        "stddev": 1.5987495113369072, 
+        "artist": "New Order", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Shred Force 1", 
+        "rating": 8.9, 
+        "genres": [
+            "Rock", 
+            "Shred"
+        ], 
+        "stddev": 1.0995453605922767, 
+        "artist": "Michael Angelo Batio", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Mute Math", 
+        "rating": 8.083333333333334, 
+        "genres": [
+            "Rock", 
+            "Indie"
+        ], 
+        "stddev": 1.2608326907540404, 
+        "artist": "Mute Math", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Let's Get Serious", 
+        "rating": 8.583333333333334, 
+        "genres": [
+            "Rock", 
+            "Hard", 
+            "AOR", 
+            "Hair"
+        ], 
+        "stddev": 0.9388108120067327, 
+        "artist": "Outloud", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Moontower", 
+        "rating": 8.375, 
+        "genres": [
+            "Metal", 
+            "Progressive"
+        ], 
+        "stddev": 1.1030851621701745, 
+        "artist": "Dan Swano", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Out Of The Dark", 
+        "rating": 7.9, 
+        "genres": [
+            "Metal", 
+            "Modern"
+        ], 
+        "stddev": 1.212023102090055, 
+        "artist": "Nuclear Blast All Stars", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "XIV", 
+        "rating": 7.636363636363637, 
+        "genres": [
+            "Rock", 
+            "AOR"
+        ], 
+        "stddev": 1.4504073367590284, 
+        "artist": "Toto", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Obituary Column", 
+        "rating": 8.5, 
+        "genres": [
+            "Alternative", 
+            "Pop", 
+            "New Wave"
+        ], 
+        "stddev": 1.1510864433221337, 
+        "artist": "Moev", 
+        "codec": "mp3", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Madmans Overture", 
+        "rating": 8.222222222222221, 
+        "genres": [
+            "Rock", 
+            "Hard", 
+            "Hair"
+        ], 
+        "stddev": 1.1523221619336332, 
+        "artist": "A.N.D.", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "O3", 
+        "rating": 8.153846153846153, 
+        "genres": [
+            "Electronic", 
+            "Dance"
+        ], 
+        "stddev": 1.2300293634160635, 
+        "artist": "Sunscreem", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "Novum Initium (Ltd. Edition)", 
+        "rating": 8.0, 
+        "genres": [
+            "Metal", 
+            "Traditional", 
+            "Power"
+        ], 
+        "stddev": 0.9128709291752769, 
+        "artist": "Masterplan", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "MK III", 
+        "rating": 8.0, 
+        "genres": [
+            "Metal", 
+            "Traditional", 
+            "Rock", 
+            "Hard"
+        ], 
+        "stddev": 1.2060453783110545, 
+        "artist": "Masterplan", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Niggaz4life", 
+        "rating": 8.25, 
+        "genres": [
+            "Rap", 
+            "Gangster"
+        ], 
+        "stddev": 1.2140668570277888, 
+        "artist": "N.W.A.", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "OID", 
+        "rating": 8.428571428571429, 
+        "genres": [
+            "Electronic", 
+            "Trance"
+        ], 
+        "stddev": 1.2181810270141544, 
+        "artist": "Space Manoeuvres", 
+        "codec": "flac", 
+        "nsongs": 7.0, 
+        "nrated": 7.0
+    }, 
+    {
+        "album": "Morningrise", 
+        "rating": 8.0, 
+        "genres": [
+            "Metal", 
+            "Death", 
+            "Progressive"
+        ], 
+        "stddev": 1.4142135623730951, 
+        "artist": "Opeth", 
+        "codec": "flac", 
+        "nsongs": 5.0, 
+        "nrated": 5.0
+    }, 
+    {
+        "album": "Paradigm Shift", 
+        "rating": 9.0, 
+        "genres": [
+            "Electronic", 
+            "Drum & Bass", 
+            "Liquid", 
+            "Atmospheric"
+        ], 
+        "stddev": 1.1902380714238083, 
+        "artist": "Scenic & Advisory", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Peel Sessions", 
+        "rating": 7.75, 
+        "genres": [
+            "Rock", 
+            "Gothic", 
+            "Goth"
+        ], 
+        "stddev": 1.195695404356812, 
+        "artist": "Sisters Of Mercy", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Pandemonium", 
+        "rating": 8.2, 
+        "genres": [
+            "Rock", 
+            "Hard"
+        ], 
+        "stddev": 1.0751744044572487, 
+        "artist": "Pretty Maids", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "One Second", 
+        "rating": 7.923076923076923, 
+        "genres": [
+            "Gothic", 
+            "Rock"
+        ], 
+        "stddev": 0.9968087449962741, 
+        "artist": "Paradise Lost", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "Paradise Lost", 
+        "rating": 8.25, 
+        "genres": [
+            "Metal", 
+            "Gothic"
+        ], 
+        "stddev": 0.9213893494789992, 
+        "artist": "Paradise Lost", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Pitch Black Progress", 
+        "rating": 8.125, 
+        "genres": [
+            "Metal", 
+            "Melodeath", 
+            "Modern"
+        ], 
+        "stddev": 1.052341140030171, 
+        "artist": "Scar Symmetry", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Nothing Remains the Same", 
+        "rating": 8.181818181818182, 
+        "genres": [
+            "Industrial", 
+            "Metal"
+        ], 
+        "stddev": 1.1120540284914207, 
+        "artist": "Pain", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Pain (Re-release)", 
+        "rating": 8.0, 
+        "genres": [
+            "Metal", 
+            "Cyber", 
+            "Industrial"
+        ], 
+        "stddev": 1.9364916731037085, 
+        "artist": "Pain", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Native Anger", 
+        "rating": 8.3, 
+        "genres": [
+            "Electronic", 
+            "Synthpop"
+        ], 
+        "stddev": 1.0959014554237982, 
+        "artist": "The Nine", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "N", 
+        "rating": 8.076923076923077, 
+        "genres": [
+            "Metal", 
+            "Melodeath"
+        ], 
+        "stddev": 0.9968087449962741, 
+        "artist": "Norther", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "MSG", 
+        "rating": 8.0, 
+        "genres": [
+            "Rock", 
+            "Hard"
+        ], 
+        "stddev": 1.118033988749895, 
+        "artist": "The Michael Schenker Group", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Natural Born Chaos", 
+        "rating": 8.5, 
+        "genres": [
+            "Metal", 
+            "Melodeath"
+        ], 
+        "stddev": 1.1937336386313322, 
+        "artist": "Soilwork", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Once Bitten ...", 
+        "rating": 8.076923076923077, 
+        "genres": [
+            "Rock", 
+            "Hard"
+        ], 
+        "stddev": 1.0656638815407857, 
+        "artist": "The Snakes", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "North From Here", 
+        "rating": 7.625, 
+        "genres": [
+            "Metal", 
+            "Death"
+        ], 
+        "stddev": 1.1030851621701745, 
+        "artist": "Sentenced", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Past Present Phuture Volume 2", 
+        "rating": 8.714285714285714, 
+        "genres": [
+            "Drum & Bass"
+        ], 
+        "stddev": 1.2489062270036118, 
+        "artist": "Subject 13", 
+        "codec": "mp3", 
+        "nsongs": 7.0, 
+        "nrated": 7.0
+    }, 
+    {
+        "album": "Same Difference", 
+        "rating": 7.2, 
+        "genres": [
+            "Alternative Metal", 
+            "Rock", 
+            "Metal"
+        ], 
+        "stddev": 1.4366627996854378, 
+        "artist": "Entombed", 
+        "codec": "flac", 
+        "nsongs": 15.0, 
+        "nrated": 15.0
+    }, 
+    {
+        "album": "Uprising", 
+        "rating": 7.5, 
+        "genres": [
+            "Metal", 
+            "Death & Roll"
+        ], 
+        "stddev": 1.181453906563152, 
+        "artist": "Entombed", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "To Ride, Shoot Straight And Speak The Truth", 
+        "rating": 7.923076923076923, 
+        "genres": [
+            "Metal", 
+            "Death & Roll"
+        ], 
+        "stddev": 0.9968087449962741, 
+        "artist": "Entombed", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "Non Zero Sumness", 
+        "rating": 8.454545454545455, 
+        "genres": [
+            "Electronic", 
+            "Progressive House", 
+            "Dance"
+        ], 
+        "stddev": 1.066884212726897, 
+        "artist": "Planet Funk", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Necroshine", 
+        "rating": 7.4, 
+        "genres": [
+            "Metal", 
+            "Groove"
+        ], 
+        "stddev": 1.0972693379476162, 
+        "artist": "Overkill", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Nightfall Overture", 
+        "rating": 8.8, 
+        "genres": [
+            "Metal", 
+            "Progressive"
+        ], 
+        "stddev": 1.2066482503198683, 
+        "artist": "Nightingale", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
     }
 ]
