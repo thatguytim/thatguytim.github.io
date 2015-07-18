@@ -501,46 +501,6 @@
         "nrated": 11.0
     }, 
     {
-        "album": "Temporal - Disc 2", 
-        "rating": 8.125, 
-        "genres": [
-            "Metal", 
-            "Post"
-        ], 
-        "stddev": 1.2801061967665026, 
-        "artist": "Isis", 
-        "codec": "flac", 
-        "nsongs": 8.0, 
-        "nrated": 8.0
-    }, 
-    {
-        "album": "Panopticon", 
-        "rating": 8.0, 
-        "genres": [
-            "Metal", 
-            "Post"
-        ], 
-        "stddev": 1.0690449676496976, 
-        "artist": "Isis", 
-        "codec": "flac", 
-        "nsongs": 7.0, 
-        "nrated": 7.0
-    }, 
-    {
-        "album": "Temporal - Disc 3", 
-        "rating": 7.0, 
-        "genres": [
-            "Metal", 
-            "Post", 
-            "Sludge"
-        ], 
-        "stddev": 1.3416407864998738, 
-        "artist": "Isis", 
-        "codec": "flac", 
-        "nsongs": 5.0, 
-        "nrated": 5.0
-    }, 
-    {
         "album": "The Truth Inside the Dying Sun", 
         "rating": 8.1, 
         "genres": [
@@ -2213,19 +2173,6 @@
         "nrated": 11.0
     }, 
     {
-        "album": "Now And Zen (Remastered + Expanded)", 
-        "rating": 7.9, 
-        "genres": [
-            "Rock", 
-            "Pop"
-        ], 
-        "stddev": 1.9720547659738055, 
-        "artist": "Robert Plant", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Part Of Me", 
         "rating": 8.0, 
         "genres": [
@@ -3497,21 +3444,6 @@
         "codec": "flac", 
         "nsongs": 12.0, 
         "nrated": 12.0
-    }, 
-    {
-        "album": "Black Gives Way to Blue", 
-        "rating": 8.090909090909092, 
-        "genres": [
-            "Rock", 
-            "Alternative", 
-            "Grunge", 
-            "Metal"
-        ], 
-        "stddev": 1.2461812442271634, 
-        "artist": "Alice in Chains", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
     }, 
     {
         "album": "Equatorial Ultravox", 
@@ -5432,20 +5364,6 @@
         "nrated": 13.0
     }, 
     {
-        "album": "Wall Street", 
-        "rating": 7.4, 
-        "genres": [
-            "Rock", 
-            "Hair", 
-            "NWOSSM"
-        ], 
-        "stddev": 1.021763181955584, 
-        "artist": "Wig Wam", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Abominog", 
         "rating": 8.5, 
         "genres": [
@@ -6391,22 +6309,6 @@
         "nrated": 11.0
     }, 
     {
-        "album": "Good Morning To The Night", 
-        "rating": 8.0, 
-        "genres": [
-            "Pop", 
-            "Dance"
-        ], 
-        "stddev": 1.4142135623730951, 
-        "artist": [
-            "Elton John", 
-            "Pnau"
-        ], 
-        "codec": "flac", 
-        "nsongs": 8.0, 
-        "nrated": 8.0
-    }, 
-    {
         "album": "Out To Die", 
         "rating": 9.25, 
         "genres": [
@@ -6521,6 +6423,19 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
+    }, 
+    {
+        "album": "Environments 4", 
+        "rating": 7.642857142857143, 
+        "genres": [
+            "Electronic", 
+            "Ambient"
+        ], 
+        "stddev": 0.8898930390733784, 
+        "artist": "The Future Sound Of London", 
+        "codec": "flac", 
+        "nsongs": 14.0, 
+        "nrated": 14.0
     }, 
     {
         "album": "Broken Crown Halo", 
@@ -6695,20 +6610,6 @@
         "codec": "mp3", 
         "nsongs": 5.0, 
         "nrated": 5.0
-    }, 
-    {
-        "album": "Win Some, Lose Some", 
-        "rating": 7.7272727272727275, 
-        "genres": [
-            "Electronic", 
-            "Drum & Bass", 
-            "Liquid"
-        ], 
-        "stddev": 2.0594106076956598, 
-        "artist": "Sulako", 
-        "codec": "mp3", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
     }, 
     {
         "album": "The Bleach Room", 
@@ -6990,33 +6891,6 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "Hard To Be A Rock N Roller", 
-        "rating": 7.928571428571429, 
-        "genres": [
-            "Rock", 
-            "Hair"
-        ], 
-        "stddev": 1.279605669944431, 
-        "artist": "Wig Wam", 
-        "codec": "flac", 
-        "nsongs": 14.0, 
-        "nrated": 14.0
-    }, 
-    {
-        "album": "Non Stop Rock N Roll", 
-        "rating": 7.5, 
-        "genres": [
-            "Rock", 
-            "Hair", 
-            "Hard"
-        ], 
-        "stddev": 1.8200274723201295, 
-        "artist": "Wig Wam", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
     }, 
     {
         "album": "Pearl of Great Price", 
@@ -11411,32 +11285,6 @@
         "nrated": 13.0
     }, 
     {
-        "album": "Environments 4", 
-        "rating": 7.642857142857143, 
-        "genres": [
-            "Electronic", 
-            "Ambient"
-        ], 
-        "stddev": 0.8898930390733784, 
-        "artist": "The Future Sound Of London", 
-        "codec": "flac", 
-        "nsongs": 14.0, 
-        "nrated": 14.0
-    }, 
-    {
-        "album": "ISDN", 
-        "rating": 7.466666666666667, 
-        "genres": [
-            "Electronic", 
-            "Experimental"
-        ], 
-        "stddev": 1.078544973220523, 
-        "artist": "Future Sound Of London", 
-        "codec": "flac", 
-        "nsongs": 15.0, 
-        "nrated": 15.0
-    }, 
-    {
         "album": "Colorseries", 
         "rating": 7.8, 
         "genres": [
@@ -11448,19 +11296,6 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "Mafiaparty, Nice You Were There!", 
-        "rating": 7.7272727272727275, 
-        "genres": [
-            "Electronic", 
-            "IDM"
-        ], 
-        "stddev": 1.2304061621337399, 
-        "artist": "The Last Gambit", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
     }, 
     {
         "album": "Terra Incognita", 
@@ -11851,20 +11686,6 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "Basswerk Files 057 Danoo", 
-        "rating": 7.7272727272727275, 
-        "genres": [
-            "Electronic", 
-            "Drum & Bass", 
-            "Liquid"
-        ], 
-        "stddev": 1.5244069926330632, 
-        "artist": "Danoo", 
-        "codec": "mp3", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
     }, 
     {
         "album": "God Is An Automaton", 
@@ -17896,34 +17717,6 @@
         "nrated": 9.0
     }, 
     {
-        "album": "The Easy Listener", 
-        "rating": 7.833333333333333, 
-        "genres": [
-            "Electronic", 
-            "Drill & Bass", 
-            "Leftfield", 
-            "Jazz"
-        ], 
-        "stddev": 1.1646808496242573, 
-        "artist": "IJO", 
-        "codec": "flac", 
-        "nsongs": 6.0, 
-        "nrated": 6.0
-    }, 
-    {
-        "album": "Delay Preform", 
-        "rating": 7.5, 
-        "genres": [
-            "Electronic", 
-            "IDM"
-        ], 
-        "stddev": 2.023301757029831, 
-        "artist": "IJO", 
-        "codec": "flac", 
-        "nsongs": 8.0, 
-        "nrated": 8.0
-    }, 
-    {
         "album": "Overtones", 
         "rating": 8.0, 
         "genres": [
@@ -18843,6 +18636,33 @@
         "nrated": 6.0
     }, 
     {
+        "album": "Planet Panic", 
+        "rating": 8.0, 
+        "genres": [
+            "Rock", 
+            "Hard"
+        ], 
+        "stddev": 1.1832159566199232, 
+        "artist": "Pretty Maids", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Pitch Black Progress", 
+        "rating": 8.272727272727273, 
+        "genres": [
+            "Metal", 
+            "Melodeath", 
+            "Modern"
+        ], 
+        "stddev": 0.9585708119396442, 
+        "artist": "Scar Symmetry", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
         "album": "Mount Egonaut", 
         "rating": 8.3, 
         "genres": [
@@ -19295,16 +19115,16 @@
     }, 
     {
         "album": "Kaleidoscope World", 
-        "rating": 6.6, 
+        "rating": 6.666666666666667, 
         "genres": [
             "Pop", 
             "Sophisti-Pop"
         ], 
-        "stddev": 1.3431306712304651, 
+        "stddev": 1.3966450099973926, 
         "artist": "Swing Out Sister", 
         "codec": "mp3", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
+        "nsongs": 9.0, 
+        "nrated": 9.0
     }, 
     {
         "album": "Get In Touch With Yourself", 
@@ -20861,19 +20681,6 @@
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
-    }, 
-    {
-        "album": "The Dead Bears", 
-        "rating": 7.7272727272727275, 
-        "genres": [
-            "Electronic", 
-            "House"
-        ], 
-        "stddev": 1.3520166088452978, 
-        "artist": "Newworldaquarium", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
     }, 
     {
         "album": "Latitude", 
@@ -25459,6 +25266,35 @@
         "nrated": 10.0
     }, 
     {
+        "album": "Bring On The Comets", 
+        "rating": 7.6, 
+        "genres": [
+            "Indie", 
+            "Rock"
+        ], 
+        "stddev": 1.2263767773404712, 
+        "artist": "VHS or Beta", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Power, Corruption & Lies (Bonus)", 
+        "rating": 8.333333333333334, 
+        "genres": [
+            "Pop", 
+            "Alternative", 
+            "New Wave", 
+            "Electronic", 
+            "Synthpop"
+        ], 
+        "stddev": 1.7266966964355612, 
+        "artist": "New Order", 
+        "codec": "flac", 
+        "nsongs": 6.0, 
+        "nrated": 6.0
+    }, 
+    {
         "album": "Just Me", 
         "rating": 7.9, 
         "genres": [
@@ -26491,19 +26327,6 @@
         "nrated": 9.0
     }, 
     {
-        "album": "Wig Wamania", 
-        "rating": 8.0, 
-        "genres": [
-            "Hair", 
-            "Rock"
-        ], 
-        "stddev": 1.2060453783110545, 
-        "artist": "Wig Wam", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
         "album": "To Lose My Life", 
         "rating": 8.0, 
         "genres": [
@@ -26795,34 +26618,6 @@
         "codec": "flac", 
         "nsongs": 11.0, 
         "nrated": 11.0
-    }, 
-    {
-        "album": "Diamonds And Death", 
-        "rating": 8.555555555555555, 
-        "genres": [
-            "Indie", 
-            "Electronic", 
-            "Dance", 
-            "Indietronic"
-        ], 
-        "stddev": 1.049527949281834, 
-        "artist": "VHS Or Beta", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
-        "album": "Bring On The Comets", 
-        "rating": 7.6, 
-        "genres": [
-            "Indie", 
-            "Rock"
-        ], 
-        "stddev": 1.2263767773404712, 
-        "artist": "VHS Or Beta", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
     }, 
     {
         "album": "Change In The Neon Light", 
@@ -29060,19 +28855,6 @@
         "nrated": 8.0
     }, 
     {
-        "album": "Airdrawndagger", 
-        "rating": 7.7, 
-        "genres": [
-            "Electronic", 
-            "Techno"
-        ], 
-        "stddev": 1.319469590403659, 
-        "artist": "Sasha", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Out Of My Tree", 
         "rating": 8.0, 
         "genres": [
@@ -29901,19 +29683,6 @@
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
-    }, 
-    {
-        "album": "Ave Maria", 
-        "rating": 7.666666666666667, 
-        "genres": [
-            "Metal", 
-            "Neue Deutsche Haerte"
-        ], 
-        "stddev": 1.7924739783224088, 
-        "artist": "Ostfront", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
     }, 
     {
         "album": "Black Seeds Of Vengeance", 
@@ -31993,20 +31762,6 @@
         "nrated": 12.0
     }, 
     {
-        "album": "Pitch Black Progress", 
-        "rating": 8.125, 
-        "genres": [
-            "Metal", 
-            "Melodeath", 
-            "Modern"
-        ], 
-        "stddev": 1.052341140030171, 
-        "artist": "Scar Symmetry", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 8.0
-    }, 
-    {
         "album": "Nothing Remains the Same", 
         "rating": 8.181818181818182, 
         "genres": [
@@ -32202,5 +31957,114 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
+    }, 
+    {
+        "album": "Skyline Whispers", 
+        "rating": 8.545454545454545, 
+        "genres": [
+            "Rock", 
+            "Hard"
+        ], 
+        "stddev": 1.1086708322468763, 
+        "artist": "The Night Flight Orchestra", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Port Royal", 
+        "rating": 8.3, 
+        "genres": [
+            "Metal", 
+            "Pirate", 
+            "Traditional"
+        ], 
+        "stddev": 1.0004998750624607, 
+        "artist": "Running Wild", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Polygon Cities", 
+        "rating": 8.222222222222221, 
+        "genres": [
+            "Electronic", 
+            "Techno", 
+            "IDM"
+        ], 
+        "stddev": 1.4296488196754655, 
+        "artist": "Monolake", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Powerhouse", 
+        "rating": 8.181818181818182, 
+        "genres": [
+            "Rock", 
+            "Hard"
+        ], 
+        "stddev": 0.9518853134108664, 
+        "artist": "Mustasch", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Black Gives Way to Blue", 
+        "rating": 8.090909090909092, 
+        "genres": [
+            "Rock", 
+            "Alternative Metal", 
+            "Grunge"
+        ], 
+        "stddev": 1.2461812442271634, 
+        "artist": "Alice in Chains", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Diamonds And Death", 
+        "rating": 8.555555555555555, 
+        "genres": [
+            "Indie", 
+            "Electronic", 
+            "Dance", 
+            "Indietronic"
+        ], 
+        "stddev": 1.049527949281834, 
+        "artist": "VHS or Beta", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Place Vendome", 
+        "rating": 7.545454545454546, 
+        "genres": [
+            "Rock", 
+            "AOR"
+        ], 
+        "stddev": 1.6102134572507287, 
+        "artist": "Place Vendome", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "ISDN", 
+        "rating": 7.466666666666667, 
+        "genres": [
+            "Electronic", 
+            "Experimental"
+        ], 
+        "stddev": 1.0493031197118576, 
+        "artist": "The Future Sound Of London", 
+        "codec": "flac", 
+        "nsongs": 15.0, 
+        "nrated": 15.0
     }
 ]
