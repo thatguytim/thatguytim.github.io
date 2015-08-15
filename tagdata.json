@@ -11874,6 +11874,59 @@
         "nrated": 8.0
     }, 
     {
+        "album": "Talkin' It To The Streets", 
+        "rating": 7.923076923076923, 
+        "genres": [
+            "Rock", 
+            "Hair"
+        ], 
+        "stddev": 0.9163959407673592, 
+        "artist": "FM", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "Shadows Of The Past", 
+        "rating": 8.0, 
+        "genres": [
+            "Metal", 
+            "Death"
+        ], 
+        "stddev": 1.1547005383792515, 
+        "artist": "Sentenced", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Scars & Wounds", 
+        "rating": 7.875, 
+        "genres": [
+            "Metal", 
+            "Traditional"
+        ], 
+        "stddev": 1.165084492644203, 
+        "artist": "Machine Men", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Meliora", 
+        "rating": 8.625, 
+        "genres": [
+            "Rock", 
+            "Occult", 
+            "Stoner Doom"
+        ], 
+        "stddev": 1.1583595620531648, 
+        "artist": "Ghost", 
+        "codec": "mp3", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
         "album": "Prisma", 
         "rating": 8.0, 
         "genres": [
@@ -13975,20 +14028,6 @@
         "codec": "flac", 
         "nsongs": 12.0, 
         "nrated": 12.0
-    }, 
-    {
-        "album": "Fette Beute", 
-        "rating": 7.923076923076923, 
-        "genres": [
-            "Industrial", 
-            "Rock", 
-            "Electronic"
-        ], 
-        "stddev": 1.0712020481436735, 
-        "artist": "Stendal Blast", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
     }, 
     {
         "album": "Honour & Blood", 
@@ -18625,6 +18664,75 @@
         "codec": "flac", 
         "nsongs": 11.0, 
         "nrated": 11.0
+    }, 
+    {
+        "album": "Selected Singles and Remixes", 
+        "rating": 7.769230769230769, 
+        "genres": [
+            "Electronic", 
+            "House"
+        ], 
+        "stddev": 1.2623536116611378, 
+        "artist": "Shur-I-Kan", 
+        "codec": "mp3", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "Sehnsucht", 
+        "rating": 8.636363636363637, 
+        "genres": [
+            "Metal", 
+            "Neue Deutsche Haerte"
+        ], 
+        "stddev": 1.2841868976044581, 
+        "artist": "Rammstein", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Sign Of The Hammer", 
+        "rating": 8.375, 
+        "genres": [
+            "Metal", 
+            "Traditional", 
+            "True"
+        ], 
+        "stddev": 1.1030851621701745, 
+        "artist": "Manowar", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "The Unspeakable", 
+        "rating": 8.6, 
+        "genres": [
+            "Rock", 
+            "Stoner", 
+            "Occult", 
+            "Stoner Doom"
+        ], 
+        "stddev": 1.2664912159190052, 
+        "artist": "Year of the Goat", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Shades Of God", 
+        "rating": 7.555555555555555, 
+        "genres": [
+            "Metal", 
+            "Gothic", 
+            "Doom"
+        ], 
+        "stddev": 1.1978490095404615, 
+        "artist": "Paradise Lost", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
     }, 
     {
         "album": "Mount Egonaut", 
@@ -24781,19 +24889,6 @@
         "nrated": 12.0
     }, 
     {
-        "album": "III", 
-        "rating": 7.909090909090909, 
-        "genres": [
-            "Indie", 
-            "Pop"
-        ], 
-        "stddev": 1.6209095775992002, 
-        "artist": "Shiny Toy Guns", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
         "album": "Chigliak", 
         "rating": 8.066666666666666, 
         "genres": [
@@ -25527,6 +25622,21 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
+    }, 
+    {
+        "album": "Shadows", 
+        "rating": 8.0, 
+        "genres": [
+            "Indie", 
+            "Pop", 
+            "Rock", 
+            "Indietronic"
+        ], 
+        "stddev": 1.044465935734187, 
+        "artist": "The New Division", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
     }, 
     {
         "album": "Just Me", 
@@ -32632,6 +32742,20 @@
         "nrated": 10.0
     }, 
     {
+        "album": "Save Yourself", 
+        "rating": 8.25, 
+        "genres": [
+            "Rock", 
+            "Hard", 
+            "Hair"
+        ], 
+        "stddev": 1.2479149276559949, 
+        "artist": "McAuley Schenker Group", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
         "album": "ReliXIV", 
         "rating": 7.3, 
         "genres": [
@@ -32657,5 +32781,126 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
+    }, 
+    {
+        "album": "Shadowmaker", 
+        "rating": 7.9, 
+        "genres": [
+            "Metal", 
+            "Traditional"
+        ], 
+        "stddev": 1.0435516278555652, 
+        "artist": "Running Wild", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Shadow", 
+        "rating": 8.222222222222221, 
+        "genres": [
+            "Metal", 
+            "Melodeath"
+        ], 
+        "stddev": 1.0514866345613625, 
+        "artist": "Shadow", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Terms Of Surrender", 
+        "rating": 8.222222222222221, 
+        "genres": [
+            "Metal", 
+            "Progressive", 
+            "Thrash"
+        ], 
+        "stddev": 1.0277360685564156, 
+        "artist": "Black Fast", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Second Heat", 
+        "rating": 8.5, 
+        "genres": [
+            "Metal", 
+            "Traditional"
+        ], 
+        "stddev": 1.0124228365658292, 
+        "artist": "Racer X", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Seasons in the Abyss", 
+        "rating": 8.7, 
+        "genres": [
+            "Metal", 
+            "Thrash"
+        ], 
+        "stddev": 1.225153051663342, 
+        "artist": "Slayer", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Genexus", 
+        "rating": 8.166666666666666, 
+        "genres": [
+            "Metal", 
+            "Groove", 
+            "Cyber"
+        ], 
+        "stddev": 1.0661022812441936, 
+        "artist": "Fear Factory", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Up The Dose / You Axed for It", 
+        "rating": 8.25, 
+        "genres": [
+            "Metal", 
+            "Traditional", 
+            "Comedy"
+        ], 
+        "stddev": 0.9662265521087692, 
+        "artist": "The Mentors", 
+        "codec": "mp3", 
+        "nsongs": 16.0, 
+        "nrated": 16.0
+    }, 
+    {
+        "album": "Ready To Play", 
+        "rating": 8.416666666666666, 
+        "genres": [
+            "Jazz", 
+            "Smooth"
+        ], 
+        "stddev": 1.0958148498652431, 
+        "artist": "Nils", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Perspective", 
+        "rating": 7.846153846153846, 
+        "genres": [
+            "Electronic", 
+            "Drum & Bass", 
+            "Liquid"
+        ], 
+        "stddev": 1.119203826512368, 
+        "artist": "Anile", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
     }
 ]
