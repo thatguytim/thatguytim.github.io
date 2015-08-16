@@ -663,34 +663,6 @@
         "nrated": 12.0
     }, 
     {
-        "album": "Satyricon", 
-        "rating": 7.583333333333333, 
-        "genres": [
-            "Techno", 
-            "Electronic", 
-            "Dance", 
-            "Alternative"
-        ], 
-        "stddev": 1.998118327790387, 
-        "artist": "Meat Beat Manifesto", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
-        "album": "...I Care Because You Do", 
-        "rating": 7.75, 
-        "genres": [
-            "Electronic", 
-            "IDM"
-        ], 
-        "stddev": 1.4772581584363196, 
-        "artist": "Aphex Twin", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
         "album": "Computers Want Me Dead", 
         "rating": 8.714285714285714, 
         "genres": [
@@ -733,18 +705,6 @@
         "nrated": 11.0
     }, 
     {
-        "album": "Songs From the Sparkle Lounge", 
-        "rating": 7.090909090909091, 
-        "genres": [
-            "Rock"
-        ], 
-        "stddev": 1.490767983646975, 
-        "artist": "Def Leppard", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
         "album": "Pyromania (2009 Remaster)", 
         "rating": 9.6, 
         "genres": [
@@ -773,32 +733,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Slang", 
-        "rating": 5.909090909090909, 
-        "genres": [
-            "Rock", 
-            "Alternative"
-        ], 
-        "stddev": 1.915377292546407, 
-        "artist": "Def Leppard", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
-        "album": "X", 
-        "rating": 6.153846153846154, 
-        "genres": [
-            "Rock", 
-            "Pop"
-        ], 
-        "stddev": 1.6564243012087685, 
-        "artist": "Def Leppard", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
-    }, 
-    {
         "album": "On Through The Night", 
         "rating": 7.7272727272727275, 
         "genres": [
@@ -811,45 +745,6 @@
         "codec": "flac", 
         "nsongs": 11.0, 
         "nrated": 11.0
-    }, 
-    {
-        "album": "Euphoria", 
-        "rating": 7.615384615384615, 
-        "genres": [
-            "Pop", 
-            "Rock"
-        ], 
-        "stddev": 1.2781202059314278, 
-        "artist": "Def Leppard", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
-    }, 
-    {
-        "album": "Yeah!", 
-        "rating": 6.928571428571429, 
-        "genres": [
-            "Rock"
-        ], 
-        "stddev": 1.408662289572678, 
-        "artist": "Def Leppard", 
-        "codec": "flac", 
-        "nsongs": 14.0, 
-        "nrated": 14.0
-    }, 
-    {
-        "album": "Adrenalize", 
-        "rating": 7.2, 
-        "genres": [
-            "Rock", 
-            "Hair", 
-            "Pop"
-        ], 
-        "stddev": 1.8910314645716502, 
-        "artist": "Def Leppard", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
     }, 
     {
         "album": "Hysteria", 
@@ -3881,32 +3776,6 @@
         "nrated": 11.0
     }, 
     {
-        "album": "History Of A Time To Come", 
-        "rating": 7.875, 
-        "genres": [
-            "Metal", 
-            "Thrash"
-        ], 
-        "stddev": 1.052341140030171, 
-        "artist": "Sabbat", 
-        "codec": "flac", 
-        "nsongs": 8.0, 
-        "nrated": 8.0
-    }, 
-    {
-        "album": "Dreamweaver", 
-        "rating": 7.428571428571429, 
-        "genres": [
-            "Metal", 
-            "Thrash"
-        ], 
-        "stddev": 1.5760599654128837, 
-        "artist": "Sabbat", 
-        "codec": "flac", 
-        "nsongs": 7.0, 
-        "nrated": 7.0
-    }, 
-    {
         "album": "Milk", 
         "rating": 8.636363636363637, 
         "genres": [
@@ -4225,19 +4094,6 @@
         "codec": "flac", 
         "nsongs": 8.0, 
         "nrated": 8.0
-    }, 
-    {
-        "album": "Ex:El (Remastered)", 
-        "rating": 7.3, 
-        "genres": [
-            "Electronic", 
-            "Techno"
-        ], 
-        "stddev": 2.271783440383348, 
-        "artist": "808 State", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
     }, 
     {
         "album": "Selected Works 94-96", 
@@ -5241,19 +5097,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Sister", 
-        "rating": 7.625, 
-        "genres": [
-            "Metal", 
-            "Traditional"
-        ], 
-        "stddev": 1.2111138984422563, 
-        "artist": "In Solitude", 
-        "codec": "flac", 
-        "nsongs": 8.0, 
-        "nrated": 8.0
-    }, 
-    {
         "album": "Light From Above", 
         "rating": 8.272727272727273, 
         "genres": [
@@ -5636,19 +5479,6 @@
         "nrated": 8.0
     }, 
     {
-        "album": "Gorgeous", 
-        "rating": 7.4, 
-        "genres": [
-            "Electronic", 
-            "Techno"
-        ], 
-        "stddev": 2.136039949688832, 
-        "artist": "808 State", 
-        "codec": "flac", 
-        "nsongs": 15.0, 
-        "nrated": 15.0
-    }, 
-    {
         "album": "Aura", 
         "rating": 7.916666666666667, 
         "genres": [
@@ -6025,18 +5855,6 @@
         "codec": "flac", 
         "nsongs": 13.0, 
         "nrated": 13.0
-    }, 
-    {
-        "album": "Licht", 
-        "rating": 8.272727272727273, 
-        "genres": [
-            "Metal"
-        ], 
-        "stddev": 0.9585708119396442, 
-        "artist": "Die Apokalyptischen Reiter", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
     }, 
     {
         "album": "Wildes Herz", 
@@ -6437,19 +6255,6 @@
         "codec": "flac", 
         "nsongs": 11.0, 
         "nrated": 11.0
-    }, 
-    {
-        "album": "Spectre", 
-        "rating": 8.0, 
-        "genres": [
-            "Electronic", 
-            "Industrial"
-        ], 
-        "stddev": 0.8451542547285166, 
-        "artist": "Laibach", 
-        "codec": "flac", 
-        "nsongs": 14.0, 
-        "nrated": 14.0
     }, 
     {
         "album": "Led Zeppelin III", 
@@ -7204,19 +7009,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Lichter Der Stadt", 
-        "rating": 7.333333333333333, 
-        "genres": [
-            "Rock", 
-            "Pop"
-        ], 
-        "stddev": 1.2881223774390613, 
-        "artist": "Unheilig", 
-        "codec": "flac", 
-        "nsongs": 15.0, 
-        "nrated": 15.0
-    }, 
-    {
         "album": "Animal Instinct", 
         "rating": 7.636363636363637, 
         "genres": [
@@ -7310,19 +7102,6 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "Lies Inc.", 
-        "rating": 7.375, 
-        "genres": [
-            "Electronic", 
-            "Industrial"
-        ], 
-        "stddev": 1.7916363854030204, 
-        "artist": "Snog", 
-        "codec": "flac", 
-        "nsongs": 16.0, 
-        "nrated": 16.0
     }, 
     {
         "album": "Candyass", 
@@ -7488,18 +7267,6 @@
         "nrated": 9.0
     }, 
     {
-        "album": "Diesel And Dust", 
-        "rating": 7.636363636363637, 
-        "genres": [
-            "Rock"
-        ], 
-        "stddev": 2.0820870301699936, 
-        "artist": "Midnight Oil", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
         "album": "We Love Machine", 
         "rating": 8.25, 
         "genres": [
@@ -7554,20 +7321,6 @@
         "nrated": 14.0
     }, 
     {
-        "album": "Stand Up And Fight", 
-        "rating": 7.625, 
-        "genres": [
-            "Rock", 
-            "Metal", 
-            "NWOBHM"
-        ], 
-        "stddev": 1.2861947267035423, 
-        "artist": "Quartz", 
-        "codec": "flac", 
-        "nsongs": 8.0, 
-        "nrated": 8.0
-    }, 
-    {
         "album": "Mechanical Resonance", 
         "rating": 7.833333333333333, 
         "genres": [
@@ -7579,19 +7332,6 @@
         "codec": "flac", 
         "nsongs": 12.0, 
         "nrated": 12.0
-    }, 
-    {
-        "album": "Darker", 
-        "rating": 7.333333333333333, 
-        "genres": [
-            "Electronic", 
-            "Industrial"
-        ], 
-        "stddev": 2.199887763691481, 
-        "artist": "C-Tec", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
     }, 
     {
         "album": "Random Is Resistance", 
@@ -8858,45 +8598,6 @@
         "nrated": 11.0
     }, 
     {
-        "album": "Live And Learn", 
-        "rating": 7.545454545454546, 
-        "genres": [
-            "Rock", 
-            "Hard"
-        ], 
-        "stddev": 1.148938686433733, 
-        "artist": "Brazen Abbot", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
-        "album": "Guilty as Sin", 
-        "rating": 7.833333333333333, 
-        "genres": [
-            "Rock", 
-            "Hard"
-        ], 
-        "stddev": 0.9988419220202892, 
-        "artist": "Brazen Abbot", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
-        "album": "My Resurrection", 
-        "rating": 7.916666666666667, 
-        "genres": [
-            "Rock", 
-            "Hard"
-        ], 
-        "stddev": 0.9607457558622924, 
-        "artist": "Brazen Abbot", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
         "album": "The Seventh Sign", 
         "rating": 8.363636363636363, 
         "genres": [
@@ -9538,32 +9239,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "WAT", 
-        "rating": 7.833333333333333, 
-        "genres": [
-            "Electronic", 
-            "Industrial"
-        ], 
-        "stddev": 1.5627314643372447, 
-        "artist": "Laibach", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
-        "album": "Jesus Christ Superstars", 
-        "rating": 7.333333333333333, 
-        "genres": [
-            "Metal", 
-            "Industrial"
-        ], 
-        "stddev": 2.4241582476968255, 
-        "artist": "Laibach", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
         "album": "Pins and Needles", 
         "rating": 9.090909090909092, 
         "genres": [
@@ -9880,12 +9555,12 @@
     }, 
     {
         "album": "Symbiotics", 
-        "rating": 7.75, 
+        "rating": 8.25, 
         "genres": [
             "Electronic", 
             "Techno"
         ], 
-        "stddev": 2.1028254801575903, 
+        "stddev": 1.709349291397168, 
         "artist": "Porter Ricks", 
         "codec": "flac", 
         "nsongs": 4.0, 
@@ -10383,19 +10058,6 @@
         "nrated": 12.0
     }, 
     {
-        "album": "White Clouds Drift On And On", 
-        "rating": 7.5, 
-        "genres": [
-            "Electronic", 
-            "Ambient"
-        ], 
-        "stddev": 1.3768926368215255, 
-        "artist": "Brock Van Wey", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
         "album": "Tomcats Screaming Outside", 
         "rating": 8.166666666666666, 
         "genres": [
@@ -10462,35 +10124,6 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "Zonoscope", 
-        "rating": 7.2727272727272725, 
-        "genres": [
-            "Rock", 
-            "Indie", 
-            "Electropop"
-        ], 
-        "stddev": 1.4321624930367738, 
-        "artist": "Cut Copy", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
-        "album": "In Ghost Colours", 
-        "rating": 7.7272727272727275, 
-        "genres": [
-            "Alternative", 
-            "Dance", 
-            "Electropop", 
-            "Rock"
-        ], 
-        "stddev": 1.5985060643820737, 
-        "artist": "Cut Copy", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
     }, 
     {
         "album": "Angels' Necropolis", 
@@ -10707,19 +10340,6 @@
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
-    }, 
-    {
-        "album": "Transnational", 
-        "rating": 6.8, 
-        "genres": [
-            "Electronic", 
-            "Futurepop"
-        ], 
-        "stddev": 1.3023056476879766, 
-        "artist": "VNV Nation", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
     }, 
     {
         "album": "The Great Cold Distance", 
@@ -12023,34 +11643,6 @@
         "nrated": 11.0
     }, 
     {
-        "album": "Subconscious CD 2", 
-        "rating": 7.5, 
-        "genres": [
-            "Electronic", 
-            "EDM", 
-            "Dance"
-        ], 
-        "stddev": 1.758905909933786, 
-        "artist": "Samantha James", 
-        "codec": "flac", 
-        "nsongs": 8.0, 
-        "nrated": 8.0
-    }, 
-    {
-        "album": "Subconscious", 
-        "rating": 8.0, 
-        "genres": [
-            "Electronic", 
-            "Downtempo", 
-            "Pop"
-        ], 
-        "stddev": 1.7541160386140584, 
-        "artist": "Samantha James", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
-    }, 
-    {
         "album": "Koda Vista", 
         "rating": 8.666666666666666, 
         "genres": [
@@ -12470,19 +12062,6 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "Second Toughest In The Infants", 
-        "rating": 7.75, 
-        "genres": [
-            "Electronic", 
-            "Techno"
-        ], 
-        "stddev": 1.617772388193098, 
-        "artist": "Underworld", 
-        "codec": "flac", 
-        "nsongs": 8.0, 
-        "nrated": 8.0
     }, 
     {
         "album": "The Rich Dont Rock", 
@@ -12976,34 +12555,6 @@
         "nrated": 9.0
     }, 
     {
-        "album": "Free Your Mind", 
-        "rating": 8.0, 
-        "genres": [
-            "Indie", 
-            "Electropop", 
-            "Electronic", 
-            "Dance"
-        ], 
-        "stddev": 1.3333333333333333, 
-        "artist": "Cut Copy", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
-        "album": "Empires", 
-        "rating": 8.444444444444445, 
-        "genres": [
-            "Electronic", 
-            "Futurepop"
-        ], 
-        "stddev": 1.819721258746407, 
-        "artist": "VNV Nation", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
         "album": "Live To Die", 
         "rating": 7.875, 
         "genres": [
@@ -13161,19 +12712,6 @@
         "nrated": 16.0
     }, 
     {
-        "album": "Beaucoup Fish", 
-        "rating": 7.181818181818182, 
-        "genres": [
-            "Electronic", 
-            "Techno"
-        ], 
-        "stddev": 1.7454459366178885, 
-        "artist": "Underworld", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
         "album": "It's A Jazz Thing", 
         "rating": 7.9, 
         "genres": [
@@ -13225,20 +12763,6 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "Puppenspiel (Limited Edition Digipak)", 
-        "rating": 7.6, 
-        "genres": [
-            "Gothic", 
-            "Rock", 
-            "Darkwave"
-        ], 
-        "stddev": 1.1843422928641307, 
-        "artist": "Unheilig", 
-        "codec": "flac", 
-        "nsongs": 15.0, 
-        "nrated": 15.0
     }, 
     {
         "album": "Dawn Of The 5th Era", 
@@ -13481,19 +13005,6 @@
         "codec": "flac", 
         "nsongs": 14.0, 
         "nrated": 14.0
-    }, 
-    {
-        "album": "Dear Valued Customer", 
-        "rating": 8.076923076923077, 
-        "genres": [
-            "Electronic", 
-            "Industrial"
-        ], 
-        "stddev": 0.9968087449962741, 
-        "artist": "Snog", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
     }, 
     {
         "album": "Space Radio", 
@@ -13939,19 +13450,6 @@
         "nrated": 12.0
     }, 
     {
-        "album": "All Possible Futures", 
-        "rating": 7.769230769230769, 
-        "genres": [
-            "Electronic", 
-            "Indietronic"
-        ], 
-        "stddev": 1.1699079322186006, 
-        "artist": "Miami Horror", 
-        "codec": "flac", 
-        "nsongs": 14.0, 
-        "nrated": 13.0
-    }, 
-    {
         "album": "The Church of Rock and Roll", 
         "rating": 8.090909090909092, 
         "genres": [
@@ -14111,18 +13609,6 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "Riders On The Storm", 
-        "rating": 7.857142857142857, 
-        "genres": [
-            "Metal"
-        ], 
-        "stddev": 1.2448143163603733, 
-        "artist": "Die Apokalyptischen Reiter", 
-        "codec": "flac", 
-        "nsongs": 14.0, 
-        "nrated": 14.0
     }, 
     {
         "album": "A New Flame", 
@@ -15217,32 +14703,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "The Owl & The Butterfly", 
-        "rating": 7.909090909090909, 
-        "genres": [
-            "Electronic", 
-            "House"
-        ], 
-        "stddev": 0.926689169803178, 
-        "artist": "Robert Babicz", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
-        "album": "Robert Babicz Volume 1", 
-        "rating": 7.25, 
-        "genres": [
-            "Electronic", 
-            "House"
-        ], 
-        "stddev": 1.5991534218662906, 
-        "artist": "Robert Babicz", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
         "album": "Bloodsport", 
         "rating": 9.0, 
         "genres": [
@@ -15464,20 +14924,6 @@
         "codec": "flac", 
         "nsongs": 12.0, 
         "nrated": 12.0
-    }, 
-    {
-        "album": "Sleepwalker (Disc 2: Remixes)", 
-        "rating": 7.25, 
-        "genres": [
-            "Electronic", 
-            "Synth Rock", 
-            "Dance"
-        ], 
-        "stddev": 1.617772388193098, 
-        "artist": "The Anix", 
-        "codec": "flac", 
-        "nsongs": 8.0, 
-        "nrated": 8.0
     }, 
     {
         "album": "On My Way", 
@@ -16101,21 +15547,6 @@
         "codec": "flac", 
         "nsongs": 12.0, 
         "nrated": 12.0
-    }, 
-    {
-        "album": "Gro\u00dfstadtm\u00e4rchen", 
-        "rating": 7.555555555555555, 
-        "genres": [
-            "Electronic", 
-            "House", 
-            "Tech-House", 
-            "Electropop"
-        ], 
-        "stddev": 1.6637835144604596, 
-        "artist": "Oliver Koletzki", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
     }, 
     {
         "album": "The Burning Circle And Then Dust", 
@@ -16745,19 +16176,6 @@
         "nrated": 12.0
     }, 
     {
-        "album": "The Medication Generation", 
-        "rating": 7.615384615384615, 
-        "genres": [
-            "Industrial", 
-            "Metal"
-        ], 
-        "stddev": 1.4917463715865227, 
-        "artist": "Cyanotic", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
-    }, 
-    {
         "album": "Remission", 
         "rating": 7.636363636363637, 
         "genres": [
@@ -17080,19 +16498,6 @@
         "codec": "flac", 
         "nsongs": 15.0, 
         "nrated": 15.0
-    }, 
-    {
-        "album": "Ready Or Not", 
-        "rating": 7.555555555555555, 
-        "genres": [
-            "Rock", 
-            "Pop"
-        ], 
-        "stddev": 1.3618352822852027, 
-        "artist": "Lou Gramm", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
     }, 
     {
         "album": "Waves Remixes", 
@@ -18706,21 +18111,6 @@
         "nrated": 8.0
     }, 
     {
-        "album": "The Unspeakable", 
-        "rating": 8.6, 
-        "genres": [
-            "Rock", 
-            "Stoner", 
-            "Occult", 
-            "Stoner Doom"
-        ], 
-        "stddev": 1.2664912159190052, 
-        "artist": "Year of the Goat", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Shades Of God", 
         "rating": 7.555555555555555, 
         "genres": [
@@ -18938,18 +18328,6 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "The Road Goes on Forever EP", 
-        "rating": 6.111111111111111, 
-        "genres": [
-            "Drum & Bass"
-        ], 
-        "stddev": 1.4567378103183062, 
-        "artist": "High Contrast", 
-        "codec": "mp3", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
     }, 
     {
         "album": "Sahara", 
@@ -19698,19 +19076,6 @@
         "codec": "flac", 
         "nsongs": 12.0, 
         "nrated": 12.0
-    }, 
-    {
-        "album": "Automatic", 
-        "rating": 8.222222222222221, 
-        "genres": [
-            "Electronic", 
-            "Futurepop"
-        ], 
-        "stddev": 1.5458249447932748, 
-        "artist": "VNV Nation", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
     }, 
     {
         "album": "War Master", 
@@ -20702,19 +20067,6 @@
         "nrated": 12.0
     }, 
     {
-        "album": "Infected", 
-        "rating": 7.625, 
-        "genres": [
-            "Alternative", 
-            "Rock"
-        ], 
-        "stddev": 1.3102659558272893, 
-        "artist": "The The", 
-        "codec": "flac", 
-        "nsongs": 8.0, 
-        "nrated": 8.0
-    }, 
-    {
         "album": "Trust", 
         "rating": 9.666666666666666, 
         "genres": [
@@ -21018,19 +20370,6 @@
         "artist": "Jungle Rot", 
         "codec": "flac", 
         "nsongs": 11.0, 
-        "nrated": 10.0
-    }, 
-    {
-        "album": "Alien Shores", 
-        "rating": 7.7, 
-        "genres": [
-            "Rock", 
-            "Pop"
-        ], 
-        "stddev": 1.5751190431202335, 
-        "artist": "Platinum Blonde", 
-        "codec": "mp3", 
-        "nsongs": 10.0, 
         "nrated": 10.0
     }, 
     {
@@ -23081,17 +22420,17 @@
     }, 
     {
         "album": "Dimensional Space", 
-        "rating": 7.615384615384615, 
+        "rating": 7.625, 
         "genres": [
             "Electronic", 
             "Dub", 
             "Ambient"
         ], 
-        "stddev": 0.9168924978023174, 
+        "stddev": 1.1030851621701745, 
         "artist": "cv313", 
         "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
+        "nsongs": 8.0, 
+        "nrated": 8.0
     }, 
     {
         "album": "Sunburst", 
@@ -23311,18 +22650,6 @@
         ], 
         "stddev": 1.62511538051918, 
         "artist": "Jaki Graham", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
-        "album": "Long Hard Look", 
-        "rating": 8.0, 
-        "genres": [
-            "Rock"
-        ], 
-        "stddev": 1.4142135623730951, 
-        "artist": "Lou Gramm", 
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
@@ -23723,19 +23050,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Lovestoned CD", 
-        "rating": 7.636363636363637, 
-        "genres": [
-            "Dance", 
-            "House"
-        ], 
-        "stddev": 1.697215645301636, 
-        "artist": "Oliver Koletzki", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
         "album": "Dear Sanity", 
         "rating": 8.3, 
         "genres": [
@@ -23939,12 +23253,12 @@
     }, 
     {
         "album": "Thank God For Sending Demons", 
-        "rating": 7.461538461538462, 
+        "rating": 7.923076923076923, 
         "genres": [
             "Pop", 
             "Rock"
         ], 
-        "stddev": 1.7511294229163554, 
+        "stddev": 1.6388823528272978, 
         "artist": "Me And My Army", 
         "codec": "flac", 
         "nsongs": 13.0, 
@@ -24686,20 +24000,6 @@
         "nrated": 14.0
     }, 
     {
-        "album": "Home", 
-        "rating": 7.8, 
-        "genres": [
-            "Electronic", 
-            "Ambient", 
-            "Etherial"
-        ], 
-        "stddev": 0.9777525249264256, 
-        "artist": "Brock Van Wey", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Beg Upon The Light", 
         "rating": 8.333333333333334, 
         "genres": [
@@ -24956,18 +24256,6 @@
         "nrated": 11.0
     }, 
     {
-        "album": "Immortal Changes", 
-        "rating": 8.0, 
-        "genres": [
-            "Electronic"
-        ], 
-        "stddev": 1.3333333333333333, 
-        "artist": "Robert Babicz", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
         "album": "Kingdom Of Madness (1987)", 
         "rating": 8.11111111111111, 
         "genres": [
@@ -25086,20 +24374,6 @@
         "codec": "flac", 
         "nsongs": 6.0, 
         "nrated": 6.0
-    }, 
-    {
-        "album": "Illumination", 
-        "rating": 7.818181818181818, 
-        "genres": [
-            "Electronic", 
-            "Dance", 
-            "Electropop"
-        ], 
-        "stddev": 1.126819423653882, 
-        "artist": "Miami Horror", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
     }, 
     {
         "album": "Solaris", 
@@ -25767,32 +25041,6 @@
         ], 
         "stddev": 1.2780290987141214, 
         "artist": "Chromeo", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
-        "album": "Tiefer", 
-        "rating": 5.666666666666667, 
-        "genres": [
-            "Folk", 
-            "Rock"
-        ], 
-        "stddev": 1.1493422703098444, 
-        "artist": "Die Apokalyptischen Reiter", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
-        "album": "Tief", 
-        "rating": 7.636363636363637, 
-        "genres": [
-            "Metal", 
-            "Modern"
-        ], 
-        "stddev": 1.2938042264611425, 
-        "artist": "Die Apokalyptischen Reiter", 
         "codec": "flac", 
         "nsongs": 11.0, 
         "nrated": 11.0
@@ -26897,19 +26145,6 @@
         "nrated": 9.0
     }, 
     {
-        "album": "Advance And Follow (V2)", 
-        "rating": 7.0, 
-        "genres": [
-            "Electronic", 
-            "Futurepop"
-        ], 
-        "stddev": 1.7928429140015905, 
-        "artist": "VNV Nation", 
-        "codec": "flac", 
-        "nsongs": 14.0, 
-        "nrated": 14.0
-    }, 
-    {
         "album": "Back To The Front", 
         "rating": 8.0, 
         "genres": [
@@ -27277,19 +26512,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Futureperfect", 
-        "rating": 7.2, 
-        "genres": [
-            "Electronic", 
-            "Futurepop"
-        ], 
-        "stddev": 1.391402170474087, 
-        "artist": "VNV Nation", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Silent Nation", 
         "rating": 7.6, 
         "genres": [
@@ -27475,19 +26697,6 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "Syro", 
-        "rating": 7.7272727272727275, 
-        "genres": [
-            "Electronic", 
-            "IDM"
-        ], 
-        "stddev": 1.4350449014826068, 
-        "artist": "Aphex Twin", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
     }, 
     {
         "album": "Imagine", 
@@ -27845,58 +27054,6 @@
         "nrated": 12.0
     }, 
     {
-        "album": "Judgement", 
-        "rating": 7.444444444444445, 
-        "genres": [
-            "Electronic", 
-            "Futurepop"
-        ], 
-        "stddev": 1.5917310331069852, 
-        "artist": "VNV Nation", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
-        "album": "Praise the Fallen", 
-        "rating": 7.2727272727272725, 
-        "genres": [
-            "Electronic", 
-            "Futurepop"
-        ], 
-        "stddev": 1.569812901895374, 
-        "artist": "VNV Nation", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
-        "album": "Of Faith, Power and Glory", 
-        "rating": 7.777777777777778, 
-        "genres": [
-            "Electronic", 
-            "Futurepop"
-        ], 
-        "stddev": 1.5458249447932744, 
-        "artist": "VNV Nation", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
-        "album": "Dubnobasswithmyheadman (2014 Remaster)", 
-        "rating": 7.777777777777778, 
-        "genres": [
-            "Electronic", 
-            "Techno"
-        ], 
-        "stddev": 1.472193104766799, 
-        "artist": "Underworld", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
         "album": "Defiance", 
         "rating": 8.3, 
         "genres": [
@@ -28066,19 +27223,6 @@
         "nrated": 9.0
     }, 
     {
-        "album": "Matter and Form", 
-        "rating": 7.5, 
-        "genres": [
-            "Electronic", 
-            "Futurepop"
-        ], 
-        "stddev": 2.219234102117215, 
-        "artist": "VNV Nation", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Our Time Will Come", 
         "rating": 7.8, 
         "genres": [
@@ -28187,19 +27331,6 @@
         "nrated": 8.0
     }, 
     {
-        "album": "A Hundred Days Off", 
-        "rating": 8.2, 
-        "genres": [
-            "Electronic", 
-            "Techno"
-        ], 
-        "stddev": 1.5218409903797439, 
-        "artist": "Underworld", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "After We Go", 
         "rating": 7.833333333333333, 
         "genres": [
@@ -28211,19 +27342,6 @@
         "codec": "mp3", 
         "nsongs": 12.0, 
         "nrated": 12.0
-    }, 
-    {
-        "album": "Barking", 
-        "rating": 7.0, 
-        "genres": [
-            "Electronic", 
-            "Techno"
-        ], 
-        "stddev": 2.0275875100994063, 
-        "artist": "Underworld", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
     }, 
     {
         "album": "Blood Lust", 
@@ -28239,31 +27357,6 @@
         "codec": "flac", 
         "nsongs": 8.0, 
         "nrated": 8.0
-    }, 
-    {
-        "album": "Das 2. Gebot (+ Maschine)", 
-        "rating": 8.333333333333334, 
-        "genres": [
-            "Electronic", 
-            "Darkwave"
-        ], 
-        "stddev": 1.1979921473804345, 
-        "artist": "Unheilig", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
-        "album": "Change the Weather", 
-        "rating": 8.4, 
-        "genres": [
-            "Pop"
-        ], 
-        "stddev": 1.0507140429250956, 
-        "artist": "Underworld", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
     }, 
     {
         "album": "Time To Dream", 
@@ -28292,33 +27385,6 @@
         "codec": "flac", 
         "nsongs": 11.0, 
         "nrated": 11.0
-    }, 
-    {
-        "album": "Grosse Freiheit", 
-        "rating": 8.0625, 
-        "genres": [
-            "Darkwave", 
-            "Synthpop", 
-            "Rock"
-        ], 
-        "stddev": 1.1472410859862892, 
-        "artist": "Unheilig", 
-        "codec": "flac", 
-        "nsongs": 16.0, 
-        "nrated": 16.0
-    }, 
-    {
-        "album": "Zelluloid", 
-        "rating": 7.933333333333334, 
-        "genres": [
-            "Electronic", 
-            "Darkwave"
-        ], 
-        "stddev": 1.0623523862601303, 
-        "artist": "Unheilig", 
-        "codec": "flac", 
-        "nsongs": 15.0, 
-        "nrated": 15.0
     }, 
     {
         "album": "Creatures Of The Night", 
@@ -28550,50 +27616,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Frohes Fest", 
-        "rating": 7.090909090909091, 
-        "genres": [
-            "Darkwave", 
-            "Seasonal", 
-            "Christmas", 
-            "Xmas"
-        ], 
-        "stddev": 1.6487137258062445, 
-        "artist": "Unheilig", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
-        "album": "Phosphor", 
-        "rating": 6.666666666666667, 
-        "genres": [
-            "Electronic", 
-            "Darkwave", 
-            "Gothic", 
-            "Rock"
-        ], 
-        "stddev": 1.721325931647741, 
-        "artist": "Unheilig", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
-        "album": "Moderne Zeiten", 
-        "rating": 7.533333333333333, 
-        "genres": [
-            "Darkwave", 
-            "Rock", 
-            "Gothic"
-        ], 
-        "stddev": 1.1090202549664843, 
-        "artist": "Unheilig", 
-        "codec": "flac", 
-        "nsongs": 15.0, 
-        "nrated": 15.0
-    }, 
-    {
         "album": "Crazy Lixx", 
         "rating": 8.0, 
         "genres": [
@@ -28697,19 +27719,6 @@
         "codec": "flac", 
         "nsongs": 8.0, 
         "nrated": 8.0
-    }, 
-    {
-        "album": "Oblivion With Bells", 
-        "rating": 7.083333333333333, 
-        "genres": [
-            "Electronic", 
-            "Techno"
-        ], 
-        "stddev": 1.998118327790387, 
-        "artist": "Underworld", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
     }, 
     {
         "album": "Crusader", 
@@ -29752,19 +28761,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Mind Bomb", 
-        "rating": 7.857142857142857, 
-        "genres": [
-            "Rock", 
-            "Alternative"
-        ], 
-        "stddev": 1.3541858225452323, 
-        "artist": "The The", 
-        "codec": "flac", 
-        "nsongs": 7.0, 
-        "nrated": 7.0
-    }, 
-    {
         "album": "Collection", 
         "rating": 8.0625, 
         "genres": [
@@ -30347,19 +29343,6 @@
         "nrated": 12.0
     }, 
     {
-        "album": "2 Dots Left", 
-        "rating": 7.769230769230769, 
-        "genres": [
-            "Electronic", 
-            "IDM"
-        ], 
-        "stddev": 1.474251775538579, 
-        "artist": "Monolog", 
-        "codec": "mp3", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
-    }, 
-    {
         "album": "Coverkill", 
         "rating": 8.083333333333334, 
         "genres": [
@@ -30464,20 +29447,6 @@
         "codec": "flac", 
         "nsongs": 6.0, 
         "nrated": 6.0
-    }, 
-    {
-        "album": "Everything And More", 
-        "rating": 7.0, 
-        "genres": [
-            "Pop", 
-            "New Wave", 
-            "Synthpop"
-        ], 
-        "stddev": 1.3228756555322954, 
-        "artist": "Neon", 
-        "codec": "flac", 
-        "nsongs": 4.0, 
-        "nrated": 4.0
     }, 
     {
         "album": "Duality", 
@@ -31687,19 +30656,6 @@
         "nrated": 12.0
     }, 
     {
-        "album": "90 (Remastered)", 
-        "rating": 8.142857142857142, 
-        "genres": [
-            "Electronic", 
-            "Techno"
-        ], 
-        "stddev": 1.2605242095250826, 
-        "artist": "808 State", 
-        "codec": "flac", 
-        "nsongs": 7.0, 
-        "nrated": 7.0
-    }, 
-    {
         "album": "No More Tears", 
         "rating": 8.454545454545455, 
         "genres": [
@@ -32902,5 +31858,60 @@
         "codec": "flac", 
         "nsongs": 13.0, 
         "nrated": 13.0
+    }, 
+    {
+        "album": "Dirt", 
+        "rating": 8.8, 
+        "genres": [
+            "Rock", 
+            "Grunge"
+        ], 
+        "stddev": 1.4254823744964367, 
+        "artist": "Alice In Chains", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 5.0
+    }, 
+    {
+        "album": "Flux", 
+        "rating": 8.777777777777779, 
+        "genres": [
+            "Etherial", 
+            "Electronic", 
+            "Drum & Bass"
+        ], 
+        "stddev": 1.1995655363482702, 
+        "artist": "Love Spirals Downwards", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "The Unspeakable", 
+        "rating": 8.6, 
+        "genres": [
+            "Rock", 
+            "Stoner", 
+            "Occult", 
+            "Stoner Doom"
+        ], 
+        "stddev": 1.1331372379372235, 
+        "artist": "Year Of The Goat", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Body Complex", 
+        "rating": 8.25, 
+        "genres": [
+            "Electronic", 
+            "Techno"
+        ], 
+        "stddev": 1.114534656257938, 
+        "artist": "Heathered Pearls", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
     }
 ]
