@@ -541,48 +541,6 @@
         "nrated": 8.0
     }, 
     {
-        "album": "Years In Waste", 
-        "rating": 8.3, 
-        "genres": [
-            "Metal", 
-            "Death", 
-            "Melodeath"
-        ], 
-        "stddev": 1.1229425630903833, 
-        "artist": "Omnium Gatherum", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
-        "album": "New World Shadows", 
-        "rating": 7.6, 
-        "genres": [
-            "Metal", 
-            "Death", 
-            "Melodeath"
-        ], 
-        "stddev": 1.0119288512538813, 
-        "artist": "Omnium Gatherum", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
-        "album": "Beyond", 
-        "rating": 8.8, 
-        "genres": [
-            "Metal", 
-            "Melodeath", 
-            "Progressive"
-        ], 
-        "stddev": 1.1207140580897519, 
-        "artist": "Omnium Gatherum", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Blue Murder", 
         "rating": 9.222222222222221, 
         "genres": [
@@ -1650,13 +1608,13 @@
     }, 
     {
         "album": "Anamantium", 
-        "rating": 8.090909090909092, 
+        "rating": 8.0, 
         "genres": [
             "Metal", 
             "Metalcore", 
             "Melodeath"
         ], 
-        "stddev": 0.9954819046015757, 
+        "stddev": 0.9534625892455924, 
         "artist": "O.M.T", 
         "codec": "flac", 
         "nsongs": 11.0, 
@@ -1804,20 +1762,6 @@
         ], 
         "stddev": 1.1644741302407706, 
         "artist": "Niteflyte", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
-        "album": "Antares", 
-        "rating": 8.3, 
-        "genres": [
-            "Metal", 
-            "Cyber", 
-            "Djent"
-        ], 
-        "stddev": 1.0959014554237982, 
-        "artist": "Sybreed", 
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
@@ -6244,6 +6188,48 @@
         "nrated": 11.0
     }, 
     {
+        "album": "Silent Stage", 
+        "rating": 8.333333333333334, 
+        "genres": [
+            "Metal", 
+            "Doom", 
+            "Rock", 
+            "Melancholy"
+        ], 
+        "stddev": 1.181127312526072, 
+        "artist": "Rapture", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Songs For The Withering", 
+        "rating": 8.222222222222221, 
+        "genres": [
+            "Metal", 
+            "Doom", 
+            "Gothic"
+        ], 
+        "stddev": 1.2250248450771282, 
+        "artist": "Rapture", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "The Dark Side Of The Moon (2011 Remaster)", 
+        "rating": 8.11111111111111, 
+        "genres": [
+            "Rock", 
+            "Progressive"
+        ], 
+        "stddev": 1.728086392190845, 
+        "artist": "Pink Floyd", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
         "album": "Broken Crown Halo", 
         "rating": 7.909090909090909, 
         "genres": [
@@ -9624,19 +9610,6 @@
         "nrated": 13.0
     }, 
     {
-        "album": "Thunder In The Distance (Japanese Edition)", 
-        "rating": 8.0, 
-        "genres": [
-            "Rock", 
-            "AOR"
-        ], 
-        "stddev": 0.9258200997725514, 
-        "artist": "Place Vendome", 
-        "codec": "flac", 
-        "nsongs": 14.0, 
-        "nrated": 14.0
-    }, 
-    {
         "album": "Reconciled", 
         "rating": 8.555555555555555, 
         "genres": [
@@ -10879,19 +10852,6 @@
         "nrated": 13.0
     }, 
     {
-        "album": "Colorseries", 
-        "rating": 7.8, 
-        "genres": [
-            "Electronic", 
-            "Techno"
-        ], 
-        "stddev": 0.9777525249264256, 
-        "artist": "Donnacha Costello", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Terra Incognita", 
         "rating": 8.375, 
         "genres": [
@@ -11282,20 +11242,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "God Is An Automaton", 
-        "rating": 7.8, 
-        "genres": [
-            "Metal", 
-            "Cyber", 
-            "Modern"
-        ], 
-        "stddev": 0.997997995989972, 
-        "artist": "Sybreed", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "From A to H and Back Again", 
         "rating": 7.5, 
         "genres": [
@@ -11533,18 +11479,259 @@
         "nrated": 8.0
     }, 
     {
-        "album": "Meliora", 
-        "rating": 8.625, 
+        "album": "Soulful Nights LP", 
+        "rating": 8.0, 
+        "genres": [
+            "Electronic", 
+            "Drum & Bass", 
+            "Liquid"
+        ], 
+        "stddev": 1.4142135623730951, 
+        "artist": "Sunny Crimea / Physical Illusion", 
+        "codec": "mp3", 
+        "nsongs": 6.0, 
+        "nrated": 6.0
+    }, 
+    {
+        "album": "Shrieks, Laments & Anguished Cries", 
+        "rating": 7.75, 
+        "genres": [
+            "Electronic", 
+            "Industrial", 
+            "Metal"
+        ], 
+        "stddev": 1.6878857583774245, 
+        "artist": "Razed In Black", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Standing Alone", 
+        "rating": 8.25, 
         "genres": [
             "Rock", 
-            "Occult", 
-            "Stoner Doom"
+            "Hard"
         ], 
-        "stddev": 1.1583595620531648, 
-        "artist": "Ghost", 
-        "codec": "mp3", 
+        "stddev": 1.195695404356812, 
+        "artist": "White Wolf", 
+        "codec": "flac", 
         "nsongs": 8.0, 
         "nrated": 8.0
+    }, 
+    {
+        "album": "Das Seelenbrechen", 
+        "rating": 7.6, 
+        "genres": [
+            "Metal", 
+            "Progressive", 
+            "Black", 
+            "Avante-Garde"
+        ], 
+        "stddev": 1.6198765385053269, 
+        "artist": "Ihsahn", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Strange World ", 
+        "rating": 8.166666666666666, 
+        "genres": [
+            "Rock", 
+            "AOR"
+        ], 
+        "stddev": 0.9988419220202888, 
+        "artist": "Push UK", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "The Narrowest Of Paths", 
+        "rating": 8.2, 
+        "genres": [
+            "Electronic", 
+            "House", 
+            "Tech-House"
+        ], 
+        "stddev": 1.198332174315619, 
+        "artist": "Stryke", 
+        "codec": "mp3", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "The House of Rain", 
+        "rating": 7.416666666666667, 
+        "genres": [
+            "Electronic", 
+            "Futurepop"
+        ], 
+        "stddev": 1.0701657019497632, 
+        "artist": "X Marks the Pedwalk", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Spooked", 
+        "rating": 8.333333333333334, 
+        "genres": [
+            "Rock", 
+            "Hard"
+        ], 
+        "stddev": 0.9670497325294003, 
+        "artist": "Pretty Maids", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Souled Out", 
+        "rating": 8.0, 
+        "genres": [
+            "Electronic"
+        ], 
+        "stddev": 1.224744871391589, 
+        "artist": "Makoto", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Sittin' On Chrome", 
+        "rating": 8.533333333333333, 
+        "genres": [
+            "Rap"
+        ], 
+        "stddev": 1.0826579091052484, 
+        "artist": "Masta Ace Incorporated", 
+        "codec": "flac", 
+        "nsongs": 15.0, 
+        "nrated": 15.0
+    }, 
+    {
+        "album": "A Line That Connects", 
+        "rating": 8.0, 
+        "genres": [
+            "Gothic", 
+            "Etherial", 
+            "Shoegaze"
+        ], 
+        "stddev": 0.9258200997725514, 
+        "artist": "Lycia", 
+        "codec": "flac", 
+        "nsongs": 14.0, 
+        "nrated": 14.0
+    }, 
+    {
+        "album": "Sworn To A Great Divide", 
+        "rating": 8.090909090909092, 
+        "genres": [
+            "Metal", 
+            "Melodeath", 
+            "Modern"
+        ], 
+        "stddev": 0.9954819046015757, 
+        "artist": "Soilwork", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Stabbing The Drama", 
+        "rating": 8.166666666666666, 
+        "genres": [
+            "Metal", 
+            "Melodeath"
+        ], 
+        "stddev": 1.079051366641946, 
+        "artist": "Soilwork", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "The Ride Majestic", 
+        "rating": 8.307692307692308, 
+        "genres": [
+            "Metal", 
+            "Melodeath", 
+            "Modern"
+        ], 
+        "stddev": 0.9874035965803584, 
+        "artist": "Soilwork", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "Kaleidoscope World", 
+        "rating": 6.666666666666667, 
+        "genres": [
+            "Pop", 
+            "Sophisti-Pop"
+        ], 
+        "stddev": 1.4487116456005886, 
+        "artist": "Swing Out Sister", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Speedballads", 
+        "rating": 6.9, 
+        "genres": [
+            "Pop", 
+            "Rock", 
+            "Alternative"
+        ], 
+        "stddev": 1.0904127658827183, 
+        "artist": "Republica", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Doomsday Machine", 
+        "rating": 7.6, 
+        "genres": [
+            "Metal", 
+            "Melodeath"
+        ], 
+        "stddev": 1.0119288512538813, 
+        "artist": "Arch Enemy", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "High Country", 
+        "rating": 7.461538461538462, 
+        "genres": [
+            "Rock", 
+            "Stoner"
+        ], 
+        "stddev": 1.0720515344374817, 
+        "artist": "The Sword", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "What Should Not Be Unearthed", 
+        "rating": 8.0, 
+        "genres": [
+            "Metal", 
+            "Death", 
+            "Egyptian"
+        ], 
+        "stddev": 1.0540925533894598, 
+        "artist": "Nile", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
     }, 
     {
         "album": "Prisma", 
@@ -18125,6 +18312,33 @@
         "nrated": 9.0
     }, 
     {
+        "album": "Steelbath Suicide", 
+        "rating": 8.333333333333334, 
+        "genres": [
+            "Metal", 
+            "Melodeath"
+        ], 
+        "stddev": 1.1493422703098441, 
+        "artist": "Soilwork", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Meliora", 
+        "rating": 8.625, 
+        "genres": [
+            "Rock", 
+            "Occult", 
+            "Stoner Doom"
+        ], 
+        "stddev": 1.0888282118865216, 
+        "artist": "Ghost", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
         "album": "Mount Egonaut", 
         "rating": 8.3, 
         "genres": [
@@ -18562,19 +18776,6 @@
         "codec": "flac", 
         "nsongs": 14.0, 
         "nrated": 12.0
-    }, 
-    {
-        "album": "Kaleidoscope World", 
-        "rating": 6.666666666666667, 
-        "genres": [
-            "Pop", 
-            "Sophisti-Pop"
-        ], 
-        "stddev": 1.3966450099973926, 
-        "artist": "Swing Out Sister", 
-        "codec": "mp3", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
     }, 
     {
         "album": "Get In Touch With Yourself", 
@@ -22870,21 +23071,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Das Seelenbrechen", 
-        "rating": 7.7, 
-        "genres": [
-            "Metal", 
-            "Progressive", 
-            "Black", 
-            "Avante-Garde"
-        ], 
-        "stddev": 1.6736188335460376, 
-        "artist": "Ihsahn", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "The Echoes Of Silence (2013 Deluxe)", 
         "rating": 8.0, 
         "genres": [
@@ -24908,6 +25094,21 @@
         ], 
         "stddev": 1.044465935734187, 
         "artist": "The New Division", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Super Collider", 
+        "rating": 7.636363636363637, 
+        "genres": [
+            "Rock", 
+            "Hard", 
+            "Metal", 
+            "Traditional"
+        ], 
+        "stddev": 1.2010513801378477, 
+        "artist": "Megadeth", 
         "codec": "flac", 
         "nsongs": 11.0, 
         "nrated": 11.0
@@ -30052,19 +30253,6 @@
         "nrated": 11.0
     }, 
     {
-        "album": "Livemd", 
-        "rating": 7.545454545454546, 
-        "genres": [
-            "Electronic", 
-            "IDM"
-        ], 
-        "stddev": 0.9694817254223379, 
-        "artist": "Proem", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
         "album": "In Trance", 
         "rating": 8.5, 
         "genres": [
@@ -30613,19 +30801,6 @@
         "nrated": 7.0
     }, 
     {
-        "album": "Orbital (The Yello Album)", 
-        "rating": 7.7, 
-        "genres": [
-            "Electronic", 
-            "Techno"
-        ], 
-        "stddev": 1.1229425630903835, 
-        "artist": "Orbital", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Dracula - Swing Of Death", 
         "rating": 8.3, 
         "genres": [
@@ -30954,20 +31129,6 @@
         "nrated": 12.0
     }, 
     {
-        "album": "Peel Sessions", 
-        "rating": 7.75, 
-        "genres": [
-            "Rock", 
-            "Gothic", 
-            "Goth"
-        ], 
-        "stddev": 1.195695404356812, 
-        "artist": "Sisters Of Mercy", 
-        "codec": "flac", 
-        "nsongs": 8.0, 
-        "nrated": 8.0
-    }, 
-    {
         "album": "Pandemonium", 
         "rating": 8.2, 
         "genres": [
@@ -31285,19 +31446,6 @@
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
-    }, 
-    {
-        "album": "Place Vendome", 
-        "rating": 7.545454545454546, 
-        "genres": [
-            "Rock", 
-            "AOR"
-        ], 
-        "stddev": 1.6102134572507287, 
-        "artist": "Place Vendome", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
     }, 
     {
         "album": "ISDN", 
@@ -31623,19 +31771,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Doomsday Machine", 
-        "rating": 7.7, 
-        "genres": [
-            "Metal", 
-            "Melodeath"
-        ], 
-        "stddev": 1.030048542545447, 
-        "artist": "Arch Enemy", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Ray Of Light", 
         "rating": 7.538461538461538, 
         "genres": [
@@ -31861,16 +31996,16 @@
     }, 
     {
         "album": "Dirt", 
-        "rating": 8.8, 
+        "rating": 8.666666666666666, 
         "genres": [
             "Rock", 
             "Grunge"
         ], 
-        "stddev": 1.4254823744964367, 
+        "stddev": 1.2322818340454906, 
         "artist": "Alice In Chains", 
         "codec": "flac", 
         "nsongs": 12.0, 
-        "nrated": 5.0
+        "nrated": 12.0
     }, 
     {
         "album": "Flux", 
@@ -31913,5 +32048,128 @@
         "codec": "flac", 
         "nsongs": 8.0, 
         "nrated": 8.0
+    }, 
+    {
+        "album": "Shadowline", 
+        "rating": 8.4, 
+        "genres": [
+            "Metal", 
+            "Traditional", 
+            "Rock", 
+            "Hard"
+        ], 
+        "stddev": 1.0507140429250956, 
+        "artist": "Black Trip", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Sounds Like Hell Looks Like Heaven", 
+        "rating": 8.222222222222221, 
+        "genres": [
+            "Rock", 
+            "Hard"
+        ], 
+        "stddev": 1.130691668331389, 
+        "artist": "Mustasch", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Street Lethal", 
+        "rating": 8.0, 
+        "genres": [
+            "Metal", 
+            "Traditional", 
+            "Shred"
+        ], 
+        "stddev": 1.044465935734187, 
+        "artist": "Racer X", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Shelter", 
+        "rating": 7.833333333333333, 
+        "genres": [
+            "Electronic", 
+            "Synthpop"
+        ], 
+        "stddev": 1.580406651841603, 
+        "artist": "Seven Red Seven", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Show No Mercy", 
+        "rating": 8.5, 
+        "genres": [
+            "Thrash", 
+            "Metal"
+        ], 
+        "stddev": 1.1067971810589328, 
+        "artist": "Slayer", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Spectra", 
+        "rating": 8.1, 
+        "genres": [
+            "Electronic", 
+            "Techno", 
+            "Downtempo"
+        ], 
+        "stddev": 1.0435516278555652, 
+        "artist": "Process", 
+        "codec": "mp3", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Snowfall On Judgment Day", 
+        "rating": 8.0, 
+        "genres": [
+            "Metal", 
+            "Progressive", 
+            "Prog", 
+            "Power"
+        ], 
+        "stddev": 1.1952286093343936, 
+        "artist": "Redemption", 
+        "codec": "mp3", 
+        "nsongs": 10.0, 
+        "nrated": 7.0
+    }, 
+    {
+        "album": "The Way Back Up", 
+        "rating": 8.0, 
+        "genres": [
+            "Pop"
+        ], 
+        "stddev": 1.1726039399558574, 
+        "artist": "Prides", 
+        "codec": "flac", 
+        "nsongs": 16.0, 
+        "nrated": 16.0
+    }, 
+    {
+        "album": "Still Moving", 
+        "rating": 8.25, 
+        "genres": [
+            "Electronic", 
+            "Drum & Bass", 
+            "Techstep"
+        ], 
+        "stddev": 0.898494110535326, 
+        "artist": "Polar", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
     }
 ]
