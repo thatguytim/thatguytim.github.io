@@ -192,19 +192,6 @@
         "nrated": 11.0
     }, 
     {
-        "album": "Aruagint", 
-        "rating": 8.0, 
-        "genres": [
-            "Metal", 
-            "Black"
-        ], 
-        "stddev": 1.0540925533894598, 
-        "artist": "Sarke", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
         "album": "Motu", 
         "rating": 8.333333333333334, 
         "genres": [
@@ -1607,20 +1594,6 @@
         "nrated": 9.0
     }, 
     {
-        "album": "Anamantium", 
-        "rating": 8.0, 
-        "genres": [
-            "Metal", 
-            "Metalcore", 
-            "Melodeath"
-        ], 
-        "stddev": 0.9534625892455924, 
-        "artist": "O.M.T", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
         "album": "Even Angels Cast Shadows", 
         "rating": 9.0, 
         "genres": [
@@ -1632,19 +1605,6 @@
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
-    }, 
-    {
-        "album": "Artic Noise", 
-        "rating": 7.75, 
-        "genres": [
-            "Electronic", 
-            "Industrial"
-        ], 
-        "stddev": 1.5189771777965153, 
-        "artist": "Run Level Zero", 
-        "codec": "mp3", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
     }, 
     {
         "album": "All That Glitters", 
@@ -2505,19 +2465,6 @@
         "codec": "flac", 
         "nsongs": 13.0, 
         "nrated": 13.0
-    }, 
-    {
-        "album": "Partners In Crime", 
-        "rating": 7.818181818181818, 
-        "genres": [
-            "Electronic", 
-            "Funk"
-        ], 
-        "stddev": 2.0279786044569694, 
-        "artist": "Spirit Catcher", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
     }, 
     {
         "album": "Love to Be Lost", 
@@ -6132,20 +6079,6 @@
         "nrated": 4.0
     }, 
     {
-        "album": "Kreuzfeuer CD", 
-        "rating": 7.583333333333333, 
-        "genres": [
-            "Metal", 
-            "Folk", 
-            "Neue Deutsche Haerte"
-        ], 
-        "stddev": 1.1084168723738206, 
-        "artist": "Subway To Sally", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
         "album": "On A Storytellers' Night (20th Annuversary Expanded Edition 2005)", 
         "rating": 8.6, 
         "genres": [
@@ -8608,34 +8541,6 @@
         "codec": "flac", 
         "nsongs": 11.0, 
         "nrated": 11.0
-    }, 
-    {
-        "album": "Forever Now", 
-        "rating": 7.9, 
-        "genres": [
-            "Rock", 
-            "Alternative", 
-            "New Wave"
-        ], 
-        "stddev": 1.808037610228283, 
-        "artist": "Psychedelic Furs", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
-        "album": "Mirror Moves", 
-        "rating": 8.333333333333334, 
-        "genres": [
-            "Alternative", 
-            "New Wave", 
-            "Rock"
-        ], 
-        "stddev": 1.5595187608464665, 
-        "artist": "The Psychedelic Furs", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
     }, 
     {
         "album": "The Best of Howard Jones", 
@@ -11386,32 +11291,6 @@
         "nrated": 9.0
     }, 
     {
-        "album": "Iconoclast - Bonus CD", 
-        "rating": 7.6, 
-        "genres": [
-            "Metal", 
-            "Progressive"
-        ], 
-        "stddev": 1.2521980673998823, 
-        "artist": "Symphony X", 
-        "codec": "flac", 
-        "nsongs": 5.0, 
-        "nrated": 5.0
-    }, 
-    {
-        "album": "Iconoclast", 
-        "rating": 8.0, 
-        "genres": [
-            "Metal", 
-            "Progressive"
-        ], 
-        "stddev": 1.1952286093343936, 
-        "artist": "Symphony X", 
-        "codec": "flac", 
-        "nsongs": 7.0, 
-        "nrated": 7.0
-    }, 
-    {
         "album": "Internal Affairs", 
         "rating": 8.083333333333334, 
         "genres": [
@@ -11560,19 +11439,6 @@
         "codec": "mp3", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "The House of Rain", 
-        "rating": 7.416666666666667, 
-        "genres": [
-            "Electronic", 
-            "Futurepop"
-        ], 
-        "stddev": 1.0701657019497632, 
-        "artist": "X Marks the Pedwalk", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
     }, 
     {
         "album": "Spooked", 
@@ -11732,6 +11598,49 @@
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
+    }, 
+    {
+        "album": "Symmetric In Design", 
+        "rating": 8.333333333333334, 
+        "genres": [
+            "Metal", 
+            "Melodeath"
+        ], 
+        "stddev": 0.9953596037316063, 
+        "artist": "Scar Symmetry", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Space Metal", 
+        "rating": 8.0, 
+        "genres": [
+            "Metal", 
+            "Progressive", 
+            "Power", 
+            "Rock"
+        ], 
+        "stddev": 1.0540925533894598, 
+        "artist": "Star One", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Space Metal (disc 2)", 
+        "rating": 7.8, 
+        "genres": [
+            "Metal", 
+            "Progressive", 
+            "Rock", 
+            "Power"
+        ], 
+        "stddev": 1.3236313686219439, 
+        "artist": "Star One", 
+        "codec": "flac", 
+        "nsongs": 5.0, 
+        "nrated": 5.0
     }, 
     {
         "album": "Prisma", 
@@ -12125,19 +12034,6 @@
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
-    }, 
-    {
-        "album": "Herzblut-Engelskrieger-Deluxe Edition", 
-        "rating": 8.19047619047619, 
-        "genres": [
-            "Metal", 
-            "Rock"
-        ], 
-        "stddev": 0.9150270992580669, 
-        "artist": "Subway To Sally", 
-        "codec": "mp3", 
-        "nsongs": 21.0, 
-        "nrated": 21.0
     }, 
     {
         "album": "Horizons 02", 
@@ -16859,19 +16755,6 @@
         "nrated": 9.0
     }, 
     {
-        "album": "Pacifica", 
-        "rating": 8.0, 
-        "genres": [
-            "Electronic", 
-            "Dub"
-        ], 
-        "stddev": 0.9428090415820634, 
-        "artist": "Segue", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
         "album": "The Best of the Style Council (The Millenium Collection)", 
         "rating": 8.3, 
         "genres": [
@@ -18749,20 +18632,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Mitgift (Fan Edition)", 
-        "rating": 8.2, 
-        "genres": [
-            "Metal", 
-            "Folk", 
-            "Medieval"
-        ], 
-        "stddev": 1.0751744044572487, 
-        "artist": "Subway To Sally", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Rainbow Trail Of Memories", 
         "rating": 7.833333333333333, 
         "genres": [
@@ -19888,20 +19757,6 @@
         "nrated": 12.0
     }, 
     {
-        "album": "Midnight To Midnight", 
-        "rating": 8.11111111111111, 
-        "genres": [
-            "Rock", 
-            "Alternative", 
-            "Pop"
-        ], 
-        "stddev": 1.2760320871816455, 
-        "artist": "The Psychedelic Furs", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
         "album": "Metal Health", 
         "rating": 8.8, 
         "genres": [
@@ -20379,20 +20234,6 @@
         "codec": "flac", 
         "nsongs": 7.0, 
         "nrated": 7.0
-    }, 
-    {
-        "album": "Underworld", 
-        "rating": 8.4, 
-        "genres": [
-            "Metal", 
-            "Power", 
-            "Progressive"
-        ], 
-        "stddev": 1.0507140429250956, 
-        "artist": "Symphony X", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
     }, 
     {
         "album": "Producer 02", 
@@ -23740,19 +23581,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Aespatia", 
-        "rating": 8.076923076923077, 
-        "genres": [
-            "Electronic", 
-            "IDM"
-        ], 
-        "stddev": 1.3321759504128738, 
-        "artist": "Preston", 
-        "codec": "mp3", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
-    }, 
-    {
         "album": "Louder Than Ever", 
         "rating": 8.333333333333334, 
         "genres": [
@@ -25112,6 +24940,59 @@
         "codec": "flac", 
         "nsongs": 11.0, 
         "nrated": 11.0
+    }, 
+    {
+        "album": "Sunstorm", 
+        "rating": 7.583333333333333, 
+        "genres": [
+            "Rock", 
+            "AOR"
+        ], 
+        "stddev": 1.4835127856493808, 
+        "artist": "Sunstorm", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Taken by Force", 
+        "rating": 8.0, 
+        "genres": [
+            "Rock", 
+            "Hard"
+        ], 
+        "stddev": 1.0540925533894598, 
+        "artist": "Scorpions", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "The House of Rain", 
+        "rating": 7.416666666666667, 
+        "genres": [
+            "Electronic", 
+            "Futurepop"
+        ], 
+        "stddev": 1.1021338730272623, 
+        "artist": "X Marks The Pedwalk", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Symbol of Life", 
+        "rating": 8.3, 
+        "genres": [
+            "Metal", 
+            "Gothic", 
+            "Rock"
+        ], 
+        "stddev": 0.9700515450222218, 
+        "artist": "Paradise Lost", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 10.0
     }, 
     {
         "album": "Just Me", 
@@ -27450,19 +27331,6 @@
         "codec": "flac", 
         "nsongs": 8.0, 
         "nrated": 8.0
-    }, 
-    {
-        "album": "Weichen und Zunder", 
-        "rating": 7.75, 
-        "genres": [
-            "Metal", 
-            "Neue Deutsche Haerte"
-        ], 
-        "stddev": 1.087332362558324, 
-        "artist": "V\u00f6lkerball", 
-        "codec": "mp3", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
     }, 
     {
         "album": "The Great Divide", 
@@ -30694,20 +30562,6 @@
         "nrated": 11.0
     }, 
     {
-        "album": "Bastard CD", 
-        "rating": 7.083333333333333, 
-        "genres": [
-            "Folk", 
-            "Metal", 
-            "Neue Deutsche Haerte"
-        ], 
-        "stddev": 1.4016772360547465, 
-        "artist": "Subway To Sally", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
         "album": "Metro Area", 
         "rating": 8.454545454545455, 
         "genres": [
@@ -30855,20 +30709,6 @@
         "codec": "flac", 
         "nsongs": 8.0, 
         "nrated": 8.0
-    }, 
-    {
-        "album": "Paradise Lost", 
-        "rating": 8.0, 
-        "genres": [
-            "Metal", 
-            "Progressive", 
-            "Power"
-        ], 
-        "stddev": 1.0540925533894598, 
-        "artist": "Symphony X", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
     }, 
     {
         "album": "Youthanasia (2004 Remaster)", 
@@ -32171,5 +32011,45 @@
         "codec": "flac", 
         "nsongs": 12.0, 
         "nrated": 12.0
+    }, 
+    {
+        "album": "Surrounded By Mars", 
+        "rating": 7.583333333333333, 
+        "genres": [
+            "Electronic", 
+            "Indietronic"
+        ], 
+        "stddev": 1.2497684970810778, 
+        "artist": "Popnoname", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Symsonic", 
+        "rating": 8.083333333333334, 
+        "genres": [
+            "Electronic", 
+            "Trance"
+        ], 
+        "stddev": 0.9607457558622924, 
+        "artist": "Rank 1", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "That Total Age", 
+        "rating": 8.666666666666666, 
+        "genres": [
+            "Electronic", 
+            "EBM", 
+            "Industrial"
+        ], 
+        "stddev": 1.133115447465063, 
+        "artist": "Nitzer Ebb", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
     }
 ]
