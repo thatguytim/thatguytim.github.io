@@ -11643,6 +11643,173 @@
         "nrated": 5.0
     }, 
     {
+        "album": "Caustic Grip", 
+        "rating": 8.1, 
+        "genres": [
+            "Industrial", 
+            "Electronic"
+        ], 
+        "stddev": 1.2365273955719702, 
+        "artist": "Front Line Assembly", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "The Best of Manfred Mann's Earth Band", 
+        "rating": 8.428571428571429, 
+        "genres": [
+            "Rock"
+        ], 
+        "stddev": 1.3903037820613144, 
+        "artist": "Manfred Mann", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 7.0
+    }, 
+    {
+        "album": "The Downward Spiral", 
+        "rating": 8.0, 
+        "genres": [
+            "Alternative", 
+            "Rock", 
+            "Industrial"
+        ], 
+        "stddev": 1.6035674514745464, 
+        "artist": "Nine Inch Nails", 
+        "codec": "flac", 
+        "nsongs": 14.0, 
+        "nrated": 14.0
+    }, 
+    {
+        "album": "The Best Of", 
+        "rating": 7.9375, 
+        "genres": [
+            "Jazz", 
+            "R&B", 
+            "Smooth"
+        ], 
+        "stddev": 1.567414147369801, 
+        "artist": "Sade", 
+        "codec": "flac", 
+        "nsongs": 16.0, 
+        "nrated": 16.0
+    }, 
+    {
+        "album": "The Book of Souls", 
+        "rating": 7.7272727272727275, 
+        "genres": [
+            "Metal", 
+            "Traditional"
+        ], 
+        "stddev": 1.1324726774359692, 
+        "artist": "Iron Maiden", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Crucified", 
+        "rating": 8.181818181818182, 
+        "genres": [
+            "Metal", 
+            "Traditional", 
+            "Satanic", 
+            "Speed"
+        ], 
+        "stddev": 1.027056950935933, 
+        "artist": "M-pire Of Evil", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "The Great Shake", 
+        "rating": 8.2, 
+        "genres": [
+            "Pop", 
+            "Electronic", 
+            "Progressive House", 
+            "Dance"
+        ], 
+        "stddev": 1.0564090116995406, 
+        "artist": "Planet Funk", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Mind Control", 
+        "rating": 7.666666666666667, 
+        "genres": [
+            "Rock", 
+            "Stoner", 
+            "Stoner Doom", 
+            "Occult", 
+            "Metal"
+        ], 
+        "stddev": 1.4098419489388356, 
+        "artist": "Uncle Acid", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "The Night Creeper", 
+        "rating": 7.5, 
+        "genres": [
+            "Psychedelic", 
+            "Rock", 
+            "Stoner Doom"
+        ], 
+        "stddev": 2.2416511771459895, 
+        "artist": "Uncle Acid", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Blood Lust", 
+        "rating": 8.25, 
+        "genres": [
+            "Rock", 
+            "Psychedelic", 
+            "Stoner", 
+            "Stoner Doom"
+        ], 
+        "stddev": 1.1692679333668567, 
+        "artist": "Uncle Acid", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "The Breathing Shadow", 
+        "rating": 8.555555555555555, 
+        "genres": [
+            "Progressive", 
+            "Rock"
+        ], 
+        "stddev": 1.1505351531117831, 
+        "artist": "Nightingale", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "The Closing Chronicles", 
+        "rating": 7.857142857142857, 
+        "genres": [
+            "Rock", 
+            "Progressive"
+        ], 
+        "stddev": 1.2442286591572396, 
+        "artist": "Nightingale", 
+        "codec": "flac", 
+        "nsongs": 7.0, 
+        "nrated": 7.0
+    }, 
+    {
         "album": "Prisma", 
         "rating": 8.0, 
         "genres": [
@@ -15442,22 +15609,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Mind Control", 
-        "rating": 7.666666666666667, 
-        "genres": [
-            "Rock", 
-            "Stoner", 
-            "Stoner Doom", 
-            "Occult", 
-            "Metal"
-        ], 
-        "stddev": 1.4098419489388356, 
-        "artist": "Uncle Acid and The Deadbeats", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
         "album": "The Universe Made Of Darkness", 
         "rating": 8.416666666666666, 
         "genres": [
@@ -18220,6 +18371,32 @@
         "codec": "flac", 
         "nsongs": 8.0, 
         "nrated": 8.0
+    }, 
+    {
+        "album": "The Art Of Rebellion", 
+        "rating": 7.2727272727272725, 
+        "genres": [
+            "Crossover", 
+            "Metal"
+        ], 
+        "stddev": 1.1505723267959211, 
+        "artist": "Suicidal Tendencies", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "The Fat Of The Land", 
+        "rating": 8.9, 
+        "genres": [
+            "Big Beat", 
+            "Dance"
+        ], 
+        "stddev": 1.2605554331325537, 
+        "artist": "The Prodigy", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
     }, 
     {
         "album": "Mount Egonaut", 
@@ -27413,21 +27590,6 @@
         "nrated": 12.0
     }, 
     {
-        "album": "Blood Lust", 
-        "rating": 8.25, 
-        "genres": [
-            "Rock", 
-            "Psychedelic", 
-            "Stoner", 
-            "Stoner Doom"
-        ], 
-        "stddev": 1.1692679333668567, 
-        "artist": "Uncle Acid and The Deadbeats", 
-        "codec": "flac", 
-        "nsongs": 8.0, 
-        "nrated": 8.0
-    }, 
-    {
         "album": "Time To Dream", 
         "rating": 8.1, 
         "genres": [
@@ -32051,5 +32213,18 @@
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
+    }, 
+    {
+        "album": "The Brotherhood", 
+        "rating": 8.2, 
+        "genres": [
+            "Metal", 
+            "Traditional"
+        ], 
+        "stddev": 0.9570788891204322, 
+        "artist": "Running Wild", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
     }
 ]
