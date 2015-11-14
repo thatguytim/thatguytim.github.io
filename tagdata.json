@@ -924,34 +924,6 @@
         "nrated": 16.0
     }, 
     {
-        "album": "Burden Of Truth", 
-        "rating": 8.166666666666666, 
-        "genres": [
-            "Metal", 
-            "Power", 
-            "Progressive"
-        ], 
-        "stddev": 1.079051366641946, 
-        "artist": "Circle II Circle", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
-        "album": "Seasons Will Fall", 
-        "rating": 7.083333333333333, 
-        "genres": [
-            "Metal", 
-            "Power", 
-            "Progressive"
-        ], 
-        "stddev": 1.4741208930774325, 
-        "artist": "Circle II Circle", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
         "album": "Serpents Unleashed", 
         "rating": 7.545454545454546, 
         "genres": [
@@ -1165,20 +1137,6 @@
         ], 
         "stddev": 1.2716868718359877, 
         "artist": "The Absence", 
-        "codec": "flac", 
-        "nsongs": 8.0, 
-        "nrated": 8.0
-    }, 
-    {
-        "album": "Vulture Culture (2007 Remaster)", 
-        "rating": 7.75, 
-        "genres": [
-            "Rock", 
-            "Progressive", 
-            "Pop"
-        ], 
-        "stddev": 1.5385667031363963, 
-        "artist": "The Alan Parsons Project", 
         "codec": "flac", 
         "nsongs": 8.0, 
         "nrated": 8.0
@@ -1443,6 +1401,33 @@
         "codec": "flac", 
         "nsongs": 13.0, 
         "nrated": 12.0
+    }, 
+    {
+        "album": "Angel Witch (1998 Re-Release)", 
+        "rating": 8.4375, 
+        "genres": [
+            "Metal", 
+            "NWOBHM"
+        ], 
+        "stddev": 1.11091442486584, 
+        "artist": "Angel Witch", 
+        "codec": "flac", 
+        "nsongs": 16.0, 
+        "nrated": 16.0
+    }, 
+    {
+        "album": "Artificial Soldier", 
+        "rating": 8.2, 
+        "genres": [
+            "Industrial", 
+            "Electronic", 
+            "EBM"
+        ], 
+        "stddev": 0.9777525249264251, 
+        "artist": "Front Line Assembly", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
     }, 
     {
         "album": "Supernatural Addiction", 
@@ -3181,19 +3166,6 @@
         "nrated": 14.0
     }, 
     {
-        "album": "The Devil Put Dinosaurs Here", 
-        "rating": 7.833333333333333, 
-        "genres": [
-            "Rock", 
-            "Grunge"
-        ], 
-        "stddev": 1.129363963903118, 
-        "artist": "Alice In Chains", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
         "album": "Equatorial Ultravox", 
         "rating": 8.142857142857142, 
         "genres": [
@@ -3521,13 +3493,13 @@
     }, 
     {
         "album": "Bathory (2003 Remaster)", 
-        "rating": 8.571428571428571, 
+        "rating": 8.714285714285714, 
         "genres": [
             "Metal", 
             "Black", 
             "Speed"
         ], 
-        "stddev": 1.1580621191111111, 
+        "stddev": 1.2489062270036118, 
         "artist": "Bathory", 
         "codec": "flac", 
         "nsongs": 7.0, 
@@ -3765,20 +3737,6 @@
         "nrated": 14.0
     }, 
     {
-        "album": "Mirrorwriting", 
-        "rating": 7.909090909090909, 
-        "genres": [
-            "Electronic", 
-            "Soul", 
-            "Pop"
-        ], 
-        "stddev": 1.3844146983833727, 
-        "artist": "Jamie Woon", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
         "album": "Annihilation Absolute", 
         "rating": 8.222222222222221, 
         "genres": [
@@ -3831,20 +3789,6 @@
         "nrated": 11.0
     }, 
     {
-        "album": "At Dusk And Forever", 
-        "rating": 8.555555555555555, 
-        "genres": [
-            "Metal", 
-            "Death", 
-            "Melodeath"
-        ], 
-        "stddev": 1.049527949281834, 
-        "artist": "Gates Of Ishtar", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
         "album": "Wherever I Lay My Head", 
         "rating": 8.642857142857142, 
         "genres": [
@@ -3856,19 +3800,6 @@
         "codec": "flac", 
         "nsongs": 14.0, 
         "nrated": 14.0
-    }, 
-    {
-        "album": "Dream Theater", 
-        "rating": 7.875, 
-        "genres": [
-            "Metal", 
-            "Progressive"
-        ], 
-        "stddev": 1.052341140030171, 
-        "artist": "Dream Theater", 
-        "codec": "flac", 
-        "nsongs": 8.0, 
-        "nrated": 8.0
     }, 
     {
         "album": "Rock'N'Roll Devil", 
@@ -5957,19 +5888,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Environments 4", 
-        "rating": 7.642857142857143, 
-        "genres": [
-            "Electronic", 
-            "Ambient"
-        ], 
-        "stddev": 0.8898930390733784, 
-        "artist": "The Future Sound Of London", 
-        "codec": "flac", 
-        "nsongs": 14.0, 
-        "nrated": 14.0
-    }, 
-    {
         "album": "Sam Sparro", 
         "rating": 7.909090909090909, 
         "genres": [
@@ -6118,6 +6036,207 @@
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
+    }, 
+    {
+        "album": "Alice Cooper's Greatest Hits", 
+        "rating": 8.583333333333334, 
+        "genres": [
+            "Rock"
+        ], 
+        "stddev": 1.133200564118514, 
+        "artist": "Alice Cooper", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Court In The Act (2008 Remaster)", 
+        "rating": 8.0, 
+        "genres": [
+            "Metal", 
+            "Traditional", 
+            "NWOBHM"
+        ], 
+        "stddev": 1.2649110640673518, 
+        "artist": "Satan", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 5.0
+    }, 
+    {
+        "album": "Accident Of Birth", 
+        "rating": 8.5, 
+        "genres": [
+            "Rock", 
+            "Modern", 
+            "Hard"
+        ], 
+        "stddev": 1.181453906563152, 
+        "artist": "Bruce Dickinson", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Address The Nation", 
+        "rating": 8.4, 
+        "genres": [
+            "Rock", 
+            "Hard", 
+            "Hair"
+        ], 
+        "stddev": 1.0507140429250956, 
+        "artist": "H.E.A.T", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "The Cars", 
+        "rating": 8.777777777777779, 
+        "genres": [
+            "Rock"
+        ], 
+        "stddev": 1.7016896307644658, 
+        "artist": "The Cars", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "The Chronic", 
+        "rating": 8.846153846153847, 
+        "genres": [
+            "Rap"
+        ], 
+        "stddev": 1.2081878152820047, 
+        "artist": "Dr. Dre", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "A Funk Odyssey", 
+        "rating": 8.0, 
+        "genres": [
+            "Acid Jazz", 
+            "Funk"
+        ], 
+        "stddev": 1.1832159566199232, 
+        "artist": "Jamiroquai", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "A Day in the Stark Corner", 
+        "rating": 7.8, 
+        "genres": [
+            "Gothic", 
+            "Rock", 
+            "Goth", 
+            "Etherial"
+        ], 
+        "stddev": 0.9979979959899721, 
+        "artist": "Lycia", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "A Weekend in the City", 
+        "rating": 8.181818181818182, 
+        "genres": [
+            "Indie", 
+            "Rock"
+        ], 
+        "stddev": 1.1910005642745005, 
+        "artist": "Bloc Party", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "A Night At The Opera", 
+        "rating": 8.0, 
+        "genres": [
+            "Metal", 
+            "Power"
+        ], 
+        "stddev": 1.0954451150103321, 
+        "artist": "Blind Guardian", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Angels", 
+        "rating": 8.272727272727273, 
+        "genres": [
+            "Gothic", 
+            "Rock", 
+            "Metal"
+        ], 
+        "stddev": 1.0491311563960013, 
+        "artist": "The 69 Eyes", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Cyclone", 
+        "rating": 8.375, 
+        "genres": [
+            "Rock", 
+            "Hard", 
+            "Hair"
+        ], 
+        "stddev": 1.1030851621701745, 
+        "artist": "Vow Wow", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Ancient Dreams", 
+        "rating": 8.333333333333334, 
+        "genres": [
+            "Metal", 
+            "Doom"
+        ], 
+        "stddev": 1.1493422703098441, 
+        "artist": "Candlemass", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Reroute To Remain", 
+        "rating": 8.0, 
+        "genres": [
+            "Metal", 
+            "Modern", 
+            "Alternative Metal"
+        ], 
+        "stddev": 1.0, 
+        "artist": "In Flames", 
+        "codec": "flac", 
+        "nsongs": 14.0, 
+        "nrated": 14.0
+    }, 
+    {
+        "album": "Abrahadabra", 
+        "rating": 8.454545454545455, 
+        "genres": [
+            "Symphonic", 
+            "Black", 
+            "Metal"
+        ], 
+        "stddev": 0.9779691925350761, 
+        "artist": "Dimmu Borgir", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
     }, 
     {
         "album": "Broken Crown Halo", 
@@ -7874,20 +7993,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "angL", 
-        "rating": 8.11111111111111, 
-        "genres": [
-            "Metal", 
-            "Progressive", 
-            "Black"
-        ], 
-        "stddev": 1.2165976078264324, 
-        "artist": "Ihsahn", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
         "album": "Geosynchron", 
         "rating": 8.307692307692308, 
         "genres": [
@@ -8038,19 +8143,6 @@
         "codec": "flac", 
         "nsongs": 12.0, 
         "nrated": 12.0
-    }, 
-    {
-        "album": "Feast", 
-        "rating": 8.11111111111111, 
-        "genres": [
-            "Metal", 
-            "Thrash"
-        ], 
-        "stddev": 1.3693690035063812, 
-        "artist": "Annihilator", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
     }, 
     {
         "album": "Outer Isolation", 
@@ -9513,20 +9605,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "The Theory of Everything", 
-        "rating": 7.619047619047619, 
-        "genres": [
-            "Rock", 
-            "Progressive", 
-            "Prog"
-        ], 
-        "stddev": 0.7521340620782304, 
-        "artist": "Ayreon", 
-        "codec": "flac", 
-        "nsongs": 42.0, 
-        "nrated": 42.0
-    }, 
-    {
         "album": "Solo In Soho", 
         "rating": 8.1, 
         "genres": [
@@ -9577,19 +9655,6 @@
         "codec": "flac", 
         "nsongs": 17.0, 
         "nrated": 17.0
-    }, 
-    {
-        "album": "The Turn of a Friendly Card", 
-        "rating": 8.7, 
-        "genres": [
-            "Rock", 
-            "Progressive"
-        ], 
-        "stddev": 1.1666190466471904, 
-        "artist": "The Alan Parsons Project", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
     }, 
     {
         "album": "Sync Positive", 
@@ -9756,20 +9821,6 @@
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
-    }, 
-    {
-        "album": "This Quiet Earth (Metropolis Release)", 
-        "rating": 7.833333333333333, 
-        "genres": [
-            "Gothic", 
-            "Rock", 
-            "Goth"
-        ], 
-        "stddev": 1.6237530828528315, 
-        "artist": "Ikon", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
     }, 
     {
         "album": "Tomcats Screaming Outside", 
@@ -10769,20 +10820,6 @@
         "nrated": 11.0
     }, 
     {
-        "album": "Facelift", 
-        "rating": 7.2727272727272725, 
-        "genres": [
-            "Rock", 
-            "Grunge", 
-            "Alternative Metal"
-        ], 
-        "stddev": 1.4147447224152505, 
-        "artist": "Alice in Chains", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 11.0
-    }, 
-    {
         "album": "Legions", 
         "rating": 8.3, 
         "genres": [
@@ -11168,21 +11205,6 @@
         "codec": "flac", 
         "nsongs": 8.0, 
         "nrated": 8.0
-    }, 
-    {
-        "album": "Das Seelenbrechen", 
-        "rating": 7.6, 
-        "genres": [
-            "Metal", 
-            "Progressive", 
-            "Black", 
-            "Avante-Garde"
-        ], 
-        "stddev": 1.6198765385053269, 
-        "artist": "Ihsahn", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
     }, 
     {
         "album": "Strange World ", 
@@ -11795,19 +11817,6 @@
         "codec": "flac", 
         "nsongs": 11.0, 
         "nrated": 11.0
-    }, 
-    {
-        "album": "Suicide Society", 
-        "rating": 7.777777777777778, 
-        "genres": [
-            "Metal", 
-            "Traditional"
-        ], 
-        "stddev": 1.1306916683313888, 
-        "artist": "Annihilator", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
     }, 
     {
         "album": "Wish You Were Here (2011 Remaster)", 
@@ -12470,19 +12479,6 @@
         "nrated": 26.0
     }, 
     {
-        "album": "\"M\" Megamix", 
-        "rating": 7.7272727272727275, 
-        "genres": [
-            "Electronic", 
-            "Electro"
-        ], 
-        "stddev": 0.9117729033030076, 
-        "artist": "I:Cube", 
-        "codec": "mp3", 
-        "nsongs": 22.0, 
-        "nrated": 22.0
-    }, 
-    {
         "album": "1. Outside (Limited Edition 2004)[Disc 2]", 
         "rating": 7.7272727272727275, 
         "genres": [
@@ -12494,6 +12490,263 @@
         "codec": "flac", 
         "nsongs": 11.0, 
         "nrated": 11.0
+    }, 
+    {
+        "album": "Oionos", 
+        "rating": 8.11111111111111, 
+        "genres": [
+            "Metal", 
+            "Doom"
+        ], 
+        "stddev": 0.9679358774349616, 
+        "artist": "The Foreshadowing", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Between Life And Death", 
+        "rating": 8.4, 
+        "genres": [
+            "Metal", 
+            "Traditional", 
+            "Rock", 
+            "Hard"
+        ], 
+        "stddev": 1.0119288512538813, 
+        "artist": "Concerto Moon", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Falling Forward", 
+        "rating": 7.714285714285714, 
+        "genres": [
+            "Electronic", 
+            "Breakcore"
+        ], 
+        "stddev": 1.4336643909945697, 
+        "artist": "Drumcorps", 
+        "codec": "flac", 
+        "nsongs": 14.0, 
+        "nrated": 14.0
+    }, 
+    {
+        "album": "Love & Hate In Dub", 
+        "rating": 7.916666666666667, 
+        "genres": [
+            "Electronic", 
+            "Dub"
+        ], 
+        "stddev": 1.1870735101578664, 
+        "artist": "Godflesh", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Links Berge Rechts Seen", 
+        "rating": 7.916666666666667, 
+        "genres": [
+            "Electronic", 
+            "IDM"
+        ], 
+        "stddev": 1.0372127000693663, 
+        "artist": "Abfahrt Hinwil", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Abacab", 
+        "rating": 7.555555555555555, 
+        "genres": [
+            "Rock", 
+            "Pop"
+        ], 
+        "stddev": 1.944356259023213, 
+        "artist": "Genesis", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Pylon (Deluxe)", 
+        "rating": 8.214285714285714, 
+        "genres": [
+            "Metal", 
+            "Alternative", 
+            "Rock"
+        ], 
+        "stddev": 0.840180807973774, 
+        "artist": "Killing Joke", 
+        "codec": "flac", 
+        "nsongs": 14.0, 
+        "nrated": 14.0
+    }, 
+    {
+        "album": "Afar", 
+        "rating": 8.11111111111111, 
+        "genres": [
+            "Electronic", 
+            "Pop", 
+            "Synthpop", 
+            "New Romantic"
+        ], 
+        "stddev": 1.0993201540485797, 
+        "artist": "Ice Choir", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "12 Gauge", 
+        "rating": 8.3, 
+        "genres": [
+            "Metal", 
+            "Melodeath"
+        ], 
+        "stddev": 1.0004998750624607, 
+        "artist": "Kalmah", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Antimatter", 
+        "rating": 8.625, 
+        "genres": [
+            "Electronic", 
+            "Industrial", 
+            "Metal"
+        ], 
+        "stddev": 1.580521077050224, 
+        "artist": "Cubanate", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Version 2.0", 
+        "rating": 8.416666666666666, 
+        "genres": [
+            "Alternative", 
+            "Rock", 
+            "Pop"
+        ], 
+        "stddev": 1.249768497081078, 
+        "artist": "Garbage", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Adios", 
+        "rating": 8.3, 
+        "genres": [
+            "Industrial", 
+            "Metal"
+        ], 
+        "stddev": 1.2087183294713453, 
+        "artist": "KMFDM", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Amplified Heart", 
+        "rating": 8.25, 
+        "genres": [
+            "Pop", 
+            "Folk", 
+            "Rock", 
+            "Adult Contemporary"
+        ], 
+        "stddev": 1.5181197251863898, 
+        "artist": "Everything But The Girl", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Safety in a Number", 
+        "rating": 7.666666666666667, 
+        "genres": [
+            "Electronic", 
+            "Ambient"
+        ], 
+        "stddev": 1.1466537466972384, 
+        "artist": "bvdub", 
+        "codec": "flac", 
+        "nsongs": 6.0, 
+        "nrated": 6.0
+    }, 
+    {
+        "album": "A Nice Hot Bath With...", 
+        "rating": 7.888888888888889, 
+        "genres": [
+            "Downtempo", 
+            "Funk", 
+            "Dance"
+        ], 
+        "stddev": 1.0176764195580803, 
+        "artist": "Crazy Penis", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Abracadabra", 
+        "rating": 8.454545454545455, 
+        "genres": [
+            "Pop", 
+            "Dance", 
+            "House"
+        ], 
+        "stddev": 1.1489386864337334, 
+        "artist": "ABC", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "A Night To Remember", 
+        "rating": 7.6, 
+        "genres": [
+            "Pop"
+        ], 
+        "stddev": 1.3505554412907306, 
+        "artist": "Cyndi Lauper", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "an4rm", 
+        "rating": 8.384615384615385, 
+        "genres": [
+            "Electronic", 
+            "IDM"
+        ], 
+        "stddev": 0.9486113272354009, 
+        "artist": "Fugenn & The White Elephants", 
+        "codec": "mp3", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "10 Years In The Life", 
+        "rating": 8.538461538461538, 
+        "genres": [
+            "Electronic", 
+            "Progressive House"
+        ], 
+        "stddev": 1.0772400209855397, 
+        "artist": "BT", 
+        "codec": "flac", 
+        "nsongs": 26.0, 
+        "nrated": 26.0
     }, 
     {
         "album": "Prisma", 
@@ -15600,19 +15853,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "End Of Disclosure", 
-        "rating": 8.1, 
-        "genres": [
-            "Metal", 
-            "Melodeath"
-        ], 
-        "stddev": 0.9428679653058534, 
-        "artist": "Hypocrisy", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "One Foot In Hell", 
         "rating": 8.125, 
         "genres": [
@@ -15765,19 +16005,6 @@
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
-    }, 
-    {
-        "album": "Sleepwalker", 
-        "rating": 8.083333333333334, 
-        "genres": [
-            "Rock", 
-            "Synth Rock"
-        ], 
-        "stddev": 1.1929092201032767, 
-        "artist": "The Anix", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
     }, 
     {
         "album": "On My Way", 
@@ -18229,20 +18456,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Fire Up The Blades", 
-        "rating": 8.090909090909092, 
-        "genres": [
-            "Metal", 
-            "Power", 
-            "Cheese"
-        ], 
-        "stddev": 1.003749544462669, 
-        "artist": "3 Inches Of Blood", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
         "album": "7", 
         "rating": 6.888888888888889, 
         "genres": [
@@ -18933,27 +19146,108 @@
         "nrated": 9.0
     }, 
     {
-        "album": "0000 (disc 1)", 
-        "rating": 7.866666666666666, 
+        "album": "Angel Of Retribution", 
+        "rating": 8.5, 
         "genres": [
-            "Electronic", 
-            "IDM"
+            "Metal", 
+            "Traditional"
         ], 
-        "stddev": 1.146459929683707, 
-        "artist": "Hecq", 
+        "stddev": 1.2349089035228469, 
+        "artist": "Judas Priest", 
         "codec": "flac", 
-        "nsongs": 15.0, 
-        "nrated": 15.0
+        "nsongs": 10.0, 
+        "nrated": 10.0
     }, 
     {
-        "album": "0000 (disc 2)", 
-        "rating": 7.5, 
+        "album": "Addicted To Music (CD1)", 
+        "rating": 7.833333333333333, 
         "genres": [
             "Electronic", 
-            "IDM"
+            "Trance", 
+            "Dance"
         ], 
-        "stddev": 1.5890248582070703, 
-        "artist": "Hecq", 
+        "stddev": 1.1536977587386217, 
+        "artist": "ATB", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Rory's World", 
+        "rating": 8.375, 
+        "genres": [
+            "Electronic", 
+            "Drum & Bass"
+        ], 
+        "stddev": 1.4354605097319815, 
+        "artist": "Trust Image", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "All You Need Is Now", 
+        "rating": 8.076923076923077, 
+        "genres": [
+            "Pop"
+        ], 
+        "stddev": 1.1407541285453913, 
+        "artist": "Duran Duran", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "Little River Band Greatest Hits", 
+        "rating": 8.583333333333334, 
+        "genres": [
+            "Rock", 
+            "Pop", 
+            "Soft"
+        ], 
+        "stddev": 1.1753151665577795, 
+        "artist": "Little River Band", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Above the Weeping World", 
+        "rating": 8.125, 
+        "genres": [
+            "Metal", 
+            "Melodeath", 
+            "Death"
+        ], 
+        "stddev": 1.2801061967665026, 
+        "artist": "Insomnium", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Across the Dark", 
+        "rating": 8.285714285714286, 
+        "genres": [
+            "Metal", 
+            "Melodeath"
+        ], 
+        "stddev": 1.1555418503585362, 
+        "artist": "Insomnium", 
+        "codec": "flac", 
+        "nsongs": 7.0, 
+        "nrated": 7.0
+    }, 
+    {
+        "album": "A Pleasant Shade Of Gray", 
+        "rating": 7.8, 
+        "genres": [
+            "Metal", 
+            "Progressive", 
+            "Prog"
+        ], 
+        "stddev": 0.8921883209278185, 
+        "artist": "Fates Warning", 
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
@@ -19992,19 +20286,6 @@
         "codec": "flac", 
         "nsongs": 11.0, 
         "nrated": 11.0
-    }, 
-    {
-        "album": "3", 
-        "rating": 7.583333333333333, 
-        "genres": [
-            "Electronic", 
-            "House"
-        ], 
-        "stddev": 1.277249286842917, 
-        "artist": "I:Cube", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
     }, 
     {
         "album": "The Alternative", 
@@ -21261,18 +21542,6 @@
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
-    }, 
-    {
-        "album": "Sweet Freaks", 
-        "rating": 7.545454545454546, 
-        "genres": [
-            "Acid Jazz"
-        ], 
-        "stddev": 1.2187490969770682, 
-        "artist": "The Brand New Heavies", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
     }, 
     {
         "album": " Next Stop", 
@@ -23487,19 +23756,6 @@
         "nrated": 11.0
     }, 
     {
-        "album": "Horror Vacui", 
-        "rating": 7.733333333333333, 
-        "genres": [
-            "Electronic", 
-            "IDM"
-        ], 
-        "stddev": 1.4801401335058837, 
-        "artist": "Hecq", 
-        "codec": "flac", 
-        "nsongs": 15.0, 
-        "nrated": 15.0
-    }, 
-    {
         "album": "De Vermis Mysteriis", 
         "rating": 8.3, 
         "genres": [
@@ -23538,34 +23794,6 @@
         "codec": "flac", 
         "nsongs": 12.0, 
         "nrated": 12.0
-    }, 
-    {
-        "album": "Serenity Is The Devil", 
-        "rating": 8.3, 
-        "genres": [
-            "Electronic", 
-            "Industrial", 
-            "EBM"
-        ], 
-        "stddev": 1.1229425630903833, 
-        "artist": "Icon Of Coil", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
-        "album": "The Echoes Of Silence (2013 Deluxe)", 
-        "rating": 8.0, 
-        "genres": [
-            "Rock", 
-            "Gothic", 
-            "Goth"
-        ], 
-        "stddev": 1.3093073414159542, 
-        "artist": "Ikon", 
-        "codec": "mp3", 
-        "nsongs": 7.0, 
-        "nrated": 7.0
     }, 
     {
         "album": "Clayman", 
@@ -25598,6 +25826,57 @@
         "nrated": 11.0
     }, 
     {
+        "album": "A Perfect Forever", 
+        "rating": 8.11111111111111, 
+        "genres": [
+            "Metal", 
+            "Progressive"
+        ], 
+        "stddev": 0.9931176057623643, 
+        "artist": "Anubis Gate", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "You'll Never Tame Me", 
+        "rating": 9.416666666666666, 
+        "genres": [
+            "Punk"
+        ], 
+        "stddev": 1.0372127000693663, 
+        "artist": "GG Allin", 
+        "codec": "mp3", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Among The Living (2009 Deluxe Edition)", 
+        "rating": 8.666666666666666, 
+        "genres": [
+            "Metal", 
+            "Thrash"
+        ], 
+        "stddev": 1.3966450099973926, 
+        "artist": "Anthrax", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "A Pseudo Steady State", 
+        "rating": 7.375, 
+        "genres": [
+            "Electronic", 
+            "IDM"
+        ], 
+        "stddev": 1.5302930683369118, 
+        "artist": "Lusine Icl", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
         "album": "Just Me", 
         "rating": 7.9, 
         "genres": [
@@ -26160,20 +26439,6 @@
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
-    }, 
-    {
-        "album": "Everyone Everything Everywhere Ends", 
-        "rating": 7.6521739130434785, 
-        "genres": [
-            "Rock", 
-            "Gothic", 
-            "Goth"
-        ], 
-        "stddev": 1.5934752306183584, 
-        "artist": "Ikon", 
-        "codec": "mp3", 
-        "nsongs": 23.0, 
-        "nrated": 23.0
     }, 
     {
         "album": "Redeemer Of Souls", 
@@ -27277,21 +27542,6 @@
         "nrated": 13.0
     }, 
     {
-        "album": "Siren Charms", 
-        "rating": 7.583333333333333, 
-        "genres": [
-            "Metal", 
-            "Modern", 
-            "Alternative Metal", 
-            "Rock"
-        ], 
-        "stddev": 1.2497684970810778, 
-        "artist": "In Flames", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
         "album": "Damned", 
         "rating": 8.416666666666666, 
         "genres": [
@@ -27465,19 +27715,6 @@
         ], 
         "stddev": 1.1832159566199232, 
         "artist": "Doomshine", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
-        "album": "Into The Abyss", 
-        "rating": 7.7, 
-        "genres": [
-            "Metal", 
-            "Death"
-        ], 
-        "stddev": 1.2413702106946178, 
-        "artist": "Hypocrisy", 
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
@@ -28678,20 +28915,6 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "Court In The Act (1997 Reissue)", 
-        "rating": 8.0, 
-        "genres": [
-            "Metal", 
-            "Traditional", 
-            "NWOBHM"
-        ], 
-        "stddev": 1.4142135623730951, 
-        "artist": "Satan", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 5.0
     }, 
     {
         "album": "Gaucho", 
@@ -31664,20 +31887,6 @@
         "nrated": 11.0
     }, 
     {
-        "album": "Black Gives Way to Blue", 
-        "rating": 8.090909090909092, 
-        "genres": [
-            "Rock", 
-            "Alternative Metal", 
-            "Grunge"
-        ], 
-        "stddev": 1.2461812442271634, 
-        "artist": "Alice in Chains", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
         "album": "Diamonds And Death", 
         "rating": 8.555555555555555, 
         "genres": [
@@ -32548,20 +32757,6 @@
         "nrated": 11.0
     }, 
     {
-        "album": "Pylon", 
-        "rating": 8.3, 
-        "genres": [
-            "Metal", 
-            "Alternative", 
-            "Rock"
-        ], 
-        "stddev": 1.1229425630903833, 
-        "artist": "Killing Joke", 
-        "codec": "mp3", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "06:21:03:11 Up Evil", 
         "rating": 8.0, 
         "genres": [
@@ -32652,5 +32847,72 @@
         "codec": "mp3", 
         "nsongs": 10.0, 
         "nrated": 10.0
+    }, 
+    {
+        "album": "In With Their Arps, and Moogs, and Jazz and Things", 
+        "rating": 8.181818181818182, 
+        "genres": [
+            "Electronic", 
+            "Techno"
+        ], 
+        "stddev": 1.027056950935933, 
+        "artist": "As One", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Aenigma", 
+        "rating": 8.375, 
+        "genres": [
+            "Metal", 
+            "Progressive", 
+            "Death", 
+            "Melodeath"
+        ], 
+        "stddev": 1.1447911927508876, 
+        "artist": "In Vain", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "ABBA Gold Greatest Hits", 
+        "rating": 8.789473684210526, 
+        "genres": [
+            "Pop"
+        ], 
+        "stddev": 1.2677087918715724, 
+        "artist": "ABBA", 
+        "codec": "flac", 
+        "nsongs": 19.0, 
+        "nrated": 19.0
+    }, 
+    {
+        "album": "Animalize (1998 Remaster)", 
+        "rating": 8.222222222222221, 
+        "genres": [
+            "Rock", 
+            "Hair"
+        ], 
+        "stddev": 1.331274130045291, 
+        "artist": "Kiss", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Andromeda Unchained", 
+        "rating": 8.181818181818182, 
+        "genres": [
+            "Metal", 
+            "Prog", 
+            "Progressive"
+        ], 
+        "stddev": 1.1120540284914207, 
+        "artist": "Anubis Gate", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
     }
 ]
