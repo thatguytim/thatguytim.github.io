@@ -2547,20 +2547,6 @@
         "nrated": 7.0
     }, 
     {
-        "album": "Ascension", 
-        "rating": 6.6, 
-        "genres": [
-            "Metal", 
-            "Post", 
-            "Rock"
-        ], 
-        "stddev": 1.0601886624558856, 
-        "artist": "Jesu", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Flowers (Remastered)", 
         "rating": 7.846153846153846, 
         "genres": [
@@ -3046,21 +3032,6 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "Violator", 
-        "rating": 9.333333333333334, 
-        "genres": [
-            "Electronic", 
-            "Alternative", 
-            "Pop", 
-            "Synthpop"
-        ], 
-        "stddev": 1.4740554623801776, 
-        "artist": "Depeche Mode", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
     }, 
     {
         "album": "Music For The Masses", 
@@ -5002,20 +4973,6 @@
         "nrated": 12.0
     }, 
     {
-        "album": "Infinity", 
-        "rating": 8.1, 
-        "genres": [
-            "Electronic", 
-            "Industrial", 
-            "EBM"
-        ], 
-        "stddev": 1.212023102090055, 
-        "artist": "Din_Fiv", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "The Spell of Iron VINYL", 
         "rating": 8.1, 
         "genres": [
@@ -6237,6 +6194,33 @@
         "codec": "flac", 
         "nsongs": 11.0, 
         "nrated": 11.0
+    }, 
+    {
+        "album": "Are We There Yet? (Deluxe Edition)", 
+        "rating": 8.4, 
+        "genres": [
+            "Electronic", 
+            "Drum & Bass", 
+            "Liquid"
+        ], 
+        "stddev": 1.1027239001672178, 
+        "artist": "London Elektricity", 
+        "codec": "mp3", 
+        "nsongs": 15.0, 
+        "nrated": 15.0
+    }, 
+    {
+        "album": "Arabian Horse", 
+        "rating": 8.1, 
+        "genres": [
+            "Electronic", 
+            "EDM"
+        ], 
+        "stddev": 1.0339245620450266, 
+        "artist": "GusGus", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
     }, 
     {
         "album": "Broken Crown Halo", 
@@ -7657,33 +7641,6 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "Sunde", 
-        "rating": 8.25, 
-        "genres": [
-            "Metal", 
-            "Industrial", 
-            "Neue Deutsche Haerte"
-        ], 
-        "stddev": 0.898494110535326, 
-        "artist": "Eisbrecher", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
-        "album": "Eiszeit", 
-        "rating": 7.923076923076923, 
-        "genres": [
-            "Metal", 
-            "Neue Deutsche Haerte"
-        ], 
-        "stddev": 0.9968087449962741, 
-        "artist": "Eisbrecher", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
     }, 
     {
         "album": "Based On Evil", 
@@ -11127,19 +11084,6 @@
         "nrated": 8.0
     }, 
     {
-        "album": "Talkin' It To The Streets", 
-        "rating": 7.923076923076923, 
-        "genres": [
-            "Rock", 
-            "Hair"
-        ], 
-        "stddev": 0.9163959407673592, 
-        "artist": "FM", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
-    }, 
-    {
         "album": "Shadows Of The Past", 
         "rating": 8.0, 
         "genres": [
@@ -11324,19 +11268,6 @@
         "codec": "flac", 
         "nsongs": 13.0, 
         "nrated": 13.0
-    }, 
-    {
-        "album": "Kaleidoscope World", 
-        "rating": 6.666666666666667, 
-        "genres": [
-            "Pop", 
-            "Sophisti-Pop"
-        ], 
-        "stddev": 1.4487116456005886, 
-        "artist": "Swing Out Sister", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
     }, 
     {
         "album": "Speedballads", 
@@ -12533,19 +12464,6 @@
         "nrated": 14.0
     }, 
     {
-        "album": "Love & Hate In Dub", 
-        "rating": 7.916666666666667, 
-        "genres": [
-            "Electronic", 
-            "Dub"
-        ], 
-        "stddev": 1.1870735101578664, 
-        "artist": "Godflesh", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
         "album": "Links Berge Rechts Seen", 
         "rating": 7.916666666666667, 
         "genres": [
@@ -12747,6 +12665,215 @@
         "codec": "flac", 
         "nsongs": 26.0, 
         "nrated": 26.0
+    }, 
+    {
+        "album": "Violator", 
+        "rating": 9.333333333333334, 
+        "genres": [
+            "Electronic", 
+            "Alternative", 
+            "Pop", 
+            "Synthpop"
+        ], 
+        "stddev": 1.4740554623801776, 
+        "artist": "Depeche Mode", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Asylum - Remaster 1998", 
+        "rating": 8.3, 
+        "genres": [
+            "Rock", 
+            "Hair"
+        ], 
+        "stddev": 1.0959014554237982, 
+        "artist": "Kiss", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Rush", 
+        "rating": 8.6, 
+        "genres": [
+            "Electronic", 
+            "Pop", 
+            "Synthpop", 
+            "Indietronic", 
+            "Dance", 
+            "House"
+        ], 
+        "stddev": 1.0411532067856297, 
+        "artist": "Jay Jay Johanson", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Anubis Gate", 
+        "rating": 7.9, 
+        "genres": [
+            "Metal", 
+            "Progressive", 
+            "Rock"
+        ], 
+        "stddev": 1.0339245620450266, 
+        "artist": "Anubis Gate", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Power, Corruption & Lies (Bonus)", 
+        "rating": 8.333333333333334, 
+        "genres": [
+            "Pop", 
+            "Alternative", 
+            "New Wave", 
+            "Electronic", 
+            "Synthpop"
+        ], 
+        "stddev": 1.6611018208584503, 
+        "artist": "New Order", 
+        "codec": "flac", 
+        "nsongs": 6.0, 
+        "nrated": 6.0
+    }, 
+    {
+        "album": "Information Society", 
+        "rating": 8.166666666666666, 
+        "genres": [
+            "Electronic", 
+            "Pop"
+        ], 
+        "stddev": 1.8621473068993746, 
+        "artist": "Information Society", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 6.0
+    }, 
+    {
+        "album": "Another Minute", 
+        "rating": 8.11111111111111, 
+        "genres": [
+            "Electronic", 
+            "Pop", 
+            "Synthpop"
+        ], 
+        "stddev": 1.2064072203631353, 
+        "artist": "Cause & Effect", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Archetype", 
+        "rating": 8.307692307692308, 
+        "genres": [
+            "Metal", 
+            "Cyber"
+        ], 
+        "stddev": 0.9874035965803584, 
+        "artist": "Fear Factory", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "Are You Dead Yet?", 
+        "rating": 8.3, 
+        "genres": [
+            "Metal", 
+            "Melodeath"
+        ], 
+        "stddev": 1.0004998750624607, 
+        "artist": "Children Of Bodom", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Danse Macabre", 
+        "rating": 7.777777777777778, 
+        "genres": [
+            "Indie", 
+            "Dance Punk", 
+            "Indietronic"
+        ], 
+        "stddev": 1.1306916683313888, 
+        "artist": "The Faint", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Astra", 
+        "rating": 8.4, 
+        "genres": [
+            "Rock", 
+            "Pop"
+        ], 
+        "stddev": 1.1063453348751464, 
+        "artist": "Asia", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Kaleidoscope World", 
+        "rating": 7.777777777777778, 
+        "genres": [
+            "Pop", 
+            "Sophisti-Pop"
+        ], 
+        "stddev": 1.245017504738638, 
+        "artist": "Swing Out Sister", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Anthems Of Rebellion", 
+        "rating": 8.1, 
+        "genres": [
+            "Metal", 
+            "Death", 
+            "Melodeath"
+        ], 
+        "stddev": 0.9428679653058534, 
+        "artist": "Arch Enemy", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Ashes Against the Grain", 
+        "rating": 8.428571428571429, 
+        "genres": [
+            "Metal", 
+            "Doom", 
+            "Progressive"
+        ], 
+        "stddev": 1.2834447088596022, 
+        "artist": "Agalloch", 
+        "codec": "flac", 
+        "nsongs": 7.0, 
+        "nrated": 7.0
+    }, 
+    {
+        "album": "Archetype Zero", 
+        "rating": 7.777777777777778, 
+        "genres": [
+            "Electronic", 
+            "IDM"
+        ], 
+        "stddev": 1.3946792876861283, 
+        "artist": "Fugenn & The White Elephants", 
+        "codec": "mp3", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
     }, 
     {
         "album": "Prisma", 
@@ -13809,19 +13936,6 @@
         "nrated": 4.0
     }, 
     {
-        "album": "Direct Memory access v2.0", 
-        "rating": 7.8, 
-        "genres": [
-            "Electronic", 
-            "Industrial"
-        ], 
-        "stddev": 1.776513439296196, 
-        "artist": "Inform\u00e4tik", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Burnt Offerings", 
         "rating": 8.0, 
         "genres": [
@@ -14141,19 +14255,6 @@
         "codec": "flac", 
         "nsongs": 12.0, 
         "nrated": 12.0
-    }, 
-    {
-        "album": "Schock", 
-        "rating": 7.928571428571429, 
-        "genres": [
-            "Neue Deutsche Haerte", 
-            "Metal"
-        ], 
-        "stddev": 0.9607835116550566, 
-        "artist": "Eisbrecher", 
-        "codec": "flac", 
-        "nsongs": 14.0, 
-        "nrated": 14.0
     }, 
     {
         "album": "Space Radio", 
@@ -16670,33 +16771,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Tough It Out (2012 Remaster)", 
-        "rating": 7.818181818181818, 
-        "genres": [
-            "Rock", 
-            "AOR", 
-            "Hair"
-        ], 
-        "stddev": 1.1910005642745005, 
-        "artist": "FM", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
-        "album": "Indiscreet (2012 Remaster)", 
-        "rating": 8.11111111111111, 
-        "genres": [
-            "Rock", 
-            "AOR"
-        ], 
-        "stddev": 1.1857637476727496, 
-        "artist": "FM", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
         "album": "The Chainheart Machine", 
         "rating": 8.88888888888889, 
         "genres": [
@@ -17132,20 +17206,6 @@
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
-    }, 
-    {
-        "album": "XTC Implant", 
-        "rating": 8.2, 
-        "genres": [
-            "Electronic", 
-            "Industrial", 
-            "EBM"
-        ], 
-        "stddev": 1.2633289357883004, 
-        "artist": "Evil's Toy", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
     }, 
     {
         "album": "Leatherwolf II", 
@@ -22695,19 +22755,6 @@
         "nrated": 12.0
     }, 
     {
-        "album": "Rated G", 
-        "rating": 8.083333333333334, 
-        "genres": [
-            "Rap", 
-            "Gangster"
-        ], 
-        "stddev": 1.1870735101578664, 
-        "artist": "5th Ward Boyz", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
         "album": "The Fathomless Mastery", 
         "rating": 8.333333333333334, 
         "genres": [
@@ -23987,19 +24034,6 @@
         "nrated": 13.0
     }, 
     {
-        "album": "Solitary Confinement", 
-        "rating": 7.416666666666667, 
-        "genres": [
-            "Electronic", 
-            "Industrial"
-        ], 
-        "stddev": 1.6476343872577053, 
-        "artist": "Le\u00e6ther Strip", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
         "album": "Led Zeppelin II", 
         "rating": 9.0, 
         "genres": [
@@ -25047,12 +25081,12 @@
     }, 
     {
         "album": "Chigliak", 
-        "rating": 8.066666666666666, 
+        "rating": 8.133333333333333, 
         "genres": [
             "Electronic", 
             "IDM"
         ], 
-        "stddev": 0.9976268136228396, 
+        "stddev": 1.086755279277279, 
         "artist": "Adam Johnson", 
         "codec": "flac", 
         "nsongs": 15.0, 
@@ -25517,22 +25551,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Power, Corruption & Lies (Bonus)", 
-        "rating": 8.333333333333334, 
-        "genres": [
-            "Pop", 
-            "Alternative", 
-            "New Wave", 
-            "Electronic", 
-            "Synthpop"
-        ], 
-        "stddev": 1.7266966964355612, 
-        "artist": "New Order", 
-        "codec": "flac", 
-        "nsongs": 6.0, 
-        "nrated": 6.0
-    }, 
-    {
         "album": "Rockeye", 
         "rating": 7.909090909090909, 
         "genres": [
@@ -25875,6 +25893,45 @@
         "codec": "flac", 
         "nsongs": 8.0, 
         "nrated": 8.0
+    }, 
+    {
+        "album": "Ashtrayhead", 
+        "rating": 8.333333333333334, 
+        "genres": [
+            "Electronic", 
+            "Industrial"
+        ], 
+        "stddev": 1.242259987499883, 
+        "artist": "Ashtrayhead", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Movement (Bonus)", 
+        "rating": 8.2, 
+        "genres": [
+            "Alternative", 
+            "Rock", 
+            "New Wave"
+        ], 
+        "stddev": 1.6112107248898262, 
+        "artist": "New Order", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Astronaut", 
+        "rating": 8.0, 
+        "genres": [
+            "Pop"
+        ], 
+        "stddev": 1.0801234497346435, 
+        "artist": "Duran Duran", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
     }, 
     {
         "album": "Just Me", 
@@ -27744,20 +27801,6 @@
         "codec": "flac", 
         "nsongs": 21.0, 
         "nrated": 21.0
-    }, 
-    {
-        "album": "A World Lit Only by Fire", 
-        "rating": 7.4, 
-        "genres": [
-            "Metal", 
-            "Post", 
-            "Sludge"
-        ], 
-        "stddev": 1.1849050594878898, 
-        "artist": "Godflesh", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
     }, 
     {
         "album": "Prime Evil", 
@@ -31391,20 +31434,6 @@
         "nrated": 8.0
     }, 
     {
-        "album": "Movement (Bonus)", 
-        "rating": 8.2, 
-        "genres": [
-            "Alternative", 
-            "Rock", 
-            "New Wave"
-        ], 
-        "stddev": 1.5987495113369072, 
-        "artist": "New Order", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Shred Force 1", 
         "rating": 8.8, 
         "genres": [
@@ -32912,6 +32941,20 @@
         "stddev": 1.1120540284914207, 
         "artist": "Anubis Gate", 
         "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Anjanas", 
+        "rating": 7.909090909090909, 
+        "genres": [
+            "Electronic", 
+            "Techno", 
+            "Tech-House"
+        ], 
+        "stddev": 1.1638816890154877, 
+        "artist": "Pablo Bolivar", 
+        "codec": "mp3", 
         "nsongs": 11.0, 
         "nrated": 11.0
     }
