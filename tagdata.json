@@ -65,20 +65,6 @@
         "nrated": 11.0
     }, 
     {
-        "album": "Steam Days", 
-        "rating": 7.636363636363637, 
-        "genres": [
-            "Electronic", 
-            "Techno", 
-            "IDM"
-        ], 
-        "stddev": 1.151877570921574, 
-        "artist": "Nathan Fake", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
         "album": "Ballyhoo: The Best of Echo & The Bunnymen", 
         "rating": 8.166666666666666, 
         "genres": [
@@ -2900,19 +2886,6 @@
         "nrated": 11.0
     }, 
     {
-        "album": "Sea of Life", 
-        "rating": 7.6, 
-        "genres": [
-            "Electronic", 
-            "Synthpop"
-        ], 
-        "stddev": 2.084226475218084, 
-        "artist": "Children Within", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Crisis In Utopia", 
         "rating": 8.181818181818182, 
         "genres": [
@@ -3747,19 +3720,6 @@
         "nrated": 58.0
     }, 
     {
-        "album": "George Is On", 
-        "rating": 7.545454545454546, 
-        "genres": [
-            "Electronic", 
-            "Dance"
-        ], 
-        "stddev": 1.9911524814432537, 
-        "artist": "Deep Dish", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
         "album": "Wherever I Lay My Head", 
         "rating": 8.642857142857142, 
         "genres": [
@@ -4104,19 +4064,6 @@
         "codec": "flac", 
         "nsongs": 8.0, 
         "nrated": 8.0
-    }, 
-    {
-        "album": "Serene", 
-        "rating": 7.6, 
-        "genres": [
-            "Electronic", 
-            "Ambient"
-        ], 
-        "stddev": 1.0119288512538813, 
-        "artist": "Vincent I. Watson", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
     }, 
     {
         "album": "The eMotion Sequence", 
@@ -8741,20 +8688,6 @@
         "nrated": 14.0
     }, 
     {
-        "album": "The Art Of Breaking Apart", 
-        "rating": 6.909090909090909, 
-        "genres": [
-            "Electronic", 
-            "Rock", 
-            "Gothic"
-        ], 
-        "stddev": 1.4740428773300196, 
-        "artist": "Velvet Acid Christ", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
         "album": "Holy Ghost!", 
         "rating": 8.6, 
         "genres": [
@@ -9328,19 +9261,6 @@
         "codec": "flac", 
         "nsongs": 12.0, 
         "nrated": 12.0
-    }, 
-    {
-        "album": "20 Electrostatic Soundfields", 
-        "rating": 7.2, 
-        "genres": [
-            "Electronic", 
-            "Ambient"
-        ], 
-        "stddev": 0.7797435475847171, 
-        "artist": "DeepChord", 
-        "codec": "flac", 
-        "nsongs": 20.0, 
-        "nrated": 20.0
     }, 
     {
         "album": "Symbiotics", 
@@ -13897,33 +13817,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Neuralblastoma", 
-        "rating": 7.333333333333333, 
-        "genres": [
-            "Electronic", 
-            "Industrial"
-        ], 
-        "stddev": 1.319371343004213, 
-        "artist": "Velvet Acid Christ", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
-        "album": "Twisted Thought Generator", 
-        "rating": 7.666666666666667, 
-        "genres": [
-            "Industrial", 
-            "Electronic", 
-            "Spoken Word"
-        ], 
-        "stddev": 1.3833221775543036, 
-        "artist": "Velvet Acid Christ", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
         "album": "Magic Fly Variations", 
         "rating": 7.75, 
         "genres": [
@@ -14013,32 +13906,6 @@
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
-    }, 
-    {
-        "album": "Maldire", 
-        "rating": 7.7272727272727275, 
-        "genres": [
-            "Electronic", 
-            "Industrial"
-        ], 
-        "stddev": 1.4176625453230118, 
-        "artist": "Velvet Acid Christ", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
-        "album": "Subconscious Landscapes", 
-        "rating": 7.7, 
-        "genres": [
-            "Electronic", 
-            "Industrial"
-        ], 
-        "stddev": 1.0959014554237987, 
-        "artist": "Velvet Acid Christ", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
     }, 
     {
         "album": "Dawn Of The 5th Era", 
@@ -20061,20 +19928,6 @@
         "nrated": 9.0
     }, 
     {
-        "album": "I Know That You Know", 
-        "rating": 6.2727272727272725, 
-        "genres": [
-            "Electronic", 
-            "Indie", 
-            "Electropop"
-        ], 
-        "stddev": 1.1103637189135318, 
-        "artist": "Veto", 
-        "codec": "Mp3", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
         "album": "Sweet Vengeance", 
         "rating": 8.727272727272727, 
         "genres": [
@@ -20252,19 +20105,6 @@
         "nrated": 12.0
     }, 
     {
-        "album": "Church Of Acid (EU Edition)", 
-        "rating": 7.166666666666667, 
-        "genres": [
-            "Industrial", 
-            "Electronic"
-        ], 
-        "stddev": 1.2683833396478748, 
-        "artist": "Velvet Acid Christ", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
         "album": "Welcome To Zanarkand", 
         "rating": 7.6, 
         "genres": [
@@ -20319,33 +20159,6 @@
         "codec": "flac", 
         "nsongs": 16.0, 
         "nrated": 16.0
-    }, 
-    {
-        "album": "There's A Beat In All Machines", 
-        "rating": 6.909090909090909, 
-        "genres": [
-            "Indie", 
-            "Rock"
-        ], 
-        "stddev": 1.405153122178984, 
-        "artist": "Veto", 
-        "codec": "Mp3", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
-        "album": "Hex Angel", 
-        "rating": 7.7272727272727275, 
-        "genres": [
-            "Electronic", 
-            "Industrial", 
-            "Spoken Word"
-        ], 
-        "stddev": 1.1103637189135318, 
-        "artist": "Velvet Acid Christ", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
     }, 
     {
         "album": "The Alternative", 
@@ -21107,20 +20920,6 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "Best of OMD", 
-        "rating": 8.5625, 
-        "genres": [
-            "Pop", 
-            "Synthpop", 
-            "New Wave"
-        ], 
-        "stddev": 1.107392594961245, 
-        "artist": "OMD", 
-        "codec": "flac", 
-        "nsongs": 16.0, 
-        "nrated": 16.0
     }, 
     {
         "album": "Enveloped", 
@@ -23417,20 +23216,6 @@
         "codec": "flac", 
         "nsongs": 16.0, 
         "nrated": 16.0
-    }, 
-    {
-        "album": "Dimensional Space", 
-        "rating": 7.625, 
-        "genres": [
-            "Electronic", 
-            "Dub", 
-            "Ambient"
-        ], 
-        "stddev": 1.1030851621701745, 
-        "artist": "cv313", 
-        "codec": "flac", 
-        "nsongs": 8.0, 
-        "nrated": 8.0
     }, 
     {
         "album": "Sunburst", 
@@ -25934,6 +25719,20 @@
         "nrated": 12.0
     }, 
     {
+        "album": "Best of OMD", 
+        "rating": 8.5625, 
+        "genres": [
+            "Pop", 
+            "Synthpop", 
+            "New Wave"
+        ], 
+        "stddev": 1.107392594961245, 
+        "artist": "Orchestral Manoeuvres In The Dark", 
+        "codec": "flac", 
+        "nsongs": 16.0, 
+        "nrated": 16.0
+    }, 
+    {
         "album": "Just Me", 
         "rating": 7.9, 
         "genres": [
@@ -27022,19 +26821,6 @@
         "nrated": 11.0
     }, 
     {
-        "album": "Drift Away", 
-        "rating": 7.625, 
-        "genres": [
-            "Electronic", 
-            "Drum & Bass"
-        ], 
-        "stddev": 1.2739885694149693, 
-        "artist": "Actraiser", 
-        "codec": "mp3", 
-        "nsongs": 8.0, 
-        "nrated": 8.0
-    }, 
-    {
         "album": "Blue", 
         "rating": 7.909090909090909, 
         "genres": [
@@ -27381,48 +27167,6 @@
         "codec": "flac", 
         "nsongs": 12.0, 
         "nrated": 12.0
-    }, 
-    {
-        "album": "Between The Eyes Vol. 1", 
-        "rating": 8.153846153846153, 
-        "genres": [
-            "Electronic", 
-            "Industrial", 
-            "Spoken Word"
-        ], 
-        "stddev": 1.4135697136885195, 
-        "artist": "Velvet Acid Christ", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
-    }, 
-    {
-        "album": "Fun With Knives", 
-        "rating": 8.0, 
-        "genres": [
-            "Electronic", 
-            "Industrial", 
-            "Spoken Word"
-        ], 
-        "stddev": 1.2060453783110545, 
-        "artist": "Velvet Acid Christ", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
-        "album": "Calling Ov The Dead", 
-        "rating": 8.181818181818182, 
-        "genres": [
-            "Electronic", 
-            "Industrial", 
-            "Spoken Word"
-        ], 
-        "stddev": 1.2047988194474, 
-        "artist": "Velvet Acid Christ", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
     }, 
     {
         "album": "Rapid Fire Rondo", 
@@ -27951,20 +27695,6 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "Lust For Blood", 
-        "rating": 7.6923076923076925, 
-        "genres": [
-            "Electronic", 
-            "Industrial", 
-            "Darkwave"
-        ], 
-        "stddev": 1.0845041698824813, 
-        "artist": "Velvet Acid Christ", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
     }, 
     {
         "album": "The Endless Bummer", 
@@ -32629,19 +32359,6 @@
         "nrated": 12.0
     }, 
     {
-        "album": "Surrounded By Mars", 
-        "rating": 7.583333333333333, 
-        "genres": [
-            "Electronic", 
-            "Indietronic"
-        ], 
-        "stddev": 1.2497684970810778, 
-        "artist": "Popnoname", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
         "album": "Symsonic", 
         "rating": 8.083333333333334, 
         "genres": [
@@ -32957,5 +32674,31 @@
         "codec": "mp3", 
         "nsongs": 11.0, 
         "nrated": 11.0
+    }, 
+    {
+        "album": "Cell", 
+        "rating": 8.272727272727273, 
+        "genres": [
+            "Electronic", 
+            "IDM"
+        ], 
+        "stddev": 0.9323471588647251, 
+        "artist": "Dryft", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Accelerator", 
+        "rating": 8.3, 
+        "genres": [
+            "Electronic", 
+            "Techno"
+        ], 
+        "stddev": 1.0004998750624607, 
+        "artist": "The Future Sound Of London", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
     }
 ]
