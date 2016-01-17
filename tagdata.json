@@ -1556,19 +1556,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Unnatural Selection", 
-        "rating": 8.2, 
-        "genres": [
-            "Metal", 
-            "Thrash"
-        ], 
-        "stddev": 1.0936178491593849, 
-        "artist": "Havok", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Dominion Reptilian", 
         "rating": 7.444444444444445, 
         "genres": [
@@ -3908,19 +3895,6 @@
         "nrated": 12.0
     }, 
     {
-        "album": "Time Is Up", 
-        "rating": 8.0, 
-        "genres": [
-            "Metal", 
-            "Thrash"
-        ], 
-        "stddev": 1.1832159566199232, 
-        "artist": "Havok", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Hunting High And Low (Deluxe Edition) (Disc 1)", 
         "rating": 8.7, 
         "genres": [
@@ -4259,19 +4233,6 @@
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
-    }, 
-    {
-        "album": "Peace Sells... But Who's Buying? (Remixed & Remastered Versions From 2004)", 
-        "rating": 9.625, 
-        "genres": [
-            "Metal", 
-            "Thrash"
-        ], 
-        "stddev": 1.1447911927508876, 
-        "artist": "Megadeth", 
-        "codec": "flac", 
-        "nsongs": 8.0, 
-        "nrated": 8.0
     }, 
     {
         "album": "Endgame", 
@@ -5699,20 +5660,6 @@
         "nrated": 7.0
     }, 
     {
-        "album": "The Space Between", 
-        "rating": 7.5, 
-        "genres": [
-            "Electronic", 
-            "Drum & Bass", 
-            "Liquid"
-        ], 
-        "stddev": 1.8945410299821206, 
-        "artist": "Bachelors Of Science", 
-        "codec": "flac", 
-        "nsongs": 14.0, 
-        "nrated": 14.0
-    }, 
-    {
         "album": "The First Day", 
         "rating": 8.0, 
         "genres": [
@@ -6093,19 +6040,6 @@
         "nrated": 11.0
     }, 
     {
-        "album": "Arabian Horse", 
-        "rating": 8.1, 
-        "genres": [
-            "Electronic", 
-            "EDM"
-        ], 
-        "stddev": 1.0339245620450266, 
-        "artist": "GusGus", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Wide Angle", 
         "rating": 8.3, 
         "genres": [
@@ -6188,6 +6122,33 @@
         "nrated": 12.0
     }, 
     {
+        "album": "Peace Sells... But Who's Buying? (Remixed & Remastered Versions From 2004)", 
+        "rating": 9.625, 
+        "genres": [
+            "Metal", 
+            "Thrash"
+        ], 
+        "stddev": 1.1447911927508876, 
+        "artist": "Megadeth", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Brother For Real", 
+        "rating": 8.0, 
+        "genres": [
+            "Electronic", 
+            "House", 
+            "Deep"
+        ], 
+        "stddev": 1.7320508075688772, 
+        "artist": "Terry Lee Brown Junior", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
         "album": "Broken Crown Halo", 
         "rating": 7.909090909090909, 
         "genres": [
@@ -6265,32 +6226,6 @@
         "codec": "mp3", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "Electrified", 
-        "rating": 8.0, 
-        "genres": [
-            "Rock", 
-            "Hard"
-        ], 
-        "stddev": 1.4142135623730951, 
-        "artist": "Pink Cream 69", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
-        "album": "Thunderdome", 
-        "rating": 7.769230769230769, 
-        "genres": [
-            "Rock", 
-            "Hard"
-        ], 
-        "stddev": 1.3528573581152092, 
-        "artist": "Pink Cream 69", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
     }, 
     {
         "album": "PlackTown Sounds Vol.1", 
@@ -8625,20 +8560,6 @@
         "nrated": 12.0
     }, 
     {
-        "album": "Old School Policies", 
-        "rating": 7.2, 
-        "genres": [
-            "Electronic", 
-            "Industrial", 
-            "EBM"
-        ], 
-        "stddev": 1.5798734126505198, 
-        "artist": "Diskonnekted", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Balance of the Force", 
         "rating": 9.444444444444445, 
         "genres": [
@@ -10848,19 +10769,6 @@
         "nrated": 14.0
     }, 
     {
-        "album": "Fragile", 
-        "rating": 7.75, 
-        "genres": [
-            "Electronic", 
-            "Synthpop"
-        ], 
-        "stddev": 1.3891319231808044, 
-        "artist": "Mesh", 
-        "codec": "flac", 
-        "nsongs": 8.0, 
-        "nrated": 8.0
-    }, 
-    {
         "album": "War Eternal", 
         "rating": 8.5, 
         "genres": [
@@ -12775,18 +12683,6 @@
         "nrated": 12.0
     }, 
     {
-        "album": "Blank & Jones - Relax Edition Three CD1", 
-        "rating": 7.833333333333333, 
-        "genres": [
-            "Downtempo"
-        ], 
-        "stddev": 1.2123973801552888, 
-        "artist": "Blank & Jones", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
         "album": "Bonded By Blood", 
         "rating": 8.666666666666666, 
         "genres": [
@@ -13100,6 +12996,33 @@
         "codec": "flac", 
         "nsongs": 12.0, 
         "nrated": 12.0
+    }, 
+    {
+        "album": "Burning Earth", 
+        "rating": 8.333333333333334, 
+        "genres": [
+            "Metal", 
+            "Traditional", 
+            "Power"
+        ], 
+        "stddev": 1.2120791238484125, 
+        "artist": "Firewind", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Blooddrunk", 
+        "rating": 7.8, 
+        "genres": [
+            "Metal", 
+            "Melodeath"
+        ], 
+        "stddev": 0.997997995989972, 
+        "artist": "Children Of Bodom", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
     }, 
     {
         "album": "Prisma", 
@@ -14133,19 +14056,6 @@
         "codec": "mp3", 
         "nsongs": 4.0, 
         "nrated": 4.0
-    }, 
-    {
-        "album": "Burnt Offerings", 
-        "rating": 8.0, 
-        "genres": [
-            "Metal", 
-            "Power"
-        ], 
-        "stddev": 1.3093073414159542, 
-        "artist": "Iced Earth", 
-        "codec": "flac", 
-        "nsongs": 7.0, 
-        "nrated": 7.0
     }, 
     {
         "album": "A Different Kind Of Truth", 
@@ -15581,19 +15491,6 @@
         "codec": "flac", 
         "nsongs": 12.0, 
         "nrated": 12.0
-    }, 
-    {
-        "album": "Ark", 
-        "rating": 8.285714285714286, 
-        "genres": [
-            "Progressive", 
-            "Rock"
-        ], 
-        "stddev": 1.1555418503585362, 
-        "artist": "Ark", 
-        "codec": "flac", 
-        "nsongs": 7.0, 
-        "nrated": 7.0
     }, 
     {
         "album": "The Peel Sessions 1988-90", 
@@ -18861,20 +18758,6 @@
         "nrated": 9.0
     }, 
     {
-        "album": "Hotel Existence", 
-        "rating": 8.0, 
-        "genres": [
-            "Electronic", 
-            "Futurepop", 
-            "Industrial"
-        ], 
-        "stddev": 1.0377490433255416, 
-        "artist": "Diskonnekted", 
-        "codec": "mp3", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
-    }, 
-    {
         "album": "Like An Ever Flowing Stream (2012 Remaster)", 
         "rating": 8.333333333333334, 
         "genres": [
@@ -19359,6 +19242,32 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
+    }, 
+    {
+        "album": "Peace Sells... But Who's Buying (Remastered 2011)", 
+        "rating": 9.625, 
+        "genres": [
+            "Metal", 
+            "Thrash"
+        ], 
+        "stddev": 1.2111138984422563, 
+        "artist": "Megadeth", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Peace Sells... But Who's Buying? (Randy Burns Mixes Remastered 2011)", 
+        "rating": 9.5, 
+        "genres": [
+            "Metal", 
+            "Thrash"
+        ], 
+        "stddev": 1.6393596310755, 
+        "artist": "Megadeth", 
+        "codec": "flac", 
+        "nsongs": 4.0, 
+        "nrated": 4.0
     }, 
     {
         "album": "Mount Egonaut", 
@@ -22884,86 +22793,6 @@
         "nrated": 9.0
     }, 
     {
-        "album": "Pink Cream 69", 
-        "rating": 7.461538461538462, 
-        "genres": [
-            "Rock", 
-            "Hard", 
-            "Hair"
-        ], 
-        "stddev": 1.542745514742788, 
-        "artist": "Pink Cream 69", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
-    }, 
-    {
-        "album": "One Size Fits All", 
-        "rating": 8.0, 
-        "genres": [
-            "Rock", 
-            "Hard", 
-            "Hair"
-        ], 
-        "stddev": 1.4142135623730951, 
-        "artist": "Pink Cream 69", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
-        "album": "Games People Play", 
-        "rating": 8.076923076923077, 
-        "genres": [
-            "Rock", 
-            "Hard"
-        ], 
-        "stddev": 1.0712020481436735, 
-        "artist": "Pink Cream 69", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
-    }, 
-    {
-        "album": "Endangered", 
-        "rating": 8.083333333333334, 
-        "genres": [
-            "Rock", 
-            "Hard"
-        ], 
-        "stddev": 1.1929092201032767, 
-        "artist": "Pink Cream 69", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 12.0
-    }, 
-    {
-        "album": "In10sity", 
-        "rating": 8.090909090909092, 
-        "genres": [
-            "Rock", 
-            "Hard"
-        ], 
-        "stddev": 0.9954819046015757, 
-        "artist": "Pink Cream 69", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
-        "album": "Ceremonial", 
-        "rating": 7.666666666666667, 
-        "genres": [
-            "Rock", 
-            "Hard"
-        ], 
-        "stddev": 1.075828707279838, 
-        "artist": "Pink Cream 69", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
         "album": "Rising From Ashes", 
         "rating": 8.363636363636363, 
         "genres": [
@@ -24406,19 +24235,6 @@
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
-    }, 
-    {
-        "album": "Sonic Dynamite", 
-        "rating": 8.166666666666666, 
-        "genres": [
-            "Rock", 
-            "Hard"
-        ], 
-        "stddev": 1.1536977587386212, 
-        "artist": "Pink Cream 69", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
     }, 
     {
         "album": "The Power of Three", 
@@ -26036,6 +25852,112 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
+    }, 
+    {
+        "album": "Arabian Horse", 
+        "rating": 8.1, 
+        "genres": [
+            "Electronic", 
+            "EDM"
+        ], 
+        "stddev": 1.0339245620450266, 
+        "artist": "GusGus", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Unmasked [remastered]", 
+        "rating": 7.909090909090909, 
+        "genres": [
+            "Rock", 
+            "Hard"
+        ], 
+        "stddev": 1.4428767491709997, 
+        "artist": "KISS", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Odyssey", 
+        "rating": 8.25, 
+        "genres": [
+            "Rock", 
+            "Stoner"
+        ], 
+        "stddev": 1.0282468899377555, 
+        "artist": "Horisont", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Relax Edition One", 
+        "rating": 8.181818181818182, 
+        "genres": [
+            "Electronic", 
+            "Downtempo"
+        ], 
+        "stddev": 1.1268194236538818, 
+        "artist": "Blank & Jones", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Brutality And Bloodshed For All", 
+        "rating": 8.466666666666667, 
+        "genres": [
+            "Punk"
+        ], 
+        "stddev": 1.2520797513352349, 
+        "artist": "GG Allin", 
+        "codec": "flac", 
+        "nsongs": 15.0, 
+        "nrated": 15.0
+    }, 
+    {
+        "album": "Borrowed Time (The MCA Years Box 2009 CD 1)", 
+        "rating": 8.714285714285714, 
+        "genres": [
+            "Rock", 
+            "Hard", 
+            "Metal", 
+            "Traditional"
+        ], 
+        "stddev": 1.328099543144812, 
+        "artist": "Diamond Head", 
+        "codec": "flac", 
+        "nsongs": 7.0, 
+        "nrated": 7.0
+    }, 
+    {
+        "album": "Brave Murder Day", 
+        "rating": 8.181818181818182, 
+        "genres": [
+            "Metal", 
+            "Death", 
+            "Doom"
+        ], 
+        "stddev": 1.027056950935933, 
+        "artist": "Katatonia", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Boston", 
+        "rating": 8.875, 
+        "genres": [
+            "Rock", 
+            "AOR"
+        ], 
+        "stddev": 1.419039067467841, 
+        "artist": "Boston", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
     }, 
     {
         "album": "Just Me", 
@@ -33088,5 +33010,295 @@
         "codec": "flac", 
         "nsongs": 12.0, 
         "nrated": 12.0
+    }, 
+    {
+        "album": "Breath From Another", 
+        "rating": 8.3, 
+        "genres": [
+            "Trip-Hop"
+        ], 
+        "stddev": 1.0959014554237982, 
+        "artist": "Esthero", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Brainstorm", 
+        "rating": 8.285714285714286, 
+        "genres": [
+            "Electronic", 
+            "Popstep", 
+            "Electroclash"
+        ], 
+        "stddev": 1.1555418503585362, 
+        "artist": "John B", 
+        "codec": "flac", 
+        "nsongs": 7.0, 
+        "nrated": 7.0
+    }, 
+    {
+        "album": "Built My Fortress EP", 
+        "rating": 7.0, 
+        "genres": [
+            "Indie", 
+            "Synthpop"
+        ], 
+        "stddev": 2.1213203435596424, 
+        "artist": "The Foxglove Hunt", 
+        "codec": "mp3", 
+        "nsongs": 6.0, 
+        "nrated": 6.0
+    }, 
+    {
+        "album": "Brimborium", 
+        "rating": 8.166666666666666, 
+        "genres": [
+            "Electronic", 
+            "Industrial", 
+            "Rock"
+        ], 
+        "stddev": 1.0661022812441936, 
+        "artist": "KMFDM", 
+        "codec": "mp3", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Blitz", 
+        "rating": 8.090909090909092, 
+        "genres": [
+            "Electronic", 
+            "Industrial"
+        ], 
+        "stddev": 0.9871450231700233, 
+        "artist": "KMFDM", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Buried In Oblivion", 
+        "rating": 8.1, 
+        "genres": [
+            "Metal", 
+            "Progressive", 
+            "Melodeath"
+        ], 
+        "stddev": 1.2284136111261548, 
+        "artist": "Into Eternity", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Cloned", 
+        "rating": 7.916666666666667, 
+        "genres": [
+            "Electronic", 
+            "Industrial"
+        ], 
+        "stddev": 0.9607457558622924, 
+        "artist": "Lassigue Bendthaus", 
+        "codec": "mp3", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Honour Valour Pride", 
+        "rating": 8.444444444444445, 
+        "genres": [
+            "Metal", 
+            "Death"
+        ], 
+        "stddev": 1.05539309990926, 
+        "artist": "Bolt Thrower", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "American English", 
+        "rating": 8.1, 
+        "genres": [
+            "Pop"
+        ], 
+        "stddev": 1.212023102090055, 
+        "artist": "Wax", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Brace For Impact", 
+        "rating": 8.2, 
+        "genres": [
+            "Metal", 
+            "Traditional", 
+            "Hard", 
+            "Rock"
+        ], 
+        "stddev": 0.9777525249264251, 
+        "artist": "Love.Might.Kill", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Born Again (2011 Deluxe Edition) (Disc1)", 
+        "rating": 8.285714285714286, 
+        "genres": [
+            "Metal", 
+            "Traditional", 
+            "Rock", 
+            "Hard"
+        ], 
+        "stddev": 1.380835087676512, 
+        "artist": "Black Sabbath", 
+        "codec": "flac", 
+        "nsongs": 7.0, 
+        "nrated": 7.0
+    }, 
+    {
+        "album": "For Some Time Past", 
+        "rating": 7.916666666666667, 
+        "genres": [
+            "Tech-House", 
+            "Electronic", 
+            "House", 
+            "Deep"
+        ], 
+        "stddev": 1.4974901842255435, 
+        "artist": "Forteba", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Fabula", 
+        "rating": 8.3125, 
+        "genres": [
+            "Electronic", 
+            "House", 
+            "Deep"
+        ], 
+        "stddev": 0.8418671120640121, 
+        "artist": "Forteba", 
+        "codec": "mp3", 
+        "nsongs": 16.0, 
+        "nrated": 16.0
+    }, 
+    {
+        "album": "Burnt Offerings", 
+        "rating": 8.25, 
+        "genres": [
+            "Metal", 
+            "Progressive", 
+            "Thrash", 
+            "Power"
+        ], 
+        "stddev": 1.3891319231808044, 
+        "artist": "Iced Earth", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Breaking Away (2008 Remaster)", 
+        "rating": 8.333333333333334, 
+        "genres": [
+            "Pop"
+        ], 
+        "stddev": 1.1745763617703315, 
+        "artist": "Jaki Graham", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Fragile", 
+        "rating": 8.0, 
+        "genres": [
+            "Electronic", 
+            "Synthpop"
+        ], 
+        "stddev": 1.4907119849998598, 
+        "artist": "Mesh", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Burning Bridges (2009 Remaster)", 
+        "rating": 8.583333333333334, 
+        "genres": [
+            "Metal", 
+            "Melodeath"
+        ], 
+        "stddev": 1.4066228929471336, 
+        "artist": "Arch Enemy", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Starfire", 
+        "rating": 8.3, 
+        "genres": [
+            "Rock", 
+            "Metal", 
+            "Traditional", 
+            "Hard"
+        ], 
+        "stddev": 1.077497099764078, 
+        "artist": "Jorn", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Unlocking the Past", 
+        "rating": 9.0, 
+        "genres": [
+            "Metal", 
+            "Traditional", 
+            "Rock", 
+            "Hard"
+        ], 
+        "stddev": 1.087114613009218, 
+        "artist": "Jorn", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Bring Heavy Rock To The Land", 
+        "rating": 8.333333333333334, 
+        "genres": [
+            "Metal", 
+            "Traditional", 
+            "Rock", 
+            "Hard"
+        ], 
+        "stddev": 1.4098419489388354, 
+        "artist": "Jorn", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "The Duke", 
+        "rating": 8.363636363636363, 
+        "genres": [
+            "Metal", 
+            "Traditional", 
+            "Rock", 
+            "Hard"
+        ], 
+        "stddev": 1.0063659133810756, 
+        "artist": "Jorn", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
     }
 ]
