@@ -4207,20 +4207,6 @@
         "nrated": 9.0
     }, 
     {
-        "album": "Crying Over Pros For No Reason", 
-        "rating": 8.444444444444445, 
-        "genres": [
-            "Electronic", 
-            "Glitch", 
-            "IDM"
-        ], 
-        "stddev": 1.101190277579149, 
-        "artist": "EdIT", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
         "album": "Rust In Peace", 
         "rating": 9.222222222222221, 
         "genres": [
@@ -7448,19 +7434,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "The Draft", 
-        "rating": 7.714285714285714, 
-        "genres": [
-            "Electronic", 
-            "Drum & Bass"
-        ], 
-        "stddev": 1.0663143247031126, 
-        "artist": "Klute", 
-        "codec": "flac", 
-        "nsongs": 14.0, 
-        "nrated": 14.0
-    }, 
-    {
         "album": "III", 
         "rating": 7.666666666666667, 
         "genres": [
@@ -8175,21 +8148,6 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "Celldweller 10th Anniversary (Disc 2)", 
-        "rating": 9.0, 
-        "genres": [
-            "Electronic", 
-            "Industrial", 
-            "Rock", 
-            "Metal"
-        ], 
-        "stddev": 1.2583057392117916, 
-        "artist": "Celldweller", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
     }, 
     {
         "album": "Celldweller 10th Anniversary (Disc 1)", 
@@ -25893,6 +25851,20 @@
         "nrated": 12.0
     }, 
     {
+        "album": "Blank & Jones - Relax Edition Three CD2", 
+        "rating": 8.88888888888889, 
+        "genres": [
+            "Electronic", 
+            "Progressive House", 
+            "House"
+        ], 
+        "stddev": 1.2417077492029782, 
+        "artist": "Blank & Jones", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
         "album": "Relax Edition One", 
         "rating": 8.181818181818182, 
         "genres": [
@@ -25957,6 +25929,86 @@
         "artist": "Boston", 
         "codec": "flac", 
         "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Rise of the Phoenix", 
+        "rating": 8.125, 
+        "genres": [
+            "Metal", 
+            "Melodeath"
+        ], 
+        "stddev": 1.052341140030171, 
+        "artist": "Before The Dawn", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "The Ghost", 
+        "rating": 8.444444444444445, 
+        "genres": [
+            "Metal", 
+            "Melodeath", 
+            "Gothic"
+        ], 
+        "stddev": 1.4064324108183355, 
+        "artist": "Before The Dawn", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "My Darkness", 
+        "rating": 8.2, 
+        "genres": [
+            "Metal", 
+            "Melodeath", 
+            "Gothic"
+        ], 
+        "stddev": 1.0564090116995406, 
+        "artist": "Before The Dawn", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Tri Repetae++", 
+        "rating": 8.3, 
+        "genres": [
+            "Electronic", 
+            "IDM"
+        ], 
+        "stddev": 1.0959014554237982, 
+        "artist": "Autechre", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Incunabula", 
+        "rating": 8.363636363636363, 
+        "genres": [
+            "Electronic", 
+            "IDM"
+        ], 
+        "stddev": 1.2938042264611425, 
+        "artist": "Autechre", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Chiastic Slide", 
+        "rating": 7.625, 
+        "genres": [
+            "Electronic", 
+            "IDM"
+        ], 
+        "stddev": 1.5404696929832797, 
+        "artist": "Autechre", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
         "nrated": 8.0
     }, 
     {
@@ -31849,19 +31901,6 @@
         "nrated": 9.0
     }, 
     {
-        "album": "ISDN", 
-        "rating": 7.466666666666667, 
-        "genres": [
-            "Electronic", 
-            "Experimental"
-        ], 
-        "stddev": 1.0493031197118576, 
-        "artist": "The Future Sound Of London", 
-        "codec": "flac", 
-        "nsongs": 15.0, 
-        "nrated": 15.0
-    }, 
-    {
         "album": "Ritchie Blackmore's Rainbow (1999 Remastered)", 
         "rating": 7.333333333333333, 
         "genres": [
@@ -33038,19 +33077,6 @@
         "nrated": 7.0
     }, 
     {
-        "album": "Built My Fortress EP", 
-        "rating": 7.0, 
-        "genres": [
-            "Indie", 
-            "Synthpop"
-        ], 
-        "stddev": 2.1213203435596424, 
-        "artist": "The Foxglove Hunt", 
-        "codec": "mp3", 
-        "nsongs": 6.0, 
-        "nrated": 6.0
-    }, 
-    {
         "album": "Brimborium", 
         "rating": 8.166666666666666, 
         "genres": [
@@ -33300,5 +33326,102 @@
         "codec": "flac", 
         "nsongs": 11.0, 
         "nrated": 11.0
+    }, 
+    {
+        "album": "Firehouse", 
+        "rating": 8.5, 
+        "genres": [
+            "Rock", 
+            "Hair"
+        ], 
+        "stddev": 1.1937336386313322, 
+        "artist": "Firehouse", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Worst Enemy", 
+        "rating": 7.777777777777778, 
+        "genres": [
+            "Metal", 
+            "Death", 
+            "Sludge"
+        ], 
+        "stddev": 1.0277360685564154, 
+        "artist": "Disbelief", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Protected Hell", 
+        "rating": 8.4, 
+        "genres": [
+            "Metal", 
+            "Sludge", 
+            "Death"
+        ], 
+        "stddev": 1.0507140429250956, 
+        "artist": "Disbelief", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Shine", 
+        "rating": 7.8, 
+        "genres": [
+            "Metal", 
+            "Sludge", 
+            "Death"
+        ], 
+        "stddev": 1.147170431975999, 
+        "artist": "Disbelief", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Chained", 
+        "rating": 8.461538461538462, 
+        "genres": [
+            "Metal", 
+            "Power", 
+            "Traditional"
+        ], 
+        "stddev": 1.1073470862438912, 
+        "artist": "At Vance", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "Celldweller (10 Year Anniversa", 
+        "rating": 9.0, 
+        "genres": [
+            "Industrial", 
+            "Electronic", 
+            "Modern", 
+            "Rock"
+        ], 
+        "stddev": 1.4832396974191326, 
+        "artist": "Celldweller", 
+        "codec": "flac", 
+        "nsongs": 5.0, 
+        "nrated": 5.0
+    }, 
+    {
+        "album": "Catalyst", 
+        "rating": 7.909090909090909, 
+        "genres": [
+            "Electronic", 
+            "Drum & Bass"
+        ], 
+        "stddev": 1.239683195515765, 
+        "artist": "John B", 
+        "codec": "flac", 
+        "nsongs": 22.0, 
+        "nrated": 22.0
     }
 ]
