@@ -435,6 +435,99 @@
         "nrated": 10.0
     }, 
     {
+        "album": "Dynasty [remastered]", 
+        "rating": 8.11111111111111, 
+        "genres": [
+            "Rock", 
+            "Hard"
+        ], 
+        "stddev": 1.3047344410228543, 
+        "artist": "KISS", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Character", 
+        "rating": 8.363636363636363, 
+        "genres": [
+            "Metal", 
+            "Melodeath", 
+            "Progressive"
+        ], 
+        "stddev": 1.0063659133810756, 
+        "artist": "Dark Tranquillity", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Kid A", 
+        "rating": 8.461538461538462, 
+        "genres": [
+            "Electronic", 
+            "House", 
+            "Deep"
+        ], 
+        "stddev": 0.9206081384393496, 
+        "artist": "Mamoru K", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "1984", 
+        "rating": 9.125, 
+        "genres": [
+            "Rock", 
+            "Hard", 
+            "Pop"
+        ], 
+        "stddev": 1.5045503896513404, 
+        "artist": "Van Halen", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Colourform", 
+        "rating": 8.0, 
+        "genres": [
+            "Electronnic", 
+            "IDM"
+        ], 
+        "stddev": 1.118033988749895, 
+        "artist": "The Higher Intelligence Agency", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Slip Of The Tongue", 
+        "rating": 8.9, 
+        "genres": [
+            "Rock", 
+            "Hair"
+        ], 
+        "stddev": 1.4727525250360298, 
+        "artist": "Whitesnake", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Case Study", 
+        "rating": 7.666666666666667, 
+        "genres": [
+            "Electronic"
+        ], 
+        "stddev": 1.242259987499883, 
+        "artist": "Naibu", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
         "album": "Fantastic", 
         "rating": 8.125, 
         "genres": [
@@ -3521,33 +3614,6 @@
         "nrated": 14.0
     }, 
     {
-        "album": "Hot In The Shade", 
-        "rating": 7.333333333333333, 
-        "genres": [
-            "Rock", 
-            "Hard", 
-            "Hair"
-        ], 
-        "stddev": 1.6777409856157224, 
-        "artist": "Kiss", 
-        "codec": "flac", 
-        "nsongs": 15.0, 
-        "nrated": 15.0
-    }, 
-    {
-        "album": "Sonic Boom", 
-        "rating": 6.636363636363637, 
-        "genres": [
-            "Rock", 
-            "Hair"
-        ], 
-        "stddev": 1.3531275511928447, 
-        "artist": "Kiss", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
         "album": "Milk", 
         "rating": 8.636363636363637, 
         "genres": [
@@ -4219,30 +4285,6 @@
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
-    }, 
-    {
-        "album": "Endgame", 
-        "rating": 7.636363636363637, 
-        "genres": [
-            "Metal"
-        ], 
-        "stddev": 1.0063659133810756, 
-        "artist": "Megadeth", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
-        "album": "TH1RT3EN", 
-        "rating": 7.230769230769231, 
-        "genres": [
-            "Metal"
-        ], 
-        "stddev": 1.0832443388629607, 
-        "artist": "Megadeth", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
     }, 
     {
         "album": "Riot Avenue", 
@@ -5020,20 +5062,6 @@
         "nrated": 8.0
     }, 
     {
-        "album": "Aura", 
-        "rating": 7.916666666666667, 
-        "genres": [
-            "Electronic", 
-            "Synthpop", 
-            "Techno"
-        ], 
-        "stddev": 1.1146644570685171, 
-        "artist": "The Alpha Conspiracy", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
         "album": "The White Goddess", 
         "rating": 8.4, 
         "genres": [
@@ -5208,19 +5236,6 @@
         "artist": "The Astral Stereo Project", 
         "codec": "flac", 
         "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
-        "album": "City Echoes", 
-        "rating": 8.25, 
-        "genres": [
-            "Electronic", 
-            "Downtempo"
-        ], 
-        "stddev": 1.125, 
-        "artist": "Audiokonstrukte", 
-        "codec": "mp3", 
-        "nsongs": 13.0, 
         "nrated": 12.0
     }, 
     {
@@ -6552,20 +6567,6 @@
         "nrated": 12.0
     }, 
     {
-        "album": "The Alchemist (Japan)", 
-        "rating": 7.875, 
-        "genres": [
-            "Rock", 
-            "Stoner", 
-            "Psychedelic"
-        ], 
-        "stddev": 1.6147513353454765, 
-        "artist": "Witchcraft", 
-        "codec": "flac", 
-        "nsongs": 8.0, 
-        "nrated": 8.0
-    }, 
-    {
         "album": "I Get Wet", 
         "rating": 8.916666666666666, 
         "genres": [
@@ -7215,20 +7216,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "1984", 
-        "rating": 9.125, 
-        "genres": [
-            "Rock", 
-            "Hard", 
-            "Pop"
-        ], 
-        "stddev": 1.49412913598524, 
-        "artist": "Van Halen", 
-        "codec": "flac", 
-        "nsongs": 8.0, 
-        "nrated": 8.0
-    }, 
-    {
         "album": "Van Halen (2000 Remaster)", 
         "rating": 9.0, 
         "genres": [
@@ -7320,20 +7307,6 @@
         "codec": "flac", 
         "nsongs": 11.0, 
         "nrated": 11.0
-    }, 
-    {
-        "album": "Intercept!", 
-        "rating": 7.0, 
-        "genres": [
-            "Leftfield", 
-            "Electronic", 
-            "Dance"
-        ], 
-        "stddev": 1.9748417658131499, 
-        "artist": "Bent", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
     }, 
     {
         "album": "Business Casual", 
@@ -8206,20 +8179,6 @@
         "nrated": 11.0
     }, 
     {
-        "album": "Electric Love", 
-        "rating": 8.3, 
-        "genres": [
-            "Electronic", 
-            "Pop", 
-            "Dance"
-        ], 
-        "stddev": 1.0959014554237982, 
-        "artist": "Dirty Vegas", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Idea Of Happiness", 
         "rating": 8.23076923076923, 
         "genres": [
@@ -8781,19 +8740,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "The Sinister Supremacy", 
-        "rating": 7.666666666666667, 
-        "genres": [
-            "Metal", 
-            "Melodeath"
-        ], 
-        "stddev": 1.0228862577512203, 
-        "artist": "Darkane", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
         "album": "The Age of Plastic", 
         "rating": 9.5, 
         "genres": [
@@ -8868,19 +8814,6 @@
         ], 
         "stddev": 1.183638458314024, 
         "artist": "The Birthday Massacre", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
-        "album": "Slip Of The Tongue", 
-        "rating": 8.9, 
-        "genres": [
-            "Rock", 
-            "Hair"
-        ], 
-        "stddev": 1.4727525250360298, 
-        "artist": "Whitesnake", 
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
@@ -11312,19 +11245,6 @@
         "nrated": 8.0
     }, 
     {
-        "album": "The System Has Failed", 
-        "rating": 7.7272727272727275, 
-        "genres": [
-            "Metal", 
-            "Traditional"
-        ], 
-        "stddev": 1.708466564350216, 
-        "artist": "Megadeth", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
         "album": "Warriors Of The World", 
         "rating": 7.9, 
         "genres": [
@@ -12379,19 +12299,6 @@
         "nrated": 9.0
     }, 
     {
-        "album": "Asylum - Remaster 1998", 
-        "rating": 8.3, 
-        "genres": [
-            "Rock", 
-            "Hair"
-        ], 
-        "stddev": 1.0959014554237982, 
-        "artist": "Kiss", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Rush", 
         "rating": 8.6, 
         "genres": [
@@ -12835,18 +12742,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "At Worst...The Best Of Boy George And Culture Club", 
-        "rating": 7.0, 
-        "genres": [
-            "Pop"
-        ], 
-        "stddev": 1.760681686165901, 
-        "artist": "Boy George", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Beyond Hell", 
         "rating": 8.454545454545455, 
         "genres": [
@@ -12978,6 +12873,47 @@
         ], 
         "stddev": 0.997997995989972, 
         "artist": "Children Of Bodom", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Demons Down (Track 8-9 Glitchy)", 
+        "rating": 8.1, 
+        "genres": [
+            "Rock", 
+            "Hair"
+        ], 
+        "stddev": 1.3149144458861193, 
+        "artist": "House Of Lords", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Chapter VI (2006 Remaster)", 
+        "rating": 8.125, 
+        "genres": [
+            "Metal", 
+            "Doom", 
+            "Traditional"
+        ], 
+        "stddev": 1.165084492644203, 
+        "artist": "Candlemass", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Kingdom Come", 
+        "rating": 8.1, 
+        "genres": [
+            "Rock", 
+            "Hair", 
+            "Hard"
+        ], 
+        "stddev": 1.7055790805471325, 
+        "artist": "Kingdom Come", 
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
@@ -15815,20 +15751,6 @@
         "nrated": 9.0
     }, 
     {
-        "album": "Legend", 
-        "rating": 8.1, 
-        "genres": [
-            "Rock", 
-            "Stoner", 
-            "Stoner Doom"
-        ], 
-        "stddev": 1.1353413583587977, 
-        "artist": "Witchcraft", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Lovecraftian Dark", 
         "rating": 8.23076923076923, 
         "genres": [
@@ -16784,46 +16706,18 @@
         "nrated": 12.0
     }, 
     {
-        "album": "Flux", 
-        "rating": 7.846153846153846, 
-        "genres": [
-            "Electronic", 
-            "Indie", 
-            "Electro", 
-            "Dance"
-        ], 
-        "stddev": 1.3967254767315347, 
-        "artist": "Bloc Party", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
-    }, 
-    {
         "album": "Intimacy (Limited Edition)", 
-        "rating": 8.76923076923077, 
+        "rating": 8.692307692307692, 
         "genres": [
             "Indie", 
             "Rock", 
             "Alternative"
         ], 
-        "stddev": 1.7376916135587754, 
+        "stddev": 1.7023638816706461, 
         "artist": "Bloc Party", 
         "codec": "flac", 
         "nsongs": 13.0, 
         "nrated": 13.0
-    }, 
-    {
-        "album": "Four [Deluxe Edition]", 
-        "rating": 7.571428571428571, 
-        "genres": [
-            "Rock", 
-            "Indie"
-        ], 
-        "stddev": 1.1006226703056188, 
-        "artist": "Bloc Party", 
-        "codec": "flac", 
-        "nsongs": 14.0, 
-        "nrated": 14.0
     }, 
     {
         "album": "A Little Spice", 
@@ -17178,32 +17072,6 @@
         "codec": "flac", 
         "nsongs": 11.0, 
         "nrated": 11.0
-    }, 
-    {
-        "album": "The Alchemist: The Best Of 1992-2012", 
-        "rating": 7.666666666666667, 
-        "genres": [
-            "Electronic", 
-            "Drum & Bass"
-        ], 
-        "stddev": 1.824050573264667, 
-        "artist": "Goldie", 
-        "codec": "flac", 
-        "nsongs": 18.0, 
-        "nrated": 18.0
-    }, 
-    {
-        "album": "The Alchemist: The Best Of 1992-2012", 
-        "rating": 8.083333333333334, 
-        "genres": [
-            "Electronic", 
-            "Drum & Bass"
-        ], 
-        "stddev": 1.431094828237251, 
-        "artist": "Rufige Kru", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
     }, 
     {
         "album": "Remission", 
@@ -17702,16 +17570,16 @@
     }, 
     {
         "album": "The Disregard Of Timekeeping", 
-        "rating": 7.8, 
+        "rating": 7.25, 
         "genres": [
             "Rock", 
             "Hair"
         ], 
-        "stddev": 1.4818906842274164, 
+        "stddev": 1.1422291801560667, 
         "artist": "Bonham", 
         "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
+        "nsongs": 8.0, 
+        "nrated": 8.0
     }, 
     {
         "album": "Deathrace King", 
@@ -18406,34 +18274,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Witchcraft", 
-        "rating": 7.818181818181818, 
-        "genres": [
-            "Rock", 
-            "Stoner", 
-            "Stoner Doom"
-        ], 
-        "stddev": 0.9343595660384894, 
-        "artist": "Witchcraft", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
-        "album": "Firewood", 
-        "rating": 8.2, 
-        "genres": [
-            "Rock", 
-            "Stoner", 
-            "Stoner Doom"
-        ], 
-        "stddev": 0.9777525249264251, 
-        "artist": "Witchcraft", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "7", 
         "rating": 6.888888888888889, 
         "genres": [
@@ -18587,20 +18427,6 @@
         "codec": "flac", 
         "nsongs": 8.0, 
         "nrated": 8.0
-    }, 
-    {
-        "album": "Intimacy Remixed", 
-        "rating": 7.0, 
-        "genres": [
-            "Electronic", 
-            "Indie", 
-            "Dance"
-        ], 
-        "stddev": 1.593255013631383, 
-        "artist": "Bloc Party", 
-        "codec": "mp3", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
     }, 
     {
         "album": "I'll Only Break Your Heart", 
@@ -19444,20 +19270,6 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "Something About Nothing", 
-        "rating": 7.7272727272727275, 
-        "genres": [
-            "Electronic", 
-            "Drum & Bass", 
-            "Drumfunk"
-        ], 
-        "stddev": 1.1324726774359692, 
-        "artist": "ICR", 
-        "codec": "mp3", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
     }, 
     {
         "album": "Intermix", 
@@ -21177,21 +20989,6 @@
         "nrated": 12.0
     }, 
     {
-        "album": "The World Needs A Hero", 
-        "rating": 7.545454545454546, 
-        "genres": [
-            "Metal", 
-            "Traditional", 
-            "Rock", 
-            "Hard"
-        ], 
-        "stddev": 1.1049373518281764, 
-        "artist": "Megadeth", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
         "album": "Black Earth", 
         "rating": 8.285714285714286, 
         "genres": [
@@ -21258,6 +21055,59 @@
         "codec": "flac", 
         "nsongs": 5.0, 
         "nrated": 5.0
+    }, 
+    {
+        "album": "Sonic Boom", 
+        "rating": 6.636363636363637, 
+        "genres": [
+            "Rock", 
+            "Hair"
+        ], 
+        "stddev": 1.3531275511928447, 
+        "artist": "KISS", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "City Echoes", 
+        "rating": 8.23076923076923, 
+        "genres": [
+            "Electronic", 
+            "Downtempo"
+        ], 
+        "stddev": 1.1181866456910179, 
+        "artist": "Audiokonstrukte", 
+        "codec": "mp3", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "Here & Now", 
+        "rating": 8.45, 
+        "genres": [
+            "Electronic", 
+            "Dance", 
+            "House"
+        ], 
+        "stddev": 0.8587054209680987, 
+        "artist": "Kaskade", 
+        "codec": "flac", 
+        "nsongs": 20.0, 
+        "nrated": 20.0
+    }, 
+    {
+        "album": "Fall EP", 
+        "rating": 8.5, 
+        "genres": [
+            "Electronic", 
+            "Drum & Bass"
+        ], 
+        "stddev": 1.2624381172952597, 
+        "artist": "Naibu", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
     }, 
     {
         "album": "Rise Of The Hero", 
@@ -24028,20 +23878,6 @@
         "nrated": 9.0
     }, 
     {
-        "album": "Fall EP", 
-        "rating": 8.625, 
-        "genres": [
-            "Electronic", 
-            "Drum & Bass", 
-            "Liquid"
-        ], 
-        "stddev": 1.357128171913029, 
-        "artist": "Naibu", 
-        "codec": "flac", 
-        "nsongs": 8.0, 
-        "nrated": 8.0
-    }, 
-    {
         "album": "Everyone is Dark", 
         "rating": 8.222222222222221, 
         "genres": [
@@ -25420,21 +25256,6 @@
         "nrated": 11.0
     }, 
     {
-        "album": "Super Collider", 
-        "rating": 7.636363636363637, 
-        "genres": [
-            "Rock", 
-            "Hard", 
-            "Metal", 
-            "Traditional"
-        ], 
-        "stddev": 1.2010513801378477, 
-        "artist": "Megadeth", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
         "album": "Taken by Force", 
         "rating": 8.0, 
         "genres": [
@@ -25527,19 +25348,6 @@
         "codec": "flac", 
         "nsongs": 15.0, 
         "nrated": 15.0
-    }, 
-    {
-        "album": "United Abominations", 
-        "rating": 7.454545454545454, 
-        "genres": [
-            "Metal", 
-            "Traditional"
-        ], 
-        "stddev": 1.1086708322468761, 
-        "artist": "Megadeth", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
     }, 
     {
         "album": "A Perfect Forever", 
@@ -26010,6 +25818,33 @@
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 8.0
+    }, 
+    {
+        "album": "Animalize (1998 Remaster)", 
+        "rating": 8.222222222222221, 
+        "genres": [
+            "Rock", 
+            "Hair"
+        ], 
+        "stddev": 1.3125959367903224, 
+        "artist": "KISS", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Creatures Of The Night", 
+        "rating": 8.88888888888889, 
+        "genres": [
+            "Rock", 
+            "Hard", 
+            "Hair"
+        ], 
+        "stddev": 1.3281793390400818, 
+        "artist": "KISS", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
     }, 
     {
         "album": "Just Me", 
@@ -26615,20 +26450,6 @@
         "codec": "flac", 
         "nsongs": 13.0, 
         "nrated": 13.0
-    }, 
-    {
-        "album": "Kingdom Come", 
-        "rating": 8.1, 
-        "genres": [
-            "Rock", 
-            "Hair", 
-            "Hard"
-        ], 
-        "stddev": 1.705579080547132, 
-        "artist": "Kingdom Come", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
     }, 
     {
         "album": "In Your Face", 
@@ -28278,20 +28099,6 @@
         "codec": "mp3", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "Creatures Of The Night", 
-        "rating": 8.88888888888889, 
-        "genres": [
-            "Rock", 
-            "Hard", 
-            "Hair"
-        ], 
-        "stddev": 1.3281793390400818, 
-        "artist": "Kiss", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
     }, 
     {
         "album": "Guiding Lights", 
@@ -30442,18 +30249,6 @@
         "nrated": 12.0
     }, 
     {
-        "album": "Rarites & B-Sides", 
-        "rating": 7.083333333333333, 
-        "genres": [
-            "Electronic"
-        ], 
-        "stddev": 2.164929859440323, 
-        "artist": "Delerium", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
         "album": "Alpha-Omega", 
         "rating": 8.625, 
         "genres": [
@@ -31955,19 +31750,6 @@
         "nrated": 14.0
     }, 
     {
-        "album": "Risk (Remixed & Remastered 2004)", 
-        "rating": 7.454545454545454, 
-        "genres": [
-            "Rock", 
-            "Hard"
-        ], 
-        "stddev": 0.973734706548858, 
-        "artist": "Megadeth", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
         "album": "So Far, So Good... So What!", 
         "rating": 9.375, 
         "genres": [
@@ -32099,19 +31881,6 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "Frostburn", 
-        "rating": 8.444444444444445, 
-        "genres": [
-            "Metal", 
-            "Traditional"
-        ], 
-        "stddev": 1.101190277579149, 
-        "artist": "Lords Of The Trident", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
     }, 
     {
         "album": "Refuge Denied", 
@@ -32848,19 +32617,6 @@
         "nrated": 19.0
     }, 
     {
-        "album": "Animalize (1998 Remaster)", 
-        "rating": 8.222222222222221, 
-        "genres": [
-            "Rock", 
-            "Hair"
-        ], 
-        "stddev": 1.331274130045291, 
-        "artist": "Kiss", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
         "album": "Andromeda Unchained", 
         "rating": 8.181818181818182, 
         "genres": [
@@ -33423,5 +33179,71 @@
         "codec": "flac", 
         "nsongs": 22.0, 
         "nrated": 22.0
+    }, 
+    {
+        "album": "Far From the Maddening Crowds", 
+        "rating": 7.818181818181818, 
+        "genres": [
+            "Electronic", 
+            "Progressive House"
+        ], 
+        "stddev": 1.027056950935933, 
+        "artist": "Chicane", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Citizen Brain", 
+        "rating": 8.466666666666667, 
+        "genres": [
+            "Thrash", 
+            "Metal"
+        ], 
+        "stddev": 1.0471831705067611, 
+        "artist": "Gama Bomb", 
+        "codec": "flac", 
+        "nsongs": 15.0, 
+        "nrated": 15.0
+    }, 
+    {
+        "album": "Whiplash Smile", 
+        "rating": 7.9, 
+        "genres": [
+            "Pop", 
+            "Rock"
+        ], 
+        "stddev": 1.1441153787970861, 
+        "artist": "Billy Idol", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Hot In The Shade", 
+        "rating": 7.333333333333333, 
+        "genres": [
+            "Rock", 
+            "Hard", 
+            "Hair"
+        ], 
+        "stddev": 1.6777409856157224, 
+        "artist": "KISS", 
+        "codec": "flac", 
+        "nsongs": 15.0, 
+        "nrated": 15.0
+    }, 
+    {
+        "album": "Asylum - Remaster 1998", 
+        "rating": 8.3, 
+        "genres": [
+            "Rock", 
+            "Hair"
+        ], 
+        "stddev": 1.0959014554237982, 
+        "artist": "KISS", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
     }
 ]
