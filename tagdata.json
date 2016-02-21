@@ -106,21 +106,6 @@
         "nrated": 16.0
     }, 
     {
-        "album": "Attention", 
-        "rating": 7.444444444444445, 
-        "genres": [
-            "Electronic", 
-            "Dance", 
-            "Electroclash", 
-            "Pop"
-        ], 
-        "stddev": 1.00137080256265, 
-        "artist": "Gus Gus", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
         "album": "Powerdose", 
         "rating": 8.75, 
         "genres": [
@@ -2547,19 +2532,6 @@
         "codec": "flac", 
         "nsongs": 13.0, 
         "nrated": 13.0
-    }, 
-    {
-        "album": "Love to Be Lost", 
-        "rating": 8.142857142857142, 
-        "genres": [
-            "Rock", 
-            "Indie"
-        ], 
-        "stddev": 0.9890066282827293, 
-        "artist": "Kyte", 
-        "codec": "flac", 
-        "nsongs": 14.0, 
-        "nrated": 14.0
     }, 
     {
         "album": "Sounds Of Violence", 
@@ -5931,21 +5903,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "A Day in the Stark Corner", 
-        "rating": 7.8, 
-        "genres": [
-            "Gothic", 
-            "Rock", 
-            "Goth", 
-            "Etherial"
-        ], 
-        "stddev": 0.9979979959899721, 
-        "artist": "Lycia", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "A Weekend in the City", 
         "rating": 8.181818181818182, 
         "genres": [
@@ -7769,33 +7726,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "The House Of Dolls", 
-        "rating": 8.5, 
-        "genres": [
-            "Rock", 
-            "Alternative", 
-            "Pop"
-        ], 
-        "stddev": 1.0124228365658292, 
-        "artist": "Gene Loves Jezebel", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
-        "album": "Discover", 
-        "rating": 7.7, 
-        "genres": [
-            "Alternative", 
-            "Rock"
-        ], 
-        "stddev": 1.2887978895078933, 
-        "artist": "Gene Loves Jezebel", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Geosynchron", 
         "rating": 8.307692307692308, 
         "genres": [
@@ -7808,20 +7738,6 @@
         "codec": "flac", 
         "nsongs": 13.0, 
         "nrated": 13.0
-    }, 
-    {
-        "album": "Hidden Depth", 
-        "rating": 8.0, 
-        "genres": [
-            "Electronic", 
-            "Drum & Bass", 
-            "Liquid"
-        ], 
-        "stddev": 0.8728715609439694, 
-        "artist": "Brother", 
-        "codec": "flac", 
-        "nsongs": 21.0, 
-        "nrated": 21.0
     }, 
     {
         "album": "The Head On The Door", 
@@ -8015,19 +7931,6 @@
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
-    }, 
-    {
-        "album": "The Boxer", 
-        "rating": 7.7, 
-        "genres": [
-            "Electronic", 
-            "Dance"
-        ], 
-        "stddev": 1.3641847382227965, 
-        "artist": "Kele", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
     }, 
     {
         "album": "Stage Dolls", 
@@ -9191,21 +9094,6 @@
         "nrated": 11.0
     }, 
     {
-        "album": "Data 80 CD", 
-        "rating": 7.75, 
-        "genres": [
-            "Electronic", 
-            "House", 
-            "Disco", 
-            "Electro"
-        ], 
-        "stddev": 1.1063265039459795, 
-        "artist": "Data 80", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
         "album": "Ancestral Energy", 
         "rating": 8.0, 
         "genres": [
@@ -10013,19 +9901,6 @@
         "codec": "flac", 
         "nsongs": 11.0, 
         "nrated": 11.0
-    }, 
-    {
-        "album": "Kunstraub", 
-        "rating": 8.0, 
-        "genres": [
-            "Metal", 
-            "Folk"
-        ], 
-        "stddev": 1.0, 
-        "artist": "In Extremo", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
     }, 
     {
         "album": "Frozen", 
@@ -10870,20 +10745,6 @@
         "codec": "flac", 
         "nsongs": 15.0, 
         "nrated": 15.0
-    }, 
-    {
-        "album": "A Line That Connects", 
-        "rating": 8.0, 
-        "genres": [
-            "Gothic", 
-            "Etherial", 
-            "Shoegaze"
-        ], 
-        "stddev": 0.9258200997725514, 
-        "artist": "Lycia", 
-        "codec": "flac", 
-        "nsongs": 14.0, 
-        "nrated": 14.0
     }, 
     {
         "album": "Sworn To A Great Divide", 
@@ -12932,20 +12793,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Immigrant", 
-        "rating": 7.555555555555555, 
-        "genres": [
-            "Alternative", 
-            "Rock", 
-            "Post-Punk"
-        ], 
-        "stddev": 1.3798471118664564, 
-        "artist": "Gene Loves Jezebel", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
         "album": "Emeralds", 
         "rating": 8.0, 
         "genres": [
@@ -13066,19 +12913,6 @@
         "codec": "flac", 
         "nsongs": 12.0, 
         "nrated": 12.0
-    }, 
-    {
-        "album": "Lustdriven", 
-        "rating": 8.0, 
-        "genres": [
-            "Metal", 
-            "Power"
-        ], 
-        "stddev": 1.1832159566199232, 
-        "artist": "Kiuas", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
     }, 
     {
         "album": "Kleerup", 
@@ -15077,20 +14911,6 @@
         "nrated": 17.0
     }, 
     {
-        "album": "Jess And The Ancient Ones", 
-        "rating": 8.571428571428571, 
-        "genres": [
-            "Rock", 
-            "Stoner Doom", 
-            "Psychedelic"
-        ], 
-        "stddev": 1.382944844579381, 
-        "artist": "Jess And The Ancient Ones", 
-        "codec": "flac", 
-        "nsongs": 7.0, 
-        "nrated": 7.0
-    }, 
-    {
         "album": "Into The Mirror Black", 
         "rating": 9.0, 
         "genres": [
@@ -15154,18 +14974,6 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "Voices", 
-        "rating": 7.454545454545454, 
-        "genres": [
-            "Pop"
-        ], 
-        "stddev": 1.6024961745606734, 
-        "artist": "Hall & Oates", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
     }, 
     {
         "album": "H2O (Remastered)", 
@@ -15720,35 +15528,6 @@
         "codec": "flac", 
         "nsongs": 11.0, 
         "nrated": 11.0
-    }, 
-    {
-        "album": "Turning Inside", 
-        "rating": 7.785714285714286, 
-        "genres": [
-            "Downtempo", 
-            "Smooth", 
-            "Jazz"
-        ], 
-        "stddev": 1.1301912942135217, 
-        "artist": "Christophe Goze", 
-        "codec": "flac", 
-        "nsongs": 14.0, 
-        "nrated": 14.0
-    }, 
-    {
-        "album": "A Day In Ibiza", 
-        "rating": 8.11111111111111, 
-        "genres": [
-            "Electronic", 
-            "Smooth", 
-            "Jazz", 
-            "Downtempo"
-        ], 
-        "stddev": 1.0993201540485797, 
-        "artist": "Christophe Goze", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
     }, 
     {
         "album": "Lovecraftian Dark", 
@@ -16927,20 +16706,6 @@
         "nrated": 12.0
     }, 
     {
-        "album": "Clubroot (III - MMXII)", 
-        "rating": 7.923076923076923, 
-        "genres": [
-            "Electronic", 
-            "Ambient", 
-            "Dubstep"
-        ], 
-        "stddev": 0.8282121506043844, 
-        "artist": "Clubroot", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
-    }, 
-    {
         "album": "La Sexorcisto ... Devil Music Vol 1", 
         "rating": 8.444444444444445, 
         "genres": [
@@ -17569,19 +17334,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "The Disregard Of Timekeeping", 
-        "rating": 7.25, 
-        "genres": [
-            "Rock", 
-            "Hair"
-        ], 
-        "stddev": 1.1422291801560667, 
-        "artist": "Bonham", 
-        "codec": "flac", 
-        "nsongs": 8.0, 
-        "nrated": 8.0
-    }, 
-    {
         "album": "Deathrace King", 
         "rating": 9.181818181818182, 
         "genres": [
@@ -17809,47 +17561,6 @@
         "codec": "flac", 
         "nsongs": 14.0, 
         "nrated": 14.0
-    }, 
-    {
-        "album": "The Showdown", 
-        "rating": 7.916666666666667, 
-        "genres": [
-            "Rock", 
-            "Metal", 
-            "Power"
-        ], 
-        "stddev": 1.3917331986757722, 
-        "artist": "Allen/Lande", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
-        "album": "The Battle", 
-        "rating": 7.75, 
-        "genres": [
-            "Rock", 
-            "Metal", 
-            "Traditional"
-        ], 
-        "stddev": 1.4772581584363196, 
-        "artist": "Allen/Lande", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
-        "album": "Burials", 
-        "rating": 8.23076923076923, 
-        "genres": [
-            "Rock", 
-            "Indie"
-        ], 
-        "stddev": 1.0639540306495658, 
-        "artist": "AFI", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
     }, 
     {
         "album": "The Thrashening", 
@@ -19054,6 +18765,19 @@
         "nrated": 4.0
     }, 
     {
+        "album": "Colours Two", 
+        "rating": 8.214285714285714, 
+        "genres": [
+            "Electronic", 
+            "Techno"
+        ], 
+        "stddev": 1.2044923201378819, 
+        "artist": "Circulation", 
+        "codec": "flac", 
+        "nsongs": 14.0, 
+        "nrated": 14.0
+    }, 
+    {
         "album": "Mount Egonaut", 
         "rating": 8.3, 
         "genres": [
@@ -19313,20 +19037,6 @@
         "nrated": 5.0
     }, 
     {
-        "album": "Quiet Moments", 
-        "rating": 8.0, 
-        "genres": [
-            "Gothic", 
-            "Etherial", 
-            "Rock"
-        ], 
-        "stddev": 1.2060453783110545, 
-        "artist": "Lycia", 
-        "codec": "mp3", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
         "album": "Chromaticity", 
         "rating": 8.4, 
         "genres": [
@@ -19449,19 +19159,6 @@
         "artist": "Sunny Crimea", 
         "codec": "flac", 
         "nsongs": 14.0, 
-        "nrated": 12.0
-    }, 
-    {
-        "album": "Get In Touch With Yourself", 
-        "rating": 8.333333333333334, 
-        "genres": [
-            "Pop", 
-            "Dance"
-        ], 
-        "stddev": 1.1013459778666113, 
-        "artist": "Swing Out Sister", 
-        "codec": "mp3", 
-        "nsongs": 12.0, 
         "nrated": 12.0
     }, 
     {
@@ -21055,19 +20752,6 @@
         "codec": "flac", 
         "nsongs": 5.0, 
         "nrated": 5.0
-    }, 
-    {
-        "album": "Sonic Boom", 
-        "rating": 6.636363636363637, 
-        "genres": [
-            "Rock", 
-            "Hair"
-        ], 
-        "stddev": 1.3531275511928447, 
-        "artist": "KISS", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
     }, 
     {
         "album": "City Echoes", 
@@ -22850,20 +22534,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Cold Shoulder", 
-        "rating": 8.23076923076923, 
-        "genres": [
-            "Electronic", 
-            "Drum & Bass", 
-            "Liquid"
-        ], 
-        "stddev": 1.0471366772086517, 
-        "artist": "Brother", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
-    }, 
-    {
         "album": "Don't Be Cruel", 
         "rating": 8.444444444444445, 
         "genres": [
@@ -24482,19 +24152,6 @@
         "nrated": 11.0
     }, 
     {
-        "album": "Stormcrow", 
-        "rating": 7.7272727272727275, 
-        "genres": [
-            "Metal", 
-            "Power"
-        ], 
-        "stddev": 1.6938923297078612, 
-        "artist": "Cain's Offering", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
         "album": "Armageddon, Mon Amour", 
         "rating": 8.444444444444445, 
         "genres": [
@@ -25842,6 +25499,262 @@
         ], 
         "stddev": 1.3281793390400818, 
         "artist": "KISS", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Civilization", 
+        "rating": 8.11111111111111, 
+        "genres": [
+            "Electronic", 
+            "Industrial"
+        ], 
+        "stddev": 1.1961300194040843, 
+        "artist": "Front Line Assembly", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Sheigra", 
+        "rating": 8.727272727272727, 
+        "genres": [
+            "Electronic", 
+            "Techno"
+        ], 
+        "stddev": 1.1719229735985568, 
+        "artist": "Finitribe", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Colours", 
+        "rating": 8.35, 
+        "genres": [
+            "Electronic", 
+            "Tech-House", 
+            "Techno"
+        ], 
+        "stddev": 0.8895926033865168, 
+        "artist": "Circulation", 
+        "codec": "flac", 
+        "nsongs": 20.0, 
+        "nrated": 20.0
+    }, 
+    {
+        "album": "Crazy Nights - Remaster 1998", 
+        "rating": 8.090909090909092, 
+        "genres": [
+            "Rock", 
+            "Hard", 
+            "Hair"
+        ], 
+        "stddev": 1.170960935149153, 
+        "artist": "Kiss", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Time Requiem", 
+        "rating": 8.375, 
+        "genres": [
+            "Metal", 
+            "Neoclassical"
+        ], 
+        "stddev": 1.2492185057066678, 
+        "artist": "Time Requiem", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Underdogs", 
+        "rating": 8.4, 
+        "genres": [
+            "Metal", 
+            "Thrash"
+        ], 
+        "stddev": 1.0119288512538813, 
+        "artist": "Battalion", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Comalies", 
+        "rating": 8.583333333333334, 
+        "genres": [
+            "Rock", 
+            "Metal", 
+            "Modern"
+        ], 
+        "stddev": 1.0237345395205768, 
+        "artist": "Lacuna Coil", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Sense", 
+        "rating": 7.7, 
+        "genres": [
+            "Alternative", 
+            "Pop", 
+            "Dream", 
+            "Madchester"
+        ], 
+        "stddev": 1.1229425630903835, 
+        "artist": "The Lightning Seeds", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Kolossus", 
+        "rating": 8.375, 
+        "genres": [
+            "Metal", 
+            "Black"
+        ], 
+        "stddev": 1.1030851621701745, 
+        "artist": "Keep of Kalessin", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Condensed", 
+        "rating": 8.076923076923077, 
+        "genres": [
+            "Electronic", 
+            "IDM"
+        ], 
+        "stddev": 0.9968087449962741, 
+        "artist": "Lusine ICL", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "Coalition 2000", 
+        "rating": 7.375, 
+        "genres": [
+            "Electronic", 
+            "IDM", 
+            "Ambient"
+        ], 
+        "stddev": 1.4135228597373302, 
+        "artist": "Lusine Icl", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "The Dark Lord Rises", 
+        "rating": 8.545454545454545, 
+        "genres": [
+            "Metal", 
+            "Shred"
+        ], 
+        "stddev": 0.9737347065488585, 
+        "artist": "Joe Stump", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Lust", 
+        "rating": 8.454545454545455, 
+        "genres": [
+            "Electronic", 
+            "Techno", 
+            "Rave"
+        ], 
+        "stddev": 1.2255114389520214, 
+        "artist": "Lords of Acid", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Garbage", 
+        "rating": 7.916666666666667, 
+        "genres": [
+            "Alternative", 
+            "Rock"
+        ], 
+        "stddev": 1.1146644570685171, 
+        "artist": "Garbage", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Under The Force Of Courage", 
+        "rating": 8.25, 
+        "genres": [
+            "Metal", 
+            "Power", 
+            "Progressive"
+        ], 
+        "stddev": 1.195695404356812, 
+        "artist": "Galneryus", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Coat Of Arms", 
+        "rating": 8.181818181818182, 
+        "genres": [
+            "Metal", 
+            "Industrial", 
+            "Cyber"
+        ], 
+        "stddev": 0.9343595660384892, 
+        "artist": "DeadStar Assembly", 
+        "codec": "mp3", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Coeur", 
+        "rating": 8.5, 
+        "genres": [
+            "Electronic", 
+            "Darkwave"
+        ], 
+        "stddev": 1.1067971810589328, 
+        "artist": "Kramm", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Fire Flower", 
+        "rating": 8.0, 
+        "genres": [
+            "Electronic", 
+            "House"
+        ], 
+        "stddev": 1.224744871391589, 
+        "artist": "Ananda Project", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Decade Of The Brain", 
+        "rating": 8.777777777777779, 
+        "genres": [
+            "Electronic", 
+            "Techno"
+        ], 
+        "stddev": 1.2695656667409343, 
+        "artist": "Din", 
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
@@ -27783,20 +27696,6 @@
         "nrated": 11.0
     }, 
     {
-        "album": "Trick", 
-        "rating": 7.9, 
-        "genres": [
-            "Electronic", 
-            "Dance", 
-            "House"
-        ], 
-        "stddev": 0.963846460801719, 
-        "artist": "Kele", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "The Endless Bummer", 
         "rating": 7.5, 
         "genres": [
@@ -28005,19 +27904,6 @@
         "codec": "flac", 
         "nsongs": 8.0, 
         "nrated": 8.0
-    }, 
-    {
-        "album": "The Great Divide", 
-        "rating": 8.272727272727273, 
-        "genres": [
-            "Metal", 
-            "Traditional"
-        ], 
-        "stddev": 1.154158196261889, 
-        "artist": "Allen - Lande", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
     }, 
     {
         "album": "Worldchanger", 
@@ -33245,5 +33131,190 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
+    }, 
+    {
+        "album": "Reset, Reboot, Redeem", 
+        "rating": 8.0, 
+        "genres": [
+            "Metal", 
+            "Traditional"
+        ], 
+        "stddev": 1.1952286093343936, 
+        "artist": "Steelwing", 
+        "codec": "flac", 
+        "nsongs": 7.0, 
+        "nrated": 7.0
+    }, 
+    {
+        "album": "Attention", 
+        "rating": 7.444444444444445, 
+        "genres": [
+            "Electronic", 
+            "Dance", 
+            "Electroclash", 
+            "Pop"
+        ], 
+        "stddev": 1.00137080256265, 
+        "artist": "GusGus", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "The Shape", 
+        "rating": 8.333333333333334, 
+        "genres": [
+            "Electronic", 
+            "Synthwave"
+        ], 
+        "stddev": 1.3286956381223773, 
+        "artist": "Dance With The Dead", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Cloudbreaker (Japanese Edition) [Of The Son and The Father]", 
+        "rating": 8.090909090909092, 
+        "genres": [
+            "Metal", 
+            "Traditional"
+        ], 
+        "stddev": 0.8995365698908515, 
+        "artist": "Astral Doors", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "X-Static", 
+        "rating": 7.909090909090909, 
+        "genres": [
+            "Pop"
+        ], 
+        "stddev": 1.0829600196717155, 
+        "artist": "Hall & Oates", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Voices", 
+        "rating": 7.909090909090909, 
+        "genres": [
+            "Pop"
+        ], 
+        "stddev": 1.3663884075329462, 
+        "artist": "Hall & Oates", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "King", 
+        "rating": 7.454545454545454, 
+        "genres": [
+            "Metal", 
+            "Symphonic", 
+            "Death"
+        ], 
+        "stddev": 2.1831951577721145, 
+        "artist": "Fleshgod Apocalypse", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Permission to Land", 
+        "rating": 9.3, 
+        "genres": [
+            "Rock", 
+            "Hair", 
+            "Hard"
+        ], 
+        "stddev": 1.2493998559308384, 
+        "artist": "The Darkness", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Come To My Kingdom", 
+        "rating": 7.916666666666667, 
+        "genres": [
+            "Rock", 
+            "AOR"
+        ], 
+        "stddev": 1.1870735101578664, 
+        "artist": "House Of Lords", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Release", 
+        "rating": 7.9, 
+        "genres": [
+            "Electronic", 
+            "House"
+        ], 
+        "stddev": 1.5776564898608314, 
+        "artist": "Ananda Project", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Fantastic Planet Revisited", 
+        "rating": 8.416666666666666, 
+        "genres": [
+            "Electronic", 
+            "Techno"
+        ], 
+        "stddev": 1.2102475259524699, 
+        "artist": "DIN", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Speak for Yourself", 
+        "rating": 7.75, 
+        "genres": [
+            "Electronic", 
+            "Indietronic", 
+            "Pop"
+        ], 
+        "stddev": 1.7245168405479065, 
+        "artist": "Imogen Heap", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Colony", 
+        "rating": 8.4, 
+        "genres": [
+            "Metal", 
+            "Melodeath"
+        ], 
+        "stddev": 1.0507140429250956, 
+        "artist": "In Flames", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Clandestine", 
+        "rating": 8.333333333333334, 
+        "genres": [
+            "Metal", 
+            "Death"
+        ], 
+        "stddev": 1.0829771494232179, 
+        "artist": "Entombed", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
     }
 ]
