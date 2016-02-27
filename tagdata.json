@@ -219,20 +219,6 @@
         "nrated": 11.0
     }, 
     {
-        "album": "Motu", 
-        "rating": 8.333333333333334, 
-        "genres": [
-            "Electronic", 
-            "IDM", 
-            "Glitch"
-        ], 
-        "stddev": 1.181127312526072, 
-        "artist": "Kattoo", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
         "album": "Love Is For Suckers", 
         "rating": 7.5, 
         "genres": [
@@ -1113,20 +1099,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Epsylon", 
-        "rating": 7.857142857142857, 
-        "genres": [
-            "Electronic", 
-            "Goa", 
-            "Trance"
-        ], 
-        "stddev": 1.0087084372455017, 
-        "artist": "Eat Static", 
-        "codec": "flac", 
-        "nsongs": 7.0, 
-        "nrated": 7.0
-    }, 
-    {
         "album": "The Very Best Of", 
         "rating": 8.555555555555555, 
         "genres": [
@@ -1373,18 +1345,6 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "Aqua", 
-        "rating": 7.818181818181818, 
-        "genres": [
-            "Rock"
-        ], 
-        "stddev": 1.1770405655127227, 
-        "artist": "Asia", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
     }, 
     {
         "album": "Bangin'", 
@@ -2035,22 +1995,6 @@
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
-    }, 
-    {
-        "album": "The Waking Nightmare", 
-        "rating": 8.181818181818182, 
-        "genres": [
-            "Metal", 
-            "Drone", 
-            "Post", 
-            "Experimental", 
-            "Reggae"
-        ], 
-        "stddev": 1.126819423653882, 
-        "artist": "The Blood of Heroes", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
     }, 
     {
         "album": "Part Of Me", 
@@ -4175,20 +4119,6 @@
         "nrated": 13.0
     }, 
     {
-        "album": "Ever", 
-        "rating": 7.3, 
-        "genres": [
-            "Dream", 
-            "Folk", 
-            "Etherial"
-        ], 
-        "stddev": 1.4903019828209316, 
-        "artist": "Love Spirals Downwards", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "This Is Spinal Tap (OST)", 
         "rating": 8.923076923076923, 
         "genres": [
@@ -4306,19 +4236,6 @@
         ], 
         "stddev": 1.2087183294713453, 
         "artist": "Manowar", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
-        "album": "Fashion Victim", 
-        "rating": 7.8, 
-        "genres": [
-            "Electronic", 
-            "Dub"
-        ], 
-        "stddev": 1.6480291259562132, 
-        "artist": "Larvae", 
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
@@ -6298,20 +6215,6 @@
         "nrated": 8.0
     }, 
     {
-        "album": "Eighty One", 
-        "rating": 7.846153846153846, 
-        "genres": [
-            "Downtempo", 
-            "Trip-Hop", 
-            "Indie"
-        ], 
-        "stddev": 1.0253944476772165, 
-        "artist": "Yppah", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
-    }, 
-    {
         "album": "Eurotrash", 
         "rating": 8.75, 
         "genres": [
@@ -7473,22 +7376,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Fused", 
-        "rating": 7.9, 
-        "genres": [
-            "Metal", 
-            "Alternative Metal"
-        ], 
-        "stddev": 1.2996153277027784, 
-        "artist": [
-            "Tommy Iommi", 
-            "Glen Hughes"
-        ], 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Happiness", 
         "rating": 8.7, 
         "genres": [
@@ -7837,20 +7724,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Common Destiny", 
-        "rating": 8.166666666666666, 
-        "genres": [
-            "Rock", 
-            "Hard", 
-            "AOR"
-        ], 
-        "stddev": 1.0790513666419461, 
-        "artist": "Jaded Heart", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
         "album": "Outer Isolation", 
         "rating": 8.5, 
         "genres": [
@@ -8009,18 +7882,6 @@
         ], 
         "stddev": 1.6899704139422087, 
         "artist": "INXS", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
-        "album": "Perception - Disc 2 of 6 (Strange Days)", 
-        "rating": 8.0, 
-        "genres": [
-            "Rock"
-        ], 
-        "stddev": 1.61245154965971, 
-        "artist": "The Doors", 
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
@@ -9771,19 +9632,6 @@
         "nrated": 11.0
     }, 
     {
-        "album": "A Flash Flood of Colour", 
-        "rating": 7.9, 
-        "genres": [
-            "Metalcore", 
-            "Dubstep"
-        ], 
-        "stddev": 1.1441153787970861, 
-        "artist": "Enter Shikari", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Dangerous", 
         "rating": 8.0, 
         "genres": [
@@ -9808,32 +9656,6 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "Aura", 
-        "rating": 7.454545454545454, 
-        "genres": [
-            "Rock", 
-            "AOR"
-        ], 
-        "stddev": 1.4279595126077216, 
-        "artist": "Asia", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
-        "album": "Aria", 
-        "rating": 7.7272727272727275, 
-        "genres": [
-            "Rock", 
-            "AOR"
-        ], 
-        "stddev": 1.1894224523261996, 
-        "artist": "Asia", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
     }, 
     {
         "album": "Vital Signs", 
@@ -12780,6 +12602,19 @@
         "nrated": 10.0
     }, 
     {
+        "album": "Epica", 
+        "rating": 8.2, 
+        "genres": [
+            "Metal", 
+            "Power"
+        ], 
+        "stddev": 1.1644741302407706, 
+        "artist": "Kamelot", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 10.0
+    }, 
+    {
         "album": "Prisma", 
         "rating": 8.0, 
         "genres": [
@@ -14630,20 +14465,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Pop Artificielle", 
-        "rating": 7.8, 
-        "genres": [
-            "Electronic", 
-            "Techno", 
-            "Glitch"
-        ], 
-        "stddev": 2.067849124090053, 
-        "artist": "Lassigue Bendthaus", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "A New Flame", 
         "rating": 7.6, 
         "genres": [
@@ -15190,19 +15011,6 @@
         ], 
         "stddev": 1.1063265039459795, 
         "artist": "Guns N' Roses", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
-        "album": "The Peel Sessions 1988-90", 
-        "rating": 7.0, 
-        "genres": [
-            "Metal", 
-            "Death"
-        ], 
-        "stddev": 1.118033988749895, 
-        "artist": "Bolt Thrower", 
         "codec": "flac", 
         "nsongs": 12.0, 
         "nrated": 12.0
@@ -17839,19 +17647,6 @@
         "nrated": 11.0
     }, 
     {
-        "album": "So Red The Rose (Disc 1)", 
-        "rating": 8.125, 
-        "genres": [
-            "Pop", 
-            "New Wave"
-        ], 
-        "stddev": 1.4300076485809439, 
-        "artist": "Arcadia", 
-        "codec": "flac", 
-        "nsongs": 8.0, 
-        "nrated": 8.0
-    }, 
-    {
         "album": "Hanging Gardens", 
         "rating": 8.083333333333334, 
         "genres": [
@@ -18776,6 +18571,59 @@
         "codec": "flac", 
         "nsongs": 14.0, 
         "nrated": 14.0
+    }, 
+    {
+        "album": "Life Love Loss", 
+        "rating": 8.428571428571429, 
+        "genres": [
+            "Rock", 
+            "Hard", 
+            "AOR"
+        ], 
+        "stddev": 1.1724485355499064, 
+        "artist": "Degreed", 
+        "codec": "flac", 
+        "nsongs": 14.0, 
+        "nrated": 14.0
+    }, 
+    {
+        "album": "Fantastic Planet Revisited", 
+        "rating": 8.416666666666666, 
+        "genres": [
+            "Electronic", 
+            "Techno"
+        ], 
+        "stddev": 1.1812089695010066, 
+        "artist": "Din", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "So Red The Rose (Disc 1)", 
+        "rating": 8.125, 
+        "genres": [
+            "Pop", 
+            "New Wave"
+        ], 
+        "stddev": 1.4300076485809439, 
+        "artist": "Arcadia", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Do Not Multiply Models", 
+        "rating": 8.125, 
+        "genres": [
+            "Electronic", 
+            "IDM"
+        ], 
+        "stddev": 0.9995115994824673, 
+        "artist": "CiM", 
+        "codec": "flac", 
+        "nsongs": 16.0, 
+        "nrated": 16.0
     }, 
     {
         "album": "Mount Egonaut", 
@@ -20794,6 +20642,20 @@
         "nrated": 8.0
     }, 
     {
+        "album": "Darkness Walks Beside Me", 
+        "rating": 8.0, 
+        "genres": [
+            "Metal", 
+            "Doom", 
+            "Gothic"
+        ], 
+        "stddev": 1.224744871391589, 
+        "artist": "Black Sun Aeon", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
         "album": "Rise Of The Hero", 
         "rating": 8.363636363636363, 
         "genres": [
@@ -22409,20 +22271,6 @@
         "nrated": 15.0
     }, 
     {
-        "album": "Gravitas", 
-        "rating": 7.777777777777778, 
-        "genres": [
-            "Rock", 
-            "AOR", 
-            "Progressive"
-        ], 
-        "stddev": 1.2936480886350357, 
-        "artist": "Asia", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
         "album": "The Evil In You", 
         "rating": 8.285714285714286, 
         "genres": [
@@ -23126,46 +22974,6 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "$laves And Master$", 
-        "rating": 7.461538461538462, 
-        "genres": [
-            "Rock", 
-            "Hard"
-        ], 
-        "stddev": 1.7307363573472434, 
-        "artist": "Jaded Heart", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
-    }, 
-    {
-        "album": "Mystery Eyes", 
-        "rating": 7.181818181818182, 
-        "genres": [
-            "Rock", 
-            "Hard", 
-            "AOR"
-        ], 
-        "stddev": 1.2551920719517826, 
-        "artist": "Jaded Heart", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
-        "album": "Trust", 
-        "rating": 7.6923076923076925, 
-        "genres": [
-            "Rock", 
-            "Hard"
-        ], 
-        "stddev": 1.5206064477861139, 
-        "artist": "Jaded Heart", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
     }, 
     {
         "album": "Multiverse", 
@@ -25264,19 +25072,6 @@
         "nrated": 8.0
     }, 
     {
-        "album": "Back To Basics", 
-        "rating": 7.9, 
-        "genres": [
-            "Electronic", 
-            "IDM"
-        ], 
-        "stddev": 1.36711374801075, 
-        "artist": "Gimmik", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Arabian Horse", 
         "rating": 8.1, 
         "genres": [
@@ -25758,6 +25553,113 @@
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
+    }, 
+    {
+        "album": "From Dub Til Dawn", 
+        "rating": 8.181818181818182, 
+        "genres": [
+            "Electronic", 
+            "House", 
+            "Deep"
+        ], 
+        "stddev": 1.027056950935933, 
+        "artist": "Terry Lee Brown Junior", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Mean Business", 
+        "rating": 8.125, 
+        "genres": [
+            "Rock"
+        ], 
+        "stddev": 1.3628726554597828, 
+        "artist": "The Firm", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Rest In Sleaze", 
+        "rating": 8.272727272727273, 
+        "genres": [
+            "Rock", 
+            "Hair", 
+            "NWOSSM"
+        ], 
+        "stddev": 1.154158196261889, 
+        "artist": "Crashdiet", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Galaxy Garden", 
+        "rating": 8.25, 
+        "genres": [
+            "Electronic", 
+            "IDM"
+        ], 
+        "stddev": 1.0077822185373186, 
+        "artist": "Lone", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Cyberia", 
+        "rating": 8.857142857142858, 
+        "genres": [
+            "Electronic", 
+            "Industrial", 
+            "Metal"
+        ], 
+        "stddev": 1.3159705261349801, 
+        "artist": "Cubanate", 
+        "codec": "flac", 
+        "nsongs": 7.0, 
+        "nrated": 7.0
+    }, 
+    {
+        "album": "History (Best Of)", 
+        "rating": 8.235294117647058, 
+        "genres": [
+            "Rock", 
+            "Gothic"
+        ], 
+        "stddev": 0.8902758476319891, 
+        "artist": "Escape With Romeo", 
+        "codec": "mp3", 
+        "nsongs": 17.0, 
+        "nrated": 17.0
+    }, 
+    {
+        "album": "Polarity", 
+        "rating": 8.444444444444445, 
+        "genres": [
+            "Electronic", 
+            "Industrial"
+        ], 
+        "stddev": 1.1978490095404617, 
+        "artist": "Haujobb", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Dreams of a Cryotank", 
+        "rating": 7.7272727272727275, 
+        "genres": [
+            "Industrial", 
+            "Futurepop", 
+            "Electronic"
+        ], 
+        "stddev": 1.8478976622361074, 
+        "artist": "Covenant", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
     }, 
     {
         "album": "Just Me", 
@@ -27237,18 +27139,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Silent Nation", 
-        "rating": 7.6, 
-        "genres": [
-            "Rock"
-        ], 
-        "stddev": 1.4226735395022991, 
-        "artist": "Asia", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Rock The Nations", 
         "rating": 8.0, 
         "genres": [
@@ -27601,19 +27491,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Ardor", 
-        "rating": 7.909090909090909, 
-        "genres": [
-            "Etherial", 
-            "Dream"
-        ], 
-        "stddev": 1.0829600196717155, 
-        "artist": "Love Spirals Downwards", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
         "album": "Symbiosis LP", 
         "rating": 8.5, 
         "genres": [
@@ -27679,21 +27556,6 @@
         "codec": "flac", 
         "nsongs": 20.0, 
         "nrated": 20.0
-    }, 
-    {
-        "album": "Fight The System", 
-        "rating": 8.272727272727273, 
-        "genres": [
-            "Rock", 
-            "Hard", 
-            "Metal", 
-            "Traditional"
-        ], 
-        "stddev": 1.0491311563960013, 
-        "artist": "Jaded Heart", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
     }, 
     {
         "album": "The Endless Bummer", 
@@ -32760,19 +32622,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Cloned", 
-        "rating": 7.916666666666667, 
-        "genres": [
-            "Electronic", 
-            "Industrial"
-        ], 
-        "stddev": 0.9607457558622924, 
-        "artist": "Lassigue Bendthaus", 
-        "codec": "mp3", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
         "album": "Honour Valour Pride", 
         "rating": 8.444444444444445, 
         "genres": [
@@ -33265,19 +33114,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Fantastic Planet Revisited", 
-        "rating": 8.416666666666666, 
-        "genres": [
-            "Electronic", 
-            "Techno"
-        ], 
-        "stddev": 1.2102475259524699, 
-        "artist": "DIN", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
         "album": "Speak for Yourself", 
         "rating": 7.75, 
         "genres": [
@@ -33316,5 +33152,57 @@
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
+    }, 
+    {
+        "album": "Grist", 
+        "rating": 8.375, 
+        "genres": [
+            "Electronic", 
+            "Breakcore"
+        ], 
+        "stddev": 1.1447911927508876, 
+        "artist": "Drumcorps", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Tabula Rasa", 
+        "rating": 8.166666666666666, 
+        "genres": [
+            "Rock", 
+            "AOR"
+        ], 
+        "stddev": 1.1293639639031179, 
+        "artist": "Wigelius", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "The Last Ordeal", 
+        "rating": 8.142857142857142, 
+        "genres": [
+            "Metal", 
+            "Melodeath"
+        ], 
+        "stddev": 1.1235616006939433, 
+        "artist": "Hearse", 
+        "codec": "mp3", 
+        "nsongs": 7.0, 
+        "nrated": 7.0
+    }, 
+    {
+        "album": "X", 
+        "rating": 8.0, 
+        "genres": [
+            "Rock", 
+            "Pop"
+        ], 
+        "stddev": 1.1281521496355325, 
+        "artist": "INXS", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
     }
 ]
