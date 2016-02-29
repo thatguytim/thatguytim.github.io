@@ -2464,20 +2464,6 @@
         "nrated": 6.0
     }, 
     {
-        "album": "Brookes Brothers", 
-        "rating": 7.769230769230769, 
-        "genres": [
-            "Electronic", 
-            "Drum & Bass", 
-            "Liquid"
-        ], 
-        "stddev": 1.391665156259259, 
-        "artist": "Brookes Brothers", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
-    }, 
-    {
         "album": "Sounds Of Violence", 
         "rating": 8.0, 
         "genres": [
@@ -3783,32 +3769,6 @@
         "codec": "flac", 
         "nsongs": 7.0, 
         "nrated": 7.0
-    }, 
-    {
-        "album": "W.E.T. ", 
-        "rating": 7.916666666666667, 
-        "genres": [
-            "Rock", 
-            "AOR"
-        ], 
-        "stddev": 1.1812089695010064, 
-        "artist": "W.E.T.", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
-        "album": "Rise Up", 
-        "rating": 7.583333333333333, 
-        "genres": [
-            "Rock", 
-            "AOR"
-        ], 
-        "stddev": 1.351225438328181, 
-        "artist": "W.E.T.", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
     }, 
     {
         "album": "Dirty Rotten Filthy Stinking Rich", 
@@ -9175,19 +9135,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Covered in Gas", 
-        "rating": 7.461538461538462, 
-        "genres": [
-            "Rock", 
-            "Indie"
-        ], 
-        "stddev": 1.2968573056385126, 
-        "artist": "Evil Cowards", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
-    }, 
-    {
         "album": "The Very Best Of", 
         "rating": 8.333333333333334, 
         "genres": [
@@ -10746,51 +10693,6 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "Mind Control", 
-        "rating": 7.666666666666667, 
-        "genres": [
-            "Rock", 
-            "Stoner", 
-            "Stoner Doom", 
-            "Occult", 
-            "Metal"
-        ], 
-        "stddev": 1.4098419489388356, 
-        "artist": "Uncle Acid", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
-        "album": "The Night Creeper", 
-        "rating": 7.5, 
-        "genres": [
-            "Psychedelic", 
-            "Rock", 
-            "Stoner Doom"
-        ], 
-        "stddev": 2.2416511771459895, 
-        "artist": "Uncle Acid", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
-        "album": "Blood Lust", 
-        "rating": 8.25, 
-        "genres": [
-            "Rock", 
-            "Psychedelic", 
-            "Stoner", 
-            "Stoner Doom"
-        ], 
-        "stddev": 1.1692679333668567, 
-        "artist": "Uncle Acid", 
-        "codec": "flac", 
-        "nsongs": 8.0, 
-        "nrated": 8.0
     }, 
     {
         "album": "The Breathing Shadow", 
@@ -14589,33 +14491,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Overload", 
-        "rating": 6.909090909090909, 
-        "genres": [
-            "Rock", 
-            "Modern", 
-            "Hard"
-        ], 
-        "stddev": 1.8606607972853273, 
-        "artist": "Harem Scarem", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
-        "album": "Big Bang Theory", 
-        "rating": 7.222222222222222, 
-        "genres": [
-            "Rock", 
-            "AOR"
-        ], 
-        "stddev": 1.7161381982523103, 
-        "artist": "Harem Scarem", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
         "album": "Big Thing", 
         "rating": 7.8, 
         "genres": [
@@ -16321,34 +16196,6 @@
         "nrated": 8.0
     }, 
     {
-        "album": "Zagora", 
-        "rating": 7.4, 
-        "genres": [
-            "R&B", 
-            "Soul", 
-            "Pop"
-        ], 
-        "stddev": 1.6136914203155448, 
-        "artist": "Loose Ends", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
-        "album": "Look How Long", 
-        "rating": 7.25, 
-        "genres": [
-            "Dance", 
-            "R&B", 
-            "Soul"
-        ], 
-        "stddev": 1.2808688457449497, 
-        "artist": "Loose Ends", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
         "album": "A Long Way to Fall", 
         "rating": 8.3, 
         "genres": [
@@ -16642,19 +16489,6 @@
         ], 
         "stddev": 1.1049373518281769, 
         "artist": "Leatherwolf", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
-        "album": "Remission", 
-        "rating": 7.636363636363637, 
-        "genres": [
-            "Electronic", 
-            "Industrial"
-        ], 
-        "stddev": 1.855404111704787, 
-        "artist": "Skinny Puppy", 
         "codec": "flac", 
         "nsongs": 11.0, 
         "nrated": 11.0
@@ -18307,19 +18141,6 @@
         "nrated": 11.0
     }, 
     {
-        "album": "Selected Singles and Remixes", 
-        "rating": 7.769230769230769, 
-        "genres": [
-            "Electronic", 
-            "House"
-        ], 
-        "stddev": 1.2623536116611378, 
-        "artist": "Shur-I-Kan", 
-        "codec": "mp3", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
-    }, 
-    {
         "album": "Sehnsucht", 
         "rating": 8.636363636363637, 
         "genres": [
@@ -18993,21 +18814,6 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "Rainbow Trail Of Memories", 
-        "rating": 7.833333333333333, 
-        "genres": [
-            "Electronc", 
-            "Drum & Bass", 
-            "Liquid", 
-            "Soul"
-        ], 
-        "stddev": 1.3324649950234952, 
-        "artist": "Sunny Crimea", 
-        "codec": "flac", 
-        "nsongs": 14.0, 
-        "nrated": 12.0
     }, 
     {
         "album": "Renovatio", 
@@ -22298,19 +22104,6 @@
         "nrated": 16.0
     }, 
     {
-        "album": "Bangers", 
-        "rating": 7.8, 
-        "genres": [
-            "Metal", 
-            "Stoner"
-        ], 
-        "stddev": 1.231259517729711, 
-        "artist": "Barn Burner", 
-        "codec": "mp3", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "The Satanist (Japanese edition)", 
         "rating": 8.4, 
         "genres": [
@@ -23668,19 +23461,6 @@
         "codec": "mp3", 
         "nsongs": 7.0, 
         "nrated": 7.0
-    }, 
-    {
-        "album": "Mind: The Perpetual Intercourse", 
-        "rating": 7.666666666666667, 
-        "genres": [
-            "Electronic", 
-            "Industrial"
-        ], 
-        "stddev": 2.0389721448336187, 
-        "artist": "Skinny Puppy", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
     }, 
     {
         "album": "New Chain", 
@@ -27981,20 +27761,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Goldene Zeit 1989-1993", 
-        "rating": 7.785714285714286, 
-        "genres": [
-            "Electronic", 
-            "EBM", 
-            "New Beat"
-        ], 
-        "stddev": 1.5191920900314067, 
-        "artist": "U-Tek", 
-        "codec": "flac", 
-        "nsongs": 14.0, 
-        "nrated": 14.0
-    }, 
-    {
         "album": "Retribution", 
         "rating": 8.2, 
         "genres": [
@@ -28966,32 +28732,6 @@
         "codec": "flac", 
         "nsongs": 15.0, 
         "nrated": 15.0
-    }, 
-    {
-        "album": "Bites", 
-        "rating": 6.764705882352941, 
-        "genres": [
-            "Electronic", 
-            "Industrial"
-        ], 
-        "stddev": 1.6534108852505758, 
-        "artist": "Skinny Puppy", 
-        "codec": "flac", 
-        "nsongs": 17.0, 
-        "nrated": 17.0
-    }, 
-    {
-        "album": "Cleanse, Fold and Manipulate", 
-        "rating": 6.888888888888889, 
-        "genres": [
-            "Electronic", 
-            "Industrial"
-        ], 
-        "stddev": 1.9965676995471933, 
-        "artist": "Skinny Puppy", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
     }, 
     {
         "album": "Amok", 
@@ -33114,20 +32854,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Speak for Yourself", 
-        "rating": 7.75, 
-        "genres": [
-            "Electronic", 
-            "Indietronic", 
-            "Pop"
-        ], 
-        "stddev": 1.7245168405479065, 
-        "artist": "Imogen Heap", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
         "album": "Colony", 
         "rating": 8.4, 
         "genres": [
@@ -33203,6 +32929,45 @@
         "artist": "INXS", 
         "codec": "flac", 
         "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Easy To Assemble", 
+        "rating": 8.6, 
+        "genres": [
+            "Electronic", 
+            "Progressive House"
+        ], 
+        "stddev": 1.3870832707519762, 
+        "artist": "Chicane", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Let's Get Electric - 1987", 
+        "rating": 8.444444444444445, 
+        "genres": [
+            "Pop", 
+            "Synthwave"
+        ], 
+        "stddev": 1.3708707795053148, 
+        "artist": "Cheap Talk", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "For All Kings", 
+        "rating": 7.818181818181818, 
+        "genres": [
+            "Metal", 
+            "Thrash"
+        ], 
+        "stddev": 0.8510390520235372, 
+        "artist": "Anthrax", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
         "nrated": 11.0
     }
 ]
