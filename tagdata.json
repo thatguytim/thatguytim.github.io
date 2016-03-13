@@ -205,14 +205,14 @@
     }, 
     {
         "album": "Young Hunger", 
-        "rating": 8.454545454545455, 
+        "rating": 8.545454545454545, 
         "genres": [
             "Electronic", 
             "Indie", 
             "Electropop", 
             "Pop"
         ], 
-        "stddev": 1.0193470310188197, 
+        "stddev": 1.1086708322468763, 
         "artist": "Chad Valley", 
         "codec": "flac", 
         "nsongs": 11.0, 
@@ -578,20 +578,6 @@
         "codec": "flac", 
         "nsongs": 12.0, 
         "nrated": 12.0
-    }, 
-    {
-        "album": "21st Century Slave", 
-        "rating": 8.181818181818182, 
-        "genres": [
-            "Industrial", 
-            "Metal", 
-            "Electronic"
-        ], 
-        "stddev": 1.389560735742434, 
-        "artist": "Dope Stars Inc.", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
     }, 
     {
         "album": "The Truth Inside the Dying Sun", 
@@ -3109,12 +3095,12 @@
     }, 
     {
         "album": "Equatorial Ultravox", 
-        "rating": 8.142857142857142, 
+        "rating": 8.0, 
         "genres": [
             "Electronic", 
             "Chillwave"
         ], 
-        "stddev": 1.3541858225452321, 
+        "stddev": 1.5118578920369088, 
         "artist": "Chad Valley", 
         "codec": "flac", 
         "nsongs": 7.0, 
@@ -5049,19 +5035,6 @@
         "nrated": 8.0
     }, 
     {
-        "album": "A Dog Lost In The Woods", 
-        "rating": 7.833333333333333, 
-        "genres": [
-            "Electronic", 
-            "IDM"
-        ], 
-        "stddev": 0.8962369891612048, 
-        "artist": "Alka", 
-        "codec": "mp3", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
         "album": "Heights Of Perception", 
         "rating": 8.571428571428571, 
         "genres": [
@@ -6217,11 +6190,11 @@
     }, 
     {
         "album": "Eliminator", 
-        "rating": 8.727272727272727, 
+        "rating": 8.636363636363637, 
         "genres": [
             "Rock"
         ], 
-        "stddev": 1.2990200317258171, 
+        "stddev": 1.3033505916822485, 
         "artist": "ZZ Top", 
         "codec": "flac", 
         "nsongs": 11.0, 
@@ -6846,20 +6819,6 @@
         "codec": "flac", 
         "nsongs": 8.0, 
         "nrated": 8.0
-    }, 
-    {
-        "album": "Spill", 
-        "rating": 7.846153846153846, 
-        "genres": [
-            "Electronic", 
-            "Drum & Bass", 
-            "Liquid"
-        ], 
-        "stddev": 1.4507543593582914, 
-        "artist": "Calibre", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
     }, 
     {
         "album": "Purple Rain", 
@@ -8120,21 +8079,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Departure", 
-        "rating": 8.090909090909092, 
-        "genres": [
-            "Electronic", 
-            "Synthpop", 
-            "Futurepop", 
-            "Dance"
-        ], 
-        "stddev": 0.9954819046015757, 
-        "artist": "Code 64", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
         "album": "Allegiance", 
         "rating": 8.272727272727273, 
         "genres": [
@@ -8408,19 +8352,6 @@
         "codec": "flac", 
         "nsongs": 13.0, 
         "nrated": 13.0
-    }, 
-    {
-        "album": "God's Gift", 
-        "rating": 9.777777777777779, 
-        "genres": [
-            "Metal", 
-            "Thrash"
-        ], 
-        "stddev": 1.130691668331389, 
-        "artist": "Toranaga", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
     }, 
     {
         "album": "Crying Stars - Stand Proud!", 
@@ -9214,19 +9145,6 @@
         "codec": "flac", 
         "nsongs": 14.0, 
         "nrated": 14.0
-    }, 
-    {
-        "album": "Vulcanus", 
-        "rating": 8.083333333333334, 
-        "genres": [
-            "Metal", 
-            "Melodeath"
-        ], 
-        "stddev": 1.192909220103276, 
-        "artist": "Fear My Thoughts", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
     }, 
     {
         "album": "Mine", 
@@ -10169,20 +10087,6 @@
         "codec": "flac", 
         "nsongs": 11.0, 
         "nrated": 11.0
-    }, 
-    {
-        "album": "Even If...", 
-        "rating": 8.076923076923077, 
-        "genres": [
-            "Electronic", 
-            "Drum & Bass", 
-            "Liquid"
-        ], 
-        "stddev": 1.3321759504128738, 
-        "artist": "Calibre", 
-        "codec": "mp3", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
     }, 
     {
         "album": "Daydream Forever", 
@@ -12517,6 +12421,20 @@
         "nrated": 10.0
     }, 
     {
+        "album": "Dark Light", 
+        "rating": 8.5, 
+        "genres": [
+            "Rock", 
+            "Gothic", 
+            "Suomi"
+        ], 
+        "stddev": 1.2747548783981961, 
+        "artist": "HIM", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
         "album": "Prisma", 
         "rating": 8.0, 
         "genres": [
@@ -14376,34 +14294,6 @@
         ], 
         "stddev": 1.77313282074412, 
         "artist": "Simply Red", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
-        "album": "Leaving Babylon", 
-        "rating": 7.9, 
-        "genres": [
-            "Electronic", 
-            "Industrial", 
-            "Futurepop"
-        ], 
-        "stddev": 1.6997058569058356, 
-        "artist": "Covenant", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
-        "album": "Modern Ruin", 
-        "rating": 7.8, 
-        "genres": [
-            "Electronic", 
-            "Industrial", 
-            "Futurepop"
-        ], 
-        "stddev": 1.547901805671148, 
-        "artist": "Covenant", 
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
@@ -16937,19 +16827,6 @@
         "nrated": 11.0
     }, 
     {
-        "album": "When Things Stop To Move", 
-        "rating": 8.0, 
-        "genres": [
-            "Electronic", 
-            "IDM"
-        ], 
-        "stddev": 1.224744871391589, 
-        "artist": "DNN", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
         "album": "Crystal Visions: The Very Best Of", 
         "rating": 8.11111111111111, 
         "genres": [
@@ -17784,20 +17661,6 @@
         "nrated": 4.0
     }, 
     {
-        "album": "Shelflife 3", 
-        "rating": 7.846153846153846, 
-        "genres": [
-            "Electronic", 
-            "Drum & Bass", 
-            "Liquid"
-        ], 
-        "stddev": 1.0253944476772165, 
-        "artist": "Calibre", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
-    }, 
-    {
         "album": "Wayward Fire", 
         "rating": 8.090909090909092, 
         "genres": [
@@ -18445,6 +18308,73 @@
         "codec": "flac", 
         "nsongs": 16.0, 
         "nrated": 16.0
+    }, 
+    {
+        "album": "Damage Done (2009 Remaster)", 
+        "rating": 8.076923076923077, 
+        "genres": [
+            "Metal", 
+            "Melodeath", 
+            "Progressive"
+        ], 
+        "stddev": 0.9163959407673592, 
+        "artist": "Dark Tranquillity", 
+        "codec": "flac", 
+        "nsongs": 14.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "Dark Adrenaline", 
+        "rating": 8.5, 
+        "genres": [
+            "Metal", 
+            "Modern", 
+            "Alternative Metal"
+        ], 
+        "stddev": 1.070436048222094, 
+        "artist": "Lacuna Coil", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Blissed Out", 
+        "rating": 7.7272727272727275, 
+        "genres": [
+            "Electronic", 
+            "Dance", 
+            "Pop"
+        ], 
+        "stddev": 1.6791916054410292, 
+        "artist": "The Beloved", 
+        "codec": "MP3", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "God's Gift", 
+        "rating": 9.777777777777779, 
+        "genres": [
+            "Metal", 
+            "Thrash"
+        ], 
+        "stddev": 1.130691668331389, 
+        "artist": "Toranaga", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Liberty", 
+        "rating": 8.6, 
+        "genres": [
+            "Pop"
+        ], 
+        "stddev": 1.5517731793016658, 
+        "artist": "Duran Duran", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 5.0
     }, 
     {
         "album": "Mount Egonaut", 
@@ -19245,19 +19175,6 @@
         ], 
         "stddev": 1.0540925533894598, 
         "artist": "Graveyard", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
-        "album": "Remotecontrolled Scythe", 
-        "rating": 8.333333333333334, 
-        "genres": [
-            "Metal", 
-            "Melodeath"
-        ], 
-        "stddev": 1.0482201257840669, 
-        "artist": "Enter My Silence", 
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
@@ -20457,6 +20374,45 @@
         ], 
         "stddev": 1.224744871391589, 
         "artist": "Black Sun Aeon", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Reinventions", 
+        "rating": 8.0, 
+        "genres": [
+            "Rock", 
+            "AOR"
+        ], 
+        "stddev": 1.5275252316519468, 
+        "artist": "Wigelius", 
+        "codec": "mp3", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Dancing In The Fire", 
+        "rating": 8.0, 
+        "genres": [
+            "Metal", 
+            "Thrash"
+        ], 
+        "stddev": 1.5191090506254998, 
+        "artist": "Cronos", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "Dactylis Glomerata", 
+        "rating": 7.875, 
+        "genres": [
+            "Metal", 
+            "Doom"
+        ], 
+        "stddev": 1.165084492644203, 
+        "artist": "Candlemass", 
         "codec": "flac", 
         "nsongs": 8.0, 
         "nrated": 8.0
@@ -25428,18 +25384,98 @@
         "nrated": 9.0
     }, 
     {
-        "album": "Dreams of a Cryotank", 
-        "rating": 7.7272727272727275, 
+        "album": "Coverdale & Page", 
+        "rating": 8.272727272727273, 
         "genres": [
-            "Industrial", 
-            "Futurepop", 
-            "Electronic"
+            "Rock", 
+            "Blues"
         ], 
-        "stddev": 1.8478976622361074, 
-        "artist": "Covenant", 
+        "stddev": 1.0491311563960013, 
+        "artist": "Coverdale & Page", 
         "codec": "flac", 
         "nsongs": 11.0, 
         "nrated": 11.0
+    }, 
+    {
+        "album": "Sinfony 23", 
+        "rating": 8.142857142857142, 
+        "genres": [
+            "Rock", 
+            "Gothic"
+        ], 
+        "stddev": 0.9139348816682891, 
+        "artist": "Down Below", 
+        "codec": "flac", 
+        "nsongs": 14.0, 
+        "nrated": 14.0
+    }, 
+    {
+        "album": "Condition Red", 
+        "rating": 8.384615384615385, 
+        "genres": [
+            "Metal", 
+            "Power", 
+            "Traditional"
+        ], 
+        "stddev": 0.9486113272354009, 
+        "artist": "Iron Savior", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "Futurist", 
+        "rating": 8.066666666666666, 
+        "genres": [
+            "Electronic", 
+            "Drum & Bass", 
+            "Liquid"
+        ], 
+        "stddev": 1.1233547640553836, 
+        "artist": "Keeno", 
+        "codec": "flac", 
+        "nsongs": 15.0, 
+        "nrated": 15.0
+    }, 
+    {
+        "album": "Group Therapy", 
+        "rating": 8.076923076923077, 
+        "genres": [
+            "Electronic", 
+            "Trance"
+        ], 
+        "stddev": 1.5421553289848697, 
+        "artist": "Above & Beyond", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "Crimson II", 
+        "rating": 8.255813953488373, 
+        "genres": [
+            "Metal", 
+            "Progressive", 
+            "Death"
+        ], 
+        "stddev": 0.6122889903797052, 
+        "artist": "Edge Of Sanity", 
+        "codec": "flac", 
+        "nsongs": 43.0, 
+        "nrated": 43.0
+    }, 
+    {
+        "album": "Cult of Death", 
+        "rating": 8.125, 
+        "genres": [
+            "Metal", 
+            "Death"
+        ], 
+        "stddev": 1.067085692435242, 
+        "artist": "Deathchain", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
     }, 
     {
         "album": "Just Me", 
@@ -32969,5 +33005,151 @@
         "codec": "flac", 
         "nsongs": 12.0, 
         "nrated": 11.0
+    }, 
+    {
+        "album": "Entirely New Blue", 
+        "rating": 8.375, 
+        "genres": [
+            "Electronic", 
+            "Pop", 
+            "Indietronic"
+        ], 
+        "stddev": 1.1447911927508876, 
+        "artist": "Chad Valley", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Crunch ", 
+        "rating": 8.11111111111111, 
+        "genres": [
+            "Metal", 
+            "Traditional"
+        ], 
+        "stddev": 1.0993201540485797, 
+        "artist": "Impellitteri", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Dance of December Souls", 
+        "rating": 8.333333333333334, 
+        "genres": [
+            "Metal", 
+            "Doom", 
+            "Death"
+        ], 
+        "stddev": 1.2397729780234106, 
+        "artist": "Katatonia", 
+        "codec": "flac", 
+        "nsongs": 6.0, 
+        "nrated": 6.0
+    }, 
+    {
+        "album": "Dangerous Attraction", 
+        "rating": 8.5, 
+        "genres": [
+            "Rock", 
+            "Hair"
+        ], 
+        "stddev": 1.1067971810589328, 
+        "artist": "Lion", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Cuts Like a Knife", 
+        "rating": 8.11111111111111, 
+        "genres": [
+            "Rock", 
+            "Pop"
+        ], 
+        "stddev": 1.2760320871816453, 
+        "artist": "Bryan Adams", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Contact", 
+        "rating": 6.9, 
+        "genres": [
+            "Jazz", 
+            "Smooth"
+        ], 
+        "stddev": 2.3171102692793886, 
+        "artist": "Boney James", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Curse of the Red River", 
+        "rating": 8.11111111111111, 
+        "genres": [
+            "Metal", 
+            "Death", 
+            "Progressive"
+        ], 
+        "stddev": 1.1104936555974034, 
+        "artist": "Barren Earth", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Crowned Unholy", 
+        "rating": 9.1, 
+        "genres": [
+            "Metal", 
+            "Death"
+        ], 
+        "stddev": 1.2684636376341263, 
+        "artist": "The Crown", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Crowned In Terror", 
+        "rating": 9.1, 
+        "genres": [
+            "Metal", 
+            "Death"
+        ], 
+        "stddev": 1.2605554331325537, 
+        "artist": "The Crown", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Cryptic", 
+        "rating": 8.25, 
+        "genres": [
+            "Metal", 
+            "Death", 
+            "Melodeath"
+        ], 
+        "stddev": 1.086134199811423, 
+        "artist": "Edge Of Sanity", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Submission for Liberty", 
+        "rating": 8.11111111111111, 
+        "genres": [
+            "Metal, Thrash"
+        ], 
+        "stddev": 1.0993201540485797, 
+        "artist": "4ARM", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
     }
 ]
