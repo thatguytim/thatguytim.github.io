@@ -5,8 +5,8 @@ function fillTables()
     window.artistStriped = false;
     window.genreStriped = false;
 
-    fillAlbumTable();
-    fillArtistTable();
+    //fillAlbumTable();
+    //fillArtistTable();
     fillGenreTable();
 }
 
@@ -101,20 +101,22 @@ function fillArtistTable()
 
 function fillGenreTable()
 {
+    var c = [];
     for (var i = 0; i < window.tagdata.length; i++) {
         for (var j = 0; j < window.tagdata[i].genres.length; j++ ) {
-            $('#genreTable tr:last').after("<tr>" + 
-                                          "<td>" + window.tagdata[i].artist + "</td>" +
-                                          "<td>" + window.tagdata[i].album + "</td>" +
-                                          "<td>" + window.tagdata[i].rating.toFixed(2) + "</td>" +
-                                          "<td>" + window.tagdata[i].stddev.toFixed(2) + "</td>" +
-                                          "<td>" + window.tagdata[i].genres[j] + "</td>" +
-                                          "<td>" + window.tagdata[i].codec + "</td>" +
-                                          "<td>" + window.tagdata[i].nrated + "/" +
-                                                   window.tagdata[i].nsongs + "</td>" + 
-                                          "</tr>");
+            c.push("<tr>" +
+                   "<td>" + window.tagdata[i].artist + "</td>" +
+                   "<td>" + window.tagdata[i].album + "</td>" +
+                   "<td>" + window.tagdata[i].rating.toFixed(2) + "</td>" +
+                   "<td>" + window.tagdata[i].stddev.toFixed(2) + "</td>" +
+                   "<td>" + window.tagdata[i].genres[j] + "</td>" +
+                   "<td>" + window.tagdata[i].codec + "</td>" +
+                   "<td>" + window.tagdata[i].nrated + "/" +
+                   window.tagdata[i].nsongs + "</td>" +
+                   "</tr>");
         }
     }
+    $('#genreTable tbody').html(c.join(""));
 
     $("#genreTable").tablesorter({showProcessing: true,
                                  theme: 'blue',
