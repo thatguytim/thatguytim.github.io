@@ -12,18 +12,20 @@ function fillTables()
 
 function fillAlbumTable() 
 {
+    var c = [];
     for (var i = 0; i < window.tagdata.length; i++) {
-        $('#albumTable tr:last').after("<tr>" + 
-                                      "<td>" + window.tagdata[i].artist + "</td>" +
-                                      "<td>" + window.tagdata[i].album + "</td>" +
-                                      "<td>" + window.tagdata[i].rating.toFixed(2) + "</td>" +
-                                      "<td>" + window.tagdata[i].stddev.toFixed(2) + "</td>" +
-                                      "<td>" + window.tagdata[i].genres + "</td>" +
-                                      "<td>" + window.tagdata[i].codec + "</td>" +
-                                      "<td>" + window.tagdata[i].nrated + "/" +
-                                               window.tagdata[i].nsongs + "</td>" + 
-                                      "</tr>");
+        c.push ("<tr>" +
+                "<td>" + window.tagdata[i].artist + "</td>" +
+                "<td>" + window.tagdata[i].album + "</td>" +
+                "<td>" + window.tagdata[i].rating.toFixed(2) + "</td>" +
+                "<td>" + window.tagdata[i].stddev.toFixed(2) + "</td>" +
+                "<td>" + window.tagdata[i].genres + "</td>" +
+                "<td>" + window.tagdata[i].codec + "</td>" +
+                "<td>" + window.tagdata[i].nrated + "/" +
+                         window.tagdata[i].nsongs + "</td>" +
+                "</tr>");
     }
+    $('#albumTable tbody').html(c.join(""));
 }
 
 function fillArtistTable()
@@ -31,6 +33,7 @@ function fillArtistTable()
     var result = _.groupBy(window.tagdata, 'artist');
     var rlen = Object.keys(result).length;
 
+    var c = [];
     for (var key in result)
     {
        if (!result.hasOwnProperty(key))
@@ -47,7 +50,7 @@ function fillArtistTable()
        avgRating /= albums.length;
        avgStdev /= albums.length;
         
-        $('#artistTable tr:last').after('<tr>' + 
+        c.push('<tr>' +
                                       '<td>' + key + '</td>' +
                                       '<td colspan="2">' + avgRating.toFixed(2) + '</td>' +
                                       '<td colspan="2">' + avgStdev.toFixed(2) + '</td>' +
@@ -58,18 +61,20 @@ function fillArtistTable()
 
         for (var j = 0; j < albums.length; j++ )
         {
-            childstr += "<tr class='tablesorter-childRow'><td></td><td>";
-            childstr += albums[j].album + "</td><td>" +
+            c.push("<tr class='tablesorter-childRow'><td></td><td>");
+            c.push("" + albums[j].album + "</td><td>" +
                         albums[j].rating.toFixed(2) + "</td><td>" +
                         albums[j].stddev.toFixed(2) + "</td><td>" +
                         albums[j].genres + "</td><td>" +
                         albums[j].nrated + "/" +
-                        albums[j].nsongs;        
-            childstr += "</td></tr>";
+                        albums[j].nsongs);
+            c.push("</td></tr>");
         }
-        
-        $('#artistTable tr:last').after(childstr);
     }
+
+    $('#artistTable tbody').html(c.join(""));
+
+
     //$("#datatable").trigger("update");   
     $('#artistTable .tablesorter-childRow td').hide();
     
