@@ -5,8 +5,8 @@ function fillTables()
     window.artistStriped = false;
     window.genreStriped = false;
 
-    //fillAlbumTable();
-    //fillArtistTable();
+    fillAlbumTable();
+    fillArtistTable();
     fillGenreTable();
 }
 
@@ -24,12 +24,6 @@ function fillAlbumTable()
                                                window.tagdata[i].nsongs + "</td>" + 
                                       "</tr>");
     }
-    
-    $("#albumTable").tablesorter({showProcessing: true,
-                                 theme: 'blue',
-                                 ignoreCase: true,
-                                 widgets: ["zebra", "filter"],
-                                 sortList: [[2,1]]});    
 }
 
 function fillArtistTable()
@@ -90,13 +84,6 @@ function fillArtistTable()
 
         return false;
       });
-    
-    $("#artistTable").tablesorter({showProcessing: true,
-                                 cssChildRow: "tablesorter-childRow",
-                                 theme: 'blue',
-                                 ignoreCase: true,
-                                 widgets: ["zebra", "filter"],
-                                 sortList: [[1,1]]});
 }
 
 function fillGenreTable()
@@ -117,12 +104,42 @@ function fillGenreTable()
         }
     }
     $('#genreTable tbody').html(c.join(""));
+}
 
+function sortTables()
+{
+    sortAlbumTable();
+    sortArtistTable();
+    sortGenreTable();
+}
+
+function sortAlbumTable()
+{
+    $("#albumTable").tablesorter({showProcessing: true,
+        theme: 'blue',
+        ignoreCase: true,
+        widgets: ["zebra", "filter"],
+        sortList: [[2,1]]});
+}
+
+
+function sortArtistTable()
+{
+    $("#artistTable").tablesorter({showProcessing: true,
+        cssChildRow: "tablesorter-childRow",
+        theme: 'blue',
+        ignoreCase: true,
+        widgets: ["zebra", "filter"],
+        sortList: [[1,1]]});
+}
+
+function sortGenreTable()
+{
     $("#genreTable").tablesorter({showProcessing: true,
-                                 theme: 'blue',
-                                 ignoreCase: true,
-                                 widgets: ["zebra", "filter"],
-                                 sortList: [[4,0],[2,1]]});
+        theme: 'blue',
+        ignoreCase: true,
+        widgets: ["zebra", "filter"],
+        sortList: [[4,0],[2,1]]});
 }
 
 function showAlbumTable() {
@@ -189,6 +206,7 @@ function showGenreTable() {
 function startUp() {   
     $.getJSON("tagdata.json", function(json) {
         window.tagdata = json; 
-        fillTables();        
+        fillTables();
+        sortTables();
     });         
 };
