@@ -1194,19 +1194,6 @@
         "nrated": 23.0
     }, 
     {
-        "album": "From Your Grave", 
-        "rating": 8.25, 
-        "genres": [
-            "Metal", 
-            "Melodeath"
-        ], 
-        "stddev": 1.2716868718359877, 
-        "artist": "The Absence", 
-        "codec": "flac", 
-        "nsongs": 8.0, 
-        "nrated": 8.0
-    }, 
-    {
         "album": "White Noise", 
         "rating": 7.916666666666667, 
         "genres": [
@@ -1596,7 +1583,7 @@
         "genres": [
             "Rock"
         ], 
-        "stddev": 1.475676474934121, 
+        "stddev": 1.4756764749341211, 
         "artist": "America", 
         "codec": "flac", 
         "nsongs": 58.0, 
@@ -4134,19 +4121,6 @@
         "nrated": 13.0
     }, 
     {
-        "album": "Volvere", 
-        "rating": 8.272727272727273, 
-        "genres": [
-            "Metal", 
-            "Gothic"
-        ], 
-        "stddev": 1.0491311563960013, 
-        "artist": "Fall Of The Leafe", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
         "album": "Bark At The Moon [22 Bit Remastered 1995]", 
         "rating": 8.25, 
         "genres": [
@@ -5636,20 +5610,6 @@
         "nrated": 8.0
     }, 
     {
-        "album": "Haven", 
-        "rating": 7.818181818181818, 
-        "genres": [
-            "Power", 
-            "Symphonic", 
-            "Metal"
-        ], 
-        "stddev": 1.5364345428402597, 
-        "artist": "Kamelot", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
         "album": "Out To Die", 
         "rating": 9.25, 
         "genres": [
@@ -5819,19 +5779,6 @@
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
-    }, 
-    {
-        "album": "1. Outside (Limited Edition 2004)[Disc 1]", 
-        "rating": 8.285714285714286, 
-        "genres": [
-            "Rock", 
-            "Alternative"
-        ], 
-        "stddev": 1.3606292490435332, 
-        "artist": "David Bowie", 
-        "codec": "flac", 
-        "nsongs": 14.0, 
-        "nrated": 14.0
     }, 
     {
         "album": "Vow Wow III", 
@@ -6060,20 +6007,6 @@
         "nrated": 14.0
     }, 
     {
-        "album": "Abrahadabra", 
-        "rating": 8.454545454545455, 
-        "genres": [
-            "Symphonic", 
-            "Black", 
-            "Metal"
-        ], 
-        "stddev": 0.9779691925350761, 
-        "artist": "Dimmu Borgir", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
         "album": "Wide Angle", 
         "rating": 8.3, 
         "genres": [
@@ -6207,6 +6140,45 @@
         "codec": "flac", 
         "nsongs": 7.0, 
         "nrated": 7.0
+    }, 
+    {
+        "album": "Diving Into Darkness", 
+        "rating": 8.090909090909092, 
+        "genres": [
+            "Metal", 
+            "Gothic"
+        ], 
+        "stddev": 1.0829600196717155, 
+        "artist": "Darkseed", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Nightmares in the Waking State-Part 1", 
+        "rating": 8.4, 
+        "genres": [
+            "Metal", 
+            "Melodeath"
+        ], 
+        "stddev": 1.1419281938896158, 
+        "artist": "Solution .45", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Electronic Highway", 
+        "rating": 8.333333333333334, 
+        "genres": [
+            "Electronic", 
+            "Techno"
+        ], 
+        "stddev": 1.0482201257840669, 
+        "artist": "C.J. Bolland", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
     }, 
     {
         "album": "Broken Crown Halo", 
@@ -6574,11 +6546,11 @@
     }, 
     {
         "album": "Bow Down", 
-        "rating": 8.8, 
+        "rating": 8.7, 
         "genres": [
             "Rap"
         ], 
-        "stddev": 1.3475904422338412, 
+        "stddev": 1.2493998559308384, 
         "artist": "Westside Connection", 
         "codec": "flac", 
         "nsongs": 10.0, 
@@ -7257,19 +7229,6 @@
         "nrated": 7.0
     }, 
     {
-        "album": "Standard Issue", 
-        "rating": 8.2, 
-        "genres": [
-            "Electronic", 
-            "Industrial"
-        ], 
-        "stddev": 1.340149245420076, 
-        "artist": "Dismantled", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Crash Bang Wallop!", 
         "rating": 8.384615384615385, 
         "genres": [
@@ -7546,33 +7505,6 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "Utopia", 
-        "rating": 8.0, 
-        "genres": [
-            "Metal", 
-            "Industrial", 
-            "Darkwave"
-        ], 
-        "stddev": 0.9428090415820634, 
-        "artist": "Gothminister", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
-        "album": "Anima Inferna", 
-        "rating": 8.375, 
-        "genres": [
-            "Metal", 
-            "Gothic"
-        ], 
-        "stddev": 1.1030851621701745, 
-        "artist": "Gothminister", 
-        "codec": "flac", 
-        "nsongs": 8.0, 
-        "nrated": 8.0
     }, 
     {
         "album": "Colour Reform", 
@@ -8422,20 +8354,6 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "Welcome To Mikrosector-50", 
-        "rating": 8.416666666666666, 
-        "genres": [
-            "Electronic", 
-            "Funk", 
-            "Electro"
-        ], 
-        "stddev": 0.9821909560131747, 
-        "artist": "Space Dimension Controller", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 12.0
     }, 
     {
         "album": "Detachments", 
@@ -11654,14 +11572,14 @@
     }, 
     {
         "album": "The Final Frontier", 
-        "rating": 8.1, 
+        "rating": 8.0, 
         "genres": [
             "Metal", 
             "Traditional", 
             "Rock", 
             "Hard"
         ], 
-        "stddev": 1.0530906893520613, 
+        "stddev": 1.0, 
         "artist": "Iron Maiden", 
         "codec": "flac", 
         "nsongs": 10.0, 
@@ -11695,19 +11613,6 @@
         "codec": "flac", 
         "nsongs": 26.0, 
         "nrated": 26.0
-    }, 
-    {
-        "album": "1. Outside (Limited Edition 2004)[Disc 2]", 
-        "rating": 7.7272727272727275, 
-        "genres": [
-            "Rock", 
-            "Alternative"
-        ], 
-        "stddev": 1.4804003763272633, 
-        "artist": "David Bowie", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
     }, 
     {
         "album": "Oionos", 
@@ -12386,19 +12291,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Nightmares in the Waking State-Part 1", 
-        "rating": 8.4, 
-        "genres": [
-            "Metal", 
-            "Melodeath"
-        ], 
-        "stddev": 1.1419281938896158, 
-        "artist": "Solution.45", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Beyond Hell", 
         "rating": 8.454545454545455, 
         "genres": [
@@ -12547,19 +12439,6 @@
         "artist": "Kingdom Come", 
         "codec": "flac", 
         "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
-        "album": "Epica", 
-        "rating": 8.2, 
-        "genres": [
-            "Metal", 
-            "Power"
-        ], 
-        "stddev": 1.1644741302407706, 
-        "artist": "Kamelot", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
         "nrated": 10.0
     }, 
     {
@@ -12718,6 +12597,160 @@
         "codec": "flac", 
         "nsongs": 12.0, 
         "nrated": 12.0
+    }, 
+    {
+        "album": "Eat my Fuc", 
+        "rating": 8.923076923076923, 
+        "genres": [
+            "Punk"
+        ], 
+        "stddev": 1.2329861690367652, 
+        "artist": "GG Allin", 
+        "codec": "mp3", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "Eksel CD", 
+        "rating": 8.083333333333334, 
+        "genres": [
+            "Electronic", 
+            "IDM"
+        ], 
+        "stddev": 1.1084168723738208, 
+        "artist": "D'arcangelo", 
+        "codec": "mp3", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Thunder And Lightning (2013 Deluxe Edition) (Disc One)", 
+        "rating": 9.11111111111111, 
+        "genres": [
+            "Hard", 
+            "Rock"
+        ], 
+        "stddev": 1.3374422285383545, 
+        "artist": "Thin Lizzy", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Dismantling Devotion", 
+        "rating": 8.125, 
+        "genres": [
+            "Metal", 
+            "Doom"
+        ], 
+        "stddev": 1.165084492644203, 
+        "artist": "Daylight Dies", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Doomsday Rock'n'Roll", 
+        "rating": 7.9, 
+        "genres": [
+            "Rock", 
+            "Death & Roll", 
+            "Metal"
+        ], 
+        "stddev": 1.0435516278555652, 
+        "artist": "Chrome Division", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Dynamite", 
+        "rating": 8.090909090909092, 
+        "genres": [
+            "Funk"
+        ], 
+        "stddev": 1.4485931930387173, 
+        "artist": "Jamiroquai", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Emergency on Planet Earth", 
+        "rating": 7.5, 
+        "genres": [
+            "Acid Jazz", 
+            "Funk"
+        ], 
+        "stddev": 1.2349089035228469, 
+        "artist": "Jamiroquai", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "The Best Of David Bowie 1974-1979", 
+        "rating": 7.823529411764706, 
+        "genres": [
+            "Pop", 
+            "Rock"
+        ], 
+        "stddev": 1.157898388898982, 
+        "artist": "David Bowie", 
+        "codec": "flac", 
+        "nsongs": 17.0, 
+        "nrated": 17.0
+    }, 
+    {
+        "album": "The Best Of David Bowie 1969-1974", 
+        "rating": 8.15, 
+        "genres": [
+            "Pop", 
+            "Rock"
+        ], 
+        "stddev": 1.4684600777685448, 
+        "artist": "David Bowie", 
+        "codec": "flac", 
+        "nsongs": 20.0, 
+        "nrated": 20.0
+    }, 
+    {
+        "album": "The Best Of David Bowie 1980-1987", 
+        "rating": 8.222222222222221, 
+        "genres": [
+            "Pop"
+        ], 
+        "stddev": 2.4388263160228627, 
+        "artist": "David Bowie", 
+        "codec": "flac", 
+        "nsongs": 18.0, 
+        "nrated": 18.0
+    }, 
+    {
+        "album": "1. Outside (Limited Edition 2004)[Disc 1]", 
+        "rating": 8.285714285714286, 
+        "genres": [
+            "Rock", 
+            "Alternative"
+        ], 
+        "stddev": 1.3829448445793808, 
+        "artist": "David Bowie", 
+        "codec": "flac", 
+        "nsongs": 14.0, 
+        "nrated": 14.0
+    }, 
+    {
+        "album": "Destiny", 
+        "rating": 8.272727272727273, 
+        "genres": [
+            "Rock", 
+            "Hair"
+        ], 
+        "stddev": 0.9585708119396442, 
+        "artist": "Marchello", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
     }, 
     {
         "album": "Prisma", 
@@ -15044,7 +15077,7 @@
             "Electronic", 
             "Electro"
         ], 
-        "stddev": 1.378404875209022, 
+        "stddev": 1.3038404810405297, 
         "artist": "Paul Hardcastle", 
         "codec": "flac", 
         "nsongs": 10.0, 
@@ -15388,20 +15421,6 @@
         "nrated": 14.0
     }, 
     {
-        "album": "Dawnrazor", 
-        "rating": 8.25, 
-        "genres": [
-            "Rock", 
-            "Gothic", 
-            "Goth"
-        ], 
-        "stddev": 1.1792476415070754, 
-        "artist": "Fields Of The Nephilim", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
         "album": "Broken Toys' Corner", 
         "rating": 8.083333333333334, 
         "genres": [
@@ -15491,19 +15510,6 @@
             "Rock"
         ], 
         "stddev": 1.4064324108183355, 
-        "artist": "Thin Lizzy", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
-        "album": "Thunder And Lightning (2013 Deluxe Edition) (Disc One)", 
-        "rating": 9.0, 
-        "genres": [
-            "Hard", 
-            "Rock"
-        ], 
-        "stddev": 1.2909944487358056, 
         "artist": "Thin Lizzy", 
         "codec": "flac", 
         "nsongs": 9.0, 
@@ -18841,6 +18847,91 @@
         "nrated": 10.0
     }, 
     {
+        "album": "Break The Beat", 
+        "rating": 8.0, 
+        "genres": [
+            "Electronic", 
+            "Darkstep", 
+            "Drum & Bass", 
+            "Techstep"
+        ], 
+        "stddev": 1.632993161855452, 
+        "artist": "PinK Eruption", 
+        "codec": "mp3", 
+        "nsongs": 6.0, 
+        "nrated": 6.0
+    }, 
+    {
+        "album": "Break The Beat", 
+        "rating": 8.2, 
+        "genres": [
+            "Electronic", 
+            "Darkstep", 
+            "Drum & Bass"
+        ], 
+        "stddev": 1.3236313686219436, 
+        "artist": "ChAoS SpY", 
+        "codec": "mp3", 
+        "nsongs": 5.0, 
+        "nrated": 5.0
+    }, 
+    {
+        "album": "Dream Evil (2013 Deluxe Edition (Disc One)", 
+        "rating": 8.222222222222221, 
+        "genres": [
+            "Metal", 
+            "Traditional"
+        ], 
+        "stddev": 1.130691668331389, 
+        "artist": "Dio", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Environments", 
+        "rating": 8.363636363636363, 
+        "genres": [
+            "Electronic", 
+            "Drum & Bass", 
+            "Techstep"
+        ], 
+        "stddev": 0.9729628200172851, 
+        "artist": "ASC", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Levitate", 
+        "rating": 8.714285714285714, 
+        "genres": [
+            "Electronic", 
+            "Techno", 
+            "Breaks"
+        ], 
+        "stddev": 1.3584848359708264, 
+        "artist": "Lone", 
+        "codec": "flac", 
+        "nsongs": 7.0, 
+        "nrated": 7.0
+    }, 
+    {
+        "album": "Distant Earth (Deluxe Edition)", 
+        "rating": 7.708333333333333, 
+        "genres": [
+            "Electronic", 
+            "Dance", 
+            "EDM", 
+            "Pop"
+        ], 
+        "stddev": 1.096837573224512, 
+        "artist": "ATB", 
+        "codec": "flac", 
+        "nsongs": 24.0, 
+        "nrated": 24.0
+    }, 
+    {
         "album": "Mount Egonaut", 
         "rating": 8.3, 
         "genres": [
@@ -20937,6 +21028,88 @@
         "nrated": 15.0
     }, 
     {
+        "album": "Don't Look Back", 
+        "rating": 8.142857142857142, 
+        "genres": [
+            "Rock", 
+            "AOR"
+        ], 
+        "stddev": 1.2442286591572393, 
+        "artist": "Boston", 
+        "codec": "flac", 
+        "nsongs": 7.0, 
+        "nrated": 7.0
+    }, 
+    {
+        "album": "Doubt", 
+        "rating": 8.0, 
+        "genres": [
+            "Alternative", 
+            "Pop", 
+            "Grebo", 
+            "Dance", 
+            "Rock"
+        ], 
+        "stddev": 1.224744871391589, 
+        "artist": "Jesus Jones", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Disengage", 
+        "rating": 8.384615384615385, 
+        "genres": [
+            "Electronic", 
+            "Industrial", 
+            "Rock"
+        ], 
+        "stddev": 1.426870044788775, 
+        "artist": "Circle Of Dust", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "Earth Revolt", 
+        "rating": 7.666666666666667, 
+        "genres": [
+            "Metal", 
+            "Melodeath"
+        ], 
+        "stddev": 0.8958064164776164, 
+        "artist": "Deadlock", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "The Lexicon Of Love II", 
+        "rating": 7.7, 
+        "genres": [
+            "Pop", 
+            "Sophisti-Pop"
+        ], 
+        "stddev": 1.342013412749664, 
+        "artist": "ABC", 
+        "codec": "mp3", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Emotional Technology", 
+        "rating": 7.916666666666667, 
+        "genres": [
+            "Electronic", 
+            "Dance"
+        ], 
+        "stddev": 1.8909812757362736, 
+        "artist": "BT", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
         "album": "Rise Of The Hero", 
         "rating": 8.363636363636363, 
         "genres": [
@@ -22315,20 +22488,6 @@
         "codec": "flac", 
         "nsongs": 13.0, 
         "nrated": 13.0
-    }, 
-    {
-        "album": "Death Cult Armageddon", 
-        "rating": 8.333333333333334, 
-        "genres": [
-            "Metal", 
-            "Death", 
-            "Black"
-        ], 
-        "stddev": 1.04969131264951, 
-        "artist": "Dimmu Borgir", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
     }, 
     {
         "album": "1996 - 2003 Releaded", 
@@ -26248,6 +26407,100 @@
         "nrated": 10.0
     }, 
     {
+        "album": "World On Fire", 
+        "rating": 8.5, 
+        "genres": [
+            "Metal", 
+            "Shred", 
+            "Neoclassical"
+        ], 
+        "stddev": 1.0124228365658292, 
+        "artist": "Yngwie Malmsteen", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Door To Door", 
+        "rating": 8.090909090909092, 
+        "genres": [
+            "Rock", 
+            "Pop"
+        ], 
+        "stddev": 1.2461812442271634, 
+        "artist": "The Cars", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Double Platinum", 
+        "rating": 8.65, 
+        "genres": [
+            "Rock", 
+            "Hard"
+        ], 
+        "stddev": 1.6451063795390255, 
+        "artist": "KISS", 
+        "codec": "flac", 
+        "nsongs": 20.0, 
+        "nrated": 20.0
+    }, 
+    {
+        "album": "Eat Raw for Breakfast", 
+        "rating": 8.0, 
+        "genres": [
+            "Electronic", 
+            "Dance", 
+            "EDM"
+        ], 
+        "stddev": 1.0, 
+        "artist": "Blank & Jones", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Discovery", 
+        "rating": 8.538461538461538, 
+        "genres": [
+            "Electronic", 
+            "Dance"
+        ], 
+        "stddev": 1.1100156436628041, 
+        "artist": "Daft Punk", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "Downhearted", 
+        "rating": 8.272727272727273, 
+        "genres": [
+            "Metal", 
+            "Gothic", 
+            "Rock"
+        ], 
+        "stddev": 1.132472677435969, 
+        "artist": "Charon", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "The Fall of Hearts", 
+        "rating": 8.0, 
+        "genres": [
+            "Melancholy", 
+            "Rock"
+        ], 
+        "stddev": 0.9128709291752769, 
+        "artist": "Katatonia", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
         "album": "Just Me", 
         "rating": 7.9, 
         "genres": [
@@ -26458,19 +26711,6 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "Tigerdrottningen", 
-        "rating": 8.090909090909092, 
-        "genres": [
-            "Indie", 
-            "Pop"
-        ], 
-        "stddev": 1.0905646839262664, 
-        "artist": "Kent", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
     }, 
     {
         "album": "Reality Testing", 
@@ -32985,20 +33225,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Brainstorm", 
-        "rating": 8.285714285714286, 
-        "genres": [
-            "Electronic", 
-            "Popstep", 
-            "Electroclash"
-        ], 
-        "stddev": 1.1555418503585362, 
-        "artist": "John B", 
-        "codec": "flac", 
-        "nsongs": 7.0, 
-        "nrated": 7.0
-    }, 
-    {
         "album": "Brimborium", 
         "rating": 8.166666666666666, 
         "genres": [
@@ -33319,19 +33545,6 @@
         "codec": "flac", 
         "nsongs": 5.0, 
         "nrated": 5.0
-    }, 
-    {
-        "album": "Catalyst", 
-        "rating": 7.909090909090909, 
-        "genres": [
-            "Electronic", 
-            "Drum & Bass"
-        ], 
-        "stddev": 1.239683195515765, 
-        "artist": "John B", 
-        "codec": "flac", 
-        "nsongs": 22.0, 
-        "nrated": 22.0
     }, 
     {
         "album": "Far From the Maddening Crowds", 
@@ -34450,5 +34663,127 @@
         "codec": "flac", 
         "nsongs": 12.0, 
         "nrated": 12.0
+    }, 
+    {
+        "album": "Ending Of Time", 
+        "rating": 8.4, 
+        "genres": [
+            "Electronic", 
+            "House", 
+            "Deep", 
+            "Tech-House"
+        ], 
+        "stddev": 1.1933147112141038, 
+        "artist": "DJ Yellow Pres. Mindz Kontrol Ultra", 
+        "codec": "mp3", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Dragonchaser", 
+        "rating": 8.2, 
+        "genres": [
+            "Metal, Power, Neoclassical", 
+            "Metal"
+        ], 
+        "stddev": 1.3251415018781956, 
+        "artist": "At Vance", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Dystopia", 
+        "rating": 8.083333333333334, 
+        "genres": [
+            "Metal", 
+            "Traditional"
+        ], 
+        "stddev": 1.0372127000693663, 
+        "artist": "Iced Earth", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Don't Keep Me Waiting", 
+        "rating": 7.916666666666667, 
+        "genres": [
+            "R&B", 
+            "Electronic"
+        ], 
+        "stddev": 1.0571077768382238, 
+        "artist": "Jaki Graham", 
+        "codec": "mp3", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Episode 91", 
+        "rating": 7.857142857142857, 
+        "genres": [
+            "Electronic", 
+            "Drum & Bass", 
+            "Liquid"
+        ], 
+        "stddev": 0.9250325027777866, 
+        "artist": "Command Strange", 
+        "codec": "flac", 
+        "nsongs": 14.0, 
+        "nrated": 14.0
+    }, 
+    {
+        "album": "Seal The Deal & Let's Boogie (Deluxe)", 
+        "rating": 8.733333333333333, 
+        "genres": [
+            "Rock", 
+            "Hard", 
+            "Metalbilly", 
+            "Metal"
+        ], 
+        "stddev": 0.9796446823740248, 
+        "artist": "Volbeat", 
+        "codec": "flac", 
+        "nsongs": 15.0, 
+        "nrated": 15.0
+    }, 
+    {
+        "album": "Epicus, Doomicus, Metallicus", 
+        "rating": 8.0, 
+        "genres": [
+            "Metal", 
+            "Doom"
+        ], 
+        "stddev": 1.2909944487358056, 
+        "artist": "Candlemass", 
+        "codec": "flac", 
+        "nsongs": 6.0, 
+        "nrated": 6.0
+    }, 
+    {
+        "album": "Heavy Rock Radio", 
+        "rating": 9.333333333333334, 
+        "genres": [
+            "Metal", 
+            "Traditional"
+        ], 
+        "stddev": 1.1626916409142414, 
+        "artist": "Jorn", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Emotional Technology (Special Collector's Edition)", 
+        "rating": 8.222222222222221, 
+        "genres": [
+            "Electronic", 
+            "Progressive House"
+        ], 
+        "stddev": 1.8710119911577912, 
+        "artist": "BT", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
     }
 ]
