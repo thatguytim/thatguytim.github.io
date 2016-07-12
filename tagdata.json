@@ -989,20 +989,6 @@
         "nrated": 13.0
     }, 
     {
-        "album": " The Machinists Of Joy", 
-        "rating": 8.0625, 
-        "genres": [
-            "Electronic", 
-            "Industrial", 
-            "EBM"
-        ], 
-        "stddev": 1.0878187392093408, 
-        "artist": "Die Krupps", 
-        "codec": "flac", 
-        "nsongs": 16.0, 
-        "nrated": 16.0
-    }, 
-    {
         "album": "Serpents Unleashed", 
         "rating": 7.545454545454546, 
         "genres": [
@@ -1735,6 +1721,20 @@
         "codec": "flac", 
         "nsongs": 21.0, 
         "nrated": 21.0
+    }, 
+    {
+        "album": "Eye Of The Hurricane", 
+        "rating": 8.272727272727273, 
+        "genres": [
+            "Metal", 
+            "Shred", 
+            "Traditional"
+        ], 
+        "stddev": 1.2503943780568525, 
+        "artist": "Impellitteri", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
     }, 
     {
         "album": "Supernatural Addiction", 
@@ -3501,7 +3501,7 @@
         "genres": [
             "Rock"
         ], 
-        "stddev": 1.1755527203195648, 
+        "stddev": 1.175552720319565, 
         "artist": "H.E.A.T", 
         "codec": "flac", 
         "nsongs": 14.0, 
@@ -4066,17 +4066,17 @@
     }, 
     {
         "album": "Famous Lost Words", 
-        "rating": 8.3, 
+        "rating": 8.272727272727273, 
         "genres": [
             "Electronic", 
             "Drum & Bass", 
             "Liquid"
         ], 
-        "stddev": 1.1229425630903833, 
+        "stddev": 1.072503128284629, 
         "artist": "Blu Mar Ten", 
         "codec": "flac", 
         "nsongs": 11.0, 
-        "nrated": 10.0
+        "nrated": 11.0
     }, 
     {
         "album": "Equals One Sudden Death", 
@@ -5125,19 +5125,6 @@
         "nrated": 9.0
     }, 
     {
-        "album": "Escape (Remastered)", 
-        "rating": 8.1, 
-        "genres": [
-            "Rock", 
-            "AOR"
-        ], 
-        "stddev": 1.438401890988746, 
-        "artist": "Journey", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Fire And Ice", 
         "rating": 8.642857142857142, 
         "genres": [
@@ -5549,22 +5536,6 @@
         "codec": "flac", 
         "nsongs": 8.0, 
         "nrated": 8.0
-    }, 
-    {
-        "album": "Die Evil", 
-        "rating": 8.444444444444445, 
-        "genres": [
-            "Metal", 
-            "Black", 
-            "Speed", 
-            "Thrash", 
-            "Satanic"
-        ], 
-        "stddev": 1.1558878914316473, 
-        "artist": "Satan's Wrath", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
     }, 
     {
         "album": "From The Essence Of Minimalistic Sound", 
@@ -8314,19 +8285,6 @@
         "nrated": 12.0
     }, 
     {
-        "album": "Deceiver Of The Gods (Deluxe Limited Edition)", 
-        "rating": 8.214285714285714, 
-        "genres": [
-            "Metal", 
-            "Melodeath"
-        ], 
-        "stddev": 0.840180807973774, 
-        "artist": "Amon Amarth", 
-        "codec": "flac", 
-        "nsongs": 14.0, 
-        "nrated": 14.0
-    }, 
-    {
         "album": "Holy Ghost!", 
         "rating": 8.6, 
         "genres": [
@@ -8613,32 +8571,6 @@
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
-    }, 
-    {
-        "album": "Europe", 
-        "rating": 8.666666666666666, 
-        "genres": [
-            "Rock", 
-            "Hair"
-        ], 
-        "stddev": 1.196703290474334, 
-        "artist": "Europe", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
-        "album": "Out Of This World", 
-        "rating": 8.0, 
-        "genres": [
-            "Rock", 
-            "Hair"
-        ], 
-        "stddev": 1.4719601443879744, 
-        "artist": "Europe", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
     }, 
     {
         "album": "Rapture", 
@@ -8996,19 +8928,6 @@
         ], 
         "stddev": 1.5504837954651445, 
         "artist": "Electronic", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
-        "album": "Kaiserhof", 
-        "rating": 8.0, 
-        "genres": [
-            "Metal", 
-            "Thrash"
-        ], 
-        "stddev": 1.0954451150103321, 
-        "artist": "Kayser", 
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
@@ -12753,6 +12672,98 @@
         "nrated": 11.0
     }, 
     {
+        "album": "Flashy", 
+        "rating": 7.0, 
+        "genres": [
+            "Rock", 
+            "Indie"
+        ], 
+        "stddev": 1.0, 
+        "artist": "Electric Six", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "Flesh_Power_Domination", 
+        "rating": 8.222222222222221, 
+        "genres": [
+            "Metal", 
+            "Melodeath"
+        ], 
+        "stddev": 1.0514866345613625, 
+        "artist": "Callenish Circle", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Fiction", 
+        "rating": 8.4, 
+        "genres": [
+            "Metal", 
+            "Melodeath"
+        ], 
+        "stddev": 1.0507140429250956, 
+        "artist": "Dark Tranquillity", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "State of Euphoria", 
+        "rating": 8.222222222222221, 
+        "genres": [
+            "Metal", 
+            "Thrash"
+        ], 
+        "stddev": 1.4721931047667995, 
+        "artist": "Anthrax", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Fistful of Metal", 
+        "rating": 8.4, 
+        "genres": [
+            "Metal", 
+            "Thrash"
+        ], 
+        "stddev": 1.1419281938896158, 
+        "artist": "Anthrax", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Persistence of Time", 
+        "rating": 8.1, 
+        "genres": [
+            "Metal", 
+            "Thrash"
+        ], 
+        "stddev": 1.1528226229563678, 
+        "artist": "Anthrax", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Delirium", 
+        "rating": 8.071428571428571, 
+        "genres": [
+            "Metal", 
+            "Alternative Metal", 
+            "Modern"
+        ], 
+        "stddev": 0.9607835116550566, 
+        "artist": "Lacuna Coil", 
+        "codec": "flac", 
+        "nsongs": 14.0, 
+        "nrated": 14.0
+    }, 
+    {
         "album": "Prisma", 
         "rating": 8.0, 
         "genres": [
@@ -14861,19 +14872,6 @@
         "codec": "flac", 
         "nsongs": 11.0, 
         "nrated": 11.0
-    }, 
-    {
-        "album": "Dawn of the End", 
-        "rating": 8.333333333333334, 
-        "genres": [
-            "Metal", 
-            "Thrash"
-        ], 
-        "stddev": 1.0482201257840669, 
-        "artist": "Hatchet", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
     }, 
     {
         "album": "Moongod", 
@@ -17052,18 +17050,6 @@
         "nrated": 11.0
     }, 
     {
-        "album": "Departure", 
-        "rating": 6.818181818181818, 
-        "genres": [
-            "Rock"
-        ], 
-        "stddev": 1.796774804886266, 
-        "artist": "Journey", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
         "album": "Crystal Visions: The Very Best Of", 
         "rating": 8.11111111111111, 
         "genres": [
@@ -18669,21 +18655,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Chaotic Nation", 
-        "rating": 8.0, 
-        "genres": [
-            "Metal", 
-            "Gothic", 
-            "Modern", 
-            "Rock"
-        ], 
-        "stddev": 1.0954451150103321, 
-        "artist": "Entwine", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Titanic Mass", 
         "rating": 8.272727272727273, 
         "genres": [
@@ -18930,6 +18901,143 @@
         "codec": "flac", 
         "nsongs": 24.0, 
         "nrated": 24.0
+    }, 
+    {
+        "album": "Fight Club OST", 
+        "rating": 7.866666666666666, 
+        "genres": [
+            "Trip-Hop"
+        ], 
+        "stddev": 0.8157704833355284, 
+        "artist": "The Dust Brothers", 
+        "codec": "flac", 
+        "nsongs": 15.0, 
+        "nrated": 15.0
+    }, 
+    {
+        "album": "First Light", 
+        "rating": 7.866666666666666, 
+        "genres": [
+            "Electronic", 
+            "Downtempo", 
+            "Smooth", 
+            "Jazz"
+        ], 
+        "stddev": 0.9746414345419169, 
+        "artist": "Paul Hardcastle", 
+        "codec": "flac", 
+        "nsongs": 15.0, 
+        "nrated": 15.0
+    }, 
+    {
+        "album": "Ride Forth", 
+        "rating": 8.333333333333334, 
+        "genres": [
+            "Metal", 
+            "Melodeath"
+        ], 
+        "stddev": 1.0829771494232179, 
+        "artist": "Exmortus", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Love Machine", 
+        "rating": 8.181818181818182, 
+        "genres": [
+            "Rock", 
+            "Hair"
+        ], 
+        "stddev": 1.027056950935933, 
+        "artist": "Brighton Rock", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Greatest Hits", 
+        "rating": 8.9375, 
+        "genres": [
+            "Rock", 
+            "Pop"
+        ], 
+        "stddev": 1.5372173266571647, 
+        "artist": "Fleetwood Mac", 
+        "codec": "flac", 
+        "nsongs": 16.0, 
+        "nrated": 16.0
+    }, 
+    {
+        "album": "Silver And Gold", 
+        "rating": 8.7, 
+        "genres": [
+            "Rock", 
+            "Hard"
+        ], 
+        "stddev": 1.225153051663342, 
+        "artist": "A.S.A.P.", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Mob Rules", 
+        "rating": 9.375, 
+        "genres": [
+            "Metal", 
+            "Traditional"
+        ], 
+        "stddev": 1.2982861298650619, 
+        "artist": "Black Sabbath", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "A Silent Reign", 
+        "rating": 8.75, 
+        "genres": [
+            "Electronic", 
+            "Etherial", 
+            "Dub", 
+            "Ambient"
+        ], 
+        "stddev": 1.4306903927824497, 
+        "artist": "bvdub", 
+        "codec": "flac", 
+        "nsongs": 4.0, 
+        "nrated": 4.0
+    }, 
+    {
+        "album": "I Never Cried A Tear EP", 
+        "rating": 8.75, 
+        "genres": [
+            "Electronic", 
+            "Etherial", 
+            "Dub", 
+            "Techno", 
+            "Minimal"
+        ], 
+        "stddev": 1.5562374497485916, 
+        "artist": "bvdub", 
+        "codec": "flac", 
+        "nsongs": 4.0, 
+        "nrated": 4.0
+    }, 
+    {
+        "album": "Ex Machina", 
+        "rating": 9.0, 
+        "genres": [
+            "Electronic", 
+            "Techno", 
+            "Tech-House"
+        ], 
+        "stddev": 1.0488088481701516, 
+        "artist": "Aril Brikha", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
     }, 
     {
         "album": "Mount Egonaut", 
@@ -19652,14 +19760,14 @@
     }, 
     {
         "album": "Ice on the Dune", 
-        "rating": 9.090909090909092, 
+        "rating": 9.181818181818182, 
         "genres": [
             "Electronic", 
             "Electropop", 
             "Dance", 
             "Pop"
         ], 
-        "stddev": 1.1241492316932185, 
+        "stddev": 1.1522036509198748, 
         "artist": "Empire Of The Sun", 
         "codec": "flac", 
         "nsongs": 11.0, 
@@ -19719,19 +19827,6 @@
         "codec": "flac", 
         "nsongs": 6.0, 
         "nrated": 6.0
-    }, 
-    {
-        "album": "Burst Into The Quiet", 
-        "rating": 8.125, 
-        "genres": [
-            "Metal", 
-            "Thrash"
-        ], 
-        "stddev": 1.052341140030171, 
-        "artist": "Game Over", 
-        "codec": "flac", 
-        "nsongs": 8.0, 
-        "nrated": 8.0
     }, 
     {
         "album": "April", 
@@ -20866,19 +20961,6 @@
         "nrated": 5.0
     }, 
     {
-        "album": "City Echoes", 
-        "rating": 8.23076923076923, 
-        "genres": [
-            "Electronic", 
-            "Downtempo"
-        ], 
-        "stddev": 1.1181866456910179, 
-        "artist": "Audiokonstrukte", 
-        "codec": "mp3", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
-    }, 
-    {
         "album": "Here & Now", 
         "rating": 8.45, 
         "genres": [
@@ -21001,20 +21083,6 @@
         "nrated": 12.0
     }, 
     {
-        "album": "Jomsviking", 
-        "rating": 7.909090909090909, 
-        "genres": [
-            "Metal", 
-            "Melodeath", 
-            "Viking"
-        ], 
-        "stddev": 0.9954819046015758, 
-        "artist": "Amon Amarth", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
         "album": "Digimortal", 
         "rating": 7.8, 
         "genres": [
@@ -21108,6 +21176,33 @@
         "codec": "flac", 
         "nsongs": 12.0, 
         "nrated": 12.0
+    }, 
+    {
+        "album": "We Want It", 
+        "rating": 8.363636363636363, 
+        "genres": [
+            "Rock", 
+            "Hair"
+        ], 
+        "stddev": 1.0063659133810756, 
+        "artist": "Laos", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Aero Nautical", 
+        "rating": 7.9, 
+        "genres": [
+            "Indie", 
+            "Pop", 
+            "Rock"
+        ], 
+        "stddev": 1.1441153787970861, 
+        "artist": "The Panic Division", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
     }, 
     {
         "album": "Rise Of The Hero", 
@@ -22463,19 +22558,6 @@
         "nrated": 15.0
     }, 
     {
-        "album": "The Best Tunes For Languid Evenings", 
-        "rating": 7.882352941176471, 
-        "genres": [
-            "Jazz", 
-            "Smooth"
-        ], 
-        "stddev": 1.5671417416262141, 
-        "artist": "Chris Botti", 
-        "codec": "flac", 
-        "nsongs": 17.0, 
-        "nrated": 17.0
-    }, 
-    {
         "album": "A Night on Earth", 
         "rating": 8.153846153846153, 
         "genres": [
@@ -22737,20 +22819,6 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "Endwise", 
-        "rating": 7.818181818181818, 
-        "genres": [
-            "Electronic", 
-            "Tech-House", 
-            "Techno"
-        ], 
-        "stddev": 1.5841058787250522, 
-        "artist": "Jeff Bennett", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
     }, 
     {
         "album": "Never Say Die (2009 Deluxe)", 
@@ -26501,6 +26569,125 @@
         "nrated": 12.0
     }, 
     {
+        "album": "Facing Your Enemy", 
+        "rating": 7.333333333333333, 
+        "genres": [
+            "Rock", 
+            "Hard"
+        ], 
+        "stddev": 1.9626135258506325, 
+        "artist": "At Vance", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Hair of the Dog", 
+        "rating": 8.0, 
+        "genres": [
+            "Metal", 
+            "Traditional", 
+            "Speed"
+        ], 
+        "stddev": 1.0954451150103321, 
+        "artist": "Monument", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Explosion", 
+        "rating": 8.25, 
+        "genres": [
+            "Electronic", 
+            "Industrial"
+        ], 
+        "stddev": 1.3199195051214296, 
+        "artist": "Front Line Assembly", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "FLAvour of the weak", 
+        "rating": 8.125, 
+        "genres": [
+            "Electronic", 
+            "Industrial"
+        ], 
+        "stddev": 1.2678414234437996, 
+        "artist": "Front Line Assembly", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Fallout", 
+        "rating": 7.666666666666667, 
+        "genres": [
+            "Electronic", 
+            "Industrial"
+        ], 
+        "stddev": 1.174576361770332, 
+        "artist": "Frontline Assembly", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Epitaph", 
+        "rating": 8.1, 
+        "genres": [
+            "Electronic", 
+            "Industrial"
+        ], 
+        "stddev": 1.0435516278555652, 
+        "artist": "Front Line Assembly", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Vessels", 
+        "rating": 8.428571428571429, 
+        "genres": [
+            "Metal", 
+            "Melodeath", 
+            "Progressive"
+        ], 
+        "stddev": 1.2181810270141544, 
+        "artist": "Be'lakor", 
+        "codec": "flac", 
+        "nsongs": 7.0, 
+        "nrated": 7.0
+    }, 
+    {
+        "album": "Fastlane People", 
+        "rating": 7.9, 
+        "genres": [
+            "Electronic", 
+            "Dance"
+        ], 
+        "stddev": 1.6337074401495517, 
+        "artist": "Antiloop", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "The Uncanny Valley", 
+        "rating": 8.307692307692308, 
+        "genres": [
+            "Electronic", 
+            "Synthwave"
+        ], 
+        "stddev": 1.0624556538444232, 
+        "artist": "Perturbator", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
         "album": "Just Me", 
         "rating": 7.9, 
         "genres": [
@@ -26992,7 +27179,7 @@
             "Etherial", 
             "Ambient"
         ], 
-        "stddev": 1.5612494995995996, 
+        "stddev": 1.479019945774904, 
         "artist": "Bvdub", 
         "codec": "flac", 
         "nsongs": 4.0, 
@@ -33174,19 +33361,6 @@
         "nrated": 13.0
     }, 
     {
-        "album": "Infinity", 
-        "rating": 7.9, 
-        "genres": [
-            "Rock", 
-            "AOR"
-        ], 
-        "stddev": 1.2996153277027784, 
-        "artist": "Journey", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Left Hand Path", 
         "rating": 8.75, 
         "genres": [
@@ -34612,20 +34786,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "DiEversity", 
-        "rating": 8.4, 
-        "genres": [
-            "Metal", 
-            "Rock", 
-            "Gothic"
-        ], 
-        "stddev": 1.0881176406988355, 
-        "artist": "Entwine", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Different Faces", 
         "rating": 8.181818181818182, 
         "genres": [
@@ -34782,6 +34942,330 @@
         ], 
         "stddev": 1.8710119911577912, 
         "artist": "BT", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "FireHouse 3", 
+        "rating": 8.0, 
+        "genres": [
+            "Rock", 
+            "Hair"
+        ], 
+        "stddev": 1.0954451150103321, 
+        "artist": "FireHouse", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Fire", 
+        "rating": 8.384615384615385, 
+        "genres": [
+            "Rock", 
+            "Indie"
+        ], 
+        "stddev": 1.2066799359858384, 
+        "artist": "Electric Six", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "Evolver", 
+        "rating": 7.777777777777778, 
+        "genres": [
+            "Electronic", 
+            "Synthpop", 
+            "Pop"
+        ], 
+        "stddev": 1.1306916683313888, 
+        "artist": "Lowe", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Fear Not", 
+        "rating": 7.769230769230769, 
+        "genres": [
+            "Electronic", 
+            "Drum & Bass"
+        ], 
+        "stddev": 1.047136677208652, 
+        "artist": "Logistics", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "Fancy Footwork (Fancier Edition Disc 1)", 
+        "rating": 8.0, 
+        "genres": [
+            "Pop", 
+            "Synth Funk", 
+            "Dance"
+        ], 
+        "stddev": 1.0, 
+        "artist": "Chromeo", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Exorcism", 
+        "rating": 7.6, 
+        "genres": [
+            "Indie"
+        ], 
+        "stddev": 1.8022208521710095, 
+        "artist": "Killing Joke", 
+        "codec": "mp3", 
+        "nsongs": 5.0, 
+        "nrated": 5.0
+    }, 
+    {
+        "album": "Faith", 
+        "rating": 7.75, 
+        "genres": [
+            "Rock", 
+            "Gothic", 
+            "Alternative"
+        ], 
+        "stddev": 1.3891319231808044, 
+        "artist": "The Cure", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Satanic Serenades CD2", 
+        "rating": 8.136363636363637, 
+        "genres": [
+            "Metal", 
+            "Death", 
+            "Satanic"
+        ], 
+        "stddev": 0.8138660278847208, 
+        "artist": "Infestdead", 
+        "codec": "flac", 
+        "nsongs": 22.0, 
+        "nrated": 22.0
+    }, 
+    {
+        "album": "Satanic Serenades CD1", 
+        "rating": 8.416666666666666, 
+        "genres": [
+            "Metal", 
+            "Death", 
+            "Satanic"
+        ], 
+        "stddev": 0.9821909560131747, 
+        "artist": "Infestdead", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Europe", 
+        "rating": 8.666666666666666, 
+        "genres": [
+            "Rock", 
+            "Hair"
+        ], 
+        "stddev": 1.196703290474334, 
+        "artist": "Europe", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Out Of This World", 
+        "rating": 8.0, 
+        "genres": [
+            "Rock", 
+            "Hair"
+        ], 
+        "stddev": 1.4719601443879744, 
+        "artist": "Europe", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Everything Is Ok", 
+        "rating": 8.545454545454545, 
+        "genres": [
+            "Electronic", 
+            "Progressive House", 
+            "Trance"
+        ], 
+        "stddev": 1.0630039795579194, 
+        "artist": "Jaytech", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Evil Is Forever", 
+        "rating": 7.909090909090909, 
+        "genres": [
+            "Metal", 
+            "Power", 
+            "Rock", 
+            "Hard", 
+            "Traditional"
+        ], 
+        "stddev": 0.8995365698908516, 
+        "artist": "Astral Doors", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Nah Und Fern CD02: Zauberberg", 
+        "rating": 8.0, 
+        "genres": [
+            "Electronic", 
+            "Ambient"
+        ], 
+        "stddev": 1.1952286093343936, 
+        "artist": "Gas", 
+        "codec": "flac", 
+        "nsongs": 7.0, 
+        "nrated": 7.0
+    }, 
+    {
+        "album": "Nah Und Fern CD04: Pop", 
+        "rating": 7.714285714285714, 
+        "genres": [
+            "Electronic", 
+            "Ambient"
+        ], 
+        "stddev": 1.1555418503585357, 
+        "artist": "Gas", 
+        "codec": "flac", 
+        "nsongs": 7.0, 
+        "nrated": 7.0
+    }, 
+    {
+        "album": "Nah Und Fern CD03: K\u00f6nigsforst", 
+        "rating": 7.666666666666667, 
+        "genres": [
+            "Electronic", 
+            "Ambient", 
+            "Dub"
+        ], 
+        "stddev": 1.3676148472323522, 
+        "artist": "Gas", 
+        "codec": "flac", 
+        "nsongs": 6.0, 
+        "nrated": 6.0
+    }, 
+    {
+        "album": "Nah Und Fern CD01- Gas", 
+        "rating": 7.833333333333333, 
+        "genres": [
+            "Electronic", 
+            "Ambient", 
+            "Dub"
+        ], 
+        "stddev": 1.2114423604086961, 
+        "artist": "Gas", 
+        "codec": "flac", 
+        "nsongs": 6.0, 
+        "nrated": 6.0
+    }, 
+    {
+        "album": "Versus", 
+        "rating": 8.272727272727273, 
+        "genres": [
+            "Rock", 
+            "Indie"
+        ], 
+        "stddev": 1.2304061621337397, 
+        "artist": "The Panic Division", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Follow The Blind", 
+        "rating": 8.571428571428571, 
+        "genres": [
+            "Metal", 
+            "Power"
+        ], 
+        "stddev": 1.3226001425322167, 
+        "artist": "Blind Guardian", 
+        "codec": "flac", 
+        "nsongs": 7.0, 
+        "nrated": 7.0
+    }, 
+    {
+        "album": "Fragments of D-Generation", 
+        "rating": 8.5, 
+        "genres": [
+            "Metal", 
+            "Melodeath"
+        ], 
+        "stddev": 1.0124228365658292, 
+        "artist": "Disarmonia Mundi", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Fireball (25th Anniversary Edition)", 
+        "rating": 7.714285714285714, 
+        "genres": [
+            "Rock"
+        ], 
+        "stddev": 1.2891111589676534, 
+        "artist": "Deep Purple", 
+        "codec": "flac", 
+        "nsongs": 7.0, 
+        "nrated": 7.0
+    }, 
+    {
+        "album": "Who We Are", 
+        "rating": 8.272727272727273, 
+        "genres": [
+            "Rock", 
+            "AOR"
+        ], 
+        "stddev": 1.370231983079158, 
+        "artist": "Vega", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Dreams Of Red Chambers", 
+        "rating": 8.25, 
+        "genres": [
+            "Electronic", 
+            "Etherial", 
+            "Dub", 
+            "Ambient"
+        ], 
+        "stddev": 1.5155444566227676, 
+        "artist": "Bvdub", 
+        "codec": "flac", 
+        "nsongs": 4.0, 
+        "nrated": 4.0
+    }, 
+    {
+        "album": "Evangelion", 
+        "rating": 8.222222222222221, 
+        "genres": [
+            "Metal", 
+            "Death", 
+            "Black"
+        ], 
+        "stddev": 1.0514866345613625, 
+        "artist": "Behemoth", 
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
