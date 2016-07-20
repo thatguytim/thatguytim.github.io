@@ -39,32 +39,6 @@
         "nrated": 15.0
     }, 
     {
-        "album": "Trapped In Perdition", 
-        "rating": 7.9, 
-        "genres": [
-            "Metal", 
-            "Thrash"
-        ], 
-        "stddev": 1.0435516278555652, 
-        "artist": "Fueled By Fire", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
-        "album": "Spread the Fire (+2 Bonus Tracks)", 
-        "rating": 8.090909090909092, 
-        "genres": [
-            "Metal", 
-            "Thrash"
-        ], 
-        "stddev": 1.0905646839262664, 
-        "artist": "Fueled By Fire", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
         "album": "Ballyhoo: The Best of Echo & The Bunnymen", 
         "rating": 8.166666666666666, 
         "genres": [
@@ -1709,20 +1683,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Untraviolet Music", 
-        "rating": 7.9523809523809526, 
-        "genres": [
-            "Electronic", 
-            "Techno", 
-            "Dub"
-        ], 
-        "stddev": 0.722103850158384, 
-        "artist": "Deepchord", 
-        "codec": "flac", 
-        "nsongs": 21.0, 
-        "nrated": 21.0
-    }, 
-    {
         "album": "Eye Of The Hurricane", 
         "rating": 8.272727272727273, 
         "genres": [
@@ -2689,21 +2649,6 @@
         "nrated": 12.0
     }, 
     {
-        "album": "24/7", 
-        "rating": 8.0, 
-        "genres": [
-            "Electronic", 
-            "Pop", 
-            "Techno", 
-            "Synthpop"
-        ], 
-        "stddev": 1.2909944487358056, 
-        "artist": "GusGus", 
-        "codec": "flac", 
-        "nsongs": 6.0, 
-        "nrated": 6.0
-    }, 
-    {
         "album": "Sounds Of Violence", 
         "rating": 8.0, 
         "genres": [
@@ -3466,19 +3411,6 @@
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
-    }, 
-    {
-        "album": "A Healing Place", 
-        "rating": 8.5, 
-        "genres": [
-            "Rock", 
-            "Melancholy"
-        ], 
-        "stddev": 1.159202311936963, 
-        "artist": "The Chant", 
-        "codec": "flac", 
-        "nsongs": 8.0, 
-        "nrated": 8.0
     }, 
     {
         "album": "The Thousandfold Epicentre (Ltd. Artbook)", 
@@ -5818,20 +5750,6 @@
         "nrated": 12.0
     }, 
     {
-        "album": "Court In The Act (2008 Remaster)", 
-        "rating": 8.0, 
-        "genres": [
-            "Metal", 
-            "Traditional", 
-            "NWOBHM"
-        ], 
-        "stddev": 1.2649110640673518, 
-        "artist": "Satan", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 5.0
-    }, 
-    {
         "album": "Accident Of Birth", 
         "rating": 8.5, 
         "genres": [
@@ -7851,20 +7769,6 @@
         "nrated": 9.0
     }, 
     {
-        "album": "City Rain", 
-        "rating": 8.0625, 
-        "genres": [
-            "Electronic", 
-            "Indie", 
-            "Synthpop"
-        ], 
-        "stddev": 0.962048392428884, 
-        "artist": "City Rain", 
-        "codec": "flac", 
-        "nsongs": 16.0, 
-        "nrated": 16.0
-    }, 
-    {
         "album": "Listen Like Thieves", 
         "rating": 7.909090909090909, 
         "genres": [
@@ -8065,19 +7969,6 @@
         ], 
         "stddev": 1.1120540284914204, 
         "artist": "Michael Fakesch", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
-        "album": "Transient", 
-        "rating": 8.181818181818182, 
-        "genres": [
-            "Soul", 
-            "R&B"
-        ], 
-        "stddev": 1.1910005642745007, 
-        "artist": "Gaelle", 
         "codec": "flac", 
         "nsongs": 11.0, 
         "nrated": 11.0
@@ -8752,20 +8643,6 @@
         "codec": "flac", 
         "nsongs": 8.0, 
         "nrated": 8.0
-    }, 
-    {
-        "album": "Sommer", 
-        "rating": 7.75, 
-        "genres": [
-            "Electronic", 
-            "Techno", 
-            "Dub"
-        ], 
-        "stddev": 0.9213893494789992, 
-        "artist": "DeepChord", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
     }, 
     {
         "album": "Symbiotics", 
@@ -10078,19 +9955,6 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "Plagues Of Babylon (Limited Deluxe Edition)", 
-        "rating": 8.25, 
-        "genres": [
-            "Metal", 
-            "Thrash"
-        ], 
-        "stddev": 1.0282468899377555, 
-        "artist": "Iced Earth", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
     }, 
     {
         "album": "Skeleton Keys", 
@@ -11588,6 +11452,20 @@
         "nrated": 12.0
     }, 
     {
+        "album": "Court In The Act (2008 Remaster)", 
+        "rating": 8.090909090909092, 
+        "genres": [
+            "Metal", 
+            "Traditional", 
+            "NWOBHM"
+        ], 
+        "stddev": 0.9871450231700233, 
+        "artist": "Satan", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 11.0
+    }, 
+    {
         "album": "Abacab", 
         "rating": 7.555555555555555, 
         "genres": [
@@ -12764,6 +12642,74 @@
         "nrated": 14.0
     }, 
     {
+        "album": "Mixed Up", 
+        "rating": 8.5, 
+        "genres": [
+            "Rock", 
+            "Gothic", 
+            "Alternative", 
+            "Dance"
+        ], 
+        "stddev": 1.571225636247067, 
+        "artist": "The Cure", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Forbidden", 
+        "rating": 8.11111111111111, 
+        "genres": [
+            "Metal", 
+            "Traditional"
+        ], 
+        "stddev": 1.0993201540485797, 
+        "artist": "Black Sabbath", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "One Way Ticket To Hell... And Back", 
+        "rating": 8.0, 
+        "genres": [
+            "Rock", 
+            "Hard", 
+            "Hair"
+        ], 
+        "stddev": 1.61245154965971, 
+        "artist": "The Darkness", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Mass Confusion", 
+        "rating": 8.272727272727273, 
+        "genres": [
+            "Metal", 
+            "Thrash"
+        ], 
+        "stddev": 0.9585708119396442, 
+        "artist": "Dust Bolt", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "From the 13th Sun", 
+        "rating": 8.25, 
+        "genres": [
+            "Metal", 
+            "Doom"
+        ], 
+        "stddev": 1.221551267855754, 
+        "artist": "Candlemass", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
         "album": "Prisma", 
         "rating": 8.0, 
         "genres": [
@@ -13279,19 +13225,6 @@
         "nrated": 13.0
     }, 
     {
-        "album": "The Perfect Cult", 
-        "rating": 8.23076923076923, 
-        "genres": [
-            "Metal", 
-            "Industrial"
-        ], 
-        "stddev": 0.9709011622762752, 
-        "artist": "Deathstars", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
-    }, 
-    {
         "album": "Standing Stones", 
         "rating": 8.0, 
         "genres": [
@@ -13584,19 +13517,6 @@
         "codec": "flac", 
         "nsongs": 8.0, 
         "nrated": 8.0
-    }, 
-    {
-        "album": "Power Of Inner Strength", 
-        "rating": 7.9, 
-        "genres": [
-            "Metal", 
-            "Groove"
-        ], 
-        "stddev": 1.36711374801075, 
-        "artist": "Grip Inc.", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
     }, 
     {
         "album": "Killing Technology", 
@@ -15489,19 +15409,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "One Foot In Hell", 
-        "rating": 8.125, 
-        "genres": [
-            "Metal", 
-            "Traditional"
-        ], 
-        "stddev": 1.052341140030171, 
-        "artist": "Cirith Ungol", 
-        "codec": "flac", 
-        "nsongs": 8.0, 
-        "nrated": 8.0
-    }, 
-    {
         "album": "Bad Reputation (2011 Remaster)", 
         "rating": 8.444444444444445, 
         "genres": [
@@ -16115,32 +16022,6 @@
         "codec": "flac", 
         "nsongs": 16.0, 
         "nrated": 16.0
-    }, 
-    {
-        "album": "Heyday", 
-        "rating": 7.8, 
-        "genres": [
-            "Rock", 
-            "Alternative"
-        ], 
-        "stddev": 1.384196517839862, 
-        "artist": "The Church", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
-        "album": "Starfish", 
-        "rating": 8.4, 
-        "genres": [
-            "Rock", 
-            "Alternative"
-        ], 
-        "stddev": 1.5440207252495026, 
-        "artist": "The Church", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
     }, 
     {
         "album": "The Seeds Of Love", 
@@ -17823,22 +17704,6 @@
         "nrated": 14.0
     }, 
     {
-        "album": "Hearts", 
-        "rating": 8.3, 
-        "genres": [
-            "Alternative", 
-            "Electronic", 
-            "Electropop", 
-            "Pop", 
-            "Rock"
-        ], 
-        "stddev": 1.9289893727027116, 
-        "artist": "Awesome New Republic", 
-        "codec": "mp3", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Timeless Travellers", 
         "rating": 8.55, 
         "genres": [
@@ -18347,20 +18212,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Addicted To Music (CD1)", 
-        "rating": 7.833333333333333, 
-        "genres": [
-            "Electronic", 
-            "Trance", 
-            "Dance"
-        ], 
-        "stddev": 1.1536977587386217, 
-        "artist": "ATB", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
         "album": "Rory's World", 
         "rating": 8.375, 
         "genres": [
@@ -18670,35 +18521,6 @@
         "nrated": 11.0
     }, 
     {
-        "album": "Dedicated", 
-        "rating": 8.25, 
-        "genres": [
-            "Electronic", 
-            "Dance", 
-            "Progressive House", 
-            "Trance"
-        ], 
-        "stddev": 0.9213893494789992, 
-        "artist": "ATB", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
-        "album": "Dedicated CD2", 
-        "rating": 7.75, 
-        "genres": [
-            "Electronic", 
-            "Dance", 
-            "Eurodance"
-        ], 
-        "stddev": 1.7809758560968758, 
-        "artist": "ATB", 
-        "codec": "flac", 
-        "nsongs": 4.0, 
-        "nrated": 4.0
-    }, 
-    {
         "album": "Duran Duran (The Wedding Album]", 
         "rating": 8.0, 
         "genres": [
@@ -18888,21 +18710,6 @@
         "nrated": 7.0
     }, 
     {
-        "album": "Distant Earth (Deluxe Edition)", 
-        "rating": 7.708333333333333, 
-        "genres": [
-            "Electronic", 
-            "Dance", 
-            "EDM", 
-            "Pop"
-        ], 
-        "stddev": 1.096837573224512, 
-        "artist": "ATB", 
-        "codec": "flac", 
-        "nsongs": 24.0, 
-        "nrated": 24.0
-    }, 
-    {
         "album": "Fight Club OST", 
         "rating": 7.866666666666666, 
         "genres": [
@@ -19038,6 +18845,85 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
+    }, 
+    {
+        "album": "Formless", 
+        "rating": 8.5, 
+        "genres": [
+            "Electronic", 
+            "IDM"
+        ], 
+        "stddev": 1.0307764064044151, 
+        "artist": "Gridlock", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "We Are the '80s: Loverboy", 
+        "rating": 8.307692307692308, 
+        "genres": [
+            "Pop", 
+            "Rock", 
+            "AOR"
+        ], 
+        "stddev": 1.0624556538444232, 
+        "artist": "Loverboy", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "A Prayer To False Gods", 
+        "rating": 8.0, 
+        "genres": [
+            "Electronic", 
+            "Ambient"
+        ], 
+        "stddev": 1.4142135623730951, 
+        "artist": "bvdub", 
+        "codec": "flac", 
+        "nsongs": 5.0, 
+        "nrated": 5.0
+    }, 
+    {
+        "album": "Hardcastle 2", 
+        "rating": 7.833333333333333, 
+        "genres": [
+            "Jazz", 
+            "Smooth"
+        ], 
+        "stddev": 1.7233419299162334, 
+        "artist": "Paul Hardcastle", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Hardcastle 1", 
+        "rating": 8.153846153846153, 
+        "genres": [
+            "Jazz", 
+            "Smooth"
+        ], 
+        "stddev": 1.2396131952826979, 
+        "artist": "Paul Hardcastle", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "Hardcastle 3", 
+        "rating": 8.076923076923077, 
+        "genres": [
+            "Jazz", 
+            "Smooth"
+        ], 
+        "stddev": 1.1407541285453913, 
+        "artist": "Paul Hardcastle", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
     }, 
     {
         "album": "Mount Egonaut", 
@@ -21203,6 +21089,19 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
+    }, 
+    {
+        "album": "Freeze Frame Reality", 
+        "rating": 7.909090909090909, 
+        "genres": [
+            "Electronic", 
+            "Industrial"
+        ], 
+        "stddev": 1.0829600196717155, 
+        "artist": "Haujobb", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
     }, 
     {
         "album": "Rise Of The Hero", 
@@ -25526,19 +25425,6 @@
         "nrated": 8.0
     }, 
     {
-        "album": "Arabian Horse", 
-        "rating": 8.1, 
-        "genres": [
-            "Electronic", 
-            "EDM"
-        ], 
-        "stddev": 1.0339245620450266, 
-        "artist": "GusGus", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Unmasked [remastered]", 
         "rating": 7.909090909090909, 
         "genres": [
@@ -26688,6 +26574,59 @@
         "nrated": 13.0
     }, 
     {
+        "album": "For The Revolution", 
+        "rating": 8.222222222222221, 
+        "genres": [
+            "Metal", 
+            "Melodeath"
+        ], 
+        "stddev": 1.130691668331389, 
+        "artist": "Kalmah", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Forged By Fire", 
+        "rating": 8.3, 
+        "genres": [
+            "Metal", 
+            "Power"
+        ], 
+        "stddev": 1.1229425630903833, 
+        "artist": "Firewind", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Follow The Reaper", 
+        "rating": 8.6, 
+        "genres": [
+            "Metal", 
+            "Melodeath"
+        ], 
+        "stddev": 1.0601886624558856, 
+        "artist": "Children Of Bodom", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Money", 
+        "rating": 7.636363636363637, 
+        "genres": [
+            "Electronic", 
+            "Industrial", 
+            "Rock"
+        ], 
+        "stddev": 1.2938042264611425, 
+        "artist": "KMFDM", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
         "album": "Just Me", 
         "rating": 7.9, 
         "genres": [
@@ -26846,19 +26785,6 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "Mexico", 
-        "rating": 8.11111111111111, 
-        "genres": [
-            "Electronic", 
-            "EDM"
-        ], 
-        "stddev": 1.2064072203631353, 
-        "artist": "GusGus", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
     }, 
     {
         "album": "The Harrowed", 
@@ -27181,20 +27107,6 @@
         ], 
         "stddev": 1.479019945774904, 
         "artist": "Bvdub", 
-        "codec": "flac", 
-        "nsongs": 4.0, 
-        "nrated": 4.0
-    }, 
-    {
-        "album": "Lanterns", 
-        "rating": 8.0, 
-        "genres": [
-            "Electronic", 
-            "Dub", 
-            "Techno"
-        ], 
-        "stddev": 1.8708286933869707, 
-        "artist": "DeepChord", 
         "codec": "flac", 
         "nsongs": 4.0, 
         "nrated": 4.0
@@ -28094,20 +28006,6 @@
         ], 
         "stddev": 1.1441153787970861, 
         "artist": "The Conquistadors", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
-        "album": "dc13/dc14/dc16 [remastered]", 
-        "rating": 7.8, 
-        "genres": [
-            "Electronic", 
-            "Techno", 
-            "Dub"
-        ], 
-        "stddev": 0.997997995989972, 
-        "artist": "DeepChord", 
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
@@ -33800,21 +33698,6 @@
         "nrated": 7.0
     }, 
     {
-        "album": "Attention", 
-        "rating": 7.444444444444445, 
-        "genres": [
-            "Electronic", 
-            "Dance", 
-            "Electroclash", 
-            "Pop"
-        ], 
-        "stddev": 1.00137080256265, 
-        "artist": "GusGus", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
         "album": "The Shape", 
         "rating": 8.333333333333334, 
         "genres": [
@@ -34853,32 +34736,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Dystopia", 
-        "rating": 8.083333333333334, 
-        "genres": [
-            "Metal", 
-            "Traditional"
-        ], 
-        "stddev": 1.0372127000693663, 
-        "artist": "Iced Earth", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
-        "album": "Don't Keep Me Waiting", 
-        "rating": 7.916666666666667, 
-        "genres": [
-            "R&B", 
-            "Electronic"
-        ], 
-        "stddev": 1.0571077768382238, 
-        "artist": "Jaki Graham", 
-        "codec": "mp3", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
         "album": "Episode 91", 
         "rating": 7.857142857142857, 
         "genres": [
@@ -35012,18 +34869,6 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "Exorcism", 
-        "rating": 7.6, 
-        "genres": [
-            "Indie"
-        ], 
-        "stddev": 1.8022208521710095, 
-        "artist": "Killing Joke", 
-        "codec": "mp3", 
-        "nsongs": 5.0, 
-        "nrated": 5.0
     }, 
     {
         "album": "Faith", 
@@ -35269,5 +35114,153 @@
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
+    }, 
+    {
+        "album": "Gashed Senses & Crossfire", 
+        "rating": 7.3, 
+        "genres": [
+            "Electronic", 
+            "Industrial"
+        ], 
+        "stddev": 2.209298531208492, 
+        "artist": "Front Line Assembly", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Friendly Fires", 
+        "rating": 7.8, 
+        "genres": [
+            "Indie", 
+            "Pop", 
+            "Dance Punk"
+        ], 
+        "stddev": 1.3401492454200765, 
+        "artist": "Friendly Fires", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Freaks, Faggots, Drunks & Junkies", 
+        "rating": 8.526315789473685, 
+        "genres": [
+            "Punk"
+        ], 
+        "stddev": 1.3872558477062507, 
+        "artist": "GG Allin", 
+        "codec": "mp3", 
+        "nsongs": 19.0, 
+        "nrated": 19.0
+    }, 
+    {
+        "album": "Genesis (2007 Remix Remaster)", 
+        "rating": 8.444444444444445, 
+        "genres": [
+            "Pop", 
+            "Rock"
+        ], 
+        "stddev": 1.4496582067245134, 
+        "artist": "Genesis", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Freefloater", 
+        "rating": 8.11111111111111, 
+        "genres": [
+            "Electronic", 
+            "IDM", 
+            "Techno"
+        ], 
+        "stddev": 1.0993201540485797, 
+        "artist": "The Higher Intelligence Agency", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Forever Your Girl", 
+        "rating": 8.8, 
+        "genres": [
+            "Pop", 
+            "Dance"
+        ], 
+        "stddev": 1.1207140580897519, 
+        "artist": "Paula Abdul", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Hollow Bones", 
+        "rating": 8.0, 
+        "genres": [
+            "Rock", 
+            "Blues", 
+            "Hard"
+        ], 
+        "stddev": 1.0540925533894598, 
+        "artist": "Rival Sons", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Strength In Solitude LP", 
+        "rating": 8.5, 
+        "genres": [
+            "Electronic", 
+            "Techno", 
+            "Etherial", 
+            "Dub"
+        ], 
+        "stddev": 1.241638702145945, 
+        "artist": "bvdub", 
+        "codec": "flac", 
+        "nsongs": 6.0, 
+        "nrated": 6.0
+    }, 
+    {
+        "album": "Frailty", 
+        "rating": 8.5, 
+        "genres": [
+            "Metal", 
+            "Melodeath"
+        ], 
+        "stddev": 1.0606601717798212, 
+        "artist": "The Duskfall", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Grin & Bear It", 
+        "rating": 7.888888888888889, 
+        "genres": [
+            "Shred", 
+            "Rock", 
+            "Hair"
+        ], 
+        "stddev": 1.1961300194040843, 
+        "artist": "Impellitteri", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Hard Wired", 
+        "rating": 7.8, 
+        "genres": [
+            "Electronic", 
+            "Industrial"
+        ], 
+        "stddev": 1.3251415018781958, 
+        "artist": "Front Line Assembly", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
     }
 ]
