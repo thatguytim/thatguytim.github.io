@@ -5966,18 +5966,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Beauty Stab", 
-        "rating": 7.333333333333333, 
-        "genres": [
-            "Pop"
-        ], 
-        "stddev": 1.875771446237126, 
-        "artist": "ABC", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
         "album": "Peace Sells... But Who's Buying? (Remixed & Remastered Versions From 2004)", 
         "rating": 9.625, 
         "genres": [
@@ -12710,6 +12698,47 @@
         "nrated": 8.0
     }, 
     {
+        "album": "Into The Void", 
+        "rating": 8.545454545454545, 
+        "genres": [
+            "Electronic", 
+            "Drum & Bass", 
+            "Atmospheric", 
+            "Techstep"
+        ], 
+        "stddev": 0.9737347065488585, 
+        "artist": "Blame", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Hardcastle 5", 
+        "rating": 8.272727272727273, 
+        "genres": [
+            "Jazz", 
+            "Smooth"
+        ], 
+        "stddev": 1.132472677435969, 
+        "artist": "Paul Hardcastle", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Up", 
+        "rating": 8.0, 
+        "genres": [
+            "Pop", 
+            "Dance"
+        ], 
+        "stddev": 1.1952286093343936, 
+        "artist": "ABC", 
+        "codec": "flac", 
+        "nsongs": 7.0, 
+        "nrated": 7.0
+    }, 
+    {
         "album": "Prisma", 
         "rating": 8.0, 
         "genres": [
@@ -18926,6 +18955,19 @@
         "nrated": 13.0
     }, 
     {
+        "album": "Hell Is Here", 
+        "rating": 8.363636363636363, 
+        "genres": [
+            "Metal", 
+            "Death"
+        ], 
+        "stddev": 1.0929732537594452, 
+        "artist": "The Crown", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
         "album": "Mount Egonaut", 
         "rating": 8.3, 
         "genres": [
@@ -21036,19 +21078,6 @@
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
-    }, 
-    {
-        "album": "The Lexicon Of Love II", 
-        "rating": 7.7, 
-        "genres": [
-            "Pop", 
-            "Sophisti-Pop"
-        ], 
-        "stddev": 1.342013412749664, 
-        "artist": "ABC", 
-        "codec": "mp3", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
     }, 
     {
         "album": "Emotional Technology", 
@@ -26622,6 +26651,32 @@
         ], 
         "stddev": 1.2938042264611425, 
         "artist": "KMFDM", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Hate Crew Deathroll", 
+        "rating": 8.11111111111111, 
+        "genres": [
+            "Metal", 
+            "Melodeath"
+        ], 
+        "stddev": 0.9931176057623643, 
+        "artist": "Children Of Bodom", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Horror Show", 
+        "rating": 8.0, 
+        "genres": [
+            "Metal", 
+            "Traditional"
+        ], 
+        "stddev": 0.9534625892455924, 
+        "artist": "Iced Earth", 
         "codec": "flac", 
         "nsongs": 11.0, 
         "nrated": 11.0
@@ -32521,18 +32576,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "How To Be A Zillionaire", 
-        "rating": 7.6, 
-        "genres": [
-            "Pop"
-        ], 
-        "stddev": 2.131666015115876, 
-        "artist": "ABC", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Save Yourself", 
         "rating": 8.25, 
         "genres": [
@@ -35262,5 +35305,19 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
+    }, 
+    {
+        "album": "Hotel Summerville", 
+        "rating": 8.333333333333334, 
+        "genres": [
+            "Electronic", 
+            "Progressive House", 
+            "EDM"
+        ], 
+        "stddev": 1.1979921473804345, 
+        "artist": "Dinka", 
+        "codec": "mp3", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
     }
 ]
