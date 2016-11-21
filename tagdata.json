@@ -1297,19 +1297,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Demanufacture (Digipak)", 
-        "rating": 8.266666666666667, 
-        "genres": [
-            "Metal", 
-            "Cyber"
-        ], 
-        "stddev": 1.1213748175705933, 
-        "artist": "Fear Factory", 
-        "codec": "flac", 
-        "nsongs": 15.0, 
-        "nrated": 15.0
-    }, 
-    {
         "album": "Stranger To Stranger", 
         "rating": 8.2, 
         "genres": [
@@ -5286,6 +5273,20 @@
         "nrated": 10.0
     }, 
     {
+        "album": "Landscapes", 
+        "rating": 8.444444444444445, 
+        "genres": [
+            "Electronic", 
+            "Drum & Bass", 
+            "Atmospheric"
+        ], 
+        "stddev": 1.4151831981142817, 
+        "artist": "Ethereal 77", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
         "album": "Broken Crown Halo", 
         "rating": 7.909090909090909, 
         "genres": [
@@ -5481,7 +5482,7 @@
         "genres": [
             "Rock"
         ], 
-        "stddev": 1.3033505916822485, 
+        "stddev": 1.3284722305407086, 
         "artist": "ZZ Top", 
         "codec": "flac", 
         "nsongs": 11.0, 
@@ -10270,19 +10271,6 @@
         "nrated": 9.0
     }, 
     {
-        "album": "Archetype", 
-        "rating": 8.307692307692308, 
-        "genres": [
-            "Metal", 
-            "Cyber"
-        ], 
-        "stddev": 0.9874035965803584, 
-        "artist": "Fear Factory", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
-    }, 
-    {
         "album": "Danse Macabre", 
         "rating": 7.777777777777778, 
         "genres": [
@@ -11581,16 +11569,44 @@
         "nrated": 15.0
     }, 
     {
-        "album": "At Worst...The Best Of Boy George And Culture Club", 
-        "rating": 8.666666666666666, 
+        "album": "Ultra Beatdown", 
+        "rating": 8.375, 
         "genres": [
-            "Pop"
+            "Metal", 
+            "Shred", 
+            "Power"
         ], 
-        "stddev": 1.706921277304135, 
-        "artist": "Culture Club", 
+        "stddev": 1.2492185057066678, 
+        "artist": "DragonForce", 
         "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Radio", 
+        "rating": 7.6, 
+        "genres": [
+            "Electronic", 
+            "Trance"
+        ], 
+        "stddev": 1.7389652095427326, 
+        "artist": "Max Graham", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Machine Bites", 
+        "rating": 8.5, 
+        "genres": [
+            "Electronic", 
+            "Industrial"
+        ], 
+        "stddev": 1.181453906563152, 
+        "artist": "The Fair Sex", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
     }, 
     {
         "album": "Prisma", 
@@ -12056,13 +12072,13 @@
     }, 
     {
         "album": "Greatest Lovesongs Vol. 666", 
-        "rating": 8.444444444444445, 
+        "rating": 8.333333333333334, 
         "genres": [
             "Rock", 
             "Gothic", 
             "Suomi"
         ], 
-        "stddev": 1.4916318937483164, 
+        "stddev": 1.486565351139961, 
         "artist": "HIM", 
         "codec": "flac", 
         "nsongs": 9.0, 
@@ -13460,19 +13476,6 @@
         "nrated": 9.0
     }, 
     {
-        "album": "Fallen", 
-        "rating": 8.2, 
-        "genres": [
-            "Metal", 
-            "Gothic"
-        ], 
-        "stddev": 1.0751744044572487, 
-        "artist": "For My Pain", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "The Number of The Beast", 
         "rating": 9.75, 
         "genres": [
@@ -13900,19 +13903,6 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "Changing Lanes", 
-        "rating": 8.0, 
-        "genres": [
-            "Electronic", 
-            "Trance"
-        ], 
-        "stddev": 0.9128709291752769, 
-        "artist": "First State", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
     }, 
     {
         "album": "Ephemeral", 
@@ -17801,6 +17791,20 @@
         "nrated": 9.0
     }, 
     {
+        "album": "Valley Of The Damned {2010 Remix & Remaster}", 
+        "rating": 8.25, 
+        "genres": [
+            "Metal", 
+            "Power", 
+            "Shred"
+        ], 
+        "stddev": 1.2960275845829825, 
+        "artist": "DragonForce", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
         "album": "Mount Egonaut", 
         "rating": 8.3, 
         "genres": [
@@ -17932,20 +17936,6 @@
         "stddev": 1.6733200530681511, 
         "artist": "Fax", 
         "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
-        "album": "Fraximal", 
-        "rating": 8.0, 
-        "genres": [
-            "Electronic", 
-            "Techno", 
-            "Minimal"
-        ], 
-        "stddev": 1.0954451150103321, 
-        "artist": "Ferenc", 
-        "codec": "mp3", 
         "nsongs": 10.0, 
         "nrated": 10.0
     }, 
@@ -19409,19 +19399,6 @@
         "codec": "flac", 
         "nsongs": 13.0, 
         "nrated": 12.0
-    }, 
-    {
-        "album": "Digimortal", 
-        "rating": 7.8, 
-        "genres": [
-            "Cyber", 
-            "Metal"
-        ], 
-        "stddev": 0.8310635755865295, 
-        "artist": "Fear Factory", 
-        "codec": "flac", 
-        "nsongs": 15.0, 
-        "nrated": 15.0
     }, 
     {
         "album": "Don't Look Back", 
@@ -26171,6 +26148,112 @@
         "nrated": 23.0
     }, 
     {
+        "album": "Syncopated City", 
+        "rating": 8.272727272727273, 
+        "genres": [
+            "Electronic", 
+            "Drum & Bass", 
+            "Liquid"
+        ], 
+        "stddev": 1.0491311563960013, 
+        "artist": "London Elektricity", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Monday Morning Apocalypse", 
+        "rating": 7.909090909090909, 
+        "genres": [
+            "Metal", 
+            "Progressive"
+        ], 
+        "stddev": 1.1638816890154877, 
+        "artist": "Evergrey", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "X", 
+        "rating": 7.5, 
+        "genres": [
+            "Electronic", 
+            "Synthpop", 
+            "House"
+        ], 
+        "stddev": 1.1937336386313322, 
+        "artist": "The Beloved", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "The Doors", 
+        "rating": 8.545454545454545, 
+        "genres": [
+            "Rock"
+        ], 
+        "stddev": 1.2943847982769725, 
+        "artist": "The Doors", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Rick Springfield's Greatest Hits", 
+        "rating": 8.833333333333334, 
+        "genres": [
+            "Pop", 
+            "Rock"
+        ], 
+        "stddev": 1.1044941862261688, 
+        "artist": "Rick Springfield", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Resurrection", 
+        "rating": 8.1, 
+        "genres": [
+            "Metal", 
+            "Power"
+        ], 
+        "stddev": 1.0530906893520613, 
+        "artist": "Galneryus", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Violet", 
+        "rating": 8.4, 
+        "genres": [
+            "Gothic", 
+            "Rock", 
+            "Synth Rock"
+        ], 
+        "stddev": 1.0119288512538813, 
+        "artist": "The Birthday Massacre", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Prisoners In Paradise", 
+        "rating": 8.0, 
+        "genres": [
+            "Rock", 
+            "Hair"
+        ], 
+        "stddev": 1.0, 
+        "artist": "Europe", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
         "album": "Dimension Hatross", 
         "rating": 8.25, 
         "genres": [
@@ -28854,20 +28937,6 @@
         "nrated": 11.0
     }, 
     {
-        "album": "Stereoform", 
-        "rating": 7.666666666666667, 
-        "genres": [
-            "Electronic", 
-            "House", 
-            "Tech-House"
-        ], 
-        "stddev": 1.811485987106023, 
-        "artist": "Forteba", 
-        "codec": "flac", 
-        "nsongs": 15.0, 
-        "nrated": 15.0
-    }, 
-    {
         "album": "From Beyond", 
         "rating": 8.2, 
         "genres": [
@@ -30654,19 +30723,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Rick Springfield's Greatest Hits", 
-        "rating": 8.833333333333334, 
-        "genres": [
-            "Pop", 
-            "Rock"
-        ], 
-        "stddev": 1.1044941862261688, 
-        "artist": "Rick Springfield", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
         "album": "Pseudo Echo", 
         "rating": 8.2, 
         "genres": [
@@ -30866,20 +30922,6 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "Genexus", 
-        "rating": 8.166666666666666, 
-        "genres": [
-            "Metal", 
-            "Groove", 
-            "Cyber"
-        ], 
-        "stddev": 1.0661022812441936, 
-        "artist": "Fear Factory", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
     }, 
     {
         "album": "Ready To Play", 
@@ -31555,35 +31597,6 @@
         "codec": "flac", 
         "nsongs": 7.0, 
         "nrated": 7.0
-    }, 
-    {
-        "album": "For Some Time Past", 
-        "rating": 7.916666666666667, 
-        "genres": [
-            "Tech-House", 
-            "Electronic", 
-            "House", 
-            "Deep"
-        ], 
-        "stddev": 1.4974901842255435, 
-        "artist": "Forteba", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
-        "album": "Fabula", 
-        "rating": 8.3125, 
-        "genres": [
-            "Electronic", 
-            "House", 
-            "Deep"
-        ], 
-        "stddev": 0.8418671120640121, 
-        "artist": "Forteba", 
-        "codec": "mp3", 
-        "nsongs": 16.0, 
-        "nrated": 16.0
     }, 
     {
         "album": "Burnt Offerings", 
@@ -36665,5 +36678,462 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
+    }, 
+    {
+        "album": "Sultans of Sin", 
+        "rating": 8.1, 
+        "genres": [
+            "Rock", 
+            "Hair", 
+            "NWOSSM"
+        ], 
+        "stddev": 1.0530906893520613, 
+        "artist": "Dynazty", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Zodiac", 
+        "rating": 7.75, 
+        "genres": [
+            "Indie", 
+            "Rock"
+        ], 
+        "stddev": 1.0077822185373186, 
+        "artist": "Electric Six", 
+        "codec": "mp3", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "I Shall Exterminate Everything Around Me That Restricts Me From Being The Master", 
+        "rating": 7.6875, 
+        "genres": [
+            "Indie", 
+            "Rock"
+        ], 
+        "stddev": 1.3071879108892492, 
+        "artist": "Electric Six", 
+        "codec": "flac", 
+        "nsongs": 16.0, 
+        "nrated": 16.0
+    }, 
+    {
+        "album": "Switzerland", 
+        "rating": 7.583333333333333, 
+        "genres": [
+            "Indie", 
+            "Rock"
+        ], 
+        "stddev": 1.0636567776969883, 
+        "artist": "Electric Six", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Improvised Electronic Device", 
+        "rating": 7.9, 
+        "genres": [
+            "Electronic", 
+            "Industrial", 
+            "Metal"
+        ], 
+        "stddev": 1.1264990013311151, 
+        "artist": "Front Line Assembly", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "In Search Of Truth", 
+        "rating": 8.0, 
+        "genres": [
+            "Metal", 
+            "Progressive"
+        ], 
+        "stddev": 1.118033988749895, 
+        "artist": "Evergrey", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "The Dark Discovery (Special Edition)", 
+        "rating": 7.909090909090909, 
+        "genres": [
+            "Metal", 
+            "Progressive"
+        ], 
+        "stddev": 0.8995365698908516, 
+        "artist": "Evergrey", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "The Inner Circle", 
+        "rating": 8.0, 
+        "genres": [
+            "Progressive", 
+            "Metal"
+        ], 
+        "stddev": 0.8944271909999159, 
+        "artist": "Evergrey", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Torn", 
+        "rating": 8.181818181818182, 
+        "genres": [
+            "Metal", 
+            "Progressive"
+        ], 
+        "stddev": 0.9343595660384892, 
+        "artist": "Evergrey", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Recreation Day", 
+        "rating": 7.818181818181818, 
+        "genres": [
+            "Metal", 
+            "Progressive"
+        ], 
+        "stddev": 0.9343595660384891, 
+        "artist": "Evergrey", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Solitude Dominance Tragedy", 
+        "rating": 8.333333333333334, 
+        "genres": [
+            "Metal", 
+            "Progressive"
+        ], 
+        "stddev": 1.0482201257840669, 
+        "artist": "Evergrey", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Wings Of Tomorrow", 
+        "rating": 8.1, 
+        "genres": [
+            "Rock", 
+            "Hair"
+        ], 
+        "stddev": 1.0435516278555652, 
+        "artist": "Europe", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "The Final Countdown", 
+        "rating": 8.7, 
+        "genres": [
+            "Rock", 
+            "Hair"
+        ], 
+        "stddev": 1.1666190466471904, 
+        "artist": "Europe", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "The Bravery", 
+        "rating": 8.090909090909092, 
+        "genres": [
+            "Rock", 
+            "Indie", 
+            "Post-Punk Revival"
+        ], 
+        "stddev": 0.9871450231700233, 
+        "artist": "The Bravery", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Pop! Remixed", 
+        "rating": 8.3, 
+        "genres": [
+            "Electronic", 
+            "Pop", 
+            "Synthpop"
+        ], 
+        "stddev": 1.0004998750624607, 
+        "artist": "Erasure", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Songs For A Dying World", 
+        "rating": 8.0, 
+        "genres": [
+            "Rock", 
+            "Melancholy", 
+            "Alternative Metal"
+        ], 
+        "stddev": 1.1832159566199232, 
+        "artist": "End Of Green", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Northern Lights", 
+        "rating": 8.2, 
+        "genres": [
+            "Electronic", 
+            "Trance"
+        ], 
+        "stddev": 0.9777525249264251, 
+        "artist": "Gareth Emery", 
+        "codec": "mp3", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "In Hatred's Flame", 
+        "rating": 8.181818181818182, 
+        "genres": [
+            "Metal", 
+            "Death", 
+            "Thrash"
+        ], 
+        "stddev": 0.9343595660384892, 
+        "artist": "Exmortus", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "At Worst...The Best Of Boy George And Culture Club", 
+        "rating": 8.666666666666666, 
+        "genres": [
+            "Pop"
+        ], 
+        "stddev": 1.6850834320114554, 
+        "artist": "Culture Club", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Shadow Hymns", 
+        "rating": 8.375, 
+        "genres": [
+            "Metal", 
+            "Doom", 
+            "Stoner Doom", 
+            "Rock"
+        ], 
+        "stddev": 1.1030851621701745, 
+        "artist": "Worshipper", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Infernal", 
+        "rating": 8.181818181818182, 
+        "genres": [
+            "Metal", 
+            "Death", 
+            "Melodeath"
+        ], 
+        "stddev": 0.9343595660384892, 
+        "artist": "Edge Of Sanity", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Purgatory Afterglow", 
+        "rating": 8.3, 
+        "genres": [
+            "Metal", 
+            "Melodeath", 
+            "Death"
+        ], 
+        "stddev": 1.183638458314024, 
+        "artist": "Edge Of Sanity", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Diabolica", 
+        "rating": 8.0, 
+        "genres": [
+            "Metal", 
+            "Power"
+        ], 
+        "stddev": 0.816496580927726, 
+        "artist": "Iron Mask", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Sons of Satan Praise the Lord", 
+        "rating": 7.851851851851852, 
+        "genres": [
+            "Metal", 
+            "Death & Roll"
+        ], 
+        "stddev": 0.969640245115905, 
+        "artist": "Entombed", 
+        "codec": "flac", 
+        "nsongs": 27.0, 
+        "nrated": 27.0
+    }, 
+    {
+        "album": "Wolverine Blues", 
+        "rating": 8.3, 
+        "genres": [
+            "Metal", 
+            "Death & Roll", 
+            "Death"
+        ], 
+        "stddev": 1.0959014554237982, 
+        "artist": "Entombed", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Morning Star", 
+        "rating": 8.166666666666666, 
+        "genres": [
+            "Metal", 
+            "Death"
+        ], 
+        "stddev": 1.0661022812441934, 
+        "artist": "Entombed", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Hollowman", 
+        "rating": 8.0, 
+        "genres": [
+            "Metal", 
+            "Death & Roll", 
+            "Death"
+        ], 
+        "stddev": 1.4142135623730951, 
+        "artist": "Entombed", 
+        "codec": "flac", 
+        "nsongs": 7.0, 
+        "nrated": 7.0
+    }, 
+    {
+        "album": "Unreal Estate", 
+        "rating": 8.375, 
+        "genres": [
+            "Metal", 
+            "Death & Roll"
+        ], 
+        "stddev": 1.3102659558272893, 
+        "artist": "Entombed", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Don't Say You Know", 
+        "rating": 8.166666666666666, 
+        "genres": [
+            "Electronic", 
+            "Etherial", 
+            "Ambient", 
+            "Dub"
+        ], 
+        "stddev": 1.3419858143534622, 
+        "artist": "bvdub", 
+        "codec": "flac", 
+        "nsongs": 6.0, 
+        "nrated": 6.0
+    }, 
+    {
+        "album": "Tribes At The Temple Of Silence", 
+        "rating": 8.142857142857142, 
+        "genres": [
+            "Electronic", 
+            "Etherial", 
+            "Ambient"
+        ], 
+        "stddev": 1.2442286591572393, 
+        "artist": "bvdub", 
+        "codec": "flac", 
+        "nsongs": 7.0, 
+        "nrated": 7.0
+    }, 
+    {
+        "album": "Very Best Of The Doobie Brothers - Disc 2 of 2", 
+        "rating": 8.176470588235293, 
+        "genres": [
+            "Rock", 
+            "Pop", 
+            "Yacht"
+        ], 
+        "stddev": 1.6527952502419865, 
+        "artist": "The Doobie Brothers", 
+        "codec": "flac", 
+        "nsongs": 17.0, 
+        "nrated": 17.0
+    }, 
+    {
+        "album": "Very Best Of The Doobie Brothers - Disc 1 of 2", 
+        "rating": 8.5625, 
+        "genres": [
+            "Rock"
+        ], 
+        "stddev": 1.1691635297831522, 
+        "artist": "The Doobie Brothers", 
+        "codec": "flac", 
+        "nsongs": 16.0, 
+        "nrated": 16.0
+    }, 
+    {
+        "album": "Prays", 
+        "rating": 8.166666666666666, 
+        "genres": [
+            "Electronic", 
+            "IDM", 
+            "Glitch"
+        ], 
+        "stddev": 0.9988419220202888, 
+        "artist": "Fugenn & The White Elephants", 
+        "codec": "mp3", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "The Greatest Hits Of All (Remastered)", 
+        "rating": 9.454545454545455, 
+        "genres": [
+            "Pop", 
+            "Jazz"
+        ], 
+        "stddev": 1.0233928045754472, 
+        "artist": "George Benson", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
     }
 ]
