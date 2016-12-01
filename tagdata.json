@@ -4004,19 +4004,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Different", 
-        "rating": 7.4, 
-        "genres": [
-            "Electronic", 
-            "House"
-        ], 
-        "stddev": 1.234503948960877, 
-        "artist": "Jori Hulkkonen", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Light From Above", 
         "rating": 8.272727272727273, 
         "genres": [
@@ -5501,20 +5488,6 @@
         "nrated": 7.0
     }, 
     {
-        "album": "Polyphony", 
-        "rating": 8.384615384615385, 
-        "genres": [
-            "Electronic", 
-            "Drum & Bass", 
-            "Liquid"
-        ], 
-        "stddev": 0.9486113272354009, 
-        "artist": "Logistics", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
-    }, 
-    {
         "album": "Interceptor", 
         "rating": 8.166666666666666, 
         "genres": [
@@ -6119,19 +6092,6 @@
         "codec": "flac", 
         "nsongs": 8.0, 
         "nrated": 7.0
-    }, 
-    {
-        "album": "Crash Bang Wallop!", 
-        "rating": 8.384615384615385, 
-        "genres": [
-            "Electronic", 
-            "Drum & Bass"
-        ], 
-        "stddev": 1.2066799359858387, 
-        "artist": "Logistics", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
     }, 
     {
         "album": "Blacklight", 
@@ -7692,19 +7652,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Solo In Soho", 
-        "rating": 8.1, 
-        "genres": [
-            "Rock", 
-            "Pop"
-        ], 
-        "stddev": 1.1353413583587977, 
-        "artist": "Philip Lynott", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
         "album": "Endtroducing...", 
         "rating": 8.9, 
         "genres": [
@@ -8903,19 +8850,6 @@
         "nrated": 15.0
     }, 
     {
-        "album": "Wintermetal", 
-        "rating": 7.888888888888889, 
-        "genres": [
-            "Metal", 
-            "Melodeath"
-        ], 
-        "stddev": 1.0054719970739425, 
-        "artist": "Immortal Souls", 
-        "codec": "flac", 
-        "nsongs": 10.0, 
-        "nrated": 9.0
-    }, 
-    {
         "album": "Internal Affairs", 
         "rating": 8.083333333333334, 
         "genres": [
@@ -9224,19 +9158,6 @@
         "stddev": 1.3251415018781956, 
         "artist": "The Dicemen", 
         "codec": "mp3", 
-        "nsongs": 10.0, 
-        "nrated": 10.0
-    }, 
-    {
-        "album": "Soulburner", 
-        "rating": 8.3, 
-        "genres": [
-            "Metal", 
-            "Melodeath"
-        ], 
-        "stddev": 1.0004998750624607, 
-        "artist": "Gardenian", 
-        "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
     }, 
@@ -10628,19 +10549,6 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "Big Money", 
-        "rating": 8.083333333333334, 
-        "genres": [
-            "Rock", 
-            "Hard"
-        ], 
-        "stddev": 1.0372127000693663, 
-        "artist": "House Of Lords", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
     }, 
     {
         "album": "Burning Earth", 
@@ -13007,21 +12915,6 @@
         "nrated": 12.0
     }, 
     {
-        "album": "Ninetynine", 
-        "rating": 8.666666666666666, 
-        "genres": [
-            "Electronic", 
-            "Techno", 
-            "Minimal", 
-            "IDM"
-        ], 
-        "stddev": 1.2272623352430287, 
-        "artist": "Haujobb", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
         "album": "Socialized Hate", 
         "rating": 8.4, 
         "genres": [
@@ -14638,19 +14531,6 @@
         ], 
         "stddev": 1.2386054733120302, 
         "artist": "The Darkness", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
-        "album": "Cartesian Dreams", 
-        "rating": 7.166666666666667, 
-        "genres": [
-            "Rock", 
-            "Hair"
-        ], 
-        "stddev": 1.4711736307628178, 
-        "artist": "House Of Lords", 
         "codec": "flac", 
         "nsongs": 12.0, 
         "nrated": 12.0
@@ -16892,19 +16772,6 @@
         "nrated": 13.0
     }, 
     {
-        "album": "Man From Earth", 
-        "rating": 8.25, 
-        "genres": [
-            "Electronic", 
-            "Electro"
-        ], 
-        "stddev": 1.087332362558324, 
-        "artist": "Jori Hulkkonen", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
         "album": "Scandinavian Sunday", 
         "rating": 8.227272727272727, 
         "genres": [
@@ -17669,19 +17536,6 @@
         "codec": "flac", 
         "nsongs": 10.0, 
         "nrated": 10.0
-    }, 
-    {
-        "album": "Indestructible", 
-        "rating": 7.909090909090909, 
-        "genres": [
-            "Rock", 
-            "Hard"
-        ], 
-        "stddev": 1.0119496398679384, 
-        "artist": "House Of Lords", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
     }, 
     {
         "album": "On Divine Winds", 
@@ -19484,19 +19338,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Freeze Frame Reality", 
-        "rating": 7.909090909090909, 
-        "genres": [
-            "Electronic", 
-            "Industrial"
-        ], 
-        "stddev": 1.0829600196717155, 
-        "artist": "Haujobb", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
         "album": "20th Century", 
         "rating": 8.4, 
         "genres": [
@@ -19961,6 +19802,33 @@
         "codec": "flac", 
         "nsongs": 11.0, 
         "nrated": 11.0
+    }, 
+    {
+        "album": "Today", 
+        "rating": 8.222222222222221, 
+        "genres": [
+            "Electronic", 
+            "Progressive House"
+        ], 
+        "stddev": 1.245017504738638, 
+        "artist": "Junkie XL", 
+        "codec": "flac", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "Yours Are Stories Of Sadness", 
+        "rating": 8.105263157894736, 
+        "genres": [
+            "Electronic", 
+            "Etherial", 
+            "Ambient"
+        ], 
+        "stddev": 0.7173926969754519, 
+        "artist": "bvdub", 
+        "codec": "flac", 
+        "nsongs": 19.0, 
+        "nrated": 19.0
     }, 
     {
         "album": "Rise Of The Hero", 
@@ -21779,19 +21647,6 @@
         "codec": "flac", 
         "nsongs": 11.0, 
         "nrated": 11.0
-    }, 
-    {
-        "album": "Precious Metal", 
-        "rating": 8.083333333333334, 
-        "genres": [
-            "Rock", 
-            "Hair"
-        ], 
-        "stddev": 0.9607457558622924, 
-        "artist": "House Of Lords", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
     }, 
     {
         "album": "Clayman", 
@@ -23633,20 +23488,6 @@
         "nrated": 11.0
     }, 
     {
-        "album": "Blendwerk", 
-        "rating": 6.909090909090909, 
-        "genres": [
-            "Electronic", 
-            "Industrial", 
-            "EBM"
-        ], 
-        "stddev": 1.9088941260249748, 
-        "artist": "Haujobb", 
-        "codec": "flac", 
-        "nsongs": 11.0, 
-        "nrated": 11.0
-    }, 
-    {
         "album": "Tyr", 
         "rating": 8.625, 
         "genres": [
@@ -24160,19 +24001,6 @@
         "nrated": 17.0
     }, 
     {
-        "album": "Polarity", 
-        "rating": 8.444444444444445, 
-        "genres": [
-            "Electronic", 
-            "Industrial"
-        ], 
-        "stddev": 1.1978490095404617, 
-        "artist": "Haujobb", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
         "album": "Coverdale & Page", 
         "rating": 8.272727272727273, 
         "genres": [
@@ -24331,20 +24159,6 @@
         "codec": "flac", 
         "nsongs": 12.0, 
         "nrated": 11.0
-    }, 
-    {
-        "album": "Electric Sun", 
-        "rating": 7.714285714285714, 
-        "genres": [
-            "Electronic", 
-            "Drum & Bass", 
-            "Liquid"
-        ], 
-        "stddev": 1.2754693871020197, 
-        "artist": "Logistics", 
-        "codec": "flac", 
-        "nsongs": 14.0, 
-        "nrated": 14.0
     }, 
     {
         "album": "Chronostrings", 
@@ -25494,20 +25308,6 @@
         "nrated": 13.0
     }, 
     {
-        "album": "Deep Inside", 
-        "rating": 8.222222222222221, 
-        "genres": [
-            "Electronic", 
-            "House", 
-            "Deep"
-        ], 
-        "stddev": 1.331274130045291, 
-        "artist": "Mikael Delta", 
-        "codec": "flac", 
-        "nsongs": 9.0, 
-        "nrated": 9.0
-    }, 
-    {
         "album": "Modern Thrills", 
         "rating": 8.545454545454545, 
         "genres": [
@@ -26249,6 +26049,184 @@
         ], 
         "stddev": 1.0, 
         "artist": "Europe", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Wish", 
+        "rating": 8.083333333333334, 
+        "genres": [
+            "Rock", 
+            "Gothic", 
+            "Alternative"
+        ], 
+        "stddev": 0.95349017746305, 
+        "artist": "The Cure", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "The Flag Of Punishment", 
+        "rating": 8.0, 
+        "genres": [
+            "Metal", 
+            "Power"
+        ], 
+        "stddev": 1.1832159566199232, 
+        "artist": "Galneryus", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "The Northern Sanctuary CD 2 (Full Range Mix)", 
+        "rating": 8.625, 
+        "genres": [
+            "Metal", 
+            "Melodeath", 
+            "Progressive"
+        ], 
+        "stddev": 1.1583595620531648, 
+        "artist": "Witherscape", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Phaze Two", 
+        "rating": 8.0, 
+        "genres": [
+            "Electronic", 
+            "Techno"
+        ], 
+        "stddev": 0.9534625892455924, 
+        "artist": "Intermix", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Babylon A.D.", 
+        "rating": 8.2, 
+        "genres": [
+            "Rock", 
+            "Hair"
+        ], 
+        "stddev": 1.0751744044572487, 
+        "artist": "Babylon A.D.", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Life", 
+        "rating": 8.9, 
+        "genres": [
+            "Electronic", 
+            "Tech-House", 
+            "House", 
+            "Techno"
+        ], 
+        "stddev": 1.1785584414868868, 
+        "artist": "G-Pal", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Iced Earth", 
+        "rating": 8.428571428571429, 
+        "genres": [
+            "Metal", 
+            "Power", 
+            "Thrash"
+        ], 
+        "stddev": 1.1668401925651273, 
+        "artist": "Iced Earth", 
+        "codec": "flac", 
+        "nsongs": 7.0, 
+        "nrated": 7.0
+    }, 
+    {
+        "album": "Something Wicked This Way Comes", 
+        "rating": 8.153846153846153, 
+        "genres": [
+            "Metal", 
+            "Traditional", 
+            "Power"
+        ], 
+        "stddev": 0.9474110087396652, 
+        "artist": "Iced Earth", 
+        "codec": "flac", 
+        "nsongs": 13.0, 
+        "nrated": 13.0
+    }, 
+    {
+        "album": "Tribute To The Gods", 
+        "rating": 8.909090909090908, 
+        "genres": [
+            "Metal", 
+            "Traditional", 
+            "Rock", 
+            "Hard"
+        ], 
+        "stddev": 1.1167732847344705, 
+        "artist": "Iced Earth", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "The Dark Saga", 
+        "rating": 7.9, 
+        "genres": [
+            "Metal", 
+            "Power"
+        ], 
+        "stddev": 0.8420213774008353, 
+        "artist": "Iced Earth", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Night Of The Stormrider", 
+        "rating": 8.571428571428571, 
+        "genres": [
+            "Metal", 
+            "Power", 
+            "Thrash"
+        ], 
+        "stddev": 1.2265289143932019, 
+        "artist": "Iced Earth", 
+        "codec": "flac", 
+        "nsongs": 7.0, 
+        "nrated": 7.0
+    }, 
+    {
+        "album": "The Synthetic Form", 
+        "rating": 8.0, 
+        "genres": [
+            "Electronic", 
+            "Industrial"
+        ], 
+        "stddev": 0.9660917830792959, 
+        "artist": "Gridlock", 
+        "codec": "flac", 
+        "nsongs": 15.0, 
+        "nrated": 15.0
+    }, 
+    {
+        "album": "Trace", 
+        "rating": 8.083333333333334, 
+        "genres": [
+            "Electronic", 
+            "IDM"
+        ], 
+        "stddev": 0.95349017746305, 
+        "artist": "Gridlock", 
         "codec": "flac", 
         "nsongs": 12.0, 
         "nrated": 12.0
@@ -31913,19 +31891,6 @@
         "nrated": 10.0
     }, 
     {
-        "album": "Come To My Kingdom", 
-        "rating": 7.916666666666667, 
-        "genres": [
-            "Rock", 
-            "AOR"
-        ], 
-        "stddev": 1.1870735101578664, 
-        "artist": "House Of Lords", 
-        "codec": "flac", 
-        "nsongs": 12.0, 
-        "nrated": 12.0
-    }, 
-    {
         "album": "Colony", 
         "rating": 8.4, 
         "genres": [
@@ -32753,19 +32718,6 @@
         "codec": "flac", 
         "nsongs": 9.0, 
         "nrated": 9.0
-    }, 
-    {
-        "album": "Fear Not", 
-        "rating": 7.769230769230769, 
-        "genres": [
-            "Electronic", 
-            "Drum & Bass"
-        ], 
-        "stddev": 1.047136677208652, 
-        "artist": "Logistics", 
-        "codec": "flac", 
-        "nsongs": 13.0, 
-        "nrated": 13.0
     }, 
     {
         "album": "Fancy Footwork (Fancier Edition Disc 1)", 
@@ -37135,5 +37087,151 @@
         "codec": "flac", 
         "nsongs": 11.0, 
         "nrated": 11.0
+    }, 
+    {
+        "album": "You Play Hard", 
+        "rating": 8.0, 
+        "genres": [
+            "Metal", 
+            "Shred"
+        ], 
+        "stddev": 0.8944271909999159, 
+        "artist": "Syu", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "Tales From The Grave in Space", 
+        "rating": 8.0, 
+        "genres": [
+            "Metal", 
+            "Thrash"
+        ], 
+        "stddev": 0.816496580927726, 
+        "artist": "Gama Bomb", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "Survival Of The Fastest", 
+        "rating": 8.25, 
+        "genres": [
+            "Metal", 
+            "Thrash"
+        ], 
+        "stddev": 1.087332362558324, 
+        "artist": "Gama Bomb", 
+        "codec": "flac", 
+        "nsongs": 12.0, 
+        "nrated": 12.0
+    }, 
+    {
+        "album": "This", 
+        "rating": 8.75, 
+        "genres": [
+            "Electronic", 
+            "IDM"
+        ], 
+        "stddev": 1.595893166850463, 
+        "artist": "Gescom", 
+        "codec": "flac", 
+        "nsongs": 4.0, 
+        "nrated": 4.0
+    }, 
+    {
+        "album": "Single Ticket To Paradise", 
+        "rating": 8.0, 
+        "genres": [
+            "Metal", 
+            "Melodeath"
+        ], 
+        "stddev": 1.3228756555322954, 
+        "artist": "Hearse", 
+        "codec": "mp3", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "In These Veins", 
+        "rating": 8.222222222222221, 
+        "genres": [
+            "Metal", 
+            "Melodeath"
+        ], 
+        "stddev": 1.0277360685564156, 
+        "artist": "Hearse", 
+        "codec": "mp3", 
+        "nsongs": 9.0, 
+        "nrated": 9.0
+    }, 
+    {
+        "album": "The Ironhearted Flag Vol. 1 : Regeneration Side", 
+        "rating": 8.3, 
+        "genres": [
+            "Metal", 
+            "Power"
+        ], 
+        "stddev": 1.030048542545447, 
+        "artist": "Galneryus", 
+        "codec": "flac", 
+        "nsongs": 10.0, 
+        "nrated": 10.0
+    }, 
+    {
+        "album": "The Northern Sanctuary", 
+        "rating": 8.625, 
+        "genres": [
+            "Metal", 
+            "Melodeath", 
+            "Progressive"
+        ], 
+        "stddev": 1.0888282118865216, 
+        "artist": "Witherscape", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "Swrmxs", 
+        "rating": 8.363636363636363, 
+        "genres": [
+            "Electronic", 
+            "EDM"
+        ], 
+        "stddev": 1.0929732537594452, 
+        "artist": "HIM", 
+        "codec": "flac", 
+        "nsongs": 11.0, 
+        "nrated": 11.0
+    }, 
+    {
+        "album": "Venus Doom", 
+        "rating": 7.75, 
+        "genres": [
+            "Rock", 
+            "Gothic", 
+            "Suomi"
+        ], 
+        "stddev": 1.2468710839537502, 
+        "artist": "HIM", 
+        "codec": "flac", 
+        "nsongs": 8.0, 
+        "nrated": 8.0
+    }, 
+    {
+        "album": "The Lost Album", 
+        "rating": 8.5, 
+        "genres": [
+            "Electronic", 
+            "Etherial", 
+            "Breakbeat"
+        ], 
+        "stddev": 1.241638702145945, 
+        "artist": "East Of Oceans", 
+        "codec": "flac", 
+        "nsongs": 6.0, 
+        "nrated": 6.0
     }
 ]
