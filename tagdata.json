@@ -18909,34 +18909,6 @@
         "nrated": 12.0
     }, 
     {
-        "album": "Four Fit (The Singles Collection Part II)", 
-        "rating": 9.833333333333334, 
-        "genres": [
-            "Electronic", 
-            "Industrial", 
-            "EBM"
-        ], 
-        "stddev": 1.3419858143534622, 
-        "artist": "X Marks The Pedwalk", 
-        "codec": "flac", 
-        "nsongs": 6.0, 
-        "nrated": 6.0
-    }, 
-    {
-        "album": "The Sun The Cold And My Underwater Fear", 
-        "rating": 9.2, 
-        "genres": [
-            "Electronic", 
-            "Industrial", 
-            "Dance"
-        ], 
-        "stddev": 1.3971399357258383, 
-        "artist": "X Marks The Pedwalk", 
-        "codec": "flac", 
-        "nsongs": 5.0, 
-        "nrated": 5.0
-    }, 
-    {
         "album": "Rise Of The Hero", 
         "rating": 8.363636363636363, 
         "genres": [
@@ -36799,18 +36771,5 @@
         "codec": "flac", 
         "nsongs": 8.0, 
         "nrated": 8.0
-    }, 
-    {
-        "album": "The Great Radio Controversy", 
-        "rating": 9.0, 
-        "genres": [
-            "Rock", 
-            "Hair"
-        ], 
-        "stddev": 1.1338934190276817, 
-        "artist": "Tesla", 
-        "codec": "flac", 
-        "nsongs": 7.0, 
-        "nrated": 7.0
     }
 ]
